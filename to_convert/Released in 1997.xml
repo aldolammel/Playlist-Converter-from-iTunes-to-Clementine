@@ -1,0 +1,501 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2025-05-30T21:39:33Z</date>
+	<key>Application Version</key><string>12.13.7.1</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/E:/Users/aldol/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>187AD5E35C5E82C1</string>
+	<key>Tracks</key>
+	<dict>
+		<key>4594</key>
+		<dict>
+			<key>Track ID</key><integer>4594</integer>
+			<key>Name</key><string>Song 2</string>
+			<key>Artist</key><string>Blur</string>
+			<key>Album Artist</key><string>Blur</string>
+			<key>Composer</key><string>Alex James/Damon Albarn/Dave Rowntree/Graham Coxon</string>
+			<key>Album</key><string>Blur</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2928812</integer>
+			<key>Total Time</key><integer>121469</integer>
+			<key>Track Number</key><integer>32</integer>
+			<key>Year</key><integer>1997</integer>
+			<key>Date Modified</key><date>2025-05-30T19:55:28Z</date>
+			<key>Date Added</key><date>2025-05-22T23:56:35Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>93</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3711790042</integer>
+			<key>Play Date UTC</key><date>2021-08-14T15:47:22Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2024-01-24T18:50:52Z</date>
+			<key>Normalization</key><integer>5870</integer>
+			<key>Persistent ID</key><string>EBDC855440855008</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/blur%20-%201997%20-%20Song%202.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>5576</key>
+		<dict>
+			<key>Track ID</key><integer>5576</integer>
+			<key>Name</key><string>Gimme o Anel</string>
+			<key>Artist</key><string>Charlie Brown Jr.</string>
+			<key>Album</key><string>Transpiração Contínua Prolongada</string>
+			<key>Genre</key><string>Brazilian Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4277253</integer>
+			<key>Total Time</key><integer>170057</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>1997</integer>
+			<key>Date Modified</key><date>2025-05-30T19:55:29Z</date>
+			<key>Date Added</key><date>2025-05-22T23:57:36Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>100</integer>
+			<key>Normalization</key><integer>9186</integer>
+			<key>Artwork Count</key><integer>2</integer>
+			<key>Persistent ID</key><string>93D40A51C3721C9D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Charlie%20Brown%20Jr.%20-%20(1997)%20Transpira%C3%A7%C3%A3o%20Cont%C3%ADnua%20Prolongada%20-%20Gimme%20O%20Ane.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>7182</key>
+		<dict>
+			<key>Track ID</key><integer>7182</integer>
+			<key>Name</key><string>Be quiet and drive (far away)</string>
+			<key>Artist</key><string>Deftones</string>
+			<key>Album</key><string>Around the fur</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7437622</integer>
+			<key>Total Time</key><integer>308062</integer>
+			<key>Year</key><integer>1997</integer>
+			<key>Date Modified</key><date>2025-05-30T19:55:30Z</date>
+			<key>Date Added</key><date>2025-05-22T23:59:05Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>15</integer>
+			<key>Play Date</key><integer>3778052876</integer>
+			<key>Play Date UTC</key><date>2023-09-20T14:07:56Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2020-06-14T18:10:24Z</date>
+			<key>Normalization</key><integer>11661</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B65B98186E2EC14B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Deftones%20-%20(1997)%20Around%20the%20fur%20-%20Be%20quiet%20and%20drive%20(far)%20.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>7386</key>
+		<dict>
+			<key>Track ID</key><integer>7386</integer>
+			<key>Name</key><string>It's No Good</string>
+			<key>Artist</key><string>Depeche Mode</string>
+			<key>Album</key><string>Ultra</string>
+			<key>Genre</key><string>Synthpop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>14455701</integer>
+			<key>Total Time</key><integer>359392</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>1997</integer>
+			<key>Date Modified</key><date>2025-05-30T19:55:30Z</date>
+			<key>Date Added</key><date>2025-05-22T23:59:16Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>41</integer>
+			<key>Play Date</key><integer>3783276973</integer>
+			<key>Play Date UTC</key><date>2023-11-20T00:16:13Z</date>
+			<key>Skip Count</key><integer>6</integer>
+			<key>Skip Date</key><date>2024-01-24T19:01:34Z</date>
+			<key>Normalization</key><integer>3440</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6B7EE6FDC9407CA5</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Depeche%20Mode%20-%20(1997)%20Ultra%20-%20It's%20No%20Good.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>9006</key>
+		<dict>
+			<key>Track ID</key><integer>9006</integer>
+			<key>Name</key><string>Everlong</string>
+			<key>Artist</key><string>Foo Fighters</string>
+			<key>Album</key><string>The Colour And The Shape</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7230225</integer>
+			<key>Total Time</key><integer>250723</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Year</key><integer>1997</integer>
+			<key>Date Modified</key><date>2025-05-30T19:55:31Z</date>
+			<key>Date Added</key><date>2025-05-23T00:00:33Z</date>
+			<key>Bit Rate</key><integer>222</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>100</integer>
+			<key>Comments</key><string>ripped by murke</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3739642060</integer>
+			<key>Play Date UTC</key><date>2022-07-03T00:27:40Z</date>
+			<key>Normalization</key><integer>8145</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Colour And The Shape</string>
+			<key>Persistent ID</key><string>D5B5FC7B90DE7F89</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Foo%20Fighters%20-%20(1997)%20The%20colour%20and%20the%20shape%20-%20Everlong.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>9014</key>
+		<dict>
+			<key>Track ID</key><integer>9014</integer>
+			<key>Name</key><string>My Hero</string>
+			<key>Artist</key><string>Foo Fighters</string>
+			<key>Album</key><string>The Colour And The Shape</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6935448</integer>
+			<key>Total Time</key><integer>260048</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>1997</integer>
+			<key>Date Modified</key><date>2025-05-30T19:55:31Z</date>
+			<key>Date Added</key><date>2025-05-23T00:00:33Z</date>
+			<key>Bit Rate</key><integer>205</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>100</integer>
+			<key>Comments</key><string>ripped by murke</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3779041072</integer>
+			<key>Play Date UTC</key><date>2023-10-02T00:37:52Z</date>
+			<key>Normalization</key><integer>10235</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Colour And The Shape</string>
+			<key>Persistent ID</key><string>0FAB728E934296F9</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Foo%20Fighters%20-%20(1997)%20The%20colour%20and%20the%20shape%20-%20My%20Hero.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>12536</key>
+		<dict>
+			<key>Track ID</key><integer>12536</integer>
+			<key>Name</key><string>Ghost</string>
+			<key>Artist</key><string>Live</string>
+			<key>Composer</key><string>Ed Kowalczyk</string>
+			<key>Album</key><string>Secret Samadhi</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>6226941</integer>
+			<key>Total Time</key><integer>379800</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1997</integer>
+			<key>Date Modified</key><date>2025-05-30T19:55:39Z</date>
+			<key>Date Added</key><date>2025-05-23T00:03:42Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>153</integer>
+			<key>Play Count</key><integer>19</integer>
+			<key>Play Date</key><integer>3766762195</integer>
+			<key>Play Date UTC</key><date>2023-05-12T21:49:55Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2025-05-25T14:31:40Z</date>
+			<key>Normalization</key><integer>2717</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5CE0ED1E1267D9D9</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Live%20-%20(1997)%20Secret%20Samadhi%20-%20Ghost.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>12544</key>
+		<dict>
+			<key>Track ID</key><integer>12544</integer>
+			<key>Name</key><string>Lakini's Juice</string>
+			<key>Artist</key><string>Live</string>
+			<key>Composer</key><string>Ed Kowalczyk</string>
+			<key>Album</key><string>Secret Samadhi</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>4919467</integer>
+			<key>Total Time</key><integer>299266</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1997</integer>
+			<key>Date Modified</key><date>2025-05-30T19:55:39Z</date>
+			<key>Date Added</key><date>2025-05-23T00:03:42Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>150</integer>
+			<key>Play Count</key><integer>32</integer>
+			<key>Play Date</key><integer>3768152887</integer>
+			<key>Play Date UTC</key><date>2023-05-29T00:08:07Z</date>
+			<key>Skip Count</key><integer>9</integer>
+			<key>Skip Date</key><date>2025-05-25T14:31:51Z</date>
+			<key>Loved</key><true/>
+			<key>Normalization</key><integer>5226</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5F7B4D5236F06D3E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Live%20-%20(1997)%20Secret%20Samadhi%20-%20Lakini's%20Juice.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>13178</key>
+		<dict>
+			<key>Track ID</key><integer>13178</integer>
+			<key>Name</key><string>Fuel</string>
+			<key>Artist</key><string>Metallica</string>
+			<key>Album Artist</key><string>Metallica</string>
+			<key>Composer</key><string>James Hetfield/Kirk Hammett/Lars Ulrich</string>
+			<key>Album</key><string>Reload</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4964642</integer>
+			<key>Total Time</key><integer>269740</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>1997</integer>
+			<key>Date Modified</key><date>2025-05-30T19:55:43Z</date>
+			<key>Date Added</key><date>2025-05-23T00:04:14Z</date>
+			<key>Bit Rate</key><integer>145</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>97</integer>
+			<key>Play Count</key><integer>15</integer>
+			<key>Play Date</key><integer>3776949262</integer>
+			<key>Play Date UTC</key><date>2023-09-07T19:34:22Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2024-01-24T19:01:44Z</date>
+			<key>Normalization</key><integer>7709</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C1C051D71098F671</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Metallica%20-%20(1997)%20Reload%20-%20Fuel.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>13926</key>
+		<dict>
+			<key>Track ID</key><integer>13926</integer>
+			<key>Name</key><string>Torn (Ednaswap cover)</string>
+			<key>Artist</key><string>Natalie Imbruglia</string>
+			<key>Album</key><string>Torn</string>
+			<key>Genre</key><string>Pop-Folk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3958248</integer>
+			<key>Total Time</key><integer>247875</integer>
+			<key>Year</key><integer>1997</integer>
+			<key>Date Modified</key><date>2025-05-30T19:55:44Z</date>
+			<key>Date Added</key><date>2025-05-23T00:04:53Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3739648511</integer>
+			<key>Play Date UTC</key><date>2022-07-03T02:15:11Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2021-11-24T15:42:45Z</date>
+			<key>Normalization</key><integer>3816</integer>
+			<key>Persistent ID</key><string>B7D04A91160124E8</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Natalie%20Imbruglia%20-%20Torn.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>14968</key>
+		<dict>
+			<key>Track ID</key><integer>14968</integer>
+			<key>Name</key><string>Climbatize</string>
+			<key>Artist</key><string>The Prodigy</string>
+			<key>Album</key><string>The Fat of the Land</string>
+			<key>Genre</key><string>Techno</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>15995164</integer>
+			<key>Total Time</key><integer>397374</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Year</key><integer>1997</integer>
+			<key>Date Modified</key><date>2025-05-30T19:56:05Z</date>
+			<key>Date Added</key><date>2025-05-23T00:05:59Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>100</integer>
+			<key>Play Count</key><integer>15</integer>
+			<key>Play Date</key><integer>3768153483</integer>
+			<key>Play Date UTC</key><date>2023-05-29T00:18:03Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2023-05-13T19:19:21Z</date>
+			<key>Loved</key><true/>
+			<key>Normalization</key><integer>4014</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Fat of the Land</string>
+			<key>Sort Artist</key><string>Prodigy</string>
+			<key>Persistent ID</key><string>E7551905B2165299</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Prodigy%20-%20(1997)%20The%20Fat%20Of%20The%20Land%20-%20Climbatize.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>14980</key>
+		<dict>
+			<key>Track ID</key><integer>14980</integer>
+			<key>Name</key><string>Narayan</string>
+			<key>Artist</key><string>The Prodigy</string>
+			<key>Album</key><string>The Fat of the Land</string>
+			<key>Genre</key><string>Techno</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>21940631</integer>
+			<key>Total Time</key><integer>546011</integer>
+			<key>Stop Time</key><integer>424000</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>1997</integer>
+			<key>Date Modified</key><date>2025-05-30T19:56:05Z</date>
+			<key>Date Added</key><date>2025-05-23T00:05:59Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>100</integer>
+			<key>Play Count</key><integer>20</integer>
+			<key>Play Date</key><integer>3776948997</integer>
+			<key>Play Date UTC</key><date>2023-09-07T19:29:57Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2023-10-01T20:10:45Z</date>
+			<key>Loved</key><true/>
+			<key>Normalization</key><integer>3287</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Fat of the Land</string>
+			<key>Sort Artist</key><string>Prodigy</string>
+			<key>Persistent ID</key><string>E714BA3EBFE9BD84</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Prodigy%20-%20(1997)%20The%20Fat%20Of%20The%20Land%20-%20Narayan.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>17530</key>
+		<dict>
+			<key>Track ID</key><integer>17530</integer>
+			<key>Name</key><string>Gone Away</string>
+			<key>Artist</key><string>The Offspring</string>
+			<key>Album Artist</key><string>The Offspring</string>
+			<key>Album</key><string>Ixnay On The Hombre</string>
+			<key>Genre</key><string>Punk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10884524</integer>
+			<key>Total Time</key><integer>268878</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>1997</integer>
+			<key>Date Modified</key><date>2025-05-30T19:56:05Z</date>
+			<key>Date Added</key><date>2025-05-23T00:08:17Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>100</integer>
+			<key>Comments</key><string>http://www.theoffspring.us
+by Tox@
+ICQ: 131195624</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3766172356</integer>
+			<key>Play Date UTC</key><date>2023-05-06T01:59:16Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2021-08-17T16:51:36Z</date>
+			<key>Normalization</key><integer>11023</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>Offspring</string>
+			<key>Sort Artist</key><string>Offspring</string>
+			<key>Persistent ID</key><string>89B831792215D6AC</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/The%20Offspring%20-%20(1997)%20Ixnay%20On%20The%20Hombre%20-%20Gone%20Away.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>18916</key>
+		<dict>
+			<key>Track ID</key><integer>18916</integer>
+			<key>Name</key><string>Don't Go Away (Remastered)</string>
+			<key>Artist</key><string>Oasis</string>
+			<key>Album</key><string>Be Here Now</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11669143</integer>
+			<key>Total Time</key><integer>288696</integer>
+			<key>Year</key><integer>1997</integer>
+			<key>Date Modified</key><date>2025-05-30T19:55:45Z</date>
+			<key>Date Added</key><date>2025-05-23T00:09:26Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Volume Adjustment</key><integer>103</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3779020234</integer>
+			<key>Play Date UTC</key><date>2023-10-01T18:50:34Z</date>
+			<key>Normalization</key><integer>7512</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>01D7F2AE46972E30</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Oasis%20-%20(1997)%20Be%20Here%20Now%20-%20Don't%20Go%20Away.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>Released in 1997</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>72473</integer>
+			<key>Playlist Persistent ID</key><string>F112BE39C47A4C01</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>4594</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5576</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7182</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7386</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9014</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9006</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12544</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12536</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18916</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13178</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13926</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17530</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14980</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14968</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>
