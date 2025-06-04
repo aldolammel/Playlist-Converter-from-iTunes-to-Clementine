@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2025-06-04T02:51:21Z</date>
+	<key>Application Version</key><string>12.13.7.1</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/E:/Users/aldol/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>187AD5E35C5E82C1</string>
+	<key>Tracks</key>
+	<dict>
+		<key>3434</key>
+		<dict>
+			<key>Track ID</key><integer>3434</integer>
+			<key>Name</key><string>Would (Live in Guitar Center Sessions on DIRECTV)</string>
+			<key>Artist</key><string>Alice in Chains</string>
+			<key>Genre</key><string>2014</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3604621</integer>
+			<key>Total Time</key><integer>224600</integer>
+			<key>Date Modified</key><date>2024-03-29T14:04:24Z</date>
+			<key>Date Added</key><date>2025-05-22T23:55:23Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>99</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3709720940</integer>
+			<key>Play Date UTC</key><date>2021-07-21T17:02:20Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2021-07-21T22:02:20Z</date>
+			<key>Normalization</key><integer>3986</integer>
+			<key>Sort Artist</key><string>Alice in Chains</string>
+			<key>Sort Name</key><string>Would (Live in Guitar Center Sessions on DIRECTV)</string>
+			<key>Persistent ID</key><string>477E8B0F9DE7DDE3</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Alice%20in%20Chains%20-%20Would%20(Guitar%20Center%20Sessions%20on%20DIRECTV).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>4918</key>
+		<dict>
+			<key>Track ID</key><integer>4918</integer>
+			<key>Name</key><string>Blasphemy</string>
+			<key>Artist</key><string>Bring Me the Horizon</string>
+			<key>Album Artist</key><string>Bring Me the Horizon</string>
+			<key>Album</key><string>That's the Spirit</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11117816</integer>
+			<key>Total Time</key><integer>275069</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2025-01-26T01:22:18Z</date>
+			<key>Date Added</key><date>2025-05-22T23:57:00Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>100</integer>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3766569784</integer>
+			<key>Play Date UTC</key><date>2023-05-10T16:23:04Z</date>
+			<key>Normalization</key><integer>10819</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C92C1D565AE6E684</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Bring%20Me%20The%20Horizon%20-%20(2015)%20Thats%20the%20Spirit%20-%20Blasphemy.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>5388</key>
+		<dict>
+			<key>Track ID</key><integer>5388</integer>
+			<key>Name</key><string>How Deep Is Your Love (feat. Disciples)</string>
+			<key>Artist</key><string>Calvin Harris</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3416095</integer>
+			<key>Total Time</key><integer>212845</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2024-05-31T19:28:17Z</date>
+			<key>Date Added</key><date>2025-05-22T23:57:24Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>99</integer>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3739433930</integer>
+			<key>Play Date UTC</key><date>2022-06-30T14:38:50Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2021-05-27T01:17:03Z</date>
+			<key>Normalization</key><integer>4399</integer>
+			<key>Sort Artist</key><string>Calvin Harris</string>
+			<key>Sort Name</key><string>How Deep Is Your Love (feat. Disciples)</string>
+			<key>Persistent ID</key><string>856E9CEC577CAA0F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Calvin%20Harris%20&#38;%20Disciples%20-%202015%20-%20How%20Deep%20Is%20Your%20Love.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>6656</key>
+		<dict>
+			<key>Track ID</key><integer>6656</integer>
+			<key>Name</key><string>Clocks</string>
+			<key>Artist</key><string>Coldplay</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4930861</integer>
+			<key>Total Time</key><integer>307513</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2025-01-26T01:22:19Z</date>
+			<key>Date Added</key><date>2025-05-22T23:58:38Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>99</integer>
+			<key>Play Count</key><integer>14</integer>
+			<key>Play Date</key><integer>3768157740</integer>
+			<key>Play Date UTC</key><date>2023-05-29T01:29:00Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2021-08-02T16:09:32Z</date>
+			<key>Normalization</key><integer>5517</integer>
+			<key>Sort Artist</key><string>Coldplay</string>
+			<key>Sort Name</key><string>Clocks</string>
+			<key>Persistent ID</key><string>3168AE705C98A3DF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Coldplay%20-%20(2011)%20xxxxx%20-%20Clocks.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>7926</key>
+		<dict>
+			<key>Track ID</key><integer>7926</integer>
+			<key>Name</key><string>6 Man</string>
+			<key>Artist</key><string>Drake</string>
+			<key>Album Artist</key><string>Drake</string>
+			<key>Album</key><string>If You're Reading This It's Too Late</string>
+			<key>Genre</key><string>Hip-Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5471537</integer>
+			<key>Total Time</key><integer>167758</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2024-03-29T14:04:23Z</date>
+			<key>Date Added</key><date>2025-05-22T23:59:42Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>100</integer>
+			<key>Play Count</key><integer>19</integer>
+			<key>Play Date</key><integer>3764912078</integer>
+			<key>Play Date UTC</key><date>2023-04-21T11:54:38Z</date>
+			<key>Normalization</key><integer>2196</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0BB094DD411E1DF1</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Drake%20-%206%20Man.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>7928</key>
+		<dict>
+			<key>Track ID</key><integer>7928</integer>
+			<key>Name</key><string>Back to Back</string>
+			<key>Artist</key><string>Drake</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2769860</integer>
+			<key>Total Time</key><integer>172460</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2024-07-04T16:23:10Z</date>
+			<key>Date Added</key><date>2025-05-22T23:59:42Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>99</integer>
+			<key>Play Count</key><integer>19</integer>
+			<key>Play Date</key><integer>3773073123</integer>
+			<key>Play Date UTC</key><date>2023-07-24T22:52:03Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2022-09-10T14:57:56Z</date>
+			<key>Normalization</key><integer>2710</integer>
+			<key>Sort Artist</key><string>Drake</string>
+			<key>Sort Name</key><string>Back to Back</string>
+			<key>Persistent ID</key><string>F48CD830FDD01407</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Drake%20-%20Back%20to%20Back.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>12856</key>
+		<dict>
+			<key>Track ID</key><integer>12856</integer>
+			<key>Name</key><string>Borró Cassette</string>
+			<key>Artist</key><string>Maluma</string>
+			<key>Genre</key><string>Reggaeton</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5339660</integer>
+			<key>Total Time</key><integer>221413</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2024-03-29T14:04:19Z</date>
+			<key>Date Added</key><date>2025-05-23T00:03:58Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3742435527</integer>
+			<key>Play Date UTC</key><date>2022-08-04T08:25:27Z</date>
+			<key>Normalization</key><integer>3038</integer>
+			<key>Sort Name</key><string>Borró Cassette</string>
+			<key>Persistent ID</key><string>D5D932FF3234D835</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Maluma%20-%20Borr%C3%B3%20Cassette.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>12884</key>
+		<dict>
+			<key>Track ID</key><integer>12884</integer>
+			<key>Name</key><string>La Mujer que Bota Fuego</string>
+			<key>Artist</key><string>Manuel Medrano</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4082328</integer>
+			<key>Total Time</key><integer>254249</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2021-09-03T17:20:43Z</date>
+			<key>Date Added</key><date>2025-05-23T00:03:59Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>20</integer>
+			<key>Play Date</key><integer>3766094844</integer>
+			<key>Play Date UTC</key><date>2023-05-05T04:27:24Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2022-01-12T17:27:26Z</date>
+			<key>Normalization</key><integer>1671</integer>
+			<key>Sort Artist</key><string>Manuel Medrano</string>
+			<key>Sort Name</key><string>La Mujer que Bota Fuego</string>
+			<key>Persistent ID</key><string>7BA2600636D38E0A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Manuel%20Medrano%20-%202015%20-%20La%20Mujer%20que%20Bota%20Fuego.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>12886</key>
+		<dict>
+			<key>Track ID</key><integer>12886</integer>
+			<key>Name</key><string>La mujer que bota fuego</string>
+			<key>Artist</key><string>Manuel Medrano</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3885774</integer>
+			<key>Total Time</key><integer>242207</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2024-03-29T14:04:23Z</date>
+			<key>Date Added</key><date>2025-05-23T00:04:00Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>99</integer>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3738989329</integer>
+			<key>Play Date UTC</key><date>2022-06-25T11:08:49Z</date>
+			<key>Normalization</key><integer>1696</integer>
+			<key>Persistent ID</key><string>A5E4BD554702A971</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Manuel%20Medrano%20-%20La%20mujer%20que%20bota%20fuego.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>14924</key>
+		<dict>
+			<key>Track ID</key><integer>14924</integer>
+			<key>Name</key><string>Choca</string>
+			<key>Artist</key><string>Plan B</string>
+			<key>Genre</key><string>Reggaeton</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3543080</integer>
+			<key>Total Time</key><integer>220760</integer>
+			<key>Date Modified</key><date>2024-05-31T19:28:34Z</date>
+			<key>Date Added</key><date>2025-05-23T00:05:56Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>99</integer>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2023-04-28T15:29:12Z</date>
+			<key>Normalization</key><integer>4434</integer>
+			<key>Sort Artist</key><string>Plan B</string>
+			<key>Sort Name</key><string>Choca</string>
+			<key>Persistent ID</key><string>9AF91373EB411322</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Plan%20B%20-%20Choca.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>Her, Medellín in 2015</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>68814</integer>
+			<key>Playlist Persistent ID</key><string>F623AD06937AD348</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>6656</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4918</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14924</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12856</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7926</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12884</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3434</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5388</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12886</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7928</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

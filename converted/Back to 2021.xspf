@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+    <trackList>
+        <track>
+            <title>Hells Bells</title>
+            <creator>ACDC</creator>
+            <album>Back in Black</album>
+            <duration>312450</duration>
+            <trackNum>1</trackNum>
+            <location>U:\Shared\Music/AC-DC%20-%20(1980)%20Back%20in%20Black%20-%20Hells%20bells.mp3</location>
+        </track>
+        <track>
+            <title>Dying To Heal</title>
+            <creator>Architects</creator>
+            <album>Holy Hell</album>
+            <duration>230896</duration>
+            <trackNum>8</trackNum>
+            <location>U:\Shared\Music/Architects%20-%20(2018)%20Holy%20Hell%20-%20Dying%20To%20Heal.mp3</location>
+        </track>
+        <track>
+            <title>Rush</title>
+            <creator>Depeche Mode</creator>
+            <album>Songs Of Faith And Devotion</album>
+            <duration>278674</duration>
+            <trackNum>8</trackNum>
+            <location>U:\Shared\Music/Depeche%20Mode%20-%20(1993)%20Songs%20Of%20Faith%20And%20Devotion%20-%20Rush.mp3</location>
+        </track>
+        <track>
+            <title>From Time (feat. Jhene Aiko)</title>
+            <creator>Drake</creator>
+            <album>Nothing Was the Same</album>
+            <duration>322200</duration>
+            <trackNum>7</trackNum>
+            <location>U:\Shared\Music/Drake%20-%20(2013)%20Nothing%20Was%20the%20Same%20-%20From%20Time%20(feat.%20Jhene%20Aiko).mp3</location>
+        </track>
+        <track>
+            <title>Low Life (ft The Weeknd)</title>
+            <creator>Future</creator>
+            <duration>310099</duration>
+            <location>U:\Shared\Music/Future%20%20The%20Weeknd%20-%20Low%20Life%20Lyrics.mp3</location>
+        </track>
+        <track>
+            <title>Fear Is The Weakness</title>
+            <creator>In Flames</creator>
+            <album>Sounds Of A Playground Fading</album>
+            <duration>245237</duration>
+            <trackNum>5</trackNum>
+            <location>U:\Shared\Music/In%20Flames%20-%20(2011)%20Sounds%20of%20a%20Playground%20Fading%20-%20Fear%20Is%20The%20Weakness.mp3</location>
+        </track>
+        <track>
+            <title>Jester’s Door</title>
+            <creator>In Flames</creator>
+            <album>Sounds Of A Playground Fading</album>
+            <duration>157309</duration>
+            <trackNum>11</trackNum>
+            <location>U:\Shared\Music/In%20Flames%20-%20(2011)%20Sounds%20of%20a%20Playground%20Fading%20-%20Jester%E2%80%99s%20Door%20.mp3</location>
+        </track>
+        <track>
+            <title>Graze</title>
+            <creator>Live</creator>
+            <album>Secret Samadhi</album>
+            <duration>339533</duration>
+            <trackNum>3</trackNum>
+            <location>U:\Shared\Music/Live%20-%20(1997)%20Secret%20Samadhi%20-%20Graze.m4a</location>
+        </track>
+        <track>
+            <title>Insomnia And The Hole In The Universe</title>
+            <creator>Live</creator>
+            <album>Secret Samadhi</album>
+            <duration>241800</duration>
+            <trackNum>7</trackNum>
+            <location>U:\Shared\Music/Live%20-%20(1997)%20Secret%20Samadhi%20-%20Insomnia%20And%20The%20Hole%20In%20The%20Univ.m4a</location>
+        </track>
+        <track>
+            <title>Policy of Truth</title>
+            <creator>Depeche Mode</creator>
+            <album>Essentials</album>
+            <duration>294060</duration>
+            <trackNum>18</trackNum>
+            <location>U:\Shared\Music/Depeche%20Mode%20%E2%80%93%20(2018)%20Essentials%20-%20Policy%20of%20Truth.mp3</location>
+        </track>
+        <track>
+            <title>Precious</title>
+            <creator>Depeche Mode</creator>
+            <album>Essentials</album>
+            <duration>248346</duration>
+            <trackNum>11</trackNum>
+            <location>U:\Shared\Music/Depeche%20Mode%20%E2%80%93%20(2018)%20Essentials%20-%20Precious.mp3</location>
+        </track>
+        <track>
+            <title>Rule Of Nines</title>
+            <creator>Spiritbox</creator>
+            <duration>210285</duration>
+            <location>U:\Shared\Music/Spiritbox%20-%202019%20-%20Rule%20Of%20Nines.mp3</location>
+        </track>
+        <track>
+            <title>Error</title>
+            <creator>Deftones</creator>
+            <album>Ohms</album>
+            <duration>290403</duration>
+            <trackNum>4</trackNum>
+            <location>U:\Shared\Music/Deftones%20-%20(2020)%20Ohms%20-%20Error.mp3</location>
+        </track>
+        <track>
+            <title>The Spell of Mathematics</title>
+            <creator>Deftones</creator>
+            <album>Ohms</album>
+            <duration>327575</duration>
+            <trackNum>5</trackNum>
+            <location>U:\Shared\Music/Deftones%20-%20(2020)%20Ohms%20-%20The%20Spell%20of%20Mathematics.mp3</location>
+        </track>
+        <track>
+            <title>Animals</title>
+            <creator>Architects</creator>
+            <album>For Those That Wish To Exist</album>
+            <duration>244296</duration>
+            <location>U:\Shared\Music/Architects%20-%20(2021)%20For%20Those%20That%20Wish%20To%20Exist%20-%20Animals.mp3</location>
+        </track>
+        <track>
+            <title>Mechanical Love</title>
+            <creator>Trevor Something</creator>
+            <album>Trevor Something Does Not Exist</album>
+            <duration>218122</duration>
+            <trackNum>9</trackNum>
+            <location>U:\Shared\Music/Trevor%20Something%20-%20(2014)%20Trevor%20Something%20Does%20Not%20Exist%20-%2009%20Mechanical%20Love.mp3</location>
+        </track>
+        <track>
+            <title>Into Your Heart</title>
+            <creator>Trevor Something</creator>
+            <album>Trevor Something Does Not Exist</album>
+            <duration>251872</duration>
+            <trackNum>12</trackNum>
+            <location>U:\Shared\Music/Trevor%20Something%20-%20(2014)%20Trevor%20Something%20Does%20Not%20Exist%20-%2012%20Into%20Your%20Heart.mp3</location>
+        </track>
+        <track>
+            <title>Infatuation</title>
+            <creator>Trevor Something</creator>
+            <album>Trevor Something Does Not Exist</album>
+            <duration>240117</duration>
+            <trackNum>5</trackNum>
+            <location>U:\Shared\Music/Trevor%20Something%20-%20(2014)%20Trevor%20Something%20Does%20Not%20Exist%20-%2005%20Infatuation.mp3</location>
+        </track>
+        <track>
+            <title>Searching</title>
+            <creator>Trevor Something</creator>
+            <album>Trevor Something Does Not Exist</album>
+            <duration>264097</duration>
+            <trackNum>6</trackNum>
+            <location>U:\Shared\Music/Trevor%20Something%20-%20(2014)%20Trevor%20Something%20Does%20Not%20Exist%20-%2006%20Searching.mp3</location>
+        </track>
+        <track>
+            <title>Mellow Evening</title>
+            <creator>Soupbox</creator>
+            <duration>158232</duration>
+            <location>U:\Shared\Music/Soupbox%20-%202016%20-%20Mellow%20Evening.mp3</location>
+        </track>
+        <track>
+            <title>Under Ruins</title>
+            <creator>Nervosa</creator>
+            <album>Perpetual Chaos</album>
+            <duration>256776</duration>
+            <location>U:\Shared\Music/Nervosa%20-%20(2021)%20Perpetual%20Chaos%20-%20Under%20Ruins.mp3</location>
+        </track>
+        <track>
+            <title>Guided By Evil</title>
+            <creator>Nervosa</creator>
+            <album>Perpetual Chaos</album>
+            <duration>233328</duration>
+            <location>U:\Shared\Music/Nervosa%20-%20(2021)%20Perpetual%20Chaos%20-%20Guided%20By%20Evil.mp3</location>
+        </track>
+        <track>
+            <title>Deluxury</title>
+            <creator>Francci &amp; Flávio La Barre</creator>
+            <duration>217808</duration>
+            <location>U:\Shared\Music/Francci%20&amp;%20Fl%C3%A1vio%20La%20Barre%20-%20Deluxury.mp3</location>
+        </track>
+        <track>
+            <title>Change (Deftones cover)</title>
+            <creator>Alicia Widar</creator>
+            <duration>266893</duration>
+            <location>U:\Shared\Music/Alicia%20Widar%20-%20(2021)%20-%20Change%20(Deftones%20cover).mp3</location>
+        </track>
+        <track>
+            <title>Live forever (Oasis cover)</title>
+            <creator>Alicia Widar</creator>
+            <duration>174785</duration>
+            <location>U:\Shared\Music/Alicia%20Widar%20-%20(2020)%20-%20Live%20forever%20(Oasis%20cover).mp3</location>
+        </track>
+        <track>
+            <title>The Changeling</title>
+            <creator>The Doors</creator>
+            <duration>259296</duration>
+            <location>U:\Shared\Music/The%20Doors%20-%20The%20Changeling.mp3</location>
+        </track>
+        <track>
+            <title>Error 404</title>
+            <creator>Lofi Geek</creator>
+            <duration>162720</duration>
+            <location>U:\Shared\Music/Lofi%20Greek%20-%20Error%20404.mp3</location>
+        </track>
+        <track>
+            <title>Loving Ain’t The Same</title>
+            <creator>Dj Houseplants</creator>
+            <duration>323112</duration>
+            <location>U:\Shared\Music/Dj%20Houseplants%20-%20Loving%20Ain%E2%80%99t%20The%20Same.mp3</location>
+        </track>
+        <track>
+            <title>Planet terror</title>
+            <creator>Black Sky Giant</creator>
+            <album>Planet Terror</album>
+            <duration>244062</duration>
+            <trackNum>1</trackNum>
+            <location>U:\Shared\Music/Black%20Sky%20Giant%20-%20(2021)%20Planet%20Terror%20-%2001%20Planet%20terror.mp3</location>
+        </track>
+        <track>
+            <title>Asteroid hermit</title>
+            <creator>Black Sky Giant</creator>
+            <album>Planet Terror</album>
+            <duration>408058</duration>
+            <trackNum>2</trackNum>
+            <location>U:\Shared\Music/Black%20Sky%20Giant%20-%20(2021)%20Planet%20Terror%20-%2002%20Asteroid%20hermit.mp3</location>
+        </track>
+        <track>
+            <title>Darkhorse</title>
+            <creator>Emma Ruth Rundle</creator>
+            <album>On dark horses</album>
+            <duration>235488</duration>
+            <location>U:\Shared\Music/Emma%20Ruth%20Rundle%20-%20Darkhorse.mp3</location>
+        </track>
+        <track>
+            <title>Amazonia</title>
+            <creator>Gojira</creator>
+            <duration>290040</duration>
+            <location>U:\Shared\Music/Gojira%20-%202021%20-%20Amazonia.mp3</location>
+        </track>
+        <track>
+            <title>Луна</title>
+            <creator>Крайности</creator>
+            <album>Второй этаж поражает</album>
+            <duration>172272</duration>
+            <location>U:\Shared\Music/%D0%9A%D1%80%D0%B0%D0%B9%D0%BD%D0%BE%D1%81%D1%82%D0%B8%20-%20(2019)%20%D0%92%D1%82%D0%BE%D1%80%D0%BE%D0%B9%20%D1%8D%D1%82%D0%B0%D0%B6%20%D0%BF%D0%BE%D1%80%D0%B0%D0%B6%D0%B0%D0%B5%D1%82%20-%20%D0%9B%D1%83%D0%BD%D0%B0.mp3</location>
+        </track>
+        <track>
+            <title>Blood &amp; Honey (Part I)</title>
+            <creator>Cane Hill</creator>
+            <duration>209449</duration>
+            <location>U:\Shared\Music/Cane%20Hill%20-%202021%20-%20Blood%20&amp;%20Honey%20Part%20I.mp3</location>
+        </track>
+        <track>
+            <title>Meiga e Abusada (Anitta cover) [Lo-fi remix]</title>
+            <creator>Laura Schadeck</creator>
+            <duration>3676708</duration>
+            <location>U:\Shared\Music/Laura%20Schadeck%20-%20Meiga%20e%20Abusada%20(Anitta%20cover%20-%20Lo-fi%20remix).mp3</location>
+        </track>
+        <track>
+            <title>Midnight Sky</title>
+            <creator>Miley Cyrus</creator>
+            <duration>222960</duration>
+            <location>U:\Shared\Music/Miley%20Cyrus%20-%202020%20-%20Midnight%20Sky.mp3</location>
+        </track>
+        <track>
+            <title>Baba Yaga</title>
+            <creator>Slaughter To Prevail</creator>
+            <duration>255137</duration>
+            <location>U:\Shared\Music/Slaughter%20To%20Prevail%20-%20(2021)%20xxxxxxxxxxxxxx%20-%20Baba%20Yaga.mp3</location>
+        </track>
+        <track>
+            <title>Stuck On You</title>
+            <creator>Failure</creator>
+            <album>Fantastic Planet</album>
+            <duration>269112</duration>
+            <location>U:\Shared\Music/Failure%20-%20(2010)%20Fantastic%20Planet%20-%20Stuck%20On%20You%20(released%20originaly%20in%201997).mp3</location>
+        </track>
+        <track>
+            <title>Circle With Me</title>
+            <creator>Spiritbox</creator>
+            <duration>234083</duration>
+            <location>U:\Shared\Music/Spiritbox%20-%20(2021)%20Circle%20With%20Me.mp3</location>
+        </track>
+        <track>
+            <title>Bodies</title>
+            <creator>The Smashing Pumpkins</creator>
+            <album>Mellon Collie And The Infinite Sadness</album>
+            <duration>252264</duration>
+            <trackNum>2</trackNum>
+            <location>U:\Shared\Music/The%20Smashing%20Pumpkins%20-%20(XXXX)%20Twilight%20To%20Starlight%20-%20Bodies.mp3</location>
+        </track>
+        <track>
+            <title>Fake Plastic Trees (Radiohead Cover)</title>
+            <creator>Gabzito</creator>
+            <duration>271704</duration>
+            <location>U:\Shared\Music/Radiohead%20-%20Fake%20Plastic%20Trees%20(Covered%20by%20youtubeUser%20GabzitoMusic).mp3</location>
+        </track>
+        <track>
+            <title>Fake Plastic Trees</title>
+            <creator>Radiohead</creator>
+            <duration>291072</duration>
+            <location>U:\Shared\Music/Radiohead%20-%20Fake%20Plastic%20Trees.mp3</location>
+        </track>
+        <track>
+            <title>Stronger</title>
+            <creator>Prismo</creator>
+            <duration>212064</duration>
+            <location>U:\Shared\Music/Prismo%20-%20(2017)%20Stronger.mp3</location>
+        </track>
+        <track>
+            <title>Much Higher (no copyright - no restriction to use)</title>
+            <creator>Causmic</creator>
+            <duration>171168</duration>
+            <location>U:\Shared\Music/Causmic%20-%20(2020)%20Much%20Higher%20(no%20copyright%20-%20no%20restriction%20to%20use).mp3</location>
+        </track>
+        <track>
+            <title>Move your body (live feat. Harry Mack)</title>
+            <creator>Marc Rebillet</creator>
+            <duration>274848</duration>
+            <location>U:\Shared\Music/Marc%20Rebillet%20-%20(2021)%20Move%20your%20body%20(live%20feat.%20Harry%20Mack).mp3</location>
+        </track>
+        <track>
+            <title>Wakin n Bakin (live)</title>
+            <creator>Marc Rebillet</creator>
+            <duration>261072</duration>
+            <location>U:\Shared\Music/Marc%20Rebillet%20-%20(2021)%20Wakin%20n%20Bakin.mp3</location>
+        </track>
+        <track>
+            <title>Our father Enki</title>
+            <creator>Øfdream</creator>
+            <album>FR∆CT̅URE 2021</album>
+            <duration>206064</duration>
+            <location>U:\Shared\Music/%C3%98fdream%20-%20(2017)%20Our%20father%20Enki.mp3</location>
+        </track>
+        <track>
+            <title>M0lly</title>
+            <creator>Ytho</creator>
+            <album>FR∆CT̅URE 2021</album>
+            <duration>199471</duration>
+            <location>U:\Shared\Music/Ytho%20-%20(2020)%20M0lly.mp3</location>
+        </track>
+        <track>
+            <title>Beat God</title>
+            <creator>Ennja</creator>
+            <album>FR∆CT̅URE 2021</album>
+            <duration>200088</duration>
+            <location>U:\Shared\Music/ENNJA%20-%20(2021)%20Beat%20God.mp3</location>
+        </track>
+        <track>
+            <title>Like a Stone (Unplugged &amp; Live Sessions AOL)</title>
+            <creator>Audioslave</creator>
+            <duration>271438</duration>
+            <location>U:\Shared\Music/Audioslave%20-%202011%20-%20Like%20a%20Stone%20Acoustic%20Live%20(Unplugged%20Sessions%20AOL).mp3</location>
+        </track>
+        <track>
+            <title>Autumn Haze</title>
+            <creator>West &amp; Zander</creator>
+            <duration>230904</duration>
+            <location>U:\Shared\Music/West%20&amp;%20Zander%20-%20(2020)%20-%20Autumn%20Haze.mp3</location>
+        </track>
+        <track>
+            <title>HOLIDAY</title>
+            <creator>Turnstile</creator>
+            <album>Glow on</album>
+            <duration>172080</duration>
+            <location>U:\Shared\Music/Turnstile%20-%20(2021)%20Glow%20on%20-%20HOLIDAY.mp3</location>
+        </track>
+        <track>
+            <title>BLACKOUT</title>
+            <creator>Turnstile</creator>
+            <album>Glow on</album>
+            <duration>180072</duration>
+            <location>U:\Shared\Music/Turnstile%20-%20(2021)%20Glow%20on%20-%20BLACKOUT.mp3</location>
+        </track>
+        <track>
+            <title>Owls of the Night (Kupla Master)</title>
+            <creator>Kupla</creator>
+            <album>1 AM Study Session</album>
+            <duration>141609</duration>
+            <location>U:\Shared\Music/ChilledCow%20Records%20-%20(2020)%201%20AM%20Study%20Session%20-%2018%20Kupla%20-%20Owls%20of%20the%20Night%20(Kupla%20Master).mp3</location>
+        </track>
+        <track>
+            <title>Homeland</title>
+            <creator>L'Outlander</creator>
+            <album>Homeland</album>
+            <duration>127294</duration>
+            <trackNum>6</trackNum>
+            <location>U:\Shared\Music/L'Outlander%20-%20(2021)%20Homeland%20-%206.Homeland.mp3</location>
+        </track>
+        <track>
+            <title>Патрон</title>
+            <creator>Miyagi &amp; Andy Panda</creator>
+            <duration>225048</duration>
+            <location>U:\Shared\Music/Miyagi%20&amp;%20Andy%20Panda%20-%20(2021)%20-%20%D0%9F%D0%B0%D1%82%D1%80%D0%BE%D0%BD.mp3</location>
+        </track>
+        <track>
+            <title>Evenings</title>
+            <creator>Snug</creator>
+            <album>Purple Skies</album>
+            <duration>155820</duration>
+            <trackNum>2</trackNum>
+            <location>U:\Shared\Music/Snug%20-%20(2021)%20Purple%20Skies%20-%20Evenings.mp3</location>
+        </track>
+        <track>
+            <title>Vestiges of a hard landing</title>
+            <creator>Black Sky Giant</creator>
+            <album>Falling Mothership</album>
+            <duration>344058</duration>
+            <trackNum>1</trackNum>
+            <location>U:\Shared\Music/Black%20Sky%20Giant%20-%20(2021)%20Falling%20Mothership%20-%2001%20Vestiges%20of%20a%20hard%20landing.mp3</location>
+        </track>
+        <track>
+            <title>Batriders</title>
+            <creator>Black Sky Giant</creator>
+            <album>Falling Mothership</album>
+            <duration>262060</duration>
+            <trackNum>2</trackNum>
+            <location>U:\Shared\Music/Black%20Sky%20Giant%20-%20(2021)%20Falling%20Mothership%20-%2002%20Batriders.mp3</location>
+        </track>
+        <track>
+            <title>Quer voar</title>
+            <creator>Matuê</creator>
+            <duration>271056</duration>
+            <location>U:\Shared\Music/Matu%C3%AA%20-%202021%20-%20Quer%20voar.mp3</location>
+        </track>
+        <track>
+            <title>Antes</title>
+            <creator>Matuê</creator>
+            <duration>169152</duration>
+            <location>U:\Shared\Music/Matu%C3%AA%20-%20(2020)%20-%20Antes.mp3</location>
+        </track>
+        <track>
+            <title>No Ordinary Love</title>
+            <creator>Sade</creator>
+            <album>Love Deluxe (Remastered)</album>
+            <duration>442096</duration>
+            <location>U:\Shared\Music/Sade%20-%20(1992)%20Love%20Deluxe%20(Remastered)%20-%20No%20Ordinary%20Love.mp3</location>
+        </track>
+        <track>
+            <title>Crash</title>
+            <creator>DatZoeOfficial</creator>
+            <duration>181472</duration>
+            <location>U:\Shared\Music/DatZoeOfficial%20-%20Crash.mp3</location>
+        </track>
+    </trackList>
+</playlist>

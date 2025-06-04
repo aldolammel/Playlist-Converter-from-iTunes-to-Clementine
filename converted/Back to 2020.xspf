@@ -1,0 +1,511 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+    <trackList>
+        <track>
+            <title>Heavenly</title>
+            <creator>Adventures</creator>
+            <album>Supersonic Home</album>
+            <duration>216320</duration>
+            <trackNum>2</trackNum>
+            <location>U:\Shared\Music/Adventures%20-%20(2015)%20Supersonic%20Home%20-%20Heavenly.mp3</location>
+        </track>
+        <track>
+            <title>Royal Beggars</title>
+            <creator>Architects</creator>
+            <album>Holy Hell</album>
+            <duration>241658</duration>
+            <trackNum>6</trackNum>
+            <location>U:\Shared\Music/Architects%20-%20(2018)%20Holy%20Hell%20-%20Royal%20Beggars.mp3</location>
+        </track>
+        <track>
+            <title>Goud</title>
+            <creator>Bazart</creator>
+            <duration>193959</duration>
+            <location>U:\Shared\Music/Bazart%20-%20Goud.mp3</location>
+        </track>
+        <track>
+            <title>I Don't Know What to Say</title>
+            <creator>Bring Me the Horizon</creator>
+            <album>Amo</album>
+            <duration>352470</duration>
+            <trackNum>13</trackNum>
+            <location>U:\Shared\Music/Bring%20Me%20The%20Horizon%20-%20(2019)%20Amo%20-%20I%20Don't%20Know%20What%20to%20Say.mp3</location>
+        </track>
+        <track>
+            <title>Only One Way</title>
+            <creator>Code Orange</creator>
+            <album>Adult Swim Singles</album>
+            <duration>283115</duration>
+            <location>U:\Shared\Music/Code%20Orange%20-%20(2018)%20Adult%20Swim%20Singles%20-%20Only%20One%20Way.mp3</location>
+        </track>
+        <track>
+            <title>Swallowing The Rabbit Whole</title>
+            <creator>Code Orange</creator>
+            <album>Underneath</album>
+            <duration>303699</duration>
+            <location>U:\Shared\Music/Code%20Orange%20-%20(2020)%20Underneath%20-%20Swallowing%20The%20Rabbit%20Whole.mp3</location>
+        </track>
+        <track>
+            <title>Who I Am</title>
+            <creator>Code Orange</creator>
+            <album>Underneath</album>
+            <duration>226481</duration>
+            <location>U:\Shared\Music/Code%20Orange%20-%20(2020)%20Underneath%20-%20Who%20I%20Am.mp3</location>
+        </track>
+        <track>
+            <title>In Your Room</title>
+            <creator>Depeche Mode</creator>
+            <album>Songs Of Faith And Devotion</album>
+            <duration>387892</duration>
+            <trackNum>6</trackNum>
+            <location>U:\Shared\Music/Depeche%20Mode%20-%20(1993)%20Songs%20Of%20Faith%20And%20Devotion%20-%20In%20Your%20Room.mp3</location>
+        </track>
+        <track>
+            <title>Rush</title>
+            <creator>Depeche Mode</creator>
+            <album>Songs Of Faith And Devotion</album>
+            <duration>278674</duration>
+            <trackNum>8</trackNum>
+            <location>U:\Shared\Music/Depeche%20Mode%20-%20(1993)%20Songs%20Of%20Faith%20And%20Devotion%20-%20Rush.mp3</location>
+        </track>
+        <track>
+            <title>Lost [*]</title>
+            <creator>DevilDriver</creator>
+            <album>Beast</album>
+            <duration>216502</duration>
+            <trackNum>13</trackNum>
+            <location>U:\Shared\Music/DevilDriver%20-%20(2011)%20Beast%20-%20Lost%20%5B%5D.mp3</location>
+        </track>
+        <track>
+            <title>Getaways</title>
+            <creator>Ennja</creator>
+            <duration>387944</duration>
+            <location>U:\Shared\Music/Ennja%20-%20Getaways.mp3</location>
+        </track>
+        <track>
+            <title>Geceler</title>
+            <creator>Ezhel</creator>
+            <duration>223164</duration>
+            <location>U:\Shared\Music/Ezhel%20-%20(2017)%20-%20Geceler.mp3</location>
+        </track>
+        <track>
+            <title>Isso Não É Um Teste</title>
+            <creator>Fresno</creator>
+            <album>sua alegria foi cancelada</album>
+            <duration>163840</duration>
+            <trackNum>3</trackNum>
+            <location>U:\Shared\Music/Fresno%20-%20(2019)%20Sua%20Alegria%20Foi%20Cancelada%20-%20Isso%20N%C3%A3o%20%C3%89%20Um%20Teste.mp3</location>
+        </track>
+        <track>
+            <title>Natureza Caos</title>
+            <creator>Fresno</creator>
+            <album>sua alegria foi cancelada</album>
+            <duration>220081</duration>
+            <trackNum>4</trackNum>
+            <location>U:\Shared\Music/Fresno%20-%20(2019)%20Sua%20Alegria%20Foi%20Cancelada%20-%20Natureza%20Caos.mp3</location>
+        </track>
+        <track>
+            <title>Still Be Friends (ft. Tory Lanez, Tyga)</title>
+            <creator>G-Eazy</creator>
+            <duration>214961</duration>
+            <location>U:\Shared\Music/G-Eazy%20-%20Still%20Be%20Friends%20(ft.%20Tory%20Lanez,%20Tyga).mp3</location>
+        </track>
+        <track>
+            <title>Mese Khoete</title>
+            <creator>Behzad Leito</creator>
+            <duration>225280</duration>
+            <location>U:\Shared\Music/IRAN%20-%20Behzad%20Leito%20-%20Mese%20Khoete.mp3</location>
+        </track>
+        <track>
+            <title>Institutionalized</title>
+            <creator>Kendrick Lamar</creator>
+            <album>To Pimp A Butterfly</album>
+            <duration>271830</duration>
+            <trackNum>4</trackNum>
+            <location>U:\Shared\Music/Kendrick%20Lamar%20-(2015)%20To%20Pimp%20a%20Butterfly%20-%20Institutionalized.mp3</location>
+        </track>
+        <track>
+            <title>In The End (Mellen Gi &amp; Tommee Profitt Remix)</title>
+            <creator>Linkin Park</creator>
+            <duration>214230</duration>
+            <location>U:\Shared\Music/Linkin%20Park%20-%20In%20The%20End%20(Mellen%20Gi%20&amp;%20Tommee%20Profitt%20Remix).mp3</location>
+        </track>
+        <track>
+            <title>Return of the Mack</title>
+            <creator>Mark Morrison</creator>
+            <album>De Maxx Long Player 27</album>
+            <duration>441626</duration>
+            <location>U:\Shared\Music/Mark%20Morrison%20-%20Return%20of%20the%20Mack.mp3</location>
+        </track>
+        <track>
+            <title>Sem nome</title>
+            <creator>Mateus Asato</creator>
+            <duration>59324</duration>
+            <location>U:\Shared\Music/Mateus%20Asato%20-%20Sem%20nome.mp3</location>
+        </track>
+        <track>
+            <title>Time</title>
+            <creator>Mateus Asato</creator>
+            <duration>214125</duration>
+            <location>U:\Shared\Music/Mateus%20Asato%20-%20Time.mp3</location>
+        </track>
+        <track>
+            <title>Lift Off (feat. Chino Moreno and Machine Gun Kelly)</title>
+            <creator>Mike Shinoda</creator>
+            <duration>240378</duration>
+            <location>U:\Shared\Music/Mike%20Shinoda%20-%20Lift%20Off.mp3</location>
+        </track>
+        <track>
+            <title>Morro do Dendê</title>
+            <creator>Funk</creator>
+            <duration>297900</duration>
+            <location>U:\Shared\Music/MORRO%20DO%20DEND%C3%8A.mp3</location>
+        </track>
+        <track>
+            <title>Drama</title>
+            <creator>Newkid</creator>
+            <duration>178991</duration>
+            <location>U:\Shared\Music/Newkid%20-%20Drama.mp3</location>
+        </track>
+        <track>
+            <title>Bloodline</title>
+            <creator>Northlane</creator>
+            <duration>215092</duration>
+            <location>U:\Shared\Music/Northlane%20-%20Bloodline%20%5BOfficial%20Music%20Video%5D.mp3</location>
+        </track>
+        <track>
+            <title>Devil in the Details</title>
+            <creator>Placebo</creator>
+            <album>Battle for the Sun</album>
+            <duration>268460</duration>
+            <trackNum>5</trackNum>
+            <location>U:\Shared\Music/Placebo%20-%20(2009)%20Battle%20for%20the%20Sun%20-%20Devil%20in%20the%20Details.mp3</location>
+        </track>
+        <track>
+            <title>High (feat. Apache)</title>
+            <creator>Rawayana</creator>
+            <duration>286354</duration>
+            <location>U:\Shared\Music/Rawayana%20-%20HIGH%20feat.%20Apache.mp3</location>
+        </track>
+        <track>
+            <title>Base LoFi para a canção Cheia De Manias (JDutra)</title>
+            <creator>Raça Negra</creator>
+            <duration>173087</duration>
+            <location>U:\Shared\Music/Ra%C3%A7a%20Negra%20-%20Cheia%20de%20Manias%20(lofi%20remix%20by%20Jo%C3%A3o%20Dutra%20-%20jdutra%20-%20no%20voices).mp3</location>
+        </track>
+        <track>
+            <title>Agony Of Defeat</title>
+            <creator>Sepultura</creator>
+            <album>Quadra</album>
+            <duration>351843</duration>
+            <trackNum>11</trackNum>
+            <location>U:\Shared\Music/Sepultura%20-%20(2020)%20Quadra%20-%20Agony%20Of%20Defeat.mp3</location>
+        </track>
+        <track>
+            <title>Isolation</title>
+            <creator>Sepultura</creator>
+            <album>Quadra</album>
+            <duration>296150</duration>
+            <trackNum>1</trackNum>
+            <location>U:\Shared\Music/Sepultura%20-%20(2020)%20Quadra%20-%20Isolation.mp3</location>
+        </track>
+        <track>
+            <title>Next Day Will Never Come</title>
+            <creator>Sybreed</creator>
+            <album>Slave Design</album>
+            <duration>324360</duration>
+            <trackNum>5</trackNum>
+            <location>U:\Shared\Music/Sybreed%20-%20(2004)%20Slave%20Design%20-%20Next%20Day%20Will%20Never%20Come.mp3</location>
+        </track>
+        <track>
+            <title>God And Drugs</title>
+            <creator>The Classic Crime</creator>
+            <album>The Silver Cord</album>
+            <duration>255503</duration>
+            <trackNum>9</trackNum>
+            <location>U:\Shared\Music/The%20Classic%20Crime%20-%20(2008)%20The%20Silver%20Cord%20-%20God%20And%20Drugs.mp3</location>
+        </track>
+        <track>
+            <title>Soul Asylum</title>
+            <creator>The Cult</creator>
+            <album>Sonic Temple</album>
+            <duration>447768</duration>
+            <location>U:\Shared\Music/The%20Cult%20-%20Soul%20Asylum.mp3</location>
+        </track>
+        <track>
+            <title>Human Target</title>
+            <creator>Thy Art Is Murder</creator>
+            <album>Human Target</album>
+            <duration>211670</duration>
+            <trackNum>1</trackNum>
+            <location>U:\Shared\Music/Thy%20Art%20Is%20Murder%20-%20(2019)%20Human%20Target%20-%20Human%20Target.mp3</location>
+        </track>
+        <track>
+            <title>Riot</title>
+            <creator>XXXTENTACION</creator>
+            <duration>78785</duration>
+            <location>U:\Shared\Music/XXXTENTACION%20-%20Riot.mp3</location>
+        </track>
+        <track>
+            <title>Hunger OST</title>
+            <creator>Hans Zimmer</creator>
+            <album>Black Hawk Down Soundtrack</album>
+            <duration>392176</duration>
+            <location>U:\Shared\Music/Black%20Hawk%20Down%20Soundtrack%20-%20Hunger%20OST.mp3</location>
+        </track>
+        <track>
+            <title>Cold Heart Women</title>
+            <creator>CYGN</creator>
+            <album>Body 'N Soul</album>
+            <duration>168385</duration>
+            <location>U:\Shared\Music/CYGN%20-%20Cold%20Heart%20Women.mp3</location>
+        </track>
+        <track>
+            <title>Great Big White World</title>
+            <creator>Marilyn Manson</creator>
+            <album>Mechanical Animals</album>
+            <duration>301374</duration>
+            <trackNum>1</trackNum>
+            <location>U:\Shared\Music/Marilyn%20Manson%20-%20(1998)%20Mechanical%20Animals%20-%20Great%20Big%20White%20World.mp3</location>
+        </track>
+        <track>
+            <title>The Dope Show</title>
+            <creator>Marilyn Manson</creator>
+            <album>Mechanical Animals</album>
+            <duration>226821</duration>
+            <trackNum>2</trackNum>
+            <location>U:\Shared\Music/Marilyn%20Manson%20-%20(1998)%20Mechanical%20Animals%20-%20The%20Dope%20Show.mp3</location>
+        </track>
+        <track>
+            <title>The Last Day On Earth</title>
+            <creator>Marilyn Manson</creator>
+            <album>Mechanical Animals</album>
+            <duration>301191</duration>
+            <trackNum>13</trackNum>
+            <location>U:\Shared\Music/Marilyn%20Manson%20-%20(1998)%20Mechanical%20Animals%20-%20The%20Last%20Day%20On%20Earth.mp3</location>
+        </track>
+        <track>
+            <title>I Am Broken Too</title>
+            <creator>Killswitch Engage</creator>
+            <album>Atonement</album>
+            <duration>159294</duration>
+            <trackNum>5</trackNum>
+            <location>U:\Shared\Music/Killswitch%20Engage%20-%20(2019)%20Atonement%20-%20I%20Am%20Broken%20Too.mp3</location>
+        </track>
+        <track>
+            <title>I Can't Be the Only One</title>
+            <creator>Killswitch Engage</creator>
+            <album>Atonement</album>
+            <duration>249155</duration>
+            <trackNum>10</trackNum>
+            <location>U:\Shared\Music/Killswitch%20Engage%20-%20(2019)%20Atonement%20-%20I%20Can't%20Be%20the%20Only%20One.mp3</location>
+        </track>
+        <track>
+            <title>Take Control</title>
+            <creator>Killswitch Engage</creator>
+            <album>Atonement</album>
+            <duration>224365</duration>
+            <trackNum>8</trackNum>
+            <location>U:\Shared\Music/Killswitch%20Engage%20-%20(2019)%20Atonement%20-%20Take%20Control.mp3</location>
+        </track>
+        <track>
+            <title>The Signal Fire (ft. Howard Jones of Light the Torch)</title>
+            <creator>Killswitch Engage</creator>
+            <album>Atonement</album>
+            <duration>185260</duration>
+            <trackNum>2</trackNum>
+            <location>U:\Shared\Music/Killswitch%20Engage%20-%20(2019)%20Atonement%20-%20The%20Signal%20Fire%20(Featuring%20Howard%20Jones%20of%20Light%20the%20Torch).mp3</location>
+        </track>
+        <track>
+            <title>Us Against the World</title>
+            <creator>Killswitch Engage</creator>
+            <album>Atonement</album>
+            <duration>199314</duration>
+            <trackNum>3</trackNum>
+            <location>U:\Shared\Music/Killswitch%20Engage%20-%20(2019)%20Atonement%20-%20Us%20Against%20the%20World.mp3</location>
+        </track>
+        <track>
+            <title>Clone</title>
+            <creator>Gojira</creator>
+            <album>Terra Incognita</album>
+            <duration>298684</duration>
+            <trackNum>1</trackNum>
+            <location>U:\Shared\Music/Gojira%20-%20(2001)%20Terra%20Incognita%20-%20Clone.mp3</location>
+        </track>
+        <track>
+            <title>Losing My Mind</title>
+            <creator>SOJA</creator>
+            <album>Born In Babylon</album>
+            <duration>337214</duration>
+            <trackNum>2</trackNum>
+            <location>U:\Shared\Music/SOJA%20-%20(2009)%20Born%20In%20Babylon%20-%20Losing%20My%20Mind.mp3</location>
+        </track>
+        <track>
+            <title>Big Picture (SG Lewis Remix)</title>
+            <creator>London Grammar</creator>
+            <duration>348682</duration>
+            <location>U:\Shared\Music/London%20Grammar%20-%202017%20-%20Big%20Picture%20(SG%20Lewis%20Remix).mp3</location>
+        </track>
+        <track>
+            <title>Pug Life (feat Chad Bogus)</title>
+            <creator>Beatslingers</creator>
+            <duration>193410</duration>
+            <location>U:\Shared\Music/Beatslingers%20-%202014%20-%20Pug%20Life%20(Chad%20Bogus).mp3</location>
+        </track>
+        <track>
+            <title>Blessed Be</title>
+            <creator>Spiritbox</creator>
+            <duration>246360</duration>
+            <location>U:\Shared\Music/Spiritbox%20-%202020%20-%20Blessed%20Be.mp3</location>
+        </track>
+        <track>
+            <title>Holy Roller</title>
+            <creator>Spiritbox</creator>
+            <duration>174053</duration>
+            <location>U:\Shared\Music/Spiritbox%20-%202020%20-%20Holy%20Roller.mp3</location>
+        </track>
+        <track>
+            <title>Rule of Nines (Courtney LaPlante live)</title>
+            <creator>Spiritbox</creator>
+            <duration>218383</duration>
+            <location>U:\Shared\Music/Spiritbox%20-%202020%20-%20Rule%20of%20Nines%20(Courtney%20LaPlante%20live).mp3</location>
+        </track>
+        <track>
+            <title>Daiush ou algo assim</title>
+            <creator>Twelve Foot Ninja</creator>
+            <album>Slay At Home Fest</album>
+            <duration>263758</duration>
+            <location>U:\Shared\Music/TWELVE%20FOOT%20NINJA%20(2020)%20Slay%20At%20Home%20Fest%20Metal%20Injection%20-%20Daiush%20ou%20algo%20assim.mp3</location>
+        </track>
+        <track>
+            <title>Liberation</title>
+            <creator>Twelve Foot Ninja</creator>
+            <album>Slay At Home Fest</album>
+            <duration>171075</duration>
+            <location>U:\Shared\Music/TWELVE%20FOOT%20NINJA%20(2020)%20Slay%20At%20Home%20Fest%20Metal%20Injection%20-%20Liberation.mp3</location>
+        </track>
+        <track>
+            <title> Limits</title>
+            <creator>Bad Omens</creator>
+            <album>Limits</album>
+            <duration>209084</duration>
+            <location>U:\Shared\Music/Bad%20Omens%20-%20Limits.mp3</location>
+        </track>
+        <track>
+            <title>Push It</title>
+            <creator>Earth Caller</creator>
+            <album>Crook</album>
+            <duration>189622</duration>
+            <location>U:\Shared\Music/Earth%20Caller%20-%20Push%20It.mp3</location>
+        </track>
+        <track>
+            <title>Error</title>
+            <creator>Deftones</creator>
+            <album>Ohms</album>
+            <duration>290403</duration>
+            <trackNum>4</trackNum>
+            <location>U:\Shared\Music/Deftones%20-%20(2020)%20Ohms%20-%20Error.mp3</location>
+        </track>
+        <track>
+            <title>The Spell of Mathematics</title>
+            <creator>Deftones</creator>
+            <album>Ohms</album>
+            <duration>327575</duration>
+            <trackNum>5</trackNum>
+            <location>U:\Shared\Music/Deftones%20-%20(2020)%20Ohms%20-%20The%20Spell%20of%20Mathematics.mp3</location>
+        </track>
+        <track>
+            <title>Breathe Me (Live At SxSW)</title>
+            <creator>Sia</creator>
+            <duration>295836</duration>
+            <location>U:\Shared\Music/Sia%20-%20(2014)%20Breathe%20Me%20(Live%20At%20SxSW).mp3</location>
+        </track>
+        <track>
+            <title>Animals</title>
+            <creator>Architects</creator>
+            <album>For Those That Wish To Exist</album>
+            <duration>244296</duration>
+            <location>U:\Shared\Music/Architects%20-%20(2021)%20For%20Those%20That%20Wish%20To%20Exist%20-%20Animals.mp3</location>
+        </track>
+        <track>
+            <title>Zen Fusion</title>
+            <creator>BluntOne</creator>
+            <album>Autumn in Budapest</album>
+            <duration>162672</duration>
+            <location>U:\Shared\Music/BluntOne%20-%20(2020)%20Autumn%20in%20Budapest%20-%20Zen%20Fusion.mp3</location>
+        </track>
+        <track>
+            <title>Mechanical Love</title>
+            <creator>Trevor Something</creator>
+            <album>Trevor Something Does Not Exist</album>
+            <duration>218122</duration>
+            <trackNum>9</trackNum>
+            <location>U:\Shared\Music/Trevor%20Something%20-%20(2014)%20Trevor%20Something%20Does%20Not%20Exist%20-%2009%20Mechanical%20Love.mp3</location>
+        </track>
+        <track>
+            <title>Into Your Heart</title>
+            <creator>Trevor Something</creator>
+            <album>Trevor Something Does Not Exist</album>
+            <duration>251872</duration>
+            <trackNum>12</trackNum>
+            <location>U:\Shared\Music/Trevor%20Something%20-%20(2014)%20Trevor%20Something%20Does%20Not%20Exist%20-%2012%20Into%20Your%20Heart.mp3</location>
+        </track>
+        <track>
+            <title>Infatuation</title>
+            <creator>Trevor Something</creator>
+            <album>Trevor Something Does Not Exist</album>
+            <duration>240117</duration>
+            <trackNum>5</trackNum>
+            <location>U:\Shared\Music/Trevor%20Something%20-%20(2014)%20Trevor%20Something%20Does%20Not%20Exist%20-%2005%20Infatuation.mp3</location>
+        </track>
+        <track>
+            <title>Searching</title>
+            <creator>Trevor Something</creator>
+            <album>Trevor Something Does Not Exist</album>
+            <duration>264097</duration>
+            <trackNum>6</trackNum>
+            <location>U:\Shared\Music/Trevor%20Something%20-%20(2014)%20Trevor%20Something%20Does%20Not%20Exist%20-%2006%20Searching.mp3</location>
+        </track>
+        <track>
+            <title>Underseas Glow</title>
+            <creator>Karmawin</creator>
+            <duration>214099</duration>
+            <location>U:\Shared\Music/Karmawin%20-%20(2020)%20-%20Underseas%20Glow.mp3</location>
+        </track>
+        <track>
+            <title>Mellow Evening</title>
+            <creator>Soupbox</creator>
+            <duration>158232</duration>
+            <location>U:\Shared\Music/Soupbox%20-%202016%20-%20Mellow%20Evening.mp3</location>
+        </track>
+        <track>
+            <title>Steps (Kupla Master)</title>
+            <creator>dryhope</creator>
+            <album>1 AM Study Session</album>
+            <duration>150804</duration>
+            <location>U:\Shared\Music/ChilledCow%20Records%20-%20(2020)%201%20AM%20Study%20Session%20-%2028%20dryhope%20-%20Steps%20(Kupla%20Master).mp3</location>
+        </track>
+        <track>
+            <title>Gloom (MASTER) (feat. Ambulo)</title>
+            <creator>mell-o</creator>
+            <album>Afloat Again</album>
+            <duration>131265</duration>
+            <trackNum>7</trackNum>
+            <location>U:\Shared\Music/mell-o%20-%20(2020)%20Afloat%20Again%20-%207%20Gloom%20(MASTER)%20(feat.%20Ambulo).mp3</location>
+        </track>
+        <track>
+            <title>O Sol</title>
+            <creator>Vitor Kley</creator>
+            <duration>210504</duration>
+            <location>U:\Shared\Music/Vitor%20Kley%20-%202018%20-%20O%20Sol.mp3</location>
+        </track>
+        <track>
+            <title>7th Sevens</title>
+            <creator>Bonobo</creator>
+            <album>Migration</album>
+            <duration>307408</duration>
+            <trackNum>11</trackNum>
+            <location>U:\Shared\Music/Bonobo%20-%20(2017)%20Migration%20-%207th%20Sevens.mp3</location>
+        </track>
+    </trackList>
+</playlist>

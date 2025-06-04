@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+    <trackList>
+        <track>
+            <title>Street Dreams</title>
+            <creator>LAKEY INSPIRED</creator>
+            <duration>180871</duration>
+            <location>U:\Shared\Music/Lakey%20Inspired%20-%20Street%20Dreams.mp3</location>
+        </track>
+        <track>
+            <title>Steps (Kupla Master)</title>
+            <creator>dryhope</creator>
+            <album>1 AM Study Session</album>
+            <duration>150804</duration>
+            <location>U:\Shared\Music/ChilledCow%20Records%20-%20(2020)%201%20AM%20Study%20Session%20-%2028%20dryhope%20-%20Steps%20(Kupla%20Master).mp3</location>
+        </track>
+        <track>
+            <title>Gloom (MASTER) (feat. Ambulo)</title>
+            <creator>mell-o</creator>
+            <album>Afloat Again</album>
+            <duration>131265</duration>
+            <trackNum>7</trackNum>
+            <location>U:\Shared\Music/mell-o%20-%20(2020)%20Afloat%20Again%20-%207%20Gloom%20(MASTER)%20(feat.%20Ambulo).mp3</location>
+        </track>
+        <track>
+            <title>lazyness</title>
+            <creator>Nothingtosay</creator>
+            <album>Introspective</album>
+            <duration>161880</duration>
+            <trackNum>7</trackNum>
+            <location>U:\Shared\Music/Nothingtosay%20-%20(2020)%20Introspective%20-%207%20-%20lazyness.mp3</location>
+        </track>
+        <track>
+            <title>sing</title>
+            <creator>Kudo</creator>
+            <album>Staring Through</album>
+            <duration>128496</duration>
+            <location>U:\Shared\Music/Kudo%20-%20(2020)%20Staring%20Through%20-%206-sing.mp3</location>
+        </track>
+        <track>
+            <title>Evenings</title>
+            <creator>Snug</creator>
+            <album>Purple Skies</album>
+            <duration>155820</duration>
+            <trackNum>2</trackNum>
+            <location>U:\Shared\Music/Snug%20-%20(2021)%20Purple%20Skies%20-%20Evenings.mp3</location>
+        </track>
+        <track>
+            <title>Shadowed days (feat Towerz and edelwize)</title>
+            <creator>hi jude</creator>
+            <duration>168720</duration>
+            <location>U:\Shared\Music/hi%20jude%20-%20Shadowed%20days%20(feat%20Towerz%20and%20edelwize).mp3</location>
+        </track>
+        <track>
+            <title>Atlantis (feat. Sleepermane)</title>
+            <creator>Casiio</creator>
+            <album>Underneath </album>
+            <duration>122462</duration>
+            <location>U:\Shared\Music/Casiio%20-%20(2020)%20Underneath%20-%20Atlantis%20(feat.%20Sleepermane).mp3</location>
+        </track>
+        <track>
+            <title>Childhood Home</title>
+            <creator>dryhope</creator>
+            <album>Kenopsia</album>
+            <duration>148271</duration>
+            <location>U:\Shared\Music/Dryhope%20-%20(2020)%20Kenopsia%20-%20Childhood%20Home.mp3</location>
+        </track>
+        <track>
+            <title>4 Months</title>
+            <creator>dryhope</creator>
+            <album>Blissful Dreams</album>
+            <duration>187376</duration>
+            <location>U:\Shared\Music/Kupla%20Master%20-%20(2023)%20Blissful%20Dreams%20-%20dryhope%20-%204%20Months.mp3</location>
+        </track>
+    </trackList>
+</playlist>

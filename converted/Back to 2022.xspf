@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+    <trackList>
+        <track>
+            <title>From Time (feat. Jhene Aiko)</title>
+            <creator>Drake</creator>
+            <album>Nothing Was the Same</album>
+            <duration>322200</duration>
+            <trackNum>7</trackNum>
+            <location>U:\Shared\Music/Drake%20-%20(2013)%20Nothing%20Was%20the%20Same%20-%20From%20Time%20(feat.%20Jhene%20Aiko).mp3</location>
+        </track>
+        <track>
+            <title>Demons with Ryu</title>
+            <creator>Emmure</creator>
+            <duration>181760</duration>
+            <location>U:\Shared\Music/Emmure%20-%20Demons%20with%20Ryu.mp3</location>
+        </track>
+        <track>
+            <title>Low Life (ft The Weeknd)</title>
+            <creator>Future</creator>
+            <duration>310099</duration>
+            <location>U:\Shared\Music/Future%20%20The%20Weeknd%20-%20Low%20Life%20Lyrics.mp3</location>
+        </track>
+        <track>
+            <title>Owls of the Night (Kupla Master)</title>
+            <creator>Kupla</creator>
+            <album>1 AM Study Session</album>
+            <duration>141609</duration>
+            <location>U:\Shared\Music/ChilledCow%20Records%20-%20(2020)%201%20AM%20Study%20Session%20-%2018%20Kupla%20-%20Owls%20of%20the%20Night%20(Kupla%20Master).mp3</location>
+        </track>
+        <track>
+            <title>station (master)</title>
+            <creator>Kudo</creator>
+            <album>Staring Through</album>
+            <duration>135053</duration>
+            <location>U:\Shared\Music/Kudo%20-%20(2020)%20Staring%20Through%20-%204-station%20(master).mp3</location>
+        </track>
+        <track>
+            <title>Патрон</title>
+            <creator>Miyagi &amp; Andy Panda</creator>
+            <duration>225048</duration>
+            <location>U:\Shared\Music/Miyagi%20&amp;%20Andy%20Panda%20-%20(2021)%20-%20%D0%9F%D0%B0%D1%82%D1%80%D0%BE%D0%BD.mp3</location>
+        </track>
+        <track>
+            <title>Vestiges of a hard landing</title>
+            <creator>Black Sky Giant</creator>
+            <album>Falling Mothership</album>
+            <duration>344058</duration>
+            <trackNum>1</trackNum>
+            <location>U:\Shared\Music/Black%20Sky%20Giant%20-%20(2021)%20Falling%20Mothership%20-%2001%20Vestiges%20of%20a%20hard%20landing.mp3</location>
+        </track>
+        <track>
+            <title>Batriders</title>
+            <creator>Black Sky Giant</creator>
+            <album>Falling Mothership</album>
+            <duration>262060</duration>
+            <trackNum>2</trackNum>
+            <location>U:\Shared\Music/Black%20Sky%20Giant%20-%20(2021)%20Falling%20Mothership%20-%2002%20Batriders.mp3</location>
+        </track>
+        <track>
+            <title>Quer voar</title>
+            <creator>Matuê</creator>
+            <duration>271056</duration>
+            <location>U:\Shared\Music/Matu%C3%AA%20-%202021%20-%20Quer%20voar.mp3</location>
+        </track>
+        <track>
+            <title>Antes</title>
+            <creator>Matuê</creator>
+            <duration>169152</duration>
+            <location>U:\Shared\Music/Matu%C3%AA%20-%20(2020)%20-%20Antes.mp3</location>
+        </track>
+        <track>
+            <title>Earth</title>
+            <creator>Ishome</creator>
+            <album>Confession</album>
+            <duration>336300</duration>
+            <trackNum>9</trackNum>
+            <location>U:\Shared\Music/Ishome%20-%20(2013)%20Confession%20-%2009%20Earth.mp3</location>
+        </track>
+        <track>
+            <title>Adam</title>
+            <creator>Ishome</creator>
+            <album>Confession</album>
+            <duration>250749</duration>
+            <trackNum>2</trackNum>
+            <location>U:\Shared\Music/Ishome%20-%20(2013)%20Confession%20-%2002%20Adam.mp3</location>
+        </track>
+        <track>
+            <title>In Blur</title>
+            <creator>Deafheaven</creator>
+            <album>Infinite Granite</album>
+            <duration>327288</duration>
+            <location>U:\Shared\Music/Deafheaven%20-%20(2020)%20Infinite%20Granite%20-%20In%20Blur.mp3</location>
+        </track>
+        <track>
+            <title>Just Lovely (originaly by Soundset City)</title>
+            <creator>Savant Shadow</creator>
+            <album>Camera Obscura</album>
+            <duration>377521</duration>
+            <location>U:\Shared\Music/Savant%20Shadow%20-%20(2021)%20Camera%20Obscura%20-%20Just%20Lovely%20(originaly%20by%20Soundset%20City).mp3</location>
+        </track>
+        <track>
+            <title>Dusty windowsill</title>
+            <creator>Savant Shadow</creator>
+            <album>Camera Obscura</album>
+            <duration>293328</duration>
+            <location>U:\Shared\Music/Savant%20Shadow%20-%20(2021)%20Camera%20Obscura%20-%20Dusty%20windowsill.mp3</location>
+        </track>
+        <track>
+            <title>Hankage solar eclipse</title>
+            <creator>Savant Shadow</creator>
+            <album>Camera Obscura</album>
+            <duration>347977</duration>
+            <location>U:\Shared\Music/Savant%20Shadow%20-%20(2021)%20Camera%20Obscura%20-%20Hankage%20solar%20eclipse.mp3</location>
+        </track>
+        <track>
+            <title>Swan Song (feat. Scott Vogel)</title>
+            <creator>Kublai Khan TX</creator>
+            <album>Lowest Form Of Animal</album>
+            <duration>220003</duration>
+            <location>U:\Shared\Music/Kublai%20Khan%20TX%20-%20(2022)%20Swan%20Song%20(feat.%20Scott%20Vogel).mp3</location>
+        </track>
+        <track>
+            <title>Cry (ft. Grimes)</title>
+            <creator>Ashnikko</creator>
+            <duration>129576</duration>
+            <location>U:\Shared\Music/Ashnikko%20-%20(2020)%20Cry%20(ft.%20Grimes).mp3</location>
+        </track>
+        <track>
+            <title>Self-Destruct</title>
+            <creator>Kublai Khan TX</creator>
+            <duration>139284</duration>
+            <location>U:\Shared\Music/Kublai%20Khan%20TX%20-Self-Destruct.mp3</location>
+        </track>
+        <track>
+            <title>Motions</title>
+            <creator>Tibeauthetraveler</creator>
+            <album>Motions</album>
+            <duration>121547</duration>
+            <location>U:\Shared\Music/Tibeauthetraveler%20-%20(2021)%20Motions%20-%20Motions.mp3</location>
+        </track>
+        <track>
+            <title>7 seconds (feat. Neneh Cherry)</title>
+            <creator>Youssou N'Dour</creator>
+            <album>The Guide (Wommat)</album>
+            <duration>308062</duration>
+            <location>U:\Shared\Music/Youssou%20N'Dour%20-%20(1994)%20-%207%20seconds%20(feat.%20Neneh%20Cherry).mp3</location>
+        </track>
+        <track>
+            <title>Dark Necessities</title>
+            <creator>Red Hot Chili Peppers</creator>
+            <album>Get Red Hot Chili Peppers</album>
+            <duration>302184</duration>
+            <location>U:\Shared\Music/Red%20Hot%20Chili%20Peppers%20-%20(2016)%20Get%20Red%20Hot%20Chili%20Peppers%20-%20Dark%20Necessities.mp3</location>
+        </track>
+        <track>
+            <title>Cabaré (Lo Fi version)</title>
+            <creator>Prod Madz</creator>
+            <duration>150840</duration>
+            <location>U:\Shared\Music/Prod%20Madz%20-%20Cabar%C3%A9%20(Lo%20Fi%20version).mp3</location>
+        </track>
+        <track>
+            <title>I'm Fine</title>
+            <creator>Fame On Fire</creator>
+            <duration>222249</duration>
+            <location>U:\Shared\Music/Fame%20On%20Fire%20-%20I'm%20Fine.mp3</location>
+        </track>
+        <track>
+            <title>A.D.H.D</title>
+            <creator>Kendrick Lamar</creator>
+            <duration>215640</duration>
+            <location>U:\Shared\Music/Kendrick%20Lamar%20-%202011%20-%20A.D.H.D.mp3</location>
+        </track>
+        <track>
+            <title>Invisible Medicine (feat Enluv)</title>
+            <creator>Squeeda</creator>
+            <album>Lost World</album>
+            <duration>174602</duration>
+            <location>U:\Shared\Music/Squeeda%20-%20(2021)%20Lost%20World%20-%20Invisible%20Medicine%20(feat%20Enluv).mp3</location>
+        </track>
+        <track>
+            <title>Recaída</title>
+            <creator>Hyperanhas</creator>
+            <duration>194088</duration>
+            <location>U:\Shared\Music/Hyperanhas%20-%20Reca%C3%ADda%20(Prod.%20Ajaxx).mp3</location>
+        </track>
+        <track>
+            <title>Surtou</title>
+            <creator>Hyperanhas</creator>
+            <duration>150000</duration>
+            <location>U:\Shared\Music/Hyperanhas%20-%20Surtou%20(Prod.%20Chris%20Beats%20Zn).mp3</location>
+        </track>
+        <track>
+            <title>The most evil tone</title>
+            <creator>Manuel Gardner Fernandes</creator>
+            <duration>76486</duration>
+            <location>U:\Shared\Music/Manuel%20Gardner%20Fernandes%20-%20(2022)%20The%20most%20evil%20tone.mp3</location>
+        </track>
+        <track>
+            <title>Skies</title>
+            <creator>Manuel Gardner Fernandes</creator>
+            <duration>110968</duration>
+            <location>U:\Shared\Music/Manuel%20Gardner%20Fernandes%20-%20(2022)%20-%20Skies.mp3</location>
+        </track>
+        <track>
+            <title>São Gonça (Jdutra remix Lo Fi)</title>
+            <creator>Seu Jorge</creator>
+            <duration>235296</duration>
+            <location>U:\Shared\Music/Seu%20Jorge%20-%20S%C3%A3o%20Gon%C3%A7a%20(JDutra%20remix%20Lo%20Fi).mp3</location>
+        </track>
+        <track>
+            <title>Running Up That Hill (A deal with God)</title>
+            <creator>Kate Bush</creator>
+            <album>Hounds of Love</album>
+            <duration>296544</duration>
+            <trackNum>1</trackNum>
+            <location>U:\Shared\Music/Kate%20Bush%20-%20(1985)%20Hounds%20of%20Love%20-%20Running%20Up%20That%20Hill%20(A%20deal%20with%20God).mp3</location>
+        </track>
+        <track>
+            <title>Tudo Nosso (Ft. Anitta)</title>
+            <creator>Filipe Ret</creator>
+            <duration>166752</duration>
+            <location>U:\Shared\Music/Filipe%20Ret%20-%20(2022)%20-%20Tudo%20Nosso%20(ft.%20Anitta).mp3</location>
+        </track>
+        <track>
+            <title>The Indian</title>
+            <creator>Mathieu &amp; Florzinho</creator>
+            <album>Know Thyself</album>
+            <duration>320040</duration>
+            <location>U:\Shared\Music/Mathieu%20And%20Florzinho%20-%20(2013)%20-%20The%20Indian.mp3</location>
+        </track>
+        <track>
+            <title>Omid</title>
+            <creator>Thievery Corporation</creator>
+            <album>The Richest Man in Babylon</album>
+            <duration>228388</duration>
+            <location>U:\Shared\Music/Thievery%20Corporation%20-%20(2002)%20The%20Richest%20Man%20in%20Babylon%20-%20Omid.mp3</location>
+        </track>
+        <track>
+            <title>Until the Morning</title>
+            <creator>Thievery Corporation</creator>
+            <album>The Richest Man in Babylon</album>
+            <duration>237061</duration>
+            <location>U:\Shared\Music/Thievery%20Corporation%20-%20(2002)%20The%20Richest%20Man%20in%20Babylon%20-%20Until%20the%20Morning.mp3</location>
+        </track>
+        <track>
+            <title>Resolution</title>
+            <creator>Thievery Corporation</creator>
+            <album>The Richest Man in Babylon</album>
+            <duration>286746</duration>
+            <location>U:\Shared\Music/Thievery%20Corporation%20-%20(2002)%20The%20Richest%20Man%20in%20Babylon%20-%20Resolution.mp3</location>
+        </track>
+        <track>
+            <title>The Glass and Bead Game</title>
+            <creator>Thievery Corporation</creator>
+            <album>Sounds from the Thievery Hi-Fi</album>
+            <duration>372819</duration>
+            <location>U:\Shared\Music/Thievery%20Corporation%20-%20(1996)%20Sounds%20from%20the%20Thievery%20Hi-Fi%20-%20The%20Glass%20and%20Bead%20Game.mp3</location>
+        </track>
+        <track>
+            <title>Superstition</title>
+            <creator>Soulfly</creator>
+            <album>Totem</album>
+            <duration>193632</duration>
+            <location>U:\Shared\Music/Soulfly%20-%20(2022)%20Totem%20-%20Superstition.mp3</location>
+        </track>
+        <track>
+            <title>I Never Thought I'd See the Day</title>
+            <creator>Sade</creator>
+            <duration>254093</duration>
+            <location>U:\Shared\Music/Sade%20-%20I%20Never%20Thought%20I'd%20See%20the%20Day.mp3</location>
+        </track>
+        <track>
+            <title>Reckless</title>
+            <creator>Lacuna Coil</creator>
+            <album>Black Anima</album>
+            <duration>185234</duration>
+            <location>U:\Shared\Music/Lacuna%20Coil%20-%20(2019)%20Black%20Anima%20-%20Reckless.mp3</location>
+        </track>
+        <track>
+            <title>Barulho de Chuva</title>
+            <creator>Lil Whind</creator>
+            <duration>156865</duration>
+            <location>U:\Shared\Music/Lil%20Whind%20-%20(2022)%20-%20Barulho%20de%20Chuva.mp3</location>
+        </track>
+        <track>
+            <title>Rodent</title>
+            <creator>Burial</creator>
+            <duration>265195</duration>
+            <location>U:\Shared\Music/Burial%20-%20(2017)%20-%20Rodent.mp3</location>
+        </track>
+        <track>
+            <title>You Right (feat The Weeknd)</title>
+            <creator>Doja Cat</creator>
+            <album>Planet Her</album>
+            <duration>186253</duration>
+            <location>U:\Shared\Music/Doja%20Cat%20-%20(2021)%20Planet%20Her%20-%20You%20Right%20(feat%20The%20Weeknd).mp3</location>
+        </track>
+        <track>
+            <title>Hoje Não</title>
+            <creator>Djonga</creator>
+            <duration>230426</duration>
+            <location>U:\Shared\Music/Djonga%20-%20Hoje%20N%C3%A3o.mp3</location>
+        </track>
+        <track>
+            <title>Todo Errado</title>
+            <creator>Djonga</creator>
+            <duration>206106</duration>
+            <location>U:\Shared\Music/Djonga%20-%20Todo%20Errado.mp3</location>
+        </track>
+        <track>
+            <title>Psiu (ft Cynthia Luz)</title>
+            <creator>Froid</creator>
+            <duration>147382</duration>
+            <location>U:\Shared\Music/Froid%20-%20Psiu%20(ft%20Cynthia%20Luz).mp3</location>
+        </track>
+        <track>
+            <title>Homem De Lata</title>
+            <creator>Cynthia Luz</creator>
+            <duration>204120</duration>
+            <location>U:\Shared\Music/Cynthia%20Luz%20-%20Homem%20De%20Lata.mp3</location>
+        </track>
+        <track>
+            <title>Paralisou</title>
+            <creator>Cynthia Luz</creator>
+            <duration>193724</duration>
+            <location>U:\Shared\Music/Cynthia%20Luz%20-%20Paralisou.mp3</location>
+        </track>
+        <track>
+            <title>Teardrops</title>
+            <creator>Bring Me the Horizon</creator>
+            <album>Post Human: Survival Horror</album>
+            <duration>217338</duration>
+            <location>U:\Shared\Music/Bring%20Me%20The%20Horizon%20-%20Teardrops.mp3</location>
+        </track>
+        <track>
+            <title>Until The World Goes Cold</title>
+            <creator>Trivium</creator>
+            <duration>322246</duration>
+            <location>U:\Shared\Music/Trivium%20-%20Until%20The%20World%20Goes%20Cold.mp3</location>
+        </track>
+        <track>
+            <title>Swamped XX</title>
+            <creator>Lacuna Coil</creator>
+            <duration>229355</duration>
+            <location>U:\Shared\Music/Lacuna%20Coil%20-%20Swamped%20XX.mp3</location>
+        </track>
+        <track>
+            <title>A gostosa sabe rebolar (DJ Pedro)</title>
+            <creator>MC Davi</creator>
+            <duration>176431</duration>
+            <location>U:\Shared\Music/MC%20Davi%20-%20A%20gostosa%20sabe%20rebolar%20(DJ%20Pedro).mp3</location>
+        </track>
+        <track>
+            <title>Undone</title>
+            <creator>Thousand Thoughts</creator>
+            <album>Better Than Never</album>
+            <duration>190876</duration>
+            <location>U:\Shared\Music/Thousand%20Thoughts%20-%20(2022)%20xxxxxxxxxxx%20-%20Undone.mp3</location>
+        </track>
+        <track>
+            <title>Evolving (feat. Shaolin G)</title>
+            <creator>Darko US</creator>
+            <album>Oni</album>
+            <duration>174341</duration>
+            <trackNum>7</trackNum>
+            <location>U:\Shared\Music/Darko%20US%20-%20(2022)%20Oni%20-%20Evolving%20(feat.%20Shaolin%20G).mp3</location>
+        </track>
+        <track>
+            <title>Dragon Chaser</title>
+            <creator>Darko US</creator>
+            <album>Oni</album>
+            <duration>239307</duration>
+            <trackNum>4</trackNum>
+            <location>U:\Shared\Music/Darko%20US%20-%20(2022)%20Oni%20-%20Dragon%20Chaser.mp3</location>
+        </track>
+        <track>
+            <title>Looking Glass</title>
+            <creator>Darko US</creator>
+            <album>Oni</album>
+            <duration>161097</duration>
+            <trackNum>2</trackNum>
+            <location>U:\Shared\Music/Darko%20US%20-%20(2022)%20Oni%20-%20Looking%20Glass.mp3</location>
+        </track>
+        <track>
+            <title>Oni</title>
+            <creator>Darko US</creator>
+            <album>Oni</album>
+            <duration>139755</duration>
+            <trackNum>10</trackNum>
+            <location>U:\Shared\Music/Darko%20US%20-%20(2022)%20Oni%20-%20Oni.mp3</location>
+        </track>
+        <track>
+            <title>Vinyl Days (ft. DJ Premier)</title>
+            <creator>Logic</creator>
+            <duration>282775</duration>
+            <location>U:\Shared\Music/Logic%20-%20Vinyl%20Days.mp3</location>
+        </track>
+        <track>
+            <title>Core</title>
+            <creator>Neronus</creator>
+            <album>Blassed Tapes</album>
+            <duration>168202</duration>
+            <location>U:\Shared\Music/Neronus%20-%20(2020)%20Blassed%20Tapes%20-%20Core.mp3</location>
+        </track>
+        <track>
+            <title>Overdose</title>
+            <creator>Neronus</creator>
+            <album>Reason to Exist </album>
+            <duration>168071</duration>
+            <location>U:\Shared\Music/Neronus%20-%20(2021)%20Reason%20to%20Exist%20-%20Overdose.mp3</location>
+        </track>
+        <track>
+            <title>O Mal e o Bem</title>
+            <creator>Racionais</creator>
+            <album>Cores &amp; Valores</album>
+            <duration>299102</duration>
+            <location>U:\Shared\Music/Racionais%20-%20(2014)%20Cores%20&amp;%20Valores%20-%20O%20Mal%20e%20o%20Bem.mp3</location>
+        </track>
+        <track>
+            <title>After Dark</title>
+            <creator>Mr. Kitty</creator>
+            <album>Time</album>
+            <duration>259239</duration>
+            <location>U:\Shared\Music/Mr.%20Kitty%20-%20(2014)%20Time%20-%20After%20Dark.mp3</location>
+        </track>
+        <track>
+            <title>Holier</title>
+            <creator>††† (Crosses)</creator>
+            <duration>236800</duration>
+            <location>U:\Shared\Music/Crosses%20-%20(2022)%20xxxxxx%20-%20Holier.mp3</location>
+        </track>
+        <track>
+            <title>Danger Zone</title>
+            <creator>Kenny Loggins</creator>
+            <duration>210504</duration>
+            <location>U:\Shared\Music/Kenny%20Loggins%20-%20Danger%20Zone.mp3</location>
+        </track>
+        <track>
+            <title>She Just Wanna Ride (feat. Aaron Carter)</title>
+            <creator>3D Friends</creator>
+            <duration>162384</duration>
+            <location>U:\Shared\Music/3D%20Friends%20-%20(2022)%20-%20She%20Just%20Wanna%20Ride%20(feat.%20Aaron%20Carter).mp3</location>
+        </track>
+        <track>
+            <title>Trollz (feat. Nicki Minaj)</title>
+            <creator>6ix9ine</creator>
+            <album>Unknown</album>
+            <duration>205609</duration>
+            <location>U:\Shared\Music/6ix9ine%20-%20TROLLZ%20(Nicki%20Minaj).mp3</location>
+        </track>
+        <track>
+            <title>Gotti</title>
+            <creator>6ix9ine</creator>
+            <album>Unknown</album>
+            <duration>167471</duration>
+            <location>U:\Shared\Music/6ix9ine%20-%20Gotti.mp3</location>
+        </track>
+        <track>
+            <title>Uma linda mulher (Acústico)</title>
+            <creator>Xamã</creator>
+            <duration>212427</duration>
+            <location>U:\Shared\Music/Xam%C3%A3%20-%20Uma%20linda%20mulher%20(Ac%C3%BAstico)%20(Prod.%20DJ%20Gustah).mp3</location>
+        </track>
+    </trackList>
+</playlist>

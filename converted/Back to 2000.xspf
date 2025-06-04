@@ -1,0 +1,709 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+    <trackList>
+        <track>
+            <title>Man In The Box</title>
+            <creator>Alice in Chains</creator>
+            <album>Facelift</album>
+            <duration>286615</duration>
+            <location>U:\Shared\Music/Alice%20In%20Chains%20-%20(1990)%20Facelift%20-%20Man%20In%20The%20Box.mp3</location>
+        </track>
+        <track>
+            <title>Angels Cry</title>
+            <creator>Angra</creator>
+            <album>Angels Cry</album>
+            <duration>407040</duration>
+            <trackNum>4</trackNum>
+            <location>U:\Shared\Music/Angra%20-%20(1995)%20Angels%20Cry%20-%20Angels%20Cry.mp3</location>
+        </track>
+        <track>
+            <title>Carry On</title>
+            <creator>Angra</creator>
+            <album>Angels Cry</album>
+            <duration>303046</duration>
+            <trackNum>2</trackNum>
+            <location>U:\Shared\Music/Angra%20-%20(1995)%20Angels%20Cry%20-%20Carry%20On.mp3</location>
+        </track>
+        <track>
+            <title>Streets of Tomorrow</title>
+            <creator>Angra</creator>
+            <album>Angels Cry</album>
+            <duration>302027</duration>
+            <trackNum>8</trackNum>
+            <location>U:\Shared\Music/Angra%20-%20(1995)%20Angels%20Cry%20-%20Streets%20of%20Tomorrow.mp3</location>
+        </track>
+        <track>
+            <title>Time</title>
+            <creator>Angra</creator>
+            <album>Angels Cry</album>
+            <duration>355030</duration>
+            <trackNum>3</trackNum>
+            <location>U:\Shared\Music/Angra%20-%20(1995)%20Angels%20Cry%20-%20Time.mp3</location>
+        </track>
+        <track>
+            <title>Nothing to Say</title>
+            <creator>Angra</creator>
+            <album>Holy Land</album>
+            <duration>381857</duration>
+            <trackNum>2</trackNum>
+            <location>U:\Shared\Music/Angra%20-%20(1996)%20Holy%20land%20-%20Nothing%20to%20Say.mp3</location>
+        </track>
+        <track>
+            <title>Queen of the night</title>
+            <creator>Angra</creator>
+            <album>Freedon Call</album>
+            <duration>278047</duration>
+            <trackNum>2</trackNum>
+            <location>U:\Shared\Music/Angra%20-%20(2006)%20Freedon%20Call%20-%20Queen%20of%20the%20night.mp3</location>
+        </track>
+        <track>
+            <title>Fogo</title>
+            <creator>Capital Inicial</creator>
+            <album>Acústico MTV</album>
+            <duration>297456</duration>
+            <trackNum>11</trackNum>
+            <location>U:\Shared\Music/Capital%20Inicial%20-%20(2000)%20Ac%C3%BAstico%20MTV%20-%20Fogo.mp3</location>
+        </track>
+        <track>
+            <title>O Mundo</title>
+            <creator>Capital Inicial</creator>
+            <album>Acústico MTV</album>
+            <duration>253753</duration>
+            <trackNum>2</trackNum>
+            <location>U:\Shared\Music/Capital%20Inicial%20-%20(2000)%20Ac%C3%BAstico%20MTV%20-%20O%20Mundo.mp3</location>
+        </track>
+        <track>
+            <title>Primeiros Erros (Chove)</title>
+            <creator>Capital Inicial</creator>
+            <album>Acústico MTV</album>
+            <duration>244035</duration>
+            <trackNum>8</trackNum>
+            <location>U:\Shared\Music/Capital%20Inicial%20-%20(2000)%20Ac%C3%BAstico%20MTV%20-%20Primeiros%20Erros%20(Chove).mp3</location>
+        </track>
+        <track>
+            <title>Mantenha a dúvida</title>
+            <creator>Charlie Brown Jr.</creator>
+            <album>Preço Curto Prazo Longo</album>
+            <duration>184058</duration>
+            <trackNum>14</trackNum>
+            <location>U:\Shared\Music/Charlie%20Brown%20Jr.%20-%20(1999)%20Pre%C3%A7o%20Curto%20Prazo%20Longo%20-%20Mantenha%20a%20D%C3%BAvida.mp3</location>
+        </track>
+        <track>
+            <title>Resolve meu problema aí</title>
+            <creator>Charlie Brown Jr.</creator>
+            <album>Preço Curto Prazo Longo</album>
+            <duration>179539</duration>
+            <location>U:\Shared\Music/Charlie%20Brown%20Jr.%20-%20(1999)%20Pre%C3%A7o%20Curto%20Prazo%20Longo%20-%20Resolve%20Meu%20Problema%20Ai.mp3</location>
+        </track>
+        <track>
+            <title>Be Buried Alive</title>
+            <creator>Claustrofobia</creator>
+            <album>Claustrofobia</album>
+            <duration>209266</duration>
+            <trackNum>1</trackNum>
+            <location>U:\Shared\Music/Claustrofobia%20-%20(2000)%20Claustrofobia%20-%20Be%20Buried%20Alive.mp3</location>
+        </track>
+        <track>
+            <title>Butterfly</title>
+            <creator>Crazy Town</creator>
+            <album>The Gift of Game</album>
+            <duration>214099</duration>
+            <trackNum>6</trackNum>
+            <location>U:\Shared\Music/Crazy%20Town%20-%20(1999)%20The%20Gift%20of%20Game%20-%20Butterfly.mp3</location>
+        </track>
+        <track>
+            <title>With Arms Wide Open</title>
+            <creator>Creed</creator>
+            <album>Human Clay</album>
+            <duration>274782</duration>
+            <trackNum>8</trackNum>
+            <location>U:\Shared\Music/Creed%20-%20(1999)%20Human%20Clay%20-%20With%20Arms%20Wide%20Open.mp3</location>
+        </track>
+        <track>
+            <title>Don't Cry</title>
+            <creator>Guns N' Roses</creator>
+            <album>Use Your Illusion I</album>
+            <duration>284786</duration>
+            <trackNum>4</trackNum>
+            <location>U:\Shared\Music/Guns%20N%20Roses%20-%20(1991)%20Use%20your%20illusion%20I%20-%20Don't%20Cry.mp3</location>
+        </track>
+        <track>
+            <title>November Rain</title>
+            <creator>Guns N' Roses</creator>
+            <album>Use Your Illusion I</album>
+            <duration>537443</duration>
+            <trackNum>10</trackNum>
+            <location>U:\Shared\Music/Guns%20N%20Roses%20-%20(1991)%20Use%20your%20illusion%20I%20-%20November%20Rain.mp3</location>
+        </track>
+        <track>
+            <title>Estranged</title>
+            <creator>Guns N' Roses</creator>
+            <album>Use Your Illusion II</album>
+            <duration>563879</duration>
+            <trackNum>11</trackNum>
+            <location>U:\Shared\Music/Guns%20N%20Roses%20-%20(1991)%20Use%20your%20illusion%20II%20-%20Estranged.mp3</location>
+        </track>
+        <track>
+            <title>You Could Be Mine</title>
+            <creator>Guns N' Roses</creator>
+            <album>Use Your Illusion II</album>
+            <duration>343640</duration>
+            <trackNum>12</trackNum>
+            <location>U:\Shared\Music/Guns%20N%20Roses%20-%20(1991)%20Use%20your%20illusion%20II%20-%20You%20Could%20Be%20Mine.mp3</location>
+        </track>
+        <track>
+            <title>Sole Survivor</title>
+            <creator>Helloween</creator>
+            <album>High Live</album>
+            <duration>324884</duration>
+            <trackNum>3</trackNum>
+            <location>U:\Shared\Music/Helloween%20-%20(1996)%20High%20Live%20-%20Sole%20Survivor.mp3</location>
+        </track>
+        <track>
+            <title>I Can</title>
+            <creator>Helloween</creator>
+            <album>Better Than Raw</album>
+            <duration>279379</duration>
+            <location>U:\Shared\Music/Helloween%20-%20(1998)%20Better%20Than%20Raw%20-%20I%20Can.mp3</location>
+        </track>
+        <track>
+            <title>Blood Brothers</title>
+            <creator>Iron Maiden</creator>
+            <album>Brave new world</album>
+            <duration>434416</duration>
+            <trackNum>4</trackNum>
+            <location>U:\Shared\Music/Iron%20Maiden%20-%20(2000)%20Brave%20New%20World%20-%20Blood%20Brothers.mp3</location>
+        </track>
+        <track>
+            <title>Brave New World</title>
+            <creator>Iron Maiden</creator>
+            <album>Brave new world</album>
+            <duration>378958</duration>
+            <trackNum>3</trackNum>
+            <location>U:\Shared\Music/Iron%20Maiden%20-%20(2000)%20Brave%20New%20World%20-%20Brave%20New%20World.mp3</location>
+        </track>
+        <track>
+            <title>Dream Of Mirrors</title>
+            <creator>Iron Maiden</creator>
+            <album>Brave new world</album>
+            <duration>561162</duration>
+            <trackNum>6</trackNum>
+            <location>U:\Shared\Music/Iron%20Maiden%20-%20(2000)%20Brave%20New%20World%20-%20Dream%20Of%20Mirrors.mp3</location>
+        </track>
+        <track>
+            <title>Ghost Of The Navigator</title>
+            <creator>Iron Maiden</creator>
+            <album>Brave new world</album>
+            <duration>410070</duration>
+            <trackNum>2</trackNum>
+            <location>U:\Shared\Music/Iron%20Maiden%20-%20(2000)%20Brave%20New%20World%20-%20Ghost%20Of%20The%20Navigator.mp3</location>
+        </track>
+        <track>
+            <title>Out Of The Silent Planet</title>
+            <creator>Iron Maiden</creator>
+            <album>Brave new world</album>
+            <duration>385541</duration>
+            <trackNum>9</trackNum>
+            <location>U:\Shared\Music/Iron%20Maiden%20-%20(2000)%20Brave%20New%20World%20-%20Out%20Of%20The%20Silent%20Planet.mp3</location>
+        </track>
+        <track>
+            <title>The Mercenary</title>
+            <creator>Iron Maiden</creator>
+            <album>Brave new world</album>
+            <duration>282462</duration>
+            <trackNum>5</trackNum>
+            <location>U:\Shared\Music/Iron%20Maiden%20-%20(2000)%20Brave%20New%20World%20-%20The%20Mercenary.mp3</location>
+        </track>
+        <track>
+            <title>The Nomad</title>
+            <creator>Iron Maiden</creator>
+            <album>Brave new world</album>
+            <duration>546115</duration>
+            <trackNum>8</trackNum>
+            <location>U:\Shared\Music/Iron%20Maiden%20-%20(2000)%20Brave%20New%20World%20-%20The%20Nomad.mp3</location>
+        </track>
+        <track>
+            <title>The Thin Line Between Love &amp; Hate</title>
+            <creator>Iron Maiden</creator>
+            <album>Brave new world</album>
+            <duration>506044</duration>
+            <trackNum>10</trackNum>
+            <location>U:\Shared\Music/Iron%20Maiden%20-%20(2000)%20Brave%20New%20World%20-%20The%20Thin%20Line%20Between%20Love%20&amp;%20Hate.mp3</location>
+        </track>
+        <track>
+            <title>The Wicker Man</title>
+            <creator>Iron Maiden</creator>
+            <album>Brave new world</album>
+            <duration>275539</duration>
+            <trackNum>1</trackNum>
+            <location>U:\Shared\Music/Iron%20Maiden%20-%20(2000)%20Brave%20New%20World%20-%20The%20Wicker%20Man.mp3</location>
+        </track>
+        <track>
+            <title>Afraid To Shoot Strangers</title>
+            <creator>Iron Maiden</creator>
+            <album>From Fear To Eternity</album>
+            <duration>417123</duration>
+            <trackNum>9</trackNum>
+            <location>U:\Shared\Music/Iron%20Maiden%20-%20(2011)%20From%20Fear%20to%20Eternity%20-%20Afraid%20To%20Shoot%20Strangers.mp3</location>
+        </track>
+        <track>
+            <title>Brackish (Europe version)</title>
+            <creator>Kittie</creator>
+            <album>Spit</album>
+            <duration>138448</duration>
+            <trackNum>5</trackNum>
+            <location>U:\Shared\Music/Kittie%20-%20(1999)%20Spit%20-%20Brackish%20(Europe%20version).mp3</location>
+        </track>
+        <track>
+            <title>Charlotte</title>
+            <creator>Kittie</creator>
+            <album>Spit</album>
+            <duration>237113</duration>
+            <trackNum>2</trackNum>
+            <location>U:\Shared\Music/Kittie%20-%20(1999)%20Spit%20-%20Charlotte.mp3</location>
+        </track>
+        <track>
+            <title>Spit</title>
+            <creator>Kittie</creator>
+            <album>Spit</album>
+            <duration>140930</duration>
+            <trackNum>1</trackNum>
+            <location>U:\Shared\Music/Kittie%20-%20(1999)%20Spit%20-%20Spit.mp3</location>
+        </track>
+        <track>
+            <title>Suck</title>
+            <creator>Kittie</creator>
+            <album>Spit</album>
+            <duration>211931</duration>
+            <trackNum>3</trackNum>
+            <location>U:\Shared\Music/Kittie%20-%20(1999)%20Spit%20-%20Suck.mp3</location>
+        </track>
+        <track>
+            <title>Beg For Me</title>
+            <creator>Korn</creator>
+            <album>Issues</album>
+            <duration>233926</duration>
+            <trackNum>5</trackNum>
+            <location>U:\Shared\Music/Korn%20-%20(1999)%20Issues%20-%20Beg%20For%20Me.mp3</location>
+        </track>
+        <track>
+            <title>Dirty</title>
+            <creator>Korn</creator>
+            <album>Issues</album>
+            <duration>472372</duration>
+            <trackNum>16</trackNum>
+            <location>U:\Shared\Music/Korn%20-%20(1999)%20Issues%20-%20Dirty.mp3</location>
+        </track>
+        <track>
+            <title>Falling Away From Me</title>
+            <creator>Korn</creator>
+            <album>Issues</album>
+            <duration>270733</duration>
+            <trackNum>2</trackNum>
+            <location>U:\Shared\Music/Korn%20-%20(1999)%20Issues%20-%20Falling%20Away%20From%20Me.mp3</location>
+        </track>
+        <track>
+            <title>Let's Get This Party Started</title>
+            <creator>Korn</creator>
+            <album>Issues</album>
+            <duration>221309</duration>
+            <trackNum>13</trackNum>
+            <location>U:\Shared\Music/Korn%20-%20(1999)%20Issues%20-%20Let's%20Get%20This%20Party%20Started.mp3</location>
+        </track>
+        <track>
+            <title>Make Me Bad</title>
+            <creator>Korn</creator>
+            <album>Issues</album>
+            <duration>235520</duration>
+            <trackNum>6</trackNum>
+            <location>U:\Shared\Music/Korn%20-%20(1999)%20Issues%20-%20Make%20Me%20Bad.mp3</location>
+        </track>
+        <track>
+            <title>Trash</title>
+            <creator>Korn</creator>
+            <album>Issues</album>
+            <duration>207177</duration>
+            <trackNum>3</trackNum>
+            <location>U:\Shared\Music/Korn%20-%20(1999)%20Issues%20-%20Trash.mp3</location>
+        </track>
+        <track>
+            <title>Wake Up</title>
+            <creator>Korn</creator>
+            <album>Issues</album>
+            <duration>247928</duration>
+            <trackNum>8</trackNum>
+            <location>U:\Shared\Music/Korn%20-%20(1999)%20Issues%20-%20Wake%20Up.mp3</location>
+        </track>
+        <track>
+            <title>Papercut</title>
+            <creator>Linkin Park</creator>
+            <album>Hybrid Theory</album>
+            <duration>186827</duration>
+            <trackNum>1</trackNum>
+            <location>U:\Shared\Music/Linkin%20Park%20-%20(2000)%20Hybrid%20Theory%20-%20Pista%20Audio%2001.mp3</location>
+        </track>
+        <track>
+            <title>One step closer</title>
+            <creator>Linkin Park</creator>
+            <album>Hybrid Theory</album>
+            <duration>157779</duration>
+            <trackNum>2</trackNum>
+            <location>U:\Shared\Music/Linkin%20Park%20-%20(2000)%20Hybrid%20Theory%20-%20Pista%20Audio%2002.mp3</location>
+        </track>
+        <track>
+            <title>Points of Authority</title>
+            <creator>Linkin Park</creator>
+            <album>Hybrid Theory</album>
+            <duration>202370</duration>
+            <trackNum>4</trackNum>
+            <location>U:\Shared\Music/Linkin%20Park%20-%20(2000)%20Hybrid%20Theory%20-%20Pista%20Audio%2004.mp3</location>
+        </track>
+        <track>
+            <title>Crawling</title>
+            <creator>Linkin Park</creator>
+            <album>Hybrid Theory</album>
+            <duration>211121</duration>
+            <trackNum>5</trackNum>
+            <location>U:\Shared\Music/Linkin%20Park%20-%20(2000)%20Hybrid%20Theory%20-%20Pista%20Audio%2005.mp3</location>
+        </track>
+        <track>
+            <title>Runaway</title>
+            <creator>Linkin Park</creator>
+            <album>Hybrid Theory</album>
+            <duration>186044</duration>
+            <trackNum>6</trackNum>
+            <location>U:\Shared\Music/Linkin%20Park%20-%20(2000)%20Hybrid%20Theory%20-%20Pista%20Audio%2006.mp3</location>
+        </track>
+        <track>
+            <title>In the end</title>
+            <creator>Linkin Park</creator>
+            <album>Hybrid Theory</album>
+            <duration>218409</duration>
+            <trackNum>8</trackNum>
+            <location>U:\Shared\Music/Linkin%20Park%20-%20(2000)%20Hybrid%20Theory%20-%20Pista%20Audio%2008.mp3</location>
+        </track>
+        <track>
+            <title>Lakini's Juice</title>
+            <creator>Live</creator>
+            <album>Secret Samadhi</album>
+            <duration>299266</duration>
+            <trackNum>2</trackNum>
+            <location>U:\Shared\Music/Live%20-%20(1997)%20Secret%20Samadhi%20-%20Lakini's%20Juice.m4a</location>
+        </track>
+        <track>
+            <title>Drowned World / Substitute For Love</title>
+            <creator>Madonna</creator>
+            <album>Ray of Light</album>
+            <duration>309211</duration>
+            <trackNum>1</trackNum>
+            <location>U:\Shared\Music/Madonna%20-%20(1998)%20Rain%20of%20Light%20-%20Drowned%20World%20%20Substitute%20For%20Love.mp3</location>
+        </track>
+        <track>
+            <title>Frozen</title>
+            <creator>Madonna</creator>
+            <album>Ray of Light</album>
+            <duration>372558</duration>
+            <trackNum>9</trackNum>
+            <location>U:\Shared\Music/Madonna%20-%20(1998)%20Rain%20of%20Light%20-%20Frozen.mp3</location>
+        </track>
+        <track>
+            <title>Nothing Really Matters</title>
+            <creator>Madonna</creator>
+            <album>Ray of Light</album>
+            <duration>266579</duration>
+            <trackNum>6</trackNum>
+            <location>U:\Shared\Music/Madonna%20-%20(1998)%20Rain%20of%20Light%20-%20Nothing%20Really%20Matters.mp3</location>
+        </track>
+        <track>
+            <title>Skin</title>
+            <creator>Madonna</creator>
+            <album>Ray of Light</album>
+            <duration>382119</duration>
+            <trackNum>5</trackNum>
+            <location>U:\Shared\Music/Madonna%20-%20(1998)%20Rain%20of%20Light%20-%20Skin.mp3</location>
+        </track>
+        <track>
+            <title>Sky Fits Heaven</title>
+            <creator>Madonna</creator>
+            <album>Ray of Light</album>
+            <duration>287608</duration>
+            <trackNum>7</trackNum>
+            <location>U:\Shared\Music/Madonna%20-%20(1998)%20Rain%20of%20Light%20-%20Sky%20Fits%20Heaven.mp3</location>
+        </track>
+        <track>
+            <title>The Power Of Good-bye</title>
+            <creator>Madonna</creator>
+            <album>Ray of Light</album>
+            <duration>252342</duration>
+            <trackNum>10</trackNum>
+            <location>U:\Shared\Music/Madonna%20-%20(1998)%20Rain%20of%20Light%20-%20The%20Power%20Of%20Good-bye.mp3</location>
+        </track>
+        <track>
+            <title>The Power Of Thy Sword</title>
+            <creator>Manowar</creator>
+            <album>The Triumph Of Steel</album>
+            <duration>470909</duration>
+            <trackNum>6</trackNum>
+            <location>U:\Shared\Music/Manowar%20-%20(1992)%20The%20Triumph%20of%20Steel%20-%20The%20Power%20Of%20Thy%20Sword.mp3</location>
+        </track>
+        <track>
+            <title>BotPack #9</title>
+            <creator>Michiel van den Bos</creator>
+            <album>Unreal Tournament Original Soundtrack</album>
+            <duration>289828</duration>
+            <location>U:\Shared\Music/Michiel%20van%20den%20Bos%20-%20(1999)%20Unreal%20Tournament%20-%20BotPack%20%239%20(Botmca9.umx).mp3</location>
+        </track>
+        <track>
+            <title>Foregone Destruction</title>
+            <creator>Michiel van den Bos</creator>
+            <album>Unreal Tournament Original Soundtrack</album>
+            <duration>251559</duration>
+            <location>U:\Shared\Music/Michiel%20van%20den%20Bos%20-%20(1999)%20Unreal%20Tournament%20-%20Foregone%20Destruction.mp3</location>
+        </track>
+        <track>
+            <title>Organic</title>
+            <creator>Michiel van den Bos</creator>
+            <album>Unreal Tournament Original Soundtrack</album>
+            <duration>183562</duration>
+            <location>U:\Shared\Music/Michiel%20van%20den%20Bos%20-%20(1999)%20Unreal%20Tournament%20-%20Organic.mp3</location>
+        </track>
+        <track>
+            <title>Phantom</title>
+            <creator>Michiel van den Bos</creator>
+            <album>Unreal Tournament Original Soundtrack</album>
+            <duration>361404</duration>
+            <location>U:\Shared\Music/Michiel%20van%20den%20Bos%20-%20(1999)%20Unreal%20Tournament%20-%20Phantom.mp3</location>
+        </track>
+        <track>
+            <title>Save Me</title>
+            <creator>Michiel van den Bos</creator>
+            <album>Unreal Tournament Original Soundtrack</album>
+            <duration>112822</duration>
+            <location>U:\Shared\Music/Michiel%20van%20den%20Bos%20-%20(1999)%20Unreal%20Tournament%20-%20Save%20Me%20(SaveMe.umx).mp3</location>
+        </track>
+        <track>
+            <title>SuperFist</title>
+            <creator>Michiel van den Bos</creator>
+            <album>Unreal Tournament Original Soundtrack</album>
+            <duration>118021</duration>
+            <location>U:\Shared\Music/Michiel%20van%20den%20Bos%20-%20(1999)%20Unreal%20Tournament%20-%20SuperFist.mp3</location>
+        </track>
+        <track>
+            <title>The Course</title>
+            <creator>Michiel van den Bos</creator>
+            <album>Unreal Tournament Original Soundtrack</album>
+            <duration>268826</duration>
+            <location>U:\Shared\Music/Michiel%20van%20den%20Bos%20-%20(1999)%20Unreal%20Tournament%20-%20The%20Course%20(Course.umx).mp3</location>
+        </track>
+        <track>
+            <title>Between Angels And Insects</title>
+            <creator>Papa Roach</creator>
+            <album>Infest</album>
+            <duration>234553</duration>
+            <trackNum>5</trackNum>
+            <location>U:\Shared\Music/Papa%20Roach%20-%20(2000)%20Infest%20-%20Between%20Angels%20And%20Insects.mp3</location>
+        </track>
+        <track>
+            <title>Blood Brothers</title>
+            <creator>Papa Roach</creator>
+            <album>Infest</album>
+            <duration>213890</duration>
+            <trackNum>6</trackNum>
+            <location>U:\Shared\Music/Papa%20Roach%20-%20(2000)%20Infest%20-%20Blood%20Brothers.mp3</location>
+        </track>
+        <track>
+            <title>A Mais Pedida</title>
+            <creator>Raimundos</creator>
+            <album>So No Forevis</album>
+            <duration>233717</duration>
+            <trackNum>7</trackNum>
+            <location>U:\Shared\Music/Raimundos%20-%20(1999)%20S%C3%B3%20No%20Forevis%20-%20A%20Mais%20Pedida.mp3</location>
+        </track>
+        <track>
+            <title>Black Hole Sun</title>
+            <creator>Soundgarden</creator>
+            <album>Superunknown</album>
+            <duration>318119</duration>
+            <trackNum>7</trackNum>
+            <location>U:\Shared\Music/Soundgarden%20-%20(1994)%20Superunknown%20-%20Black%20Hole%20Sun.mp3</location>
+        </track>
+        <track>
+            <title>Fell On Black Days</title>
+            <creator>Soundgarden</creator>
+            <album>Superunknown</album>
+            <duration>282775</duration>
+            <trackNum>3</trackNum>
+            <location>U:\Shared\Music/Soundgarden%20-%20(1994)%20Superunknown%20-%20Fell%20On%20Black%20Days.mp3</location>
+        </track>
+        <track>
+            <title>Home</title>
+            <creator>Staind</creator>
+            <album>Dysfunction</album>
+            <duration>244976</duration>
+            <trackNum>6</trackNum>
+            <location>U:\Shared\Music/Staind%20-%20(1999)%20Dysfunction%20-%20Home.mp3</location>
+        </track>
+        <track>
+            <title>Raw</title>
+            <creator>Staind</creator>
+            <album>Dysfunction</album>
+            <duration>249077</duration>
+            <trackNum>4</trackNum>
+            <location>U:\Shared\Music/Staind%20-%20(1999)%20Dysfunction%20-%20Raw.mp3</location>
+        </track>
+        <track>
+            <title>Suffocate</title>
+            <creator>Staind</creator>
+            <album>Dysfunction</album>
+            <duration>196075</duration>
+            <trackNum>1</trackNum>
+            <location>U:\Shared\Music/Staind%20-%20(1999)%20Dysfunction%20-%20Suffocate.mp3</location>
+        </track>
+        <track>
+            <title>Black Diamond</title>
+            <creator>Stratovarius</creator>
+            <album>Visions (Japanese Edition)</album>
+            <duration>339513</duration>
+            <trackNum>2</trackNum>
+            <location>U:\Shared\Music/Stratovarius%20-(1997)%20Visions%20-%20Black%20Diamond.mp3</location>
+        </track>
+        <track>
+            <title>The Abyss Of Your Eyes</title>
+            <creator>Stratovarius</creator>
+            <album>Visions (Japanese Edition)</album>
+            <duration>338651</duration>
+            <trackNum>6</trackNum>
+            <location>U:\Shared\Music/Stratovarius%20-(1997)%20Visions%20-%20The%20Abyss%20Of%20Your%20Eyes.mp3</location>
+        </track>
+        <track>
+            <title>My Favourite Game</title>
+            <creator>The Cardigans</creator>
+            <album>Best Of</album>
+            <duration>220473</duration>
+            <trackNum>10</trackNum>
+            <location>U:\Shared\Music/The%20Cardigans%20-%20(2008)%20Best%20of%20-%20my_favourite_game.mp3</location>
+        </track>
+        <track>
+            <title>My Generation</title>
+            <creator>Limp Bizkit</creator>
+            <album>Chocolate Starfish And The Hot Dog Flavored Water</album>
+            <duration>221074</duration>
+            <trackNum>3</trackNum>
+            <location>U:\Shared\Music/Limp%20Bizkit%20-%20(2000)%20Chocolate%20Starfish%20And%20The%20Hot%20Dog%20Flavored%20Water%20-%20My%20Generation.mp3</location>
+        </track>
+        <track>
+            <title>My Way</title>
+            <creator>Limp Bizkit</creator>
+            <album>Chocolate Starfish And The Hot Dog Flavored Water</album>
+            <duration>273057</duration>
+            <trackNum>5</trackNum>
+            <location>U:\Shared\Music/Limp%20Bizkit%20-%20(2000)%20Chocolate%20Starfish%20And%20The%20Hot%20Dog%20Flavored%20Water%20-%20My%20Way.mp3</location>
+        </track>
+        <track>
+            <title>Rollin' (Air Raid Vehicle)</title>
+            <creator>Limp Bizkit</creator>
+            <album>Chocolate Starfish And The Hot Dog Flavored Water</album>
+            <duration>213838</duration>
+            <trackNum>6</trackNum>
+            <location>U:\Shared\Music/Limp%20Bizkit%20-%20(2000)%20Chocolate%20Starfish%20And%20The%20Hot%20Dog%20Flavored%20Water%20-%20Rollin'%20(Air%20Raid%20Vehicle).mp3</location>
+        </track>
+        <track>
+            <title>Take A Look Around</title>
+            <creator>Limp Bizkit</creator>
+            <album>Chocolate Starfish And The Hot Dog Flavored Water</album>
+            <duration>321097</duration>
+            <trackNum>10</trackNum>
+            <location>U:\Shared\Music/Limp%20Bizkit%20-%20(2000)%20Chocolate%20Starfish%20And%20The%20Hot%20Dog%20Flavored%20Water%20-%20Take%20A%20Look%20Around.mp3</location>
+        </track>
+        <track>
+            <title>(Sic)</title>
+            <creator>SlipKnot</creator>
+            <album>Slipknot</album>
+            <duration>200019</duration>
+            <trackNum>2</trackNum>
+            <location>U:\Shared\Music/Slipknot%20-%20(1999)%20Slipknot%20-%20(Sic).mp3</location>
+        </track>
+        <track>
+            <title>Eyeless</title>
+            <creator>SlipKnot</creator>
+            <album>Slipknot</album>
+            <duration>236434</duration>
+            <trackNum>3</trackNum>
+            <location>U:\Shared\Music/Slipknot%20-%20(1999)%20Slipknot%20-%20Eyeless.mp3</location>
+        </track>
+        <track>
+            <title>Me Inside</title>
+            <creator>SlipKnot</creator>
+            <album>Slipknot</album>
+            <duration>159503</duration>
+            <trackNum>8</trackNum>
+            <location>U:\Shared\Music/Slipknot%20-%20(1999)%20Slipknot%20-%20Me%20Inside.mp3</location>
+        </track>
+        <track>
+            <title>Prosthetics</title>
+            <creator>SlipKnot</creator>
+            <album>Slipknot</album>
+            <duration>298422</duration>
+            <trackNum>10</trackNum>
+            <location>U:\Shared\Music/Slipknot%20-%20(1999)%20Slipknot%20-%20Prosthetics.mp3</location>
+        </track>
+        <track>
+            <title>Spit it Out</title>
+            <creator>SlipKnot</creator>
+            <album>Slipknot</album>
+            <duration>159843</duration>
+            <trackNum>6</trackNum>
+            <location>U:\Shared\Music/Slipknot%20-%20(1999)%20Slipknot%20-%20Spit%20it%20Out.mp3</location>
+        </track>
+        <track>
+            <title>Surfacing</title>
+            <creator>SlipKnot</creator>
+            <album>Slipknot</album>
+            <duration>218174</duration>
+            <trackNum>5</trackNum>
+            <location>U:\Shared\Music/Slipknot%20-%20(1999)%20Slipknot%20-%20Surfacing.mp3</location>
+        </track>
+        <track>
+            <title>Wait and Bleed</title>
+            <creator>SlipKnot</creator>
+            <album>Slipknot</album>
+            <duration>147931</duration>
+            <trackNum>4</trackNum>
+            <location>U:\Shared\Music/Slipknot%20-%20(1999)%20Slipknot%20-%20Wait%20and%20Bleed.mp3</location>
+        </track>
+        <track>
+            <title>Century</title>
+            <creator>Live</creator>
+            <album>Secret Samadhi</album>
+            <duration>202824</duration>
+            <trackNum>4</trackNum>
+            <location>U:\Shared\Music/Live%20-%20(1997)%20Secret%20Samadhi%20-%20Century.mp3</location>
+        </track>
+        <track>
+            <title>Bebendo vinho</title>
+            <creator>Wander Wildner</creator>
+            <duration>266736</duration>
+            <location>U:\Shared\Music/Wander%20Wildner%20-%20Bebendo%20vinho.mp3</location>
+        </track>
+        <track>
+            <title>Anthem for the Year 2000</title>
+            <creator>Silverchair</creator>
+            <album>Neon Ballroom</album>
+            <duration>247824</duration>
+            <location>U:\Shared\Music/Silverchair%20-%20Anthem%20for%20the%20Year%202000.mp3</location>
+        </track>
+        <track>
+            <title>Emotion Sickness</title>
+            <creator>Silverchair</creator>
+            <album>Neon Ballroom</album>
+            <duration>398136</duration>
+            <location>U:\Shared\Music/Silverchair%20-%20Emotion%20Sickness.mp3</location>
+        </track>
+        <track>
+            <title>Organik (UT redux)</title>
+            <creator>Necto Ulin</creator>
+            <duration>228075</duration>
+            <location>U:\Shared\Music/Necto%20Ulin%20-%20Organic%20(UT%20redux).mp3</location>
+        </track>
+    </trackList>
+</playlist>

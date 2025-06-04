@@ -1,0 +1,850 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+    <trackList>
+        <track>
+            <title>Adrenaline</title>
+            <creator>12 Stones</creator>
+            <album>Anthem For The Underdog</album>
+            <duration>201351</duration>
+            <trackNum>4</trackNum>
+            <location>U:\Shared\Music/12%20Stones%20-%20(2007)%20Anthem%20For%20The%20Underdog%20-%20Adrenaline.mp3</location>
+        </track>
+        <track>
+            <title>Arms Of A Stranger</title>
+            <creator>12 Stones</creator>
+            <album>Anthem For The Underdog</album>
+            <duration>196963</duration>
+            <trackNum>8</trackNum>
+            <location>U:\Shared\Music/12%20Stones%20-%20(2007)%20Anthem%20For%20The%20Underdog%20-%20Arms%20Of%20A%20Stranger.mp3</location>
+        </track>
+        <track>
+            <title>Sleepwalking</title>
+            <creator>The Chain Gang of 1974</creator>
+            <album>The Music of Grand Theft Auto V, Vol. 1: Original Music</album>
+            <duration>218693</duration>
+            <trackNum>18</trackNum>
+            <location>U:\Shared\Music/18.%20The%20Chain%20Gang%20of%201974%20-%20Sleepwalking.m4a</location>
+        </track>
+        <track>
+            <title>Savoir</title>
+            <creator>30 Seconds To Mars</creator>
+            <album>A Beautiful Lie</album>
+            <duration>204486</duration>
+            <trackNum>6</trackNum>
+            <location>U:\Shared\Music/30%20Seconds%20to%20Mars%20-%20(2005)%20A%20Beautiful%20Lie%20-%20Savoir.mp3</location>
+        </track>
+        <track>
+            <title>The Road Is Lost (feat. Tim Freedman)</title>
+            <creator>A Broken Silence</creator>
+            <album>All For What...</album>
+            <duration>252212</duration>
+            <trackNum>9</trackNum>
+            <location>U:\Shared\Music/A%20Broken%20Silence%20-%20(2010)%20All%20For%20What%20-%20The%20Road%20Is%20Lost%20(feat.%20Tim%20Freedman).mp3</location>
+        </track>
+        <track>
+            <title>Rock N Roll Dream</title>
+            <creator>ACDC</creator>
+            <album>Black Ice</album>
+            <duration>280999</duration>
+            <trackNum>13</trackNum>
+            <location>U:\Shared\Music/AC-DC%20-%20(2008)%20Black%20Ice%20-%20Rock%20N%20Roll%20Dream.mp3</location>
+        </track>
+        <track>
+            <title>Planets</title>
+            <creator>Adema</creator>
+            <album>Planets</album>
+            <duration>238106</duration>
+            <trackNum>5</trackNum>
+            <location>U:\Shared\Music/Adema%20-%20(2005)%20Planets%20-%20Planets.mp3</location>
+        </track>
+        <track>
+            <title>Would?</title>
+            <creator>Alice in Chains</creator>
+            <album>Dirt</album>
+            <duration>207255</duration>
+            <location>U:\Shared\Music/Alice%20In%20Chains%20-%20(1992)%20Dirt%20-%20Would.mp3</location>
+        </track>
+        <track>
+            <title>Open Your Eyes</title>
+            <creator>Alter Bridge</creator>
+            <album>One Day Remains</album>
+            <duration>298657</duration>
+            <trackNum>3</trackNum>
+            <location>U:\Shared\Music/Alter%20Bridge%20-%20(2004)%20One%20Days%20Remains%20-%20Open%20your%20eyes.mp3</location>
+        </track>
+        <track>
+            <title>Forever Can Be</title>
+            <creator>Ashes Divide</creator>
+            <album>Keep Telling Myself it's Alright</album>
+            <duration>291552</duration>
+            <trackNum>4</trackNum>
+            <location>U:\Shared\Music/Ashes%20Divide%20-%20(2008)%20Keep%20Telling%20Myself%20it's%20Alright%20-%20Forever%20Can%20Be.mp3</location>
+        </track>
+        <track>
+            <title>Stripped Away</title>
+            <creator>Ashes Divide</creator>
+            <album>Keep Telling Myself it's Alright</album>
+            <duration>225384</duration>
+            <trackNum>1</trackNum>
+            <location>U:\Shared\Music/Ashes%20Divide%20-%20(2008)%20Keep%20Telling%20Myself%20it's%20Alright%20-%20Stripped%20Away.mp3</location>
+        </track>
+        <track>
+            <title>Cosmonaut</title>
+            <creator>At the Drive-In</creator>
+            <album>Relationship Of Command</album>
+            <duration>203180</duration>
+            <trackNum>10</trackNum>
+            <location>U:\Shared\Music/At%20The%20Drive-in%20-%20(2000)%20Relationship%20of%20Command%20-%20Cosmonaut.mp3</location>
+        </track>
+        <track>
+            <title>One Armed Scissor</title>
+            <creator>At the Drive-In</creator>
+            <album>Relationship Of Command</album>
+            <duration>262008</duration>
+            <trackNum>3</trackNum>
+            <location>U:\Shared\Music/At%20The%20Drive-in%20-%20(2000)%20Relationship%20of%20Command%20-%20One%20Armed%20Scissor.mp3</location>
+        </track>
+        <track>
+            <title>Be Yourself</title>
+            <creator>Audioslave</creator>
+            <album>Out Of Exile</album>
+            <duration>279457</duration>
+            <trackNum>3</trackNum>
+            <location>U:\Shared\Music/Audioslave%20-%20(2005)%20Out%20Of%20Exile%20-%20be_yourself.mp3</location>
+        </track>
+        <track>
+            <title>Out Of Exile</title>
+            <creator>Audioslave</creator>
+            <album>Out Of Exile</album>
+            <duration>291239</duration>
+            <trackNum>2</trackNum>
+            <location>U:\Shared\Music/Audioslave%20-%20(2005)%20Out%20Of%20Exile%20-%20out_of_exile.mp3</location>
+        </track>
+        <track>
+            <title>Yesterday To Tomorrow</title>
+            <creator>Audioslave</creator>
+            <album>Out Of Exile</album>
+            <duration>273737</duration>
+            <trackNum>9</trackNum>
+            <location>U:\Shared\Music/Audioslave%20-%20(2005)%20Out%20Of%20Exile%20-%20yesterday_to_tomorrow.mp3</location>
+        </track>
+        <track>
+            <title>Savior In The Clockwork (Música escondida)</title>
+            <creator>Avantasia</creator>
+            <album>The Mystery Of Time</album>
+            <duration>209502</duration>
+            <trackNum>6</trackNum>
+            <location>U:\Shared\Music/Avantasia%20-%20(2013)%20The%20Mystery%20of%20Time%20-%20Savior%20In%20The%20Clockwork%20(m%C3%BAsica%20interna).mp3</location>
+        </track>
+        <track>
+            <title>Gunslinger</title>
+            <creator>Avenged Sevenfold</creator>
+            <album>Avenged Sevenfold</album>
+            <duration>251533</duration>
+            <trackNum>5</trackNum>
+            <location>U:\Shared\Music/Avenged%20Sevenfold%20-%20(2007)%20Avenged%20Sevenfold%20-%20Gunslinger.mp3</location>
+        </track>
+        <track>
+            <title>Blow Me Away</title>
+            <creator>Breaking Benjamin</creator>
+            <album>So Cold [EP]</album>
+            <duration>205844</duration>
+            <trackNum>2</trackNum>
+            <location>U:\Shared\Music/Breaking%20Benjamin%20-%20So%20Cold%20EP%20-%20Blow%20Me%20Away.mp3</location>
+        </track>
+        <track>
+            <title>Blasphemy</title>
+            <creator>Bring Me the Horizon</creator>
+            <album>That's the Spirit</album>
+            <duration>275069</duration>
+            <trackNum>10</trackNum>
+            <location>U:\Shared\Music/Bring%20Me%20The%20Horizon%20-%20(2015)%20Thats%20the%20Spirit%20-%20Blasphemy.mp3</location>
+        </track>
+        <track>
+            <title>The Chemicals Between Us</title>
+            <creator>Bush</creator>
+            <album>Best Of '94-'99</album>
+            <duration>218070</duration>
+            <trackNum>9</trackNum>
+            <location>U:\Shared\Music/Bush%20-%20(2004)%20Best%20Of%2094-99%20-%20The%20Chemicals%20Between%20Us.mp3</location>
+        </track>
+        <track>
+            <title>The Sound Of Winter</title>
+            <creator>Bush</creator>
+            <album>The Sea Of Memories</album>
+            <duration>208875</duration>
+            <trackNum>2</trackNum>
+            <location>U:\Shared\Music/Bush%20-%20(2011)%20The%20sea%20of%20memories%20-%20The%20Sound%20Of%20Winter.mp3</location>
+        </track>
+        <track>
+            <title>We Are The Many</title>
+            <creator>Caliban</creator>
+            <album>I Am Nemesis</album>
+            <duration>240666</duration>
+            <trackNum>1</trackNum>
+            <location>U:\Shared\Music/Caliban%20-%20(2012)%20I%20Am%20Nemesis%20-%20We%20Are%20The%20Many.mp3</location>
+        </track>
+        <track>
+            <title>Hoje de noite</title>
+            <creator>Charlie Brown Jr.</creator>
+            <album>Preço Curto Prazo Longo</album>
+            <duration>160888</duration>
+            <location>U:\Shared\Music/Charlie%20Brown%20Jr.%20-%20(1999)%20Pre%C3%A7o%20Curto%20Prazo%20Longo%20-%20Hoje%20de%20noite.mp3</location>
+        </track>
+        <track>
+            <title>Mantenha a dúvida</title>
+            <creator>Charlie Brown Jr.</creator>
+            <album>Preço Curto Prazo Longo</album>
+            <duration>184058</duration>
+            <trackNum>14</trackNum>
+            <location>U:\Shared\Music/Charlie%20Brown%20Jr.%20-%20(1999)%20Pre%C3%A7o%20Curto%20Prazo%20Longo%20-%20Mantenha%20a%20D%C3%BAvida.mp3</location>
+        </track>
+        <track>
+            <title>Só Por Uma Noite</title>
+            <creator>Charlie Brown Jr.</creator>
+            <album>Bocas Ordinárias</album>
+            <duration>203650</duration>
+            <trackNum>4</trackNum>
+            <location>U:\Shared\Music/Charlie%20Brown%20Jr.%20-%20(2002)%20Bocas%20ordin%C3%A1rias%20-%20S%C3%B3%20Por%20Uma%20Noite.mp3</location>
+        </track>
+        <track>
+            <title>Nua, Linda e Inigualável</title>
+            <creator>Charlie Brown Jr.</creator>
+            <album>Ritmo, Ritual e Responsa</album>
+            <duration>189988</duration>
+            <trackNum>13</trackNum>
+            <location>U:\Shared\Music/Charlie%20Brown%20Jr.%20-%20(2007)%20Ritmo,%20Ritual%20E%20Responsa%20-%20Nua,%20Linda%20e%20Inigual%C3%A1vel.MP3</location>
+        </track>
+        <track>
+            <title>Não Viva em Vão</title>
+            <creator>Charlie Brown Jr.</creator>
+            <album>Ritmo, Ritual e Responsa</album>
+            <duration>234553</duration>
+            <trackNum>3</trackNum>
+            <location>U:\Shared\Music/Charlie%20Brown%20Jr.%20-%20(2007)%20Ritmo,%20Ritual%20E%20Responsa%20-%20N%C3%A3o%20Viva%20Em%20V%C3%A3o.mp3</location>
+        </track>
+        <track>
+            <title>Clocks</title>
+            <creator>Coldplay</creator>
+            <duration>307513</duration>
+            <location>U:\Shared\Music/Coldplay%20-%20(2011)%20xxxxx%20-%20Clocks.mp3</location>
+        </track>
+        <track>
+            <title>Butterfly</title>
+            <creator>Crazy Town</creator>
+            <album>The Gift of Game</album>
+            <duration>214099</duration>
+            <trackNum>6</trackNum>
+            <location>U:\Shared\Music/Crazy%20Town%20-%20(1999)%20The%20Gift%20of%20Game%20-%20Butterfly.mp3</location>
+        </track>
+        <track>
+            <title>Bitches Brew</title>
+            <creator>Crosses (†††)</creator>
+            <album>††† (Crosses)</album>
+            <duration>209031</duration>
+            <trackNum>3</trackNum>
+            <location>U:\Shared\Music/Crosses%20-%20(2014)%20Crosses%20-%20Bitches%20Brew.mp3</location>
+        </track>
+        <track>
+            <title>Telepathy</title>
+            <creator>Crosses (†††)</creator>
+            <album>††† (Crosses)</album>
+            <duration>215160</duration>
+            <trackNum>2</trackNum>
+            <location>U:\Shared\Music/Crosses%20-%20(2014)%20Crosses%20-%20Telepathy.mp3</location>
+        </track>
+        <track>
+            <title>Cantspeak</title>
+            <creator>Danzig</creator>
+            <album>IV: Vorschau</album>
+            <duration>246125</duration>
+            <trackNum>3</trackNum>
+            <location>U:\Shared\Music/Danzig%20-%20(1994)%20IV%20Vorschau%20-%20Cantspeak.mp3</location>
+        </track>
+        <track>
+            <title>It's Not Over</title>
+            <creator>Daughtry</creator>
+            <album>Daughtry</album>
+            <duration>215066</duration>
+            <trackNum>1</trackNum>
+            <location>U:\Shared\Music/Daughtry%20-%20Its%20Not%20Over.mp3</location>
+        </track>
+        <track>
+            <title>Change (in the house of flies)</title>
+            <creator>Deftones</creator>
+            <album>White Pony</album>
+            <duration>299546</duration>
+            <location>U:\Shared\Music/Deftones%20-%20(2000)%20White%20Pony%20-%20Change%20(In%20The%20House%20Of%20Flies).mp3</location>
+        </track>
+        <track>
+            <title>Digital Bath</title>
+            <creator>Deftones</creator>
+            <album>White Pony</album>
+            <duration>255477</duration>
+            <location>U:\Shared\Music/Deftones%20-%20(2000)%20White%20Pony%20-%20Digital%20Bath.mp3</location>
+        </track>
+        <track>
+            <title>Battle-Axe</title>
+            <creator>Deftones</creator>
+            <album>Deftones</album>
+            <duration>301949</duration>
+            <trackNum>7</trackNum>
+            <location>U:\Shared\Music/Deftones%20-%20(2003)%20Deftones%20-%20Battle-Axe.mp3</location>
+        </track>
+        <track>
+            <title>No Ordinary Love (Sade cover)</title>
+            <creator>Deftones</creator>
+            <album>B-Sides &amp; Rarities</album>
+            <duration>333505</duration>
+            <location>U:\Shared\Music/Deftones%20-%20No%20Ordinary%20Love.mp3</location>
+        </track>
+        <track>
+            <title>Walking In My Shoes</title>
+            <creator>Depeche Mode</creator>
+            <album>Songs Of Faith And Devotion</album>
+            <duration>336143</duration>
+            <trackNum>2</trackNum>
+            <location>U:\Shared\Music/Depeche%20Mode%20-%20(1993)%20Songs%20Of%20Faith%20And%20Devotion%20-%20Walking%20In%20My%20Shoes.mp3</location>
+        </track>
+        <track>
+            <title>Save Tonight</title>
+            <creator>Eagle Eye Cherry</creator>
+            <album>The Best of</album>
+            <duration>242128</duration>
+            <trackNum>1</trackNum>
+            <location>U:\Shared\Music/Eagle%20Eye%20Cherry%20-%20The%20Best%20of%20-%20Save%20Tonight.mp3</location>
+        </track>
+        <track>
+            <title>The Willing</title>
+            <creator>Emanuel</creator>
+            <album>Soundtrack To A Headrush</album>
+            <duration>211586</duration>
+            <trackNum>3</trackNum>
+            <location>U:\Shared\Music/Emanuel%20-%20(2005)%20Soundtrack%20To%20A%20Headrush%20-%20The%20Willing.m4a</location>
+        </track>
+        <track>
+            <title>For You</title>
+            <creator>Endo</creator>
+            <album>Songs for the Restless</album>
+            <duration>216633</duration>
+            <trackNum>3</trackNum>
+            <location>U:\Shared\Music/Endo%20-%20(2003)%20Songs%20For%20The%20Restless%20-%20For%20You.mp3</location>
+        </track>
+        <track>
+            <title>Victim (of the System)</title>
+            <creator>Eye Empire</creator>
+            <album>Moment Of Impact</album>
+            <duration>194977</duration>
+            <trackNum>7</trackNum>
+            <location>U:\Shared\Music/Eye%20Empire%20-%20(2010)%20Moment%20of%20Impact%20-%20victim_(of_the_system).mp3</location>
+        </track>
+        <track>
+            <title>Here Again (Last Conversation)</title>
+            <creator>Fightstar</creator>
+            <album>Grand Unification</album>
+            <duration>196388</duration>
+            <trackNum>7</trackNum>
+            <location>U:\Shared\Music/Fightstar%20-%20(2006)%20Grand%20Unification%20-%20Here%20Again%20(Last%20Conversation).mp3</location>
+        </track>
+        <track>
+            <title>Palahniuk's Laughter</title>
+            <creator>Fightstar</creator>
+            <album>They liked you better when you were dead</album>
+            <duration>249025</duration>
+            <trackNum>2</trackNum>
+            <location>U:\Shared\Music/Fightstar%20-%20(2006)%20They%20Liked%20You%20Better%20When%20You%20Dead%20-%20Palahniuk's%20Laughter.mp3</location>
+        </track>
+        <track>
+            <title>A City On Fire</title>
+            <creator>Fightstar</creator>
+            <album>Be Human</album>
+            <duration>188368</duration>
+            <trackNum>2</trackNum>
+            <location>U:\Shared\Music/Fightstar%20-%20(2009)%20Be%20Human%20%E2%80%93%20A%20City%20On%20Fire_%5Bplixid.com%5D.mp3</location>
+        </track>
+        <track>
+            <title>First Time</title>
+            <creator>Finger Eleven</creator>
+            <album>The Greyest of Blue Skies</album>
+            <duration>268408</duration>
+            <location>U:\Shared\Music/Finger%20Eleven%20-%20First%20Time.mp3</location>
+        </track>
+        <track>
+            <title>Everlong</title>
+            <creator>Foo Fighters</creator>
+            <album>The Colour And The Shape</album>
+            <duration>250723</duration>
+            <trackNum>11</trackNum>
+            <location>U:\Shared\Music/Foo%20Fighters%20-%20(1997)%20The%20colour%20and%20the%20shape%20-%20Everlong.mp3</location>
+        </track>
+        <track>
+            <title>My Hero</title>
+            <creator>Foo Fighters</creator>
+            <album>The Colour And The Shape</album>
+            <duration>260048</duration>
+            <trackNum>7</trackNum>
+            <location>U:\Shared\Music/Foo%20Fighters%20-%20(1997)%20The%20colour%20and%20the%20shape%20-%20My%20Hero.mp3</location>
+        </track>
+        <track>
+            <title>I stand Alone</title>
+            <creator>Godsmack</creator>
+            <duration>246517</duration>
+            <trackNum>1</trackNum>
+            <location>U:\Shared\Music/Godsmack%20-%20I%20Stand%20Alone.mp3</location>
+        </track>
+        <track>
+            <title>Gold Guns Girls</title>
+            <creator>Metric</creator>
+            <duration>240509</duration>
+            <location>U:\Shared\Music/Gold%20Guns%20Girls%20-%20Metric.mp3</location>
+        </track>
+        <track>
+            <title>Estranged</title>
+            <creator>Guns N' Roses</creator>
+            <album>Use Your Illusion II</album>
+            <duration>563879</duration>
+            <trackNum>11</trackNum>
+            <location>U:\Shared\Music/Guns%20N%20Roses%20-%20(1991)%20Use%20your%20illusion%20II%20-%20Estranged.mp3</location>
+        </track>
+        <track>
+            <title>All The Right Words</title>
+            <creator>Ill Niño</creator>
+            <album>Confession</album>
+            <duration>248058</duration>
+            <trackNum>12</trackNum>
+            <location>U:\Shared\Music/Ill%20Ni%C3%B1o%20-%20(2003)%20Confession%20-%20All%20The%20Right%20Words.mp3</location>
+        </track>
+        <track>
+            <title>Jester’s Door</title>
+            <creator>In Flames</creator>
+            <album>Sounds Of A Playground Fading</album>
+            <duration>157309</duration>
+            <trackNum>11</trackNum>
+            <location>U:\Shared\Music/In%20Flames%20-%20(2011)%20Sounds%20of%20a%20Playground%20Fading%20-%20Jester%E2%80%99s%20Door%20.mp3</location>
+        </track>
+        <track>
+            <title>Come on Over</title>
+            <creator>Institute</creator>
+            <album>Distort Yourself</album>
+            <duration>238053</duration>
+            <trackNum>3</trackNum>
+            <location>U:\Shared\Music/Institute%20-%20(2005)%20Distort%20yourself%20-%20Come%20On%20Over.mp3</location>
+        </track>
+        <track>
+            <title>The Buzz of My System</title>
+            <creator>Institute</creator>
+            <album>Distort Yourself</album>
+            <duration>266684</duration>
+            <trackNum>14</trackNum>
+            <location>U:\Shared\Music/Institute%20-%20(2005)%20Distort%20yourself%20-%20The%20buzz%20of%20my%20system.mp3</location>
+        </track>
+        <track>
+            <title>(2000) Brave New World - Out Of The Silent Planet (Instrumental Part Only)</title>
+            <creator>Iron Maiden</creator>
+            <album>Trechos Fodas</album>
+            <duration>87092</duration>
+            <trackNum>9</trackNum>
+            <location>U:\Shared\Music/Iron%20Maiden%20-%20Trechos%20Fodas%20-%20(2000)%20Brave%20New%20World%20-%20Out%20Of%20The%20Silent%20Planet%20(instrumental%20part%20only).mp3</location>
+        </track>
+        <track>
+            <title>Sex On Fire</title>
+            <creator>Kings of Leon</creator>
+            <album>Only by the night</album>
+            <duration>203389</duration>
+            <trackNum>3</trackNum>
+            <location>U:\Shared\Music/Kings%20of%20Leon%20-%20(2008)%20Only%20by%20the%20Night%20-%20Sex%20On%20Fire.mp3</location>
+        </track>
+        <track>
+            <title>Use Somebody</title>
+            <creator>Kings of Leon</creator>
+            <album>Only by the night</album>
+            <duration>230791</duration>
+            <trackNum>4</trackNum>
+            <location>U:\Shared\Music/Kings%20of%20Leon%20-%20(2008)%20Only%20by%20the%20Night%20-%20Use%20Somebody.mp3</location>
+        </track>
+        <track>
+            <title>Use Somebody (CHEW FU Festival mix)</title>
+            <creator>Kings of Leon</creator>
+            <duration>336875</duration>
+            <location>U:\Shared\Music/Kings%20of%20Leon%20-%20Use%20Somebody%20(CHEW%20FU%20Festival%20mix).mp3</location>
+        </track>
+        <track>
+            <title>Pretty</title>
+            <creator>Korn</creator>
+            <album>Follow the Leader</album>
+            <duration>252133</duration>
+            <location>U:\Shared\Music/Korn%20-%20Follow%20the%20Leader%20-%20Pretty.mp3</location>
+        </track>
+        <track>
+            <title>Rock and Roll</title>
+            <creator>Led Zeppelin</creator>
+            <album>Greatest hits</album>
+            <duration>221152</duration>
+            <trackNum>5</trackNum>
+            <location>U:\Shared\Music/Led%20Zeppelin%20-%20(XXXX)%20Greatest%20hits%20-%20Rock%20and%20Roll.mp3</location>
+        </track>
+        <track>
+            <title>Papercut</title>
+            <creator>Linkin Park</creator>
+            <album>Hybrid Theory</album>
+            <duration>186827</duration>
+            <trackNum>1</trackNum>
+            <location>U:\Shared\Music/Linkin%20Park%20-%20(2000)%20Hybrid%20Theory%20-%20Pista%20Audio%2001.mp3</location>
+        </track>
+        <track>
+            <title>Points of Authority</title>
+            <creator>Linkin Park</creator>
+            <album>Hybrid Theory</album>
+            <duration>202370</duration>
+            <trackNum>4</trackNum>
+            <location>U:\Shared\Music/Linkin%20Park%20-%20(2000)%20Hybrid%20Theory%20-%20Pista%20Audio%2004.mp3</location>
+        </track>
+        <track>
+            <title>Lying From You</title>
+            <creator>Linkin Park</creator>
+            <album>Live In Texas</album>
+            <duration>187559</duration>
+            <trackNum>2</trackNum>
+            <location>U:\Shared\Music/Linkin%20Park%20-%20(2003)%20Live%20in%20Texas%20-%20Lying%20From%20You%20-%20EMG%20-%20www.elitemusic.org.mp3</location>
+        </track>
+        <track>
+            <title>Gas Hed Goes West</title>
+            <creator>Live</creator>
+            <album>Secret Samadhi</album>
+            <duration>335466</duration>
+            <trackNum>12</trackNum>
+            <location>U:\Shared\Music/Live%20-%20(1997)%20Secret%20Samadhi%20-%20Gas%20Hed%20Goes%20West.m4a</location>
+        </track>
+        <track>
+            <title>Lakini's Juice</title>
+            <creator>Live</creator>
+            <album>Secret Samadhi</album>
+            <duration>299266</duration>
+            <trackNum>2</trackNum>
+            <location>U:\Shared\Music/Live%20-%20(1997)%20Secret%20Samadhi%20-%20Lakini's%20Juice.m4a</location>
+        </track>
+        <track>
+            <title>Meltdown</title>
+            <creator>Live</creator>
+            <album>The Distance to Here</album>
+            <duration>235128</duration>
+            <trackNum>10</trackNum>
+            <location>U:\Shared\Music/Live%20-%20(1999)%20The%20Distance%20to%20Here%20-%20Meltdown.mp3</location>
+        </track>
+        <track>
+            <title>The Fake Sound Of Progress (First version)</title>
+            <creator>Lostprophets</creator>
+            <album>The Fake Sound Of Progress</album>
+            <duration>379271</duration>
+            <trackNum>3</trackNum>
+            <location>U:\Shared\Music/Lostprophets%20-%20Fake%20sound%20of%20progress.mp3</location>
+        </track>
+        <track>
+            <title>To Hell We Ride</title>
+            <creator>Lostprophets</creator>
+            <album>NFS Underground</album>
+            <duration>220734</duration>
+            <location>U:\Shared\Music/Lostprophets%20-To%20Hell%20We%20Ride.mp3</location>
+        </track>
+        <track>
+            <title>I Disappear</title>
+            <creator>Metallica</creator>
+            <album>Mission Impossible 2</album>
+            <duration>266370</duration>
+            <trackNum>1</trackNum>
+            <location>U:\Shared\Music/Metallica%20-%20(2000)%20MI2%20-%20I%20Disappear.mp3</location>
+        </track>
+        <track>
+            <title>Crystal</title>
+            <creator>New Order</creator>
+            <album>Get Ready</album>
+            <duration>411324</duration>
+            <trackNum>1</trackNum>
+            <location>U:\Shared\Music/New%20Order%20-%20(2001)%20Get%20Ready%20-%20Crystal.mp3</location>
+        </track>
+        <track>
+            <title>Just To Get High</title>
+            <creator>Nickelback</creator>
+            <album>Dark Horse</album>
+            <duration>242259</duration>
+            <trackNum>6</trackNum>
+            <location>U:\Shared\Music/Nickelback%20-%20(2008)%20Dark%20Horse%20-%20Just%20To%20Get%20High.mp3</location>
+        </track>
+        <track>
+            <title>Even Flow</title>
+            <creator>Pearl Jam</creator>
+            <album>Ten (Legacy Edition)</album>
+            <duration>293146</duration>
+            <trackNum>2</trackNum>
+            <location>U:\Shared\Music/Pearl%20Jam%20-%20(2009)%20Ten%20(Legacy%20Edition)%20-%20Even%20Flow%20(Remixed).mp3</location>
+        </track>
+        <track>
+            <title>Jeremy</title>
+            <creator>Pearl Jam</creator>
+            <album>Ten (Legacy Edition)</album>
+            <duration>316630</duration>
+            <trackNum>6</trackNum>
+            <location>U:\Shared\Music/Pearl%20Jam%20-%20(2009)%20Ten%20(Legacy%20Edition)%20-%20Jeremy%20(Remixed).mp3</location>
+        </track>
+        <track>
+            <title>Come Undone</title>
+            <creator>Placebo</creator>
+            <album>Battle for the Sun</album>
+            <duration>276950</duration>
+            <trackNum>12</trackNum>
+            <location>U:\Shared\Music/Placebo%20-%20(2009)%20Battle%20for%20the%20Sun%20-%20Come%20Undone.mp3</location>
+        </track>
+        <track>
+            <title>Devil in the Details</title>
+            <creator>Placebo</creator>
+            <album>Battle for the Sun</album>
+            <duration>268460</duration>
+            <trackNum>5</trackNum>
+            <location>U:\Shared\Music/Placebo%20-%20(2009)%20Battle%20for%20the%20Sun%20-%20Devil%20in%20the%20Details.mp3</location>
+        </track>
+        <track>
+            <title>Killing In The Name</title>
+            <creator>Rage Against The Machine</creator>
+            <duration>316604</duration>
+            <location>U:\Shared\Music/Rage%20Against%20The%20Machine%20-%20Killing%20In%20The%20Name.mp3</location>
+        </track>
+        <track>
+            <title>Tora tora</title>
+            <creator>Raimundos</creator>
+            <album>Lavô Tá Novo</album>
+            <duration>255294</duration>
+            <trackNum>1</trackNum>
+            <location>U:\Shared\Music/Raimundos%20-%20(1995)%20Lav%C3%B4%20T%C3%A1%20Novo%20-%20Tora%20tora.mp3</location>
+        </track>
+        <track>
+            <title>Aquela                        </title>
+            <creator>Raimundos</creator>
+            <duration>205557</duration>
+            <location>U:\Shared\Music/Raimundos%20-%20Aquela.mp3</location>
+        </track>
+        <track>
+            <title>Californication</title>
+            <creator>Red Hot Chili Peppers</creator>
+            <album>Greatest hits (Não oficial)</album>
+            <duration>329978</duration>
+            <trackNum>3</trackNum>
+            <location>U:\Shared\Music/Red%20Hot%20Chili%20Peppers%20-%20Californication.mp3</location>
+        </track>
+        <track>
+            <title>End The World (Acoustic)</title>
+            <creator>Cold</creator>
+            <album>Apocalypse</album>
+            <duration>217443</duration>
+            <trackNum>16</trackNum>
+            <location>U:\Shared\Music/Resident%20Evil%20-%20(2004)%20Apocalypse%20Soundtrack%20-%20Cold%20-%20End%20The%20World%20(Acoustic).mp3</location>
+        </track>
+        <track>
+            <title>For You</title>
+            <creator>Staind</creator>
+            <album>Break The Cycle</album>
+            <duration>206262</duration>
+            <trackNum>10</trackNum>
+            <location>U:\Shared\Music/Staind%20-%20(2001)%20Break%20The%20Cycle%20-%20For%20You.mp3</location>
+        </track>
+        <track>
+            <title>I Need Some Fine Wine And You, You Need To Be Nicer</title>
+            <creator>The Cardigans</creator>
+            <album>Best Of</album>
+            <duration>214595</duration>
+            <trackNum>18</trackNum>
+            <location>U:\Shared\Music/The%20Cardigans%20-%20(2008)%20Best%20of%20-%20i_need_some_fine_wine_and_you_you_need_to_be_nicer.mp3</location>
+        </track>
+        <track>
+            <title>God And Drugs</title>
+            <creator>The Classic Crime</creator>
+            <album>The Silver Cord</album>
+            <duration>255503</duration>
+            <trackNum>9</trackNum>
+            <location>U:\Shared\Music/The%20Classic%20Crime%20-%20(2008)%20The%20Silver%20Cord%20-%20God%20And%20Drugs.mp3</location>
+        </track>
+        <track>
+            <title>My Way</title>
+            <creator>Limp Bizkit</creator>
+            <album>Chocolate Starfish And The Hot Dog Flavored Water</album>
+            <duration>273057</duration>
+            <trackNum>5</trackNum>
+            <location>U:\Shared\Music/Limp%20Bizkit%20-%20(2000)%20Chocolate%20Starfish%20And%20The%20Hot%20Dog%20Flavored%20Water%20-%20My%20Way.mp3</location>
+        </track>
+        <track>
+            <title>The One</title>
+            <creator>Limp Bizkit</creator>
+            <album>Chocolate Starfish And The Hot Dog Flavored Water</album>
+            <duration>343379</duration>
+            <trackNum>8</trackNum>
+            <location>U:\Shared\Music/Limp%20Bizkit%20-%20(2000)%20Chocolate%20Starfish%20And%20The%20Hot%20Dog%20Flavored%20Water%20-%20The%20One.mp3</location>
+        </track>
+        <track>
+            <title>Gone Away</title>
+            <creator>The Offspring</creator>
+            <album>Ixnay On The Hombre</album>
+            <duration>268878</duration>
+            <trackNum>7</trackNum>
+            <location>U:\Shared\Music/The%20Offspring%20-%20(1997)%20Ixnay%20On%20The%20Hombre%20-%20Gone%20Away.mp3</location>
+        </track>
+        <track>
+            <title>End Transmission</title>
+            <creator>Fire From Gods</creator>
+            <album>Narrative</album>
+            <duration>220107</duration>
+            <location>U:\Shared\Music/Fire%20From%20Gods%20-%20(2016)%20Narrative%20-%20End%20Transmission.mp3</location>
+        </track>
+        <track>
+            <title> Limits</title>
+            <creator>Bad Omens</creator>
+            <album>Limits</album>
+            <duration>209084</duration>
+            <location>U:\Shared\Music/Bad%20Omens%20-%20Limits.mp3</location>
+        </track>
+        <track>
+            <title>Shine</title>
+            <creator>Dream On Dreamer</creator>
+            <album>It Comes and Goes</album>
+            <duration>203650</duration>
+            <trackNum>6</trackNum>
+            <location>U:\Shared\Music/Dream%20On%20Dreamer%20-%20(2018)%20It%20Comes%20and%20Goes%20-%20Shine.mp3</location>
+        </track>
+        <track>
+            <title>Let It In</title>
+            <creator>Dream On Dreamer</creator>
+            <album>It Comes and Goes</album>
+            <duration>258560</duration>
+            <trackNum>1</trackNum>
+            <location>U:\Shared\Music/Dream%20On%20Dreamer%20-%20(2018)%20It%20Comes%20and%20Goes%20-%20Let%20It%20In.mp3</location>
+        </track>
+        <track>
+            <title>Asteroid hermit</title>
+            <creator>Black Sky Giant</creator>
+            <album>Planet Terror</album>
+            <duration>408058</duration>
+            <trackNum>2</trackNum>
+            <location>U:\Shared\Music/Black%20Sky%20Giant%20-%20(2021)%20Planet%20Terror%20-%2002%20Asteroid%20hermit.mp3</location>
+        </track>
+        <track>
+            <title>Darkhorse</title>
+            <creator>Emma Ruth Rundle</creator>
+            <album>On dark horses</album>
+            <duration>235488</duration>
+            <location>U:\Shared\Music/Emma%20Ruth%20Rundle%20-%20Darkhorse.mp3</location>
+        </track>
+        <track>
+            <title>1979</title>
+            <creator>The Smashing Pumpkins</creator>
+            <album>Mellon Collie And The Infinite Sadness</album>
+            <duration>266266</duration>
+            <trackNum>5</trackNum>
+            <location>U:\Shared\Music/The%20Smashing%20Pumpkins%20-%20(XXXX)%20Twilight%20To%20Starlight%20-%201979.mp3</location>
+        </track>
+        <track>
+            <title>Bodies</title>
+            <creator>The Smashing Pumpkins</creator>
+            <album>Mellon Collie And The Infinite Sadness</album>
+            <duration>252264</duration>
+            <trackNum>2</trackNum>
+            <location>U:\Shared\Music/The%20Smashing%20Pumpkins%20-%20(XXXX)%20Twilight%20To%20Starlight%20-%20Bodies.mp3</location>
+        </track>
+        <track>
+            <title>HOLIDAY</title>
+            <creator>Turnstile</creator>
+            <album>Glow on</album>
+            <duration>172080</duration>
+            <location>U:\Shared\Music/Turnstile%20-%20(2021)%20Glow%20on%20-%20HOLIDAY.mp3</location>
+        </track>
+        <track>
+            <title>Vestiges of a hard landing</title>
+            <creator>Black Sky Giant</creator>
+            <album>Falling Mothership</album>
+            <duration>344058</duration>
+            <trackNum>1</trackNum>
+            <location>U:\Shared\Music/Black%20Sky%20Giant%20-%20(2021)%20Falling%20Mothership%20-%2001%20Vestiges%20of%20a%20hard%20landing.mp3</location>
+        </track>
+        <track>
+            <title>In Blur</title>
+            <creator>Deafheaven</creator>
+            <album>Infinite Granite</album>
+            <duration>327288</duration>
+            <location>U:\Shared\Music/Deafheaven%20-%20(2020)%20Infinite%20Granite%20-%20In%20Blur.mp3</location>
+        </track>
+        <track>
+            <title>Cry (ft. Grimes)</title>
+            <creator>Ashnikko</creator>
+            <duration>129576</duration>
+            <location>U:\Shared\Music/Ashnikko%20-%20(2020)%20Cry%20(ft.%20Grimes).mp3</location>
+        </track>
+        <track>
+            <title>Dark Necessities</title>
+            <creator>Red Hot Chili Peppers</creator>
+            <album>Get Red Hot Chili Peppers</album>
+            <duration>302184</duration>
+            <location>U:\Shared\Music/Red%20Hot%20Chili%20Peppers%20-%20(2016)%20Get%20Red%20Hot%20Chili%20Peppers%20-%20Dark%20Necessities.mp3</location>
+        </track>
+        <track>
+            <title>Homem De Lata</title>
+            <creator>Cynthia Luz</creator>
+            <duration>204120</duration>
+            <location>U:\Shared\Music/Cynthia%20Luz%20-%20Homem%20De%20Lata.mp3</location>
+        </track>
+        <track>
+            <title>Oni</title>
+            <creator>Darko US</creator>
+            <album>Oni</album>
+            <duration>139755</duration>
+            <trackNum>10</trackNum>
+            <location>U:\Shared\Music/Darko%20US%20-%20(2022)%20Oni%20-%20Oni.mp3</location>
+        </track>
+        <track>
+            <title>Sober</title>
+            <creator>Tool</creator>
+            <album>Undertow</album>
+            <duration>308480</duration>
+            <location>U:\Shared\Music/Tool%20-%20(1993)%20Undertow%20-%20Sober.mp3</location>
+        </track>
+        <track>
+            <title>Cuidado (Lying From You Demo)</title>
+            <creator>Linkin Park</creator>
+            <album>Meteora 20th Anniversary</album>
+            <duration>200568</duration>
+            <location>U:\Shared\Music/Linkin%20Park%20-%20(2023)%20Meteora%2020th%20Anniversary%20-%20Cuidado%20(Lying%20From%20You%20Demo).mp3</location>
+        </track>
+        <track>
+            <title>Youth Of The Nation</title>
+            <creator>P.O.D.</creator>
+            <album>Greatest Hits (The Atlantic Years)</album>
+            <duration>258246</duration>
+            <trackNum>6</trackNum>
+            <location>U:\Shared\Music/P.O.D.%20-%20(2006)%20Greatest%20Hits%20-%20Youth%20Of%20The%20Nation.mp3</location>
+        </track>
+        <track>
+            <title>Desire</title>
+            <creator>Meg Myers</creator>
+            <album>Make a Shadow</album>
+            <duration>285072</duration>
+            <location>U:\Shared\Music/Meg%20Myers%20-%20(2014)%20Make%20a%20Shadow%20-%20Desire.mp3</location>
+        </track>
+        <track>
+            <title>Venger (James Kent)</title>
+            <creator>A. Yarmak</creator>
+            <duration>272712</duration>
+            <location>U:\Shared\Music/A.%20Yarmak%20-%202019%20-%20Venger%20(James%20Kent).mp3</location>
+        </track>
+        <track>
+            <title>Paper Lung</title>
+            <creator>Underoath</creator>
+            <album>Ø (Disambiguation)</album>
+            <duration>251533</duration>
+            <location>U:\Shared\Music/Underoath%20-%20(2010)%20O%20(Disambiguation)%20-%20Paper%20Lung.mp3</location>
+        </track>
+        <track>
+            <title>Lowest In Me</title>
+            <creator>Staind</creator>
+            <album>Confessions Of The Fallen</album>
+            <duration>190014</duration>
+            <trackNum>1</trackNum>
+            <location>U:\Shared\Music/Staind%20-%20(2023)%20Confessions%20Of%20The%20Fallen%20-%2001.%20Lowest%20In%20Me.mp3</location>
+        </track>
+    </trackList>
+</playlist>

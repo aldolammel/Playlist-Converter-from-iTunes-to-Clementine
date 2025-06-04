@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2025-06-04T02:39:35Z</date>
+	<key>Application Version</key><string>12.13.7.1</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/E:/Users/aldol/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>187AD5E35C5E82C1</string>
+	<key>Tracks</key>
+	<dict>
+		<key>13640</key>
+		<dict>
+			<key>Track ID</key><integer>13640</integer>
+			<key>Name</key><string>Homefinder</string>
+			<key>Artist</key><string>MoTER</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4571468</integer>
+			<key>Total Time</key><integer>285074</integer>
+			<key>Date Modified</key><date>2021-09-03T17:47:56Z</date>
+			<key>Date Added</key><date>2025-05-23T00:04:39Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3830937572</integer>
+			<key>Play Date UTC</key><date>2025-05-24T16:19:32Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2022-09-14T04:08:09Z</date>
+			<key>Normalization</key><integer>1994</integer>
+			<key>Persistent ID</key><string>F501D82418A8326B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/MoTER%20-%20Soundcloud%20-%20Homefinder.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>18080</key>
+		<dict>
+			<key>Track ID</key><integer>18080</integer>
+			<key>Name</key><string>Much Higher (no copyright - no restriction to use)</string>
+			<key>Artist</key><string>Causmic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6914969</integer>
+			<key>Total Time</key><integer>171168</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2021-06-13T03:22:22Z</date>
+			<key>Date Added</key><date>2025-05-23T00:08:44Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Volume Adjustment</key><integer>255</integer>
+			<key>Play Count</key><integer>441</integer>
+			<key>Play Date</key><integer>3783185979</integer>
+			<key>Play Date UTC</key><date>2023-11-18T22:59:39Z</date>
+			<key>Skip Count</key><integer>10</integer>
+			<key>Skip Date</key><date>2025-05-26T23:34:16Z</date>
+			<key>Normalization</key><integer>1368</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>CFCAE1B9CFE17F93</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Causmic%20-%20(2020)%20Much%20Higher%20(no%20copyright%20-%20no%20restriction%20to%20use).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>_Aprovadas Velocidade</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>60739</integer>
+			<key>Playlist Persistent ID</key><string>06C18D5FBD0925CF</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>13640</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18080</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

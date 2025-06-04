@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+    <trackList>
+        <track>
+            <title>Let Me Put My Love into You</title>
+            <creator>ACDC</creator>
+            <album>Back in Black</album>
+            <duration>255686</duration>
+            <trackNum>5</trackNum>
+            <location>U:\Shared\Music/AC-DC%20-%20(1980)%20Back%20in%20Black%20-%20Let%20me%20put%20my%20love%20into%20you.mp3</location>
+        </track>
+        <track>
+            <title>Parallel</title>
+            <creator>Eagle Eyed Tiger </creator>
+            <duration>294687</duration>
+            <location>U:\Shared\Music/Eagle%20Eyed%20Tiger%20-%20Bandcamp%20-%20Parallel.mp3</location>
+        </track>
+        <track>
+            <title>Apparition</title>
+            <creator>Forhill</creator>
+            <duration>280476</duration>
+            <location>U:\Shared\Music/Forhill%20-%20Apparition.mp3</location>
+        </track>
+        <track>
+            <title>Chill Day</title>
+            <creator>LAKEY INSPIRED</creator>
+            <duration>186070</duration>
+            <location>U:\Shared\Music/Lakey%20Inspired%20-%20Chill%20Day.mp3</location>
+        </track>
+        <track>
+            <title>Burst</title>
+            <creator>Lloyd P-White</creator>
+            <duration>141333</duration>
+            <location>U:\Shared\Music/Lloyd%20P-White%20-%20Burst.wav</location>
+        </track>
+        <track>
+            <title>Deluxury</title>
+            <creator>Francci &amp; Flávio La Barre</creator>
+            <duration>217808</duration>
+            <location>U:\Shared\Music/Francci%20&amp;%20Fl%C3%A1vio%20La%20Barre%20-%20Deluxury.mp3</location>
+        </track>
+        <track>
+            <title>Error 404</title>
+            <creator>Lofi Geek</creator>
+            <duration>162720</duration>
+            <location>U:\Shared\Music/Lofi%20Greek%20-%20Error%20404.mp3</location>
+        </track>
+        <track>
+            <title>Much Higher (no copyright - no restriction to use)</title>
+            <creator>Causmic</creator>
+            <duration>171168</duration>
+            <location>U:\Shared\Music/Causmic%20-%20(2020)%20Much%20Higher%20(no%20copyright%20-%20no%20restriction%20to%20use).mp3</location>
+        </track>
+        <track>
+            <title>M0lly</title>
+            <creator>Ytho</creator>
+            <album>FR∆CT̅URE 2021</album>
+            <duration>199471</duration>
+            <location>U:\Shared\Music/Ytho%20-%20(2020)%20M0lly.mp3</location>
+        </track>
+        <track>
+            <title>Tides</title>
+            <creator>Dontcry &amp; Nokiaa</creator>
+            <album>Odyssey</album>
+            <duration>128235</duration>
+            <location>U:\Shared\Music/Dontcry%20&amp;%20Nokiaa%20-%20(2020)%20odyssey%20-%20Tides.mp3</location>
+        </track>
+        <track>
+            <title>Core</title>
+            <creator>Neronus</creator>
+            <album>Blassed Tapes</album>
+            <duration>168202</duration>
+            <location>U:\Shared\Music/Neronus%20-%20(2020)%20Blassed%20Tapes%20-%20Core.mp3</location>
+        </track>
+        <track>
+            <title>Overdose</title>
+            <creator>Neronus</creator>
+            <album>Reason to Exist </album>
+            <duration>168071</duration>
+            <location>U:\Shared\Music/Neronus%20-%20(2021)%20Reason%20to%20Exist%20-%20Overdose.mp3</location>
+        </track>
+        <track>
+            <title>Take me back</title>
+            <creator>Kanisan</creator>
+            <duration>149280</duration>
+            <location>U:\Shared\Music/Kanisan%20-%202023%20-%20Take%20me%20back.mp3</location>
+        </track>
+    </trackList>
+</playlist>

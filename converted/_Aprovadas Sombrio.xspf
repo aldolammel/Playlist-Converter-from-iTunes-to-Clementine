@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+    <trackList>
+        <track>
+            <title>Impro 2016l4l2</title>
+            <creator>Metome</creator>
+            <duration>256000</duration>
+            <location>U:\Shared\Music/Metome%20-%20Impro%202016l4l2%20(creative%20commons).wav</location>
+        </track>
+        <track>
+            <title>Base LoFi para a canção Cheia De Manias (JDutra)</title>
+            <creator>Raça Negra</creator>
+            <duration>173087</duration>
+            <location>U:\Shared\Music/Ra%C3%A7a%20Negra%20-%20Cheia%20de%20Manias%20(lofi%20remix%20by%20Jo%C3%A3o%20Dutra%20-%20jdutra%20-%20no%20voices).mp3</location>
+        </track>
+        <track>
+            <title>Core</title>
+            <creator>Neronus</creator>
+            <album>Blassed Tapes</album>
+            <duration>168202</duration>
+            <location>U:\Shared\Music/Neronus%20-%20(2020)%20Blassed%20Tapes%20-%20Core.mp3</location>
+        </track>
+        <track>
+            <title>Overdose</title>
+            <creator>Neronus</creator>
+            <album>Reason to Exist </album>
+            <duration>168071</duration>
+            <location>U:\Shared\Music/Neronus%20-%20(2021)%20Reason%20to%20Exist%20-%20Overdose.mp3</location>
+        </track>
+        <track>
+            <title>4 Months</title>
+            <creator>dryhope</creator>
+            <album>Blissful Dreams</album>
+            <duration>187376</duration>
+            <location>U:\Shared\Music/Kupla%20Master%20-%20(2023)%20Blissful%20Dreams%20-%20dryhope%20-%204%20Months.mp3</location>
+        </track>
+    </trackList>
+</playlist>

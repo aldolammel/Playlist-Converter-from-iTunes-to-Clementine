@@ -1,0 +1,723 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+    <trackList>
+        <track>
+            <title>The Ghoul Next Door (ft. Kendall Miles)</title>
+            <creator>Alex</creator>
+            <duration>138762</duration>
+            <location>U:\Shared\Music/ALEX%20&amp;%20Kendall%20Miles%20-%20The%20Ghoul%20Next%20Door.mp3</location>
+        </track>
+        <track>
+            <title>Start Again (com Snowflake &amp; Subliminal)</title>
+            <creator>Alex Beroza</creator>
+            <album>ccMixter</album>
+            <duration>247562</duration>
+            <location>U:\Shared\Music/Alex%20Beroza%20-%20Start%20Again%20(com%20Snowflake%20&amp;%20Subliminal).mp3</location>
+        </track>
+        <track>
+            <title>Listen To Your Heart</title>
+            <creator>Alicia Keys</creator>
+            <album>Girl On Fire</album>
+            <duration>228466</duration>
+            <trackNum>4</trackNum>
+            <location>U:\Shared\Music/Alicia%20Keys%20-%20Listen%20To%20Your%20Heart.mp3</location>
+        </track>
+        <track>
+            <title>Ligia (Ao vivo, Tom Jobim cover)</title>
+            <creator>Anna Setton</creator>
+            <duration>113684</duration>
+            <location>U:\Shared\Music/Anna%20Setton%20-%20Ligia%20(Ao%20vivo,%20Tom%20Jobim%20cover).mp3</location>
+        </track>
+        <track>
+            <title>No Better Way</title>
+            <creator>Ben Stevenson</creator>
+            <duration>278282</duration>
+            <location>U:\Shared\Music/Ben%20Stevenson%20-%20No%20Better%20Way.mp3</location>
+        </track>
+        <track>
+            <title>Beyond The Sunset</title>
+            <creator>Café Del Mar</creator>
+            <album>Volumen Nueve</album>
+            <duration>345417</duration>
+            <trackNum>1</trackNum>
+            <location>U:\Shared\Music/Beyond%20The%20Sunset.mp3</location>
+        </track>
+        <track>
+            <title>Kiara</title>
+            <creator>Bonobo</creator>
+            <album>Black Sands</album>
+            <duration>230373</duration>
+            <trackNum>2</trackNum>
+            <location>U:\Shared\Music/Bonobo%20-%20(2010)%20Black%20Sands%20-%20Kiara.mp3</location>
+        </track>
+        <track>
+            <title>Stay The Same (feat. Andreya Triana)</title>
+            <creator>Bonobo</creator>
+            <album>Black Sands</album>
+            <duration>284891</duration>
+            <trackNum>10</trackNum>
+            <location>U:\Shared\Music/Bonobo%20-%20(2010)%20Black%20Sands%20-%20Stay%20The%20Same%20(feat.%20Andreya%20Triana).mp3</location>
+        </track>
+        <track>
+            <title>4 Wings / Penelope (meme INTO WRONGDOING 2x)</title>
+            <creator>Café Del Mar</creator>
+            <album>Volumen Cinco</album>
+            <duration>372532</duration>
+            <trackNum>5</trackNum>
+            <location>U:\Shared\Music/Caf%C3%A9%20del%20mar%20-%20(1998)%20Volumen%20Cinco%20-%20Penelope%20(Radio%20Edit).mp3</location>
+        </track>
+        <track>
+            <title>Homebase</title>
+            <creator>Café Del Mar</creator>
+            <album>Volumen Seis</album>
+            <duration>435095</duration>
+            <trackNum>4</trackNum>
+            <location>U:\Shared\Music/Caf%C3%A9%20del%20mar%20-%20(1999)%20Volumen%20Seis%20-%20Homebase.mp3</location>
+        </track>
+        <track>
+            <title>I'll Street Blues</title>
+            <creator>Moonrock</creator>
+            <album>Volumen Seis</album>
+            <duration>226298</duration>
+            <trackNum>14</trackNum>
+            <location>U:\Shared\Music/Caf%C3%A9%20del%20mar%20-%20(1999)%20Volumen%20Seis%20-%20I'll%20Street%20Blues.mp3</location>
+        </track>
+        <track>
+            <title>Pina Colada (Jazz Mix)</title>
+            <creator>Café Del Mar</creator>
+            <album>Volumen Ocho</album>
+            <duration>374674</duration>
+            <trackNum>9</trackNum>
+            <location>U:\Shared\Music/Caf%C3%A9%20del%20mar%20-%20(2001)%20Volumen%20Ocho%20-%20Pina%20Colada%20(Jazz%20Mix).mp3</location>
+        </track>
+        <track>
+            <title>Island Memories (original mix)</title>
+            <creator>Café Del Mar</creator>
+            <album>Volumen Nueve</album>
+            <duration>321724</duration>
+            <trackNum>2</trackNum>
+            <location>U:\Shared\Music/Caf%C3%A9%20del%20mar%20-%20(2002)%20Volumen%20Nueve%20-%20Island%20Memories%20(original%20mix).mp3</location>
+        </track>
+        <track>
+            <title>The Cure (sunshine mix)</title>
+            <creator>Miro</creator>
+            <album>Volumen Nueve</album>
+            <duration>334576</duration>
+            <trackNum>6</trackNum>
+            <location>U:\Shared\Music/Caf%C3%A9%20del%20mar%20-%20(2002)%20Volumen%20Nueve%20-%20The%20Cure%20(sunshine%20mix).mp3</location>
+        </track>
+        <track>
+            <title>Cette Planete</title>
+            <creator>Café Del Mar</creator>
+            <album>Volumen Once</album>
+            <duration>370808</duration>
+            <trackNum>10</trackNum>
+            <location>U:\Shared\Music/Caf%C3%A9%20del%20mar%20-%20(2004)%20Volumen%20Once%20-%20Cette%20Planete.mp3</location>
+        </track>
+        <track>
+            <title>Where Would I Be (Memória Vermelha Mix com Praful)</title>
+            <creator>Adani &amp; Wolf</creator>
+            <album>Volumen Once</album>
+            <duration>320078</duration>
+            <trackNum>6</trackNum>
+            <location>U:\Shared\Music/Caf%C3%A9%20del%20mar%20-%20(2004)%20Volumen%20Once%20-%20Where%20Would%20I%20Be%20(Mem_ria%20Vermelha%20Mix).mp3</location>
+        </track>
+        <track>
+            <title>Lazy loungin</title>
+            <creator>Café Del Mar</creator>
+            <album>Volumen Doce</album>
+            <duration>322716</duration>
+            <location>U:\Shared\Music/Caf%C3%A9%20del%20mar%20-%20(2005)%20Volumen%20Doce%20-%20lazy_loungin.mp3</location>
+        </track>
+        <track>
+            <title>otis</title>
+            <creator>Café Del Mar</creator>
+            <album>Volumen Doce</album>
+            <duration>434755</duration>
+            <location>U:\Shared\Music/Caf%C3%A9%20del%20mar%20-%20(2005)%20Volumen%20Doce%20-%20otis.mp3</location>
+        </track>
+        <track>
+            <title>Time (Queensway remix)</title>
+            <creator>Chase &amp; Status</creator>
+            <duration>309498</duration>
+            <location>U:\Shared\Music/Chase%20&amp;%20Status%20-%20Time%20(Queensway%20remix).mp3</location>
+        </track>
+        <track>
+            <title>Feels Like Summer</title>
+            <creator>Childish Gambino</creator>
+            <duration>285779</duration>
+            <location>U:\Shared\Music/Childish%20Gambino%20-%20Feels%20Like%20Summer%20(Official%20Music%20Video).mp3</location>
+        </track>
+        <track>
+            <title>Saw Something</title>
+            <creator>Dave Gahan</creator>
+            <album>Hourglass</album>
+            <duration>316290</duration>
+            <trackNum>1</trackNum>
+            <location>U:\Shared\Music/Dave%20Gahan%20-%20(2007)%20Hourglass%20-%20Saw%20Something.mp3</location>
+        </track>
+        <track>
+            <title>Trust me</title>
+            <creator>Dee Joy</creator>
+            <duration>218070</duration>
+            <location>U:\Shared\Music/Dee%20Joy%20-%20Trust%20me.mp3</location>
+        </track>
+        <track>
+            <title>Walking In My Shoes</title>
+            <creator>Depeche Mode</creator>
+            <album>Songs Of Faith And Devotion</album>
+            <duration>336143</duration>
+            <trackNum>2</trackNum>
+            <location>U:\Shared\Music/Depeche%20Mode%20-%20(1993)%20Songs%20Of%20Faith%20And%20Devotion%20-%20Walking%20In%20My%20Shoes.mp3</location>
+        </track>
+        <track>
+            <title>Stripped (Remastered)</title>
+            <creator>Depeche Mode</creator>
+            <duration>223294</duration>
+            <location>U:\Shared\Music/Depeche%20Mode%20-%20Stripped%20(Remastered).mp3</location>
+        </track>
+        <track>
+            <title>Here With Me</title>
+            <creator>Dido</creator>
+            <album>No Angel</album>
+            <duration>291343</duration>
+            <location>U:\Shared\Music/Dido%20-%20Here%20With%20Me.mp3</location>
+        </track>
+        <track>
+            <title>Further</title>
+            <creator>DLJ</creator>
+            <duration>141844</duration>
+            <location>U:\Shared\Music/DLJ%20-%202020%20-%20Further.mp3</location>
+        </track>
+        <track>
+            <title>Father King</title>
+            <creator>Emancipator</creator>
+            <album>Soon It Will Be Cold Enough</album>
+            <duration>369293</duration>
+            <trackNum>13</trackNum>
+            <location>U:\Shared\Music/Emancipator%20-%20(2006)%20Soon%20It%20Will%20Be%20Cold%20Enough%20-%20father_king.mp3</location>
+        </track>
+        <track>
+            <title>When I Go</title>
+            <creator>Emancipator</creator>
+            <album>Soon It Will Be Cold Enough</album>
+            <duration>334184</duration>
+            <trackNum>7</trackNum>
+            <location>U:\Shared\Music/Emancipator%20-%20(2006)%20Soon%20It%20Will%20Be%20Cold%20Enough%20-%20When%20I%20go.mp3</location>
+        </track>
+        <track>
+            <title>Wolf Drawn</title>
+            <creator>Emancipator</creator>
+            <album>Soon It Will Be Cold Enough</album>
+            <duration>197067</duration>
+            <trackNum>4</trackNum>
+            <location>U:\Shared\Music/Emancipator%20-%20(2006)%20Soon%20It%20Will%20Be%20Cold%20Enough%20-%20Wolf_drawn.mp3</location>
+        </track>
+        <track>
+            <title>Getaways</title>
+            <creator>Ennja</creator>
+            <duration>387944</duration>
+            <location>U:\Shared\Music/Ennja%20-%20Getaways.mp3</location>
+        </track>
+        <track>
+            <title>Stop (blue remix)</title>
+            <creator>Ghost k</creator>
+            <duration>216006</duration>
+            <location>U:\Shared\Music/Ghost%20k%20-Stop%20(blue%20remix).mp3</location>
+        </track>
+        <track>
+            <title>The Blue</title>
+            <creator>Hopes Die Last</creator>
+            <album>Trust No One</album>
+            <duration>106135</duration>
+            <trackNum>5</trackNum>
+            <location>U:\Shared\Music/Hopes%20Die%20Last%20-%20(2012)%20Trust%20No%20One%20-%20The%20Blue.mp3</location>
+        </track>
+        <track>
+            <title>Direction</title>
+            <creator>Hugh</creator>
+            <duration>400117</duration>
+            <location>U:\Shared\Music/Hugh%20-%20Direction.mp3</location>
+        </track>
+        <track>
+            <title>Bruno Mars' Cover</title>
+            <creator>Jamz</creator>
+            <duration>267493</duration>
+            <location>U:\Shared\Music/Jamz%20-%20Bruno%20Mars'%20Cover.mp3</location>
+        </track>
+        <track>
+            <title>Love Hangover</title>
+            <creator>Jettricks</creator>
+            <album>Remote Control</album>
+            <duration>346096</duration>
+            <location>U:\Shared\Music/Jet%20Tricks%20-%20Love%20Hangover.mp3</location>
+        </track>
+        <track>
+            <title>Waves</title>
+            <creator>Joey Badass</creator>
+            <album>1999 (Mixtape)</album>
+            <duration>224470</duration>
+            <location>U:\Shared\Music/Joey%20Badass%20-%20(2012)%201999%20-%20Waves.mp3</location>
+        </track>
+        <track>
+            <title>Far Away</title>
+            <creator>Le Nonsense</creator>
+            <album>Human Conception</album>
+            <duration>316865</duration>
+            <location>U:\Shared\Music/Le%20Nonsense%20-%20Human%20Conception%20-%20Far%20Away.mp3</location>
+        </track>
+        <track>
+            <title>firmament</title>
+            <creator>Leavv</creator>
+            <album>memoirs</album>
+            <duration>107337</duration>
+            <trackNum>8</trackNum>
+            <location>U:\Shared\Music/Leavv%20-%20(2016)%20Memoirs%20-%20Firmament.mp3</location>
+        </track>
+        <track>
+            <title>Valley</title>
+            <creator>Leavv</creator>
+            <duration>190040</duration>
+            <location>U:\Shared\Music/leavv%20-%20Valley.mp3</location>
+        </track>
+        <track>
+            <title>I Belong To You</title>
+            <creator>Lenny Kravitz</creator>
+            <album>Greatest Hits</album>
+            <duration>257253</duration>
+            <trackNum>12</trackNum>
+            <location>U:\Shared\Music/Lenny%20Kravitz%20-%20Greatest%20Hits%20-%20I%20Belong%20To%20You%20.mp3</location>
+        </track>
+        <track>
+            <title>In The End (Mellen Gi &amp; Tommee Profitt Remix)</title>
+            <creator>Linkin Park</creator>
+            <duration>214230</duration>
+            <location>U:\Shared\Music/Linkin%20Park%20-%20In%20The%20End%20(Mellen%20Gi%20&amp;%20Tommee%20Profitt%20Remix).mp3</location>
+        </track>
+        <track>
+            <title>Leave The War With Me</title>
+            <creator>London Grammar</creator>
+            <album>Truth Is A Beautiful Thing (Deluxe Edition)</album>
+            <duration>304561</duration>
+            <trackNum>10</trackNum>
+            <location>U:\Shared\Music/London%20Grammar%20-%20(2017)%20Truth%20Is%20a%20Beautiful%20Thing%20(Deluxe)%20-%20Leave%20The%20War%20With%20Me.mp3</location>
+        </track>
+        <track>
+            <title>Tomorrow</title>
+            <creator>Lyn Leon</creator>
+            <duration>327105</duration>
+            <location>U:\Shared\Music/Lyn%20Leon%20-%20Tomorrow.mp3</location>
+        </track>
+        <track>
+            <title>Wildflowers (Exhale Efreet)</title>
+            <creator>Made in Heights</creator>
+            <duration>184111</duration>
+            <location>U:\Shared\Music/Made%20in%20Heights%20-%20Wildflowers%20(Exhale%20Efreet).mp3</location>
+        </track>
+        <track>
+            <title>La Mujer que Bota Fuego</title>
+            <creator>Manuel Medrano</creator>
+            <duration>254249</duration>
+            <location>U:\Shared\Music/Manuel%20Medrano%20-%202015%20-%20La%20Mujer%20que%20Bota%20Fuego.mp3</location>
+        </track>
+        <track>
+            <title>La mujer que bota fuego</title>
+            <creator>Manuel Medrano</creator>
+            <duration>242207</duration>
+            <location>U:\Shared\Music/Manuel%20Medrano%20-%20La%20mujer%20que%20bota%20fuego.mp3</location>
+        </track>
+        <track>
+            <title>Time</title>
+            <creator>Mateus Asato</creator>
+            <duration>214125</duration>
+            <location>U:\Shared\Music/Mateus%20Asato%20-%20Time.mp3</location>
+        </track>
+        <track>
+            <title>Aloha (feat Merryn Jeann)</title>
+            <creator>Møme</creator>
+            <duration>218671</duration>
+            <location>U:\Shared\Music/MME%20-%20Aloha%20(feat%20Merryn-Jeann).mp3</location>
+        </track>
+        <track>
+            <title>Roam</title>
+            <creator>Natural Doc &amp; Jinsfake</creator>
+            <duration>166765</duration>
+            <location>U:\Shared\Music/Natural%20Doc%20&amp;%20Jinsfake%20-%20Roam.mp3</location>
+        </track>
+        <track>
+            <title>Inside (w chief)</title>
+            <creator>oatmello</creator>
+            <duration>121678</duration>
+            <location>U:\Shared\Music/oatmello%20-%20inside%20(w%20chief.).mp3</location>
+        </track>
+        <track>
+            <title> The End (ft. Fujitsu)</title>
+            <creator>Philanthrope</creator>
+            <duration>136124</duration>
+            <location>U:\Shared\Music/Philanthrope%20-%20The%20End%20(ft%20Fujitsu).mp3</location>
+        </track>
+        <track>
+            <title>Sleeping With Ghosts</title>
+            <creator>Placebo</creator>
+            <album>Sleeping With Ghosts</album>
+            <duration>279118</duration>
+            <trackNum>4</trackNum>
+            <location>U:\Shared\Music/Placebo%20-%20(2003)%20Sleeping%20With%20Ghosts%20-%20Sleeping%20With%20Ghosts.mp3</location>
+        </track>
+        <track>
+            <title>St. Valentine</title>
+            <creator>Queensway</creator>
+            <duration>279301</duration>
+            <location>U:\Shared\Music/Queensway%20-%20St%20Valentine.mp3</location>
+        </track>
+        <track>
+            <title>Base LoFi para a canção Cheia De Manias (JDutra)</title>
+            <creator>Raça Negra</creator>
+            <duration>173087</duration>
+            <location>U:\Shared\Music/Ra%C3%A7a%20Negra%20-%20Cheia%20de%20Manias%20(lofi%20remix%20by%20Jo%C3%A3o%20Dutra%20-%20jdutra%20-%20no%20voices).mp3</location>
+        </track>
+        <track>
+            <title>Cheia de Manias (lofi remix by João Dutra - jdutra)</title>
+            <creator>Raça Negra</creator>
+            <duration>179121</duration>
+            <location>U:\Shared\Music/Ra%C3%A7a%20Negra%20-%20Cheia%20de%20Manias%20(lofi%20remix%20by%20Jo%C3%A3o%20Dutra%20-%20jdutra).mp3</location>
+        </track>
+        <track>
+            <title>Deliverance</title>
+            <creator>RY X</creator>
+            <duration>230504</duration>
+            <location>U:\Shared\Music/RY%20X%20-%20Deliverance.mp3</location>
+        </track>
+        <track>
+            <title>Quem Não Quer Sou Eu</title>
+            <creator>Seu Jorge</creator>
+            <album>Músicas Para Churrasco Vol.1</album>
+            <duration>326376</duration>
+            <trackNum>10</trackNum>
+            <location>U:\Shared\Music/Seu%20Jorge%20-%20(2011)%20M%C3%BAsica%20para%20churrasco%20Vol%201%20-%20Quem%20N%C3%A3o%20Quer%20Sou%20Eu.mp3</location>
+        </track>
+        <track>
+            <title>Breathe</title>
+            <creator>Telepopmusik</creator>
+            <duration>279040</duration>
+            <location>U:\Shared\Music/Telepopmusik%20-%20Breathe.mp3</location>
+        </track>
+        <track>
+            <title>Cold Heart Women</title>
+            <creator>CYGN</creator>
+            <album>Body 'N Soul</album>
+            <duration>168385</duration>
+            <location>U:\Shared\Music/CYGN%20-%20Cold%20Heart%20Women.mp3</location>
+        </track>
+        <track>
+            <title>Vista</title>
+            <creator>Poldoore</creator>
+            <duration>161018</duration>
+            <location>U:\Shared\Music/Poldoore%20-%202017%20-%20Vista.mp3</location>
+        </track>
+        <track>
+            <title>Nothing really matters that much to me anymore</title>
+            <creator>Astroblk</creator>
+            <album>SoundCloud</album>
+            <duration>164963</duration>
+            <location>U:\Shared\Music/Astroblk%20-%20nothing%20really%20matters%20that%20much%20to%20me%20anymore..mp3</location>
+        </track>
+        <track>
+            <title>Underseas Glow</title>
+            <creator>Karmawin</creator>
+            <duration>214099</duration>
+            <location>U:\Shared\Music/Karmawin%20-%20(2020)%20-%20Underseas%20Glow.mp3</location>
+        </track>
+        <track>
+            <title>Mellow Evening</title>
+            <creator>Soupbox</creator>
+            <duration>158232</duration>
+            <location>U:\Shared\Music/Soupbox%20-%202016%20-%20Mellow%20Evening.mp3</location>
+        </track>
+        <track>
+            <title>Time</title>
+            <creator>Bassti</creator>
+            <album>Chillhop</album>
+            <duration>95208</duration>
+            <location>U:\Shared\Music/Bassti%20-%20(2017)%20Chillhop%20-%20Time.mp3</location>
+        </track>
+        <track>
+            <title>Deluxury</title>
+            <creator>Francci &amp; Flávio La Barre</creator>
+            <duration>217808</duration>
+            <location>U:\Shared\Music/Francci%20&amp;%20Fl%C3%A1vio%20La%20Barre%20-%20Deluxury.mp3</location>
+        </track>
+        <track>
+            <title>Error 404</title>
+            <creator>Lofi Geek</creator>
+            <duration>162720</duration>
+            <location>U:\Shared\Music/Lofi%20Greek%20-%20Error%20404.mp3</location>
+        </track>
+        <track>
+            <title>Much Higher (no copyright - no restriction to use)</title>
+            <creator>Causmic</creator>
+            <duration>171168</duration>
+            <location>U:\Shared\Music/Causmic%20-%20(2020)%20Much%20Higher%20(no%20copyright%20-%20no%20restriction%20to%20use).mp3</location>
+        </track>
+        <track>
+            <title>Wakin n Bakin (live)</title>
+            <creator>Marc Rebillet</creator>
+            <duration>261072</duration>
+            <location>U:\Shared\Music/Marc%20Rebillet%20-%20(2021)%20Wakin%20n%20Bakin.mp3</location>
+        </track>
+        <track>
+            <title>Autumn Haze</title>
+            <creator>West &amp; Zander</creator>
+            <duration>230904</duration>
+            <location>U:\Shared\Music/West%20&amp;%20Zander%20-%20(2020)%20-%20Autumn%20Haze.mp3</location>
+        </track>
+        <track>
+            <title>Iridescent</title>
+            <creator>Forhill</creator>
+            <album>2021</album>
+            <duration>193697</duration>
+            <location>U:\Shared\Music/Forhill%20-%202021%20-%20Iridescent.mp3</location>
+        </track>
+        <track>
+            <title>Polyplex (feat Flitz&amp;Suppe)</title>
+            <creator>Philanthrope</creator>
+            <duration>176692</duration>
+            <location>U:\Shared\Music/Philanthrope%20-%202018%20-%20Polyplex%20(feat%20Flitz&amp;Suppe).mp3</location>
+        </track>
+        <track>
+            <title>Day 12</title>
+            <creator>Chris Mazuera</creator>
+            <album>Dozing</album>
+            <duration>122853</duration>
+            <trackNum>4</trackNum>
+            <location>U:\Shared\Music/Chris%20Mazuera%20-%20(2020)%20Dozing%20-%204.%20Day%2012.mp3</location>
+        </track>
+        <track>
+            <title>Steps (Kupla Master)</title>
+            <creator>dryhope</creator>
+            <album>1 AM Study Session</album>
+            <duration>150804</duration>
+            <location>U:\Shared\Music/ChilledCow%20Records%20-%20(2020)%201%20AM%20Study%20Session%20-%2028%20dryhope%20-%20Steps%20(Kupla%20Master).mp3</location>
+        </track>
+        <track>
+            <title>Going South</title>
+            <creator>Blumen</creator>
+            <album>La Hague EP</album>
+            <duration>150230</duration>
+            <location>U:\Shared\Music/Blumen%20-%20(2020)%20La%20Hague%20-%20Going%20South.mp3</location>
+        </track>
+        <track>
+            <title>lazyness</title>
+            <creator>Nothingtosay</creator>
+            <album>Introspective</album>
+            <duration>161880</duration>
+            <trackNum>7</trackNum>
+            <location>U:\Shared\Music/Nothingtosay%20-%20(2020)%20Introspective%20-%207%20-%20lazyness.mp3</location>
+        </track>
+        <track>
+            <title>Tides</title>
+            <creator>Dontcry &amp; Nokiaa</creator>
+            <album>Odyssey</album>
+            <duration>128235</duration>
+            <location>U:\Shared\Music/Dontcry%20&amp;%20Nokiaa%20-%20(2020)%20odyssey%20-%20Tides.mp3</location>
+        </track>
+        <track>
+            <title>sing</title>
+            <creator>Kudo</creator>
+            <album>Staring Through</album>
+            <duration>128496</duration>
+            <location>U:\Shared\Music/Kudo%20-%20(2020)%20Staring%20Through%20-%206-sing.mp3</location>
+        </track>
+        <track>
+            <title>Contrasts</title>
+            <creator>dryhope</creator>
+            <album>Contrasts </album>
+            <duration>161933</duration>
+            <location>U:\Shared\Music/dryhope%20-%20(2020)%20Contrasts%20-%20Contrasts.mp3</location>
+        </track>
+        <track>
+            <title>somewhere else (Kupla Master)</title>
+            <creator>dryhope</creator>
+            <album>3 AM Study Session</album>
+            <duration>155898</duration>
+            <location>U:\Shared\Music/ChilledCow%20Records%20-%20(2020)%203%20am%20study%20session%20-%20dryhope%20-%20somewhere%20else%20(Kupla%20Master).mp3</location>
+        </track>
+        <track>
+            <title>Homeland</title>
+            <creator>L'Outlander</creator>
+            <album>Homeland</album>
+            <duration>127294</duration>
+            <trackNum>6</trackNum>
+            <location>U:\Shared\Music/L'Outlander%20-%20(2021)%20Homeland%20-%206.Homeland.mp3</location>
+        </track>
+        <track>
+            <title>Evenings</title>
+            <creator>Snug</creator>
+            <album>Purple Skies</album>
+            <duration>155820</duration>
+            <trackNum>2</trackNum>
+            <location>U:\Shared\Music/Snug%20-%20(2021)%20Purple%20Skies%20-%20Evenings.mp3</location>
+        </track>
+        <track>
+            <title>Wondering</title>
+            <creator>Casiio</creator>
+            <album>Wondering</album>
+            <duration>124776</duration>
+            <location>U:\Shared\Music/Casiio%20-%20(2020)%20Wondering%20-%20Wondering.mp3</location>
+        </track>
+        <track>
+            <title>Ken Tavr</title>
+            <creator>Ishome</creator>
+            <album>Confession</album>
+            <duration>307957</duration>
+            <trackNum>8</trackNum>
+            <location>U:\Shared\Music/Ishome%20-%20(2013)%20Confession%20-%2008%20Ken%20Tavr.mp3</location>
+        </track>
+        <track>
+            <title>Just Lovely (originaly by Soundset City)</title>
+            <creator>Savant Shadow</creator>
+            <album>Camera Obscura</album>
+            <duration>377521</duration>
+            <location>U:\Shared\Music/Savant%20Shadow%20-%20(2021)%20Camera%20Obscura%20-%20Just%20Lovely%20(originaly%20by%20Soundset%20City).mp3</location>
+        </track>
+        <track>
+            <title>Dusty windowsill</title>
+            <creator>Savant Shadow</creator>
+            <album>Camera Obscura</album>
+            <duration>293328</duration>
+            <location>U:\Shared\Music/Savant%20Shadow%20-%20(2021)%20Camera%20Obscura%20-%20Dusty%20windowsill.mp3</location>
+        </track>
+        <track>
+            <title>Hankage solar eclipse</title>
+            <creator>Savant Shadow</creator>
+            <album>Camera Obscura</album>
+            <duration>347977</duration>
+            <location>U:\Shared\Music/Savant%20Shadow%20-%20(2021)%20Camera%20Obscura%20-%20Hankage%20solar%20eclipse.mp3</location>
+        </track>
+        <track>
+            <title>Cabaré (Lo Fi version)</title>
+            <creator>Prod Madz</creator>
+            <duration>150840</duration>
+            <location>U:\Shared\Music/Prod%20Madz%20-%20Cabar%C3%A9%20(Lo%20Fi%20version).mp3</location>
+        </track>
+        <track>
+            <title>Omid</title>
+            <creator>Thievery Corporation</creator>
+            <album>The Richest Man in Babylon</album>
+            <duration>228388</duration>
+            <location>U:\Shared\Music/Thievery%20Corporation%20-%20(2002)%20The%20Richest%20Man%20in%20Babylon%20-%20Omid.mp3</location>
+        </track>
+        <track>
+            <title>Un Simple Histoire (A Simple History)</title>
+            <creator>Thievery Corporation</creator>
+            <album>The Richest Man in Babylon</album>
+            <duration>225541</duration>
+            <location>U:\Shared\Music/Thievery%20Corporation%20-%20(2002)%20The%20Richest%20Man%20in%20Babylon%20-%20Un%20Simple%20Histoire%20A%20Simple%20History.mp3</location>
+        </track>
+        <track>
+            <title>Resolution</title>
+            <creator>Thievery Corporation</creator>
+            <album>The Richest Man in Babylon</album>
+            <duration>286746</duration>
+            <location>U:\Shared\Music/Thievery%20Corporation%20-%20(2002)%20The%20Richest%20Man%20in%20Babylon%20-%20Resolution.mp3</location>
+        </track>
+        <track>
+            <title>Heavens Gonna Burn Your Eyes</title>
+            <creator>Thievery Corporation</creator>
+            <album>The Richest Man in Babylon</album>
+            <duration>250462</duration>
+            <location>U:\Shared\Music/Thievery%20Corporation%20-%20(2002)%20The%20Richest%20Man%20in%20Babylon%20-%20Heavens%20Gonna%20Burn%20Your%20Eyes.mp3</location>
+        </track>
+        <track>
+            <title>The Glass and Bead Game</title>
+            <creator>Thievery Corporation</creator>
+            <album>Sounds from the Thievery Hi-Fi</album>
+            <duration>372819</duration>
+            <location>U:\Shared\Music/Thievery%20Corporation%20-%20(1996)%20Sounds%20from%20the%20Thievery%20Hi-Fi%20-%20The%20Glass%20and%20Bead%20Game.mp3</location>
+        </track>
+        <track>
+            <title>I Never Thought I'd See the Day</title>
+            <creator>Sade</creator>
+            <duration>254093</duration>
+            <location>U:\Shared\Music/Sade%20-%20I%20Never%20Thought%20I'd%20See%20the%20Day.mp3</location>
+        </track>
+        <track>
+            <title>Quetzal</title>
+            <creator>dryhope</creator>
+            <album>Kenopsia</album>
+            <duration>127817</duration>
+            <location>U:\Shared\Music/Dryhope%20-%20(2020)%20Kenopsia%20-%20Quetzal.mp3</location>
+        </track>
+        <track>
+            <title>No Secrets</title>
+            <creator>dryhope</creator>
+            <album>Kenopsia</album>
+            <duration>115226</duration>
+            <location>U:\Shared\Music/Dryhope%20-%20(2020)%20Kenopsia%20-%20No%20Secrets.mp3</location>
+        </track>
+        <track>
+            <title>Take me back</title>
+            <creator>Kanisan</creator>
+            <duration>149280</duration>
+            <location>U:\Shared\Music/Kanisan%20-%202023%20-%20Take%20me%20back.mp3</location>
+        </track>
+        <track>
+            <title>Dumbo</title>
+            <creator>Pausa Psi</creator>
+            <album>Nacho De La Riega</album>
+            <duration>141240</duration>
+            <location>U:\Shared\Music/Pausa%20Psi%20-%20(2022)%20Nacho%20De%20La%20Riega%20-%20Dumbo.mp3</location>
+        </track>
+        <track>
+            <title>Restless Nights</title>
+            <creator>Seek Shelter</creator>
+            <duration>141240</duration>
+            <location>U:\Shared\Music/Seek%20Shelter%20-%20(2022)%20-%20Restless%20Nights.mp3</location>
+        </track>
+        <track>
+            <title>Aurora</title>
+            <creator>Nomyn </creator>
+            <duration>215640</duration>
+            <location>U:\Shared\Music/Nomyn%20-%20(2020)%20-%20Aurora.mp3</location>
+        </track>
+        <track>
+            <title>Figures</title>
+            <creator>Bonobo</creator>
+            <album>Migration</album>
+            <duration>368378</duration>
+            <trackNum>12</trackNum>
+            <location>U:\Shared\Music/Bonobo%20-%20(2017)%20Migration%20-%20Figures.mp3</location>
+        </track>
+        <track>
+            <title>Grains</title>
+            <creator>Bonobo</creator>
+            <album>Migration</album>
+            <duration>268956</duration>
+            <trackNum>4</trackNum>
+            <location>U:\Shared\Music/Bonobo%20-%20(2017)%20Migration%20-%20Grains.mp3</location>
+        </track>
+        <track>
+            <title>Last Time</title>
+            <creator>Aaron May</creator>
+            <album>No Recognition</album>
+            <duration>192261</duration>
+            <location>U:\Shared\Music/Aaron%20May%20-%20(2022)%20No%20Recognition%20-%20Last%20Time.mp3</location>
+        </track>
+        <track>
+            <title>Tides</title>
+            <creator>Bonobo</creator>
+            <album>Fragments</album>
+            <duration>233377</duration>
+            <trackNum>5</trackNum>
+            <location>U:\Shared\Music/Bonobo%20-%20(2022)%20Fragments%20-%2005.%20Tides.mp3</location>
+        </track>
+        <track>
+            <title>Rosewood</title>
+            <creator>Bonobo</creator>
+            <album>Fragments</album>
+            <duration>249991</duration>
+            <trackNum>3</trackNum>
+            <location>U:\Shared\Music/Bonobo%20-%20(2022)%20Fragments%20-%2003.%20Rosewood.mp3</location>
+        </track>
+    </trackList>
+</playlist>

@@ -1,0 +1,1391 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2025-06-04T02:42:50Z</date>
+	<key>Application Version</key><string>12.13.7.1</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/E:/Users/aldol/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>187AD5E35C5E82C1</string>
+	<key>Tracks</key>
+	<dict>
+		<key>5608</key>
+		<dict>
+			<key>Track ID</key><integer>5608</integer>
+			<key>Name</key><string>Cidade grande</string>
+			<key>Artist</key><string>Charlie Brown Jr.</string>
+			<key>Album</key><string>Preço Curto Prazo Longo</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3144615</integer>
+			<key>Total Time</key><integer>194951</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2024-02-08T17:33:08Z</date>
+			<key>Date Added</key><date>2025-05-22T23:57:37Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>99</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3712326750</integer>
+			<key>Play Date UTC</key><date>2021-08-20T20:52:30Z</date>
+			<key>Normalization</key><integer>5677</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>38ABA5C03FCEFECF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Charlie%20Brown%20Jr.%20-%20(1999)%20Pre%C3%A7o%20Curto%20Prazo%20Longo%20-%20Cidade%20grande.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>5610</key>
+		<dict>
+			<key>Track ID</key><integer>5610</integer>
+			<key>Name</key><string>Confisco</string>
+			<key>Artist</key><string>Charlie Brown Jr.</string>
+			<key>Album</key><string>Preço Curto Prazo Longo</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2893857</integer>
+			<key>Total Time</key><integer>178808</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2024-02-08T17:32:54Z</date>
+			<key>Date Added</key><date>2025-05-22T23:57:37Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>99</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3712328338</integer>
+			<key>Play Date UTC</key><date>2021-08-20T21:18:58Z</date>
+			<key>Normalization</key><integer>7218</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>53E3AB16F3CF825D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Charlie%20Brown%20Jr.%20-%20(1999)%20Pre%C3%A7o%20Curto%20Prazo%20Longo%20-%20Confisco.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>5620</key>
+		<dict>
+			<key>Track ID</key><integer>5620</integer>
+			<key>Name</key><string>Historia mal escrita</string>
+			<key>Artist</key><string>Charlie Brown Jr.</string>
+			<key>Album</key><string>Preço Curto Prazo Longo</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3915027</integer>
+			<key>Total Time</key><integer>242651</integer>
+			<key>Track Number</key><integer>16</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2024-02-08T17:33:09Z</date>
+			<key>Date Added</key><date>2025-05-22T23:57:37Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>99</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3712326990</integer>
+			<key>Play Date UTC</key><date>2021-08-20T20:56:30Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2021-04-02T04:26:06Z</date>
+			<key>Normalization</key><integer>6281</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6F3A7ABC8F66CEDE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Charlie%20Brown%20Jr.%20-%20(1999)%20Pre%C3%A7o%20Curto%20Prazo%20Longo%20-%20Historia%20mal%20escrita.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>5626</key>
+		<dict>
+			<key>Track ID</key><integer>5626</integer>
+			<key>Name</key><string>Mantenha a dúvida</string>
+			<key>Artist</key><string>Charlie Brown Jr.</string>
+			<key>Album</key><string>Preço Curto Prazo Longo</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2977589</integer>
+			<key>Total Time</key><integer>184058</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2025-01-26T01:21:59Z</date>
+			<key>Date Added</key><date>2025-05-22T23:57:38Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>99</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3723155285</integer>
+			<key>Play Date UTC</key><date>2021-12-24T03:48:05Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2021-07-08T02:08:11Z</date>
+			<key>Normalization</key><integer>8765</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0807BF92CC53697F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Charlie%20Brown%20Jr.%20-%20(1999)%20Pre%C3%A7o%20Curto%20Prazo%20Longo%20-%20Mantenha%20a%20D%C3%BAvida.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>5638</key>
+		<dict>
+			<key>Track ID</key><integer>5638</integer>
+			<key>Name</key><string>Resolve meu problema aí</string>
+			<key>Artist</key><string>Charlie Brown Jr.</string>
+			<key>Album</key><string>Preço Curto Prazo Longo</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2905227</integer>
+			<key>Total Time</key><integer>179539</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2024-04-06T15:18:26Z</date>
+			<key>Date Added</key><date>2025-05-22T23:57:38Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>99</integer>
+			<key>Play Count</key><integer>12</integer>
+			<key>Play Date</key><integer>3792824525</integer>
+			<key>Play Date UTC</key><date>2024-03-09T13:22:05Z</date>
+			<key>Normalization</key><integer>9902</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C5258E7E2B03A6B2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Charlie%20Brown%20Jr.%20-%20(1999)%20Pre%C3%A7o%20Curto%20Prazo%20Longo%20-%20Resolve%20Meu%20Problema%20Ai.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>5640</key>
+		<dict>
+			<key>Track ID</key><integer>5640</integer>
+			<key>Name</key><string>Te levar</string>
+			<key>Artist</key><string>Charlie Brown Jr.</string>
+			<key>Album</key><string>Preço Curto Prazo Longo</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2959818</integer>
+			<key>Total Time</key><integer>182935</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2024-02-08T17:33:05Z</date>
+			<key>Date Added</key><date>2025-05-22T23:57:38Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>99</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2021-08-17T16:51:39Z</date>
+			<key>Normalization</key><integer>9331</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>588A779550F242D0</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Charlie%20Brown%20Jr.%20-%20(1999)%20Pre%C3%A7o%20Curto%20Prazo%20Longo%20-%20Te%20levar.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>5642</key>
+		<dict>
+			<key>Track ID</key><integer>5642</integer>
+			<key>Name</key><string>Zóio de Lula</string>
+			<key>Artist</key><string>Charlie Brown Jr.</string>
+			<key>Album</key><string>Preço Curto Prazo Longo</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4018241</integer>
+			<key>Total Time</key><integer>249103</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2024-02-08T17:33:07Z</date>
+			<key>Date Added</key><date>2025-05-22T23:57:38Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>99</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3725388998</integer>
+			<key>Play Date UTC</key><date>2022-01-19T00:16:38Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2021-09-16T20:40:35Z</date>
+			<key>Normalization</key><integer>5092</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>12FFA792F498E64B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Charlie%20Brown%20Jr.%20-%20(1999)%20Pre%C3%A7o%20Curto%20Prazo%20Longo%20-%20Z%C3%B3io%20de%20Lula.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>7584</key>
+		<dict>
+			<key>Track ID</key><integer>7584</integer>
+			<key>Name</key><string>Here With Me</string>
+			<key>Artist</key><string>Dido</string>
+			<key>Album Artist</key><string>Dido</string>
+			<key>Composer</key><string>D. Armstrong/Pascal Gabriel/Paul Statham</string>
+			<key>Album</key><string>No Angel</string>
+			<key>Work</key><string>Romantic</string>
+			<key>Genre</key><string>Romantic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7641872</integer>
+			<key>Total Time</key><integer>291343</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2021-09-03T14:07:11Z</date>
+			<key>Date Added</key><date>2025-05-22T23:59:25Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>255</integer>
+			<key>Comments</key><string>©1999 Arista Records          </string>
+			<key>Play Count</key><integer>11</integer>
+			<key>Play Date</key><integer>3779039461</integer>
+			<key>Play Date UTC</key><date>2023-10-02T00:11:01Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2022-06-29T23:46:23Z</date>
+			<key>Normalization</key><integer>3929</integer>
+			<key>Artwork Count</key><integer>2</integer>
+			<key>Persistent ID</key><string>E61E3E65BF81DB7E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Dido%20-%20Here%20With%20Me.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>9006</key>
+		<dict>
+			<key>Track ID</key><integer>9006</integer>
+			<key>Name</key><string>Everlong</string>
+			<key>Artist</key><string>Foo Fighters</string>
+			<key>Album</key><string>The Colour And The Shape</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7230225</integer>
+			<key>Total Time</key><integer>250723</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Year</key><integer>1997</integer>
+			<key>Date Modified</key><date>2025-05-30T19:55:31Z</date>
+			<key>Date Added</key><date>2025-05-23T00:00:33Z</date>
+			<key>Bit Rate</key><integer>222</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>100</integer>
+			<key>Comments</key><string>ripped by murke</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3739642060</integer>
+			<key>Play Date UTC</key><date>2022-07-03T00:27:40Z</date>
+			<key>Normalization</key><integer>8145</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Colour And The Shape</string>
+			<key>Persistent ID</key><string>D5B5FC7B90DE7F89</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Foo%20Fighters%20-%20(1997)%20The%20colour%20and%20the%20shape%20-%20Everlong.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>9014</key>
+		<dict>
+			<key>Track ID</key><integer>9014</integer>
+			<key>Name</key><string>My Hero</string>
+			<key>Artist</key><string>Foo Fighters</string>
+			<key>Album</key><string>The Colour And The Shape</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6935448</integer>
+			<key>Total Time</key><integer>260048</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>1997</integer>
+			<key>Date Modified</key><date>2025-05-30T19:55:31Z</date>
+			<key>Date Added</key><date>2025-05-23T00:00:33Z</date>
+			<key>Bit Rate</key><integer>205</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>100</integer>
+			<key>Comments</key><string>ripped by murke</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3779041072</integer>
+			<key>Play Date UTC</key><date>2023-10-02T00:37:52Z</date>
+			<key>Normalization</key><integer>10235</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Colour And The Shape</string>
+			<key>Persistent ID</key><string>0FAB728E934296F9</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Foo%20Fighters%20-%20(1997)%20The%20colour%20and%20the%20shape%20-%20My%20Hero.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>9040</key>
+		<dict>
+			<key>Track ID</key><integer>9040</integer>
+			<key>Name</key><string>Learn To Fly</string>
+			<key>Artist</key><string>Foo Fighters</string>
+			<key>Album</key><string>There Is Nothing Left To Lose</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6210835</integer>
+			<key>Total Time</key><integer>235337</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2021-09-03T14:51:12Z</date>
+			<key>Date Added</key><date>2025-05-23T00:00:34Z</date>
+			<key>Bit Rate</key><integer>210</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3739642295</integer>
+			<key>Play Date UTC</key><date>2022-07-03T00:31:35Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2021-08-02T15:53:54Z</date>
+			<key>Normalization</key><integer>8229</integer>
+			<key>Persistent ID</key><string>B1532A0F0B06771E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Foo%20Fighters%20-%20(1999)%20There%20is%20nothing%20left%20to%20lose%20-%20Learn%20To%20Fly.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>9474</key>
+		<dict>
+			<key>Track ID</key><integer>9474</integer>
+			<key>Name</key><string>Basket Case</string>
+			<key>Artist</key><string>Green Day</string>
+			<key>Composer</key><string>Mike Dint, Billie Joe, Tré Cool</string>
+			<key>Album</key><string>Dookie</string>
+			<key>Genre</key><string>Punk Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9272124</integer>
+			<key>Total Time</key><integer>183248</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>1994</integer>
+			<key>Date Modified</key><date>2021-09-03T15:16:47Z</date>
+			<key>Date Added</key><date>2025-05-23T00:00:59Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Um dos 200 albuns definitivos do Hall da Fama do Rock</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3739642702</integer>
+			<key>Play Date UTC</key><date>2022-07-03T00:38:22Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2021-07-02T00:30:25Z</date>
+			<key>Normalization</key><integer>5144</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E399B3E9B60C6490</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Green%20Day%20-%20(1994)%20Dookie%20-%20Basket%20Case.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>9496</key>
+		<dict>
+			<key>Track ID</key><integer>9496</integer>
+			<key>Name</key><string>She</string>
+			<key>Artist</key><string>Green Day</string>
+			<key>Composer</key><string>Mike Dint, Billie Joe, Tré Cool</string>
+			<key>Album</key><string>Dookie</string>
+			<key>Genre</key><string>Punk Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7315022</integer>
+			<key>Total Time</key><integer>134321</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>1994</integer>
+			<key>Date Modified</key><date>2021-09-03T15:17:32Z</date>
+			<key>Date Added</key><date>2025-05-23T00:01:00Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Um dos 200 albuns definitivos do Hall da Fama do Rock</string>
+			<key>Normalization</key><integer>4475</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D8378E855299F996</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Green%20Day%20-%20(1994)%20Dookie%20-%20She.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>9500</key>
+		<dict>
+			<key>Track ID</key><integer>9500</integer>
+			<key>Name</key><string>When I Come Around</string>
+			<key>Artist</key><string>Green Day</string>
+			<key>Composer</key><string>Mike Dint, Billie Joe, Tré Cool</string>
+			<key>Album</key><string>Dookie</string>
+			<key>Genre</key><string>Punk Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9071511</integer>
+			<key>Total Time</key><integer>178233</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>1994</integer>
+			<key>Date Modified</key><date>2021-09-03T15:17:37Z</date>
+			<key>Date Added</key><date>2025-05-23T00:01:00Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Um dos 200 albuns definitivos do Hall da Fama do Rock</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3779040817</integer>
+			<key>Play Date UTC</key><date>2023-10-02T00:33:37Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2021-02-06T13:52:42Z</date>
+			<key>Normalization</key><integer>3841</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BDF159846EEBF136</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Green%20Day%20-%20(1994)%20Dookie%20-%20When%20I%20Come%20Around.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>10444</key>
+		<dict>
+			<key>Track ID</key><integer>10444</integer>
+			<key>Name</key><string>Hallowed be Thy Name</string>
+			<key>Artist</key><string>Iron Maiden</string>
+			<key>Album</key><string>The Number Of The Beast</string>
+			<key>Genre</key><string>Heavy Metal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>19123542</integer>
+			<key>Total Time</key><integer>432848</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>1982</integer>
+			<key>Date Modified</key><date>2023-08-25T16:18:56Z</date>
+			<key>Date Added</key><date>2025-05-23T00:01:54Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>103</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3737641984</integer>
+			<key>Play Date UTC</key><date>2022-06-09T20:53:04Z</date>
+			<key>Normalization</key><integer>7110</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Number Of The Beast</string>
+			<key>Persistent ID</key><string>ADE5FCB3856AA90B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Iron%20Maiden%20-%20(1982)%20The%20Number%20of%20the%20Beast%20-%20Hallowed%20be%20Thy%20Name.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>10468</key>
+		<dict>
+			<key>Track ID</key><integer>10468</integer>
+			<key>Name</key><string>The Trooper</string>
+			<key>Artist</key><string>Iron Maiden</string>
+			<key>Album</key><string>Piece Of Mind</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4024320</integer>
+			<key>Total Time</key><integer>251428</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>1984</integer>
+			<key>Date Modified</key><date>2023-08-25T16:18:50Z</date>
+			<key>Date Added</key><date>2025-05-23T00:01:55Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>103</integer>
+			<key>Normalization</key><integer>2227</integer>
+			<key>Sort Name</key><string>Trooper</string>
+			<key>Persistent ID</key><string>DE6E06AEBC5F3FFF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Iron%20Maiden%20-%20(1983)%20Piece%20of%20mind%20-%20The%20Trooper.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>10562</key>
+		<dict>
+			<key>Track ID</key><integer>10562</integer>
+			<key>Name</key><string>Afraid To Shoot Strangers</string>
+			<key>Artist</key><string>Iron Maiden</string>
+			<key>Album</key><string>Live At Donington</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10110405</integer>
+			<key>Total Time</key><integer>412525</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Year</key><integer>1992</integer>
+			<key>Date Modified</key><date>2023-08-25T16:18:32Z</date>
+			<key>Date Added</key><date>2025-05-23T00:02:00Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>103</integer>
+			<key>Comments</key><string>Track 9</string>
+			<key>Normalization</key><integer>7649</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F896E4E725FECE33</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Iron%20Maiden%20-%20(1992)%20Live%20At%20Donington%20-%20Afraid%20To%20Shoot%20Strangers.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>10570</key>
+		<dict>
+			<key>Track ID</key><integer>10570</integer>
+			<key>Name</key><string>Fear Of The Dark</string>
+			<key>Artist</key><string>Iron Maiden</string>
+			<key>Album</key><string>Live At Donington</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10566809</integer>
+			<key>Total Time</key><integer>431542</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Year</key><integer>1992</integer>
+			<key>Date Modified</key><date>2023-08-25T16:18:23Z</date>
+			<key>Date Added</key><date>2025-05-23T00:02:00Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>103</integer>
+			<key>Comments</key><string>Track 10</string>
+			<key>Normalization</key><integer>9643</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>531B0D94DE17E90C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Iron%20Maiden%20-%20(1992)%20Live%20At%20Donington%20-%20Fear%20Of%20The%20Dark.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>10596</key>
+		<dict>
+			<key>Track ID</key><integer>10596</integer>
+			<key>Name</key><string>Wasting Love</string>
+			<key>Artist</key><string>Iron Maiden</string>
+			<key>Album</key><string>Live At Donington</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8296658</integer>
+			<key>Total Time</key><integer>336953</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>1992</integer>
+			<key>Date Modified</key><date>2023-08-25T16:18:32Z</date>
+			<key>Date Added</key><date>2025-05-23T00:02:02Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>103</integer>
+			<key>Comments</key><string>Track 6</string>
+			<key>Normalization</key><integer>7226</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F4BB3FE19DB57DAC</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Iron%20Maiden%20-%20(1992)%20Live%20At%20Donington%20-%20Wasting%20Love.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>10814</key>
+		<dict>
+			<key>Track ID</key><integer>10814</integer>
+			<key>Name</key><string>Hallowed Be Thy Name</string>
+			<key>Artist</key><string>Iron Maiden</string>
+			<key>Album</key><string>Best Of The Beast</string>
+			<key>Genre</key><string>Heavy Metal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8424341</integer>
+			<key>Total Time</key><integer>341315</integer>
+			<key>Track Number</key><integer>16</integer>
+			<key>Year</key><integer>1996</integer>
+			<key>Date Modified</key><date>2023-08-25T16:18:16Z</date>
+			<key>Date Added</key><date>2025-05-23T00:02:17Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>102</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2022-07-03T02:28:12Z</date>
+			<key>Normalization</key><integer>2049</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>54356D7B872A45AA</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Iron%20Maiden%20-%20Hallowed%20Be%20Thy%20Name.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>10834</key>
+		<dict>
+			<key>Track ID</key><integer>10834</integer>
+			<key>Name</key><string>The Trooper</string>
+			<key>Artist</key><string>Iron Maiden</string>
+			<key>Album</key><string>Best Of The Beast</string>
+			<key>Genre</key><string>Heavy Metal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6348314</integer>
+			<key>Total Time</key><integer>254693</integer>
+			<key>Track Number</key><integer>15</integer>
+			<key>Year</key><integer>1996</integer>
+			<key>Date Modified</key><date>2023-08-25T16:18:23Z</date>
+			<key>Date Added</key><date>2025-05-23T00:02:19Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>103</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3741627234</integer>
+			<key>Play Date UTC</key><date>2022-07-25T23:53:54Z</date>
+			<key>Normalization</key><integer>3110</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>Trooper</string>
+			<key>Persistent ID</key><string>9E01112569E6001E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Iron%20Maiden%20-%20The%20Trooper.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>11102</key>
+		<dict>
+			<key>Track ID</key><integer>11102</integer>
+			<key>Name</key><string>Bullet Train</string>
+			<key>Artist</key><string>Judas Priest</string>
+			<key>Album</key><string>Meltdown Live '98</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5741678</integer>
+			<key>Total Time</key><integer>358713</integer>
+			<key>Year</key><integer>1998</integer>
+			<key>Date Modified</key><date>2024-07-17T21:01:59Z</date>
+			<key>Date Added</key><date>2025-05-23T00:02:32Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>99</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3712053455</integer>
+			<key>Play Date UTC</key><date>2021-08-17T16:57:35Z</date>
+			<key>Normalization</key><integer>3952</integer>
+			<key>Persistent ID</key><string>874B396E10AA1E3D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Judas%20Priest%20-%20Meltdown%20Live%20'98%20-%20Bullet%20Train.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>13446</key>
+		<dict>
+			<key>Track ID</key><integer>13446</integer>
+			<key>Name</key><string>BotPack #9</string>
+			<key>Artist</key><string>Michiel van den Bos</string>
+			<key>Album</key><string>Unreal Tournament Original Soundtrack</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11741876</integer>
+			<key>Total Time</key><integer>289828</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2024-01-16T13:42:57Z</date>
+			<key>Date Added</key><date>2025-05-23T00:04:28Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>99</integer>
+			<key>Normalization</key><integer>1218</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Unreal Tournament Original Soundtrack</string>
+			<key>Sort Name</key><string>BotPack #9</string>
+			<key>Persistent ID</key><string>EC1F54CC1BAA2B2E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Michiel%20van%20den%20Bos%20-%20(1999)%20Unreal%20Tournament%20-%20BotPack%20%239%20(Botmca9.umx).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>13448</key>
+		<dict>
+			<key>Track ID</key><integer>13448</integer>
+			<key>Name</key><string>Foregone Destruction</string>
+			<key>Artist</key><string>Michiel van den Bos</string>
+			<key>Composer</key><string>Michiel van den Bos</string>
+			<key>Album</key><string>Unreal Tournament Original Soundtrack</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6186526</integer>
+			<key>Total Time</key><integer>251559</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2024-01-16T13:42:55Z</date>
+			<key>Date Added</key><date>2025-05-23T00:04:28Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3776948578</integer>
+			<key>Play Date UTC</key><date>2023-09-07T19:22:58Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2023-05-10T15:49:40Z</date>
+			<key>Normalization</key><integer>1259</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Unreal Tournament Original Soundtrack</string>
+			<key>Persistent ID</key><string>2EAD4D046D2BEFD3</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Michiel%20van%20den%20Bos%20-%20(1999)%20Unreal%20Tournament%20-%20Foregone%20Destruction.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>13450</key>
+		<dict>
+			<key>Track ID</key><integer>13450</integer>
+			<key>Name</key><string>Organic</string>
+			<key>Artist</key><string>Michiel van den Bos</string>
+			<key>Composer</key><string>Michiel van den Bos</string>
+			<key>Album</key><string>Unreal Tournament Original Soundtrack</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4554352</integer>
+			<key>Total Time</key><integer>183562</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2024-01-16T13:42:57Z</date>
+			<key>Date Added</key><date>2025-05-23T00:04:28Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>99</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2024-01-16T13:42:37Z</date>
+			<key>Normalization</key><integer>2365</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Unreal Tournament Original Soundtrack</string>
+			<key>Persistent ID</key><string>4CC212CBD2AB292C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Michiel%20van%20den%20Bos%20-%20(1999)%20Unreal%20Tournament%20-%20Organic.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>13452</key>
+		<dict>
+			<key>Track ID</key><integer>13452</integer>
+			<key>Name</key><string>Phantom</string>
+			<key>Artist</key><string>Michiel van den Bos</string>
+			<key>Composer</key><string>Michiel van den Bos</string>
+			<key>Album</key><string>Unreal Tournament Original Soundtrack</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5918048</integer>
+			<key>Total Time</key><integer>361404</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2024-01-16T13:43:00Z</date>
+			<key>Date Added</key><date>2025-05-23T00:04:28Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>99</integer>
+			<key>Normalization</key><integer>1259</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Unreal Tournament Original Soundtrack</string>
+			<key>Persistent ID</key><string>872AFE84D2F2F751</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Michiel%20van%20den%20Bos%20-%20(1999)%20Unreal%20Tournament%20-%20Phantom.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>13454</key>
+		<dict>
+			<key>Track ID</key><integer>13454</integer>
+			<key>Name</key><string>Save Me</string>
+			<key>Artist</key><string>Michiel van den Bos</string>
+			<key>Album</key><string>Unreal Tournament Original Soundtrack</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4661630</integer>
+			<key>Total Time</key><integer>112822</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2024-01-16T13:43:00Z</date>
+			<key>Date Added</key><date>2025-05-23T00:04:29Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>99</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2021-05-27T01:37:15Z</date>
+			<key>Normalization</key><integer>1619</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Unreal Tournament Original Soundtrack</string>
+			<key>Sort Name</key><string>Save Me</string>
+			<key>Persistent ID</key><string>6E423035A0659F13</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Michiel%20van%20den%20Bos%20-%20(1999)%20Unreal%20Tournament%20-%20Save%20Me%20(SaveMe.umx).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>13456</key>
+		<dict>
+			<key>Track ID</key><integer>13456</integer>
+			<key>Name</key><string>SuperFist</string>
+			<key>Artist</key><string>Michiel van den Bos</string>
+			<key>Composer</key><string>Michiel van den Bos</string>
+			<key>Album</key><string>Unreal Tournament Original Soundtrack</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2981364</integer>
+			<key>Total Time</key><integer>118021</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2024-01-16T13:43:02Z</date>
+			<key>Date Added</key><date>2025-05-23T00:04:29Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>99</integer>
+			<key>Normalization</key><integer>1134</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Unreal Tournament Original Soundtrack</string>
+			<key>Persistent ID</key><string>D84F6248416AE4F1</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Michiel%20van%20den%20Bos%20-%20(1999)%20Unreal%20Tournament%20-%20SuperFist.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>13458</key>
+		<dict>
+			<key>Track ID</key><integer>13458</integer>
+			<key>Name</key><string>The Course</string>
+			<key>Artist</key><string>Michiel van den Bos</string>
+			<key>Composer</key><string>Michiel van den Bos</string>
+			<key>Album</key><string>Unreal Tournament Original Soundtrack</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10901810</integer>
+			<key>Total Time</key><integer>268826</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2024-01-16T13:43:04Z</date>
+			<key>Date Added</key><date>2025-05-23T00:04:29Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>99</integer>
+			<key>Normalization</key><integer>419</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Unreal Tournament Original Soundtrack</string>
+			<key>Sort Name</key><string>Course</string>
+			<key>Persistent ID</key><string>F99042B706CCBF83</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Michiel%20van%20den%20Bos%20-%20(1999)%20Unreal%20Tournament%20-%20The%20Course%20(Course.umx).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>14338</key>
+		<dict>
+			<key>Track ID</key><integer>14338</integer>
+			<key>Name</key><string>Heart-Shaped Box</string>
+			<key>Artist</key><string>Nirvana</string>
+			<key>Album Artist</key><string>Nirvana</string>
+			<key>Composer</key><string>Kurt Cobain</string>
+			<key>Album</key><string>In Utero</string>
+			<key>Genre</key><string>Grunge</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11196666</integer>
+			<key>Total Time</key><integer>276506</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>1993</integer>
+			<key>Date Modified</key><date>2023-08-25T16:43:14Z</date>
+			<key>Date Added</key><date>2025-05-23T00:05:15Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>100</integer>
+			<key>Normalization</key><integer>3017</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>Nirvana</string>
+			<key>Sort Artist</key><string>Nirvana</string>
+			<key>Persistent ID</key><string>CD49599A2451C40D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Nirvana%20-%20(1993)%20In%20Utero%20-%20Heart-Shaped%20Box.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>14346</key>
+		<dict>
+			<key>Track ID</key><integer>14346</integer>
+			<key>Name</key><string>Scentless Apprentice</string>
+			<key>Artist</key><string>Nirvana</string>
+			<key>Album Artist</key><string>Nirvana</string>
+			<key>Composer</key><string>Krist Novoselic</string>
+			<key>Album</key><string>In Utero</string>
+			<key>Genre</key><string>Grunge</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9256598</integer>
+			<key>Total Time</key><integer>228022</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>1993</integer>
+			<key>Date Modified</key><date>2023-08-25T16:43:11Z</date>
+			<key>Date Added</key><date>2025-05-23T00:05:16Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2021-08-02T15:43:24Z</date>
+			<key>Normalization</key><integer>4800</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>Nirvana</string>
+			<key>Sort Artist</key><string>Nirvana</string>
+			<key>Persistent ID</key><string>4625B1986E4223DD</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Nirvana%20-%20(1993)%20In%20Utero%20-%20Scentless%20Apprentice.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>14420</key>
+		<dict>
+			<key>Track ID</key><integer>14420</integer>
+			<key>Name</key><string>A New Level</string>
+			<key>Artist</key><string>Pantera</string>
+			<key>Album</key><string>Vulgar Display Of Power</string>
+			<key>Genre</key><string>Thrash Metal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9632524</integer>
+			<key>Total Time</key><integer>237583</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>1992</integer>
+			<key>Date Modified</key><date>2021-09-03T18:11:03Z</date>
+			<key>Date Added</key><date>2025-05-23T00:05:22Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Ripped By TOOL</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3739733797</integer>
+			<key>Play Date UTC</key><date>2022-07-04T01:56:37Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2022-03-31T01:32:06Z</date>
+			<key>Normalization</key><integer>4071</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>New Level</string>
+			<key>Persistent ID</key><string>CCD5637474444F9F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Pantera%20-%20(1992)%20Vulgar%20Display%20of%20Power%20-%20A%20New%20Level.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>14430</key>
+		<dict>
+			<key>Track ID</key><integer>14430</integer>
+			<key>Name</key><string>Mouth For War</string>
+			<key>Artist</key><string>Pantera</string>
+			<key>Album</key><string>Vulgar Display Of Power</string>
+			<key>Genre</key><string>Thrash Metal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9593866</integer>
+			<key>Total Time</key><integer>236617</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>1992</integer>
+			<key>Date Modified</key><date>2021-09-03T18:11:28Z</date>
+			<key>Date Added</key><date>2025-05-23T00:05:22Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Ripped By TOOL</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3739737471</integer>
+			<key>Play Date UTC</key><date>2022-07-04T02:57:51Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2021-12-03T20:14:39Z</date>
+			<key>Normalization</key><integer>4428</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2710A0195D03E7B5</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Pantera%20-%20(1992)%20Vulgar%20Display%20of%20Power%20-%20Mouth%20For%20War.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>14438</key>
+		<dict>
+			<key>Track ID</key><integer>14438</integer>
+			<key>Name</key><string>This Love</string>
+			<key>Artist</key><string>Pantera</string>
+			<key>Album</key><string>Vulgar Display Of Power</string>
+			<key>Genre</key><string>Thrash Metal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>15840258</integer>
+			<key>Total Time</key><integer>392777</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>1992</integer>
+			<key>Date Modified</key><date>2021-09-03T18:11:48Z</date>
+			<key>Date Added</key><date>2025-05-23T00:05:23Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Ripped By TOOL</string>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2022-09-07T14:39:16Z</date>
+			<key>Normalization</key><integer>1484</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0EB7E2B032F16623</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Pantera%20-%20(1992)%20Vulgar%20Display%20of%20Power%20-%20This%20Love.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>14440</key>
+		<dict>
+			<key>Track ID</key><integer>14440</integer>
+			<key>Name</key><string>Walk</string>
+			<key>Artist</key><string>Pantera</string>
+			<key>Album</key><string>Vulgar Display Of Power</string>
+			<key>Genre</key><string>Thrash Metal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>12726452</integer>
+			<key>Total Time</key><integer>314932</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>1992</integer>
+			<key>Date Modified</key><date>2021-09-03T18:11:55Z</date>
+			<key>Date Added</key><date>2025-05-23T00:05:23Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Ripped By TOOL</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3776957100</integer>
+			<key>Play Date UTC</key><date>2023-09-07T21:45:00Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2022-01-20T16:57:51Z</date>
+			<key>Normalization</key><integer>3590</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A25C5DB6F86F0231</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Pantera%20-%20(1992)%20Vulgar%20Display%20of%20Power%20-%20Walk.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15260</key>
+		<dict>
+			<key>Track ID</key><integer>15260</integer>
+			<key>Name</key><string>A Mais Pedida</string>
+			<key>Artist</key><string>Raimundos</string>
+			<key>Album</key><string>So No Forevis</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9345148</integer>
+			<key>Total Time</key><integer>233717</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2019-11-04T23:58:53Z</date>
+			<key>Date Added</key><date>2025-05-23T00:06:14Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>17389</integer>
+			<key>Sort Name</key><string>Mais Pedida</string>
+			<key>Persistent ID</key><string>1DD10F0C9ED2B9F3</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Raimundos%20-%20(1999)%20S%C3%B3%20No%20Forevis%20-%20A%20Mais%20Pedida.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15286</key>
+		<dict>
+			<key>Track ID</key><integer>15286</integer>
+			<key>Name</key><string>Mulher de Fases</string>
+			<key>Artist</key><string>Raimundos</string>
+			<key>Album Artist</key><string>Raimundos</string>
+			<key>Album</key><string>So No Forevis</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8529784</integer>
+			<key>Total Time</key><integer>213133</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2019-11-04T23:58:53Z</date>
+			<key>Date Added</key><date>2025-05-23T00:06:17Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>9013</integer>
+			<key>Persistent ID</key><string>22384C3233489C8F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Raimundos%20-%20(2000)%20S%C3%B3%20No%20Forevis%20-%20Mulher%20de%20Fases.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>16568</key>
+		<dict>
+			<key>Track ID</key><integer>16568</integer>
+			<key>Name</key><string>Velhas fotos</string>
+			<key>Artist</key><string>Tequila Baby</string>
+			<key>Album Artist</key><string>Tequila Baby</string>
+			<key>Composer</key><string>Tequila Baby/Bibi</string>
+			<key>Album</key><string>Sangue, Ouro e Polvora</string>
+			<key>Genre</key><string>Punk Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5382270</integer>
+			<key>Total Time</key><integer>223791</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2023-08-25T00:04:53Z</date>
+			<key>Date Added</key><date>2025-05-23T00:07:23Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>103</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3711789220</integer>
+			<key>Play Date UTC</key><date>2021-08-14T15:33:40Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2023-08-25T15:23:25Z</date>
+			<key>Normalization</key><integer>4758</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8CF3A59BAC519EF6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Tequila%20Baby%20-%20(1999)%20Sangue,%20Ouro%20e%20Polvora%20-%20Velhas%20fotos.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>17604</key>
+		<dict>
+			<key>Track ID</key><integer>17604</integer>
+			<key>Name</key><string>Body Count's in The House</string>
+			<key>Artist</key><string>Body Count</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4974968</integer>
+			<key>Total Time</key><integer>204617</integer>
+			<key>Year</key><integer>1992</integer>
+			<key>Date Modified</key><date>2024-07-04T16:23:17Z</date>
+			<key>Date Added</key><date>2025-05-23T00:08:20Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>99</integer>
+			<key>Normalization</key><integer>3574</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B24823D7D4EE887</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Body%20Count%20-%201992%20-%20Body%20Count's%20in%20The%20House.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>18532</key>
+		<dict>
+			<key>Track ID</key><integer>18532</integer>
+			<key>Name</key><string>Bebendo vinho</string>
+			<key>Artist</key><string>Wander Wildner</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10679766</integer>
+			<key>Total Time</key><integer>266736</integer>
+			<key>Date Modified</key><date>2022-03-12T11:54:26Z</date>
+			<key>Date Added</key><date>2025-05-23T00:09:06Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Normalization</key><integer>3211</integer>
+			<key>Persistent ID</key><string>0E692D804A4CD373</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Wander%20Wildner%20-%20Bebendo%20vinho.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>18926</key>
+		<dict>
+			<key>Track ID</key><integer>18926</integer>
+			<key>Name</key><string>Anthem for the Year 2000</string>
+			<key>Artist</key><string>Silverchair</string>
+			<key>Album</key><string>Neon Ballroom</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9923260</integer>
+			<key>Total Time</key><integer>247824</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2023-09-21T13:38:47Z</date>
+			<key>Date Added</key><date>2025-05-23T00:09:26Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Volume Adjustment</key><integer>154</integer>
+			<key>Normalization</key><integer>4756</integer>
+			<key>Persistent ID</key><string>6AB40ACC3CD1F6F1</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Silverchair%20-%20Anthem%20for%20the%20Year%202000.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>19278</key>
+		<dict>
+			<key>Track ID</key><integer>19278</integer>
+			<key>Name</key><string>Down</string>
+			<key>Artist</key><string>311</string>
+			<key>Album</key><string>Coletânea Rock Radical</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8052108</integer>
+			<key>Total Time</key><integer>183984</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2025-05-24T17:25:28Z</date>
+			<key>Date Added</key><date>2025-05-24T16:32:20Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Volume Adjustment</key><integer>95</integer>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2025-05-25T13:55:19Z</date>
+			<key>Normalization</key><integer>3912</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>2</integer>
+			<key>Persistent ID</key><string>AB2B42B19AA4D4CA</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Colet%C3%A2nea%20-%20(1999)%20Rock%20Radical%20-%20311%20-%20Down.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>19280</key>
+		<dict>
+			<key>Track ID</key><integer>19280</integer>
+			<key>Name</key><string>Greedy Fly</string>
+			<key>Artist</key><string>Bush</string>
+			<key>Album</key><string>Coletânea Rock Radical</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11299225</integer>
+			<key>Total Time</key><integer>272712</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2025-05-24T17:25:28Z</date>
+			<key>Date Added</key><date>2025-05-24T16:32:20Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Volume Adjustment</key><integer>95</integer>
+			<key>Normalization</key><integer>3959</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>2</integer>
+			<key>Persistent ID</key><string>AEC05FAC4FF11E1F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Colet%C3%A2nea%20-%20(1999)%20Rock%20Radical%20-%20Bush%20-%20Greedy%20Fly.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>19282</key>
+		<dict>
+			<key>Track ID</key><integer>19282</integer>
+			<key>Name</key><string>Ready To Go</string>
+			<key>Artist</key><string>Republica</string>
+			<key>Album</key><string>Coletânea Rock Radical</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>12662793</integer>
+			<key>Total Time</key><integer>285072</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2025-05-24T17:25:28Z</date>
+			<key>Date Added</key><date>2025-05-24T16:32:20Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Volume Adjustment</key><integer>95</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3831014054</integer>
+			<key>Play Date UTC</key><date>2025-05-25T13:34:14Z</date>
+			<key>Normalization</key><integer>9186</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>2</integer>
+			<key>Persistent ID</key><string>EA3EDF58790D39E7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Colet%C3%A2nea%20-%20(1999)%20Rock%20Radical%20-%20Republica%20-%20Ready%20To%20Go.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>Back to 1999</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>61017</integer>
+			<key>Playlist Persistent ID</key><string>416972B5D2E54262</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>5610</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5626</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5620</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5608</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5640</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5642</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9040</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11102</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16568</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9474</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9496</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9500</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9014</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9006</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7584</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13446</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13458</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13448</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13450</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13452</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13454</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13456</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10596</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10562</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10570</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15260</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15286</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10444</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10468</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10834</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10814</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14338</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14346</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14420</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14440</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14438</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14430</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17604</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18532</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18926</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5638</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19278</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19280</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19282</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

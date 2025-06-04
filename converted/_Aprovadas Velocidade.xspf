@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+    <trackList>
+        <track>
+            <title>Homefinder</title>
+            <creator>MoTER</creator>
+            <duration>285074</duration>
+            <location>U:\Shared\Music/MoTER%20-%20Soundcloud%20-%20Homefinder.mp3</location>
+        </track>
+        <track>
+            <title>Much Higher (no copyright - no restriction to use)</title>
+            <creator>Causmic</creator>
+            <duration>171168</duration>
+            <location>U:\Shared\Music/Causmic%20-%20(2020)%20Much%20Higher%20(no%20copyright%20-%20no%20restriction%20to%20use).mp3</location>
+        </track>
+    </trackList>
+</playlist>

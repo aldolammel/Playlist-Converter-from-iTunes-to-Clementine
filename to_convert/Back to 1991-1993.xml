@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2025-06-04T02:41:54Z</date>
+	<key>Application Version</key><string>12.13.7.1</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/E:/Users/aldol/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>187AD5E35C5E82C1</string>
+	<key>Tracks</key>
+	<dict>
+		<key>13402</key>
+		<dict>
+			<key>Track ID</key><integer>13402</integer>
+			<key>Name</key><string>Black and white (com L.T.B. &#38; Slash)</string>
+			<key>Artist</key><string>Michael Jackson</string>
+			<key>Album</key><string>Dangerous</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4098144</integer>
+			<key>Total Time</key><integer>255973</integer>
+			<key>Start Time</key><integer>56000</integer>
+			<key>Year</key><integer>1991</integer>
+			<key>Date Modified</key><date>2021-09-03T17:40:29Z</date>
+			<key>Date Added</key><date>2025-05-23T00:04:26Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>255</integer>
+			<key>Comments</key><string>A tia Vera Ghisleni foi até SP assistir ao show "Dangerous" do M.J. na sua segunda vinda para o Brasil, em 1993, e trouxe o LP de lá (ou já tinha). Ela me emprestou para eu gravar em fita. Eu tinha 9 anos, mas já era apaixonado por MJ por causa do meu pri</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3713874518</integer>
+			<key>Play Date UTC</key><date>2021-09-07T18:48:38Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2021-09-07T18:50:22Z</date>
+			<key>Normalization</key><integer>1995</integer>
+			<key>Persistent ID</key><string>4C580177385948C2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Michael%20Jackson%20-%20(1991)%20Doangerous%20-%20Black%20and%20white.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15802</key>
+		<dict>
+			<key>Track ID</key><integer>15802</integer>
+			<key>Name</key><string>Crazy</string>
+			<key>Artist</key><string>Seal</string>
+			<key>Album Artist</key><string>Seal</string>
+			<key>Album</key><string>Seal (U.S. Version)</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8662360</integer>
+			<key>Total Time</key><integer>267520</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>9</integer>
+			<key>Year</key><integer>1991</integer>
+			<key>Date Modified</key><date>2021-09-03T18:48:00Z</date>
+			<key>Date Added</key><date>2025-05-23T00:06:43Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Amazon.com Song ID: 203550372</string>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3774669738</integer>
+			<key>Play Date UTC</key><date>2023-08-12T10:22:18Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2021-09-07T18:50:34Z</date>
+			<key>Normalization</key><integer>1255</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>02609142EDBA9C11</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Seal%20-%20Crazy.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>17680</key>
+		<dict>
+			<key>Track ID</key><integer>17680</integer>
+			<key>Name</key><string>How Do You Do!</string>
+			<key>Artist</key><string>Roxette</string>
+			<key>Album</key><string>Tourism</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4766343</integer>
+			<key>Total Time</key><integer>198164</integer>
+			<key>Year</key><integer>1992</integer>
+			<key>Date Modified</key><date>2021-09-03T18:44:48Z</date>
+			<key>Date Added</key><date>2025-05-23T00:08:24Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2020-09-04T18:37:25Z</date>
+			<key>Normalization</key><integer>3890</integer>
+			<key>Persistent ID</key><string>4B2C98E7DAB47EB1</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Roxette%20-%20(1992)%20Tourism%20-%20How%20Do%20You%20Do!.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>Back to 1991-1993</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>60874</integer>
+			<key>Playlist Persistent ID</key><string>164F43374B9BD312</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>13402</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15802</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17680</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2025-06-04T02:51:01Z</date>
+	<key>Application Version</key><string>12.13.7.1</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/E:/Users/aldol/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>187AD5E35C5E82C1</string>
+	<key>Tracks</key>
+	<dict>
+		<key>6804</key>
+		<dict>
+			<key>Track ID</key><integer>6804</integer>
+			<key>Name</key><string>Windy Little Town</string>
+			<key>Artist</key><string>Crooks UK</string>
+			<key>Album</key><string>Are We All the Same Distance Apart</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5246456</integer>
+			<key>Total Time</key><integer>161724</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2023-08-25T16:08:03Z</date>
+			<key>Date Added</key><date>2025-05-22T23:58:45Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>100</integer>
+			<key>Comments</key><string>www.kingdom-leaks.com</string>
+			<key>Play Count</key><integer>11</integer>
+			<key>Play Date</key><integer>3783276315</integer>
+			<key>Play Date UTC</key><date>2023-11-20T00:05:15Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2022-09-16T15:46:56Z</date>
+			<key>Normalization</key><integer>2698</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D11F295DEC609863</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Crooks%20-%20(2015)%20Are%20We%20All%20The%20Same%20Distance%20Apart%20-%20Windy%20Little%20Town.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>17012</key>
+		<dict>
+			<key>Track ID</key><integer>17012</integer>
+			<key>Name</key><string>Starboy (ft Daft Punk)</string>
+			<key>Artist</key><string>The Weeknd</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5951294</integer>
+			<key>Total Time</key><integer>247536</integer>
+			<key>Start Time</key><integer>25000</integer>
+			<key>Date Modified</key><date>2020-01-01T20:51:40Z</date>
+			<key>Date Added</key><date>2025-05-23T00:07:50Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>18</integer>
+			<key>Play Date</key><integer>3783186484</integer>
+			<key>Play Date UTC</key><date>2023-11-18T23:08:04Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2022-12-02T14:04:19Z</date>
+			<key>Normalization</key><integer>2849</integer>
+			<key>Sort Artist</key><string>Weeknd</string>
+			<key>Persistent ID</key><string>796D85530346DF0D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/The%20Weeknd%20-%20Starboy%20(ft%20Daft%20Punk).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>17056</key>
+		<dict>
+			<key>Track ID</key><integer>17056</integer>
+			<key>Name</key><string>Where is Billy</string>
+			<key>Artist</key><string>Tom Kaulitz</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6120561</integer>
+			<key>Total Time</key><integer>254589</integer>
+			<key>Date Modified</key><date>2020-01-01T20:51:53Z</date>
+			<key>Date Added</key><date>2025-05-23T00:07:52Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>1259</integer>
+			<key>Persistent ID</key><string>5D2387C321317104</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Tom%20Kaulitz%20-%20Where%20is%20Billy.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>Her, Budapest in 2017</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>68790</integer>
+			<key>Playlist Persistent ID</key><string>8AE014B57BC83CFF</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>6804</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17056</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17012</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

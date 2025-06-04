@@ -1,0 +1,1035 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2025-06-04T02:46:21Z</date>
+	<key>Application Version</key><string>12.13.7.1</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/E:/Users/aldol/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>187AD5E35C5E82C1</string>
+	<key>Tracks</key>
+	<dict>
+		<key>3152</key>
+		<dict>
+			<key>Track ID</key><integer>3152</integer>
+			<key>Name</key><string>Pain Inside</string>
+			<key>Artist</key><string>Adema</string>
+			<key>Album Artist</key><string>Adema</string>
+			<key>Composer</key><string>Adema</string>
+			<key>Album</key><string>Adema</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6846756</integer>
+			<key>Total Time</key><integer>209084</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2021-09-03T01:08:16Z</date>
+			<key>Date Added</key><date>2025-05-22T23:55:09Z</date>
+			<key>Bit Rate</key><integer>258</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string> 00002850 000026D1 000054DB 00005AF9 0002DE69 0001AD13 00008000 00008000 000293FB 0001313D</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3778059966</integer>
+			<key>Play Date UTC</key><date>2023-09-20T16:06:06Z</date>
+			<key>Normalization</key><integer>10486</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E631DF2C878B1379</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Adema%20-%20(2001)%20Adema%20-%20Pain%20Inside.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>4114</key>
+		<dict>
+			<key>Track ID</key><integer>4114</integer>
+			<key>Name</key><string>Right Side of the Bed</string>
+			<key>Artist</key><string>Atreyu</string>
+			<key>Album</key><string>Right Side of the Bed</string>
+			<key>Genre</key><string>Other</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3561472</integer>
+			<key>Total Time</key><integer>222511</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Date Modified</key><date>2021-09-03T01:32:02Z</date>
+			<key>Date Added</key><date>2025-05-22T23:56:06Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>                            </string>
+			<key>Normalization</key><integer>8317</integer>
+			<key>Persistent ID</key><string>C012931891412321</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Atreyu%20-%20Right%20Side%20of%20the%20Bed.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>6742</key>
+		<dict>
+			<key>Track ID</key><integer>6742</integer>
+			<key>Name</key><string>Toxic</string>
+			<key>Artist</key><string>Crazy Town</string>
+			<key>Album</key><string>The Gift of Game</string>
+			<key>Genre</key><string>Rap</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4943586</integer>
+			<key>Total Time</key><integer>166608</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2021-09-03T02:44:35Z</date>
+			<key>Date Added</key><date>2025-05-22T23:58:42Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2025-05-25T14:00:31Z</date>
+			<key>Normalization</key><integer>6369</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Gift of Game</string>
+			<key>Persistent ID</key><string>5C8AB4B113A07D4F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Crazy%20Town%20-%20(1999)%20The%20Gift%20of%20Game%20-%20Toxic.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>7850</key>
+		<dict>
+			<key>Track ID</key><integer>7850</integer>
+			<key>Name</key><string>Medicated (b0x cut)</string>
+			<key>Artist</key><string>Downthesun</string>
+			<key>Album</key><string>Downthesun</string>
+			<key>Genre</key><string>New Metal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4026945</integer>
+			<key>Total Time</key><integer>199601</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2021-09-03T14:16:20Z</date>
+			<key>Date Added</key><date>2025-05-22T23:59:38Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>5576</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A33963A766AB71DD</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Downthesun%20-%20Medicated.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>9188</key>
+		<dict>
+			<key>Track ID</key><integer>9188</integer>
+			<key>Name</key><string>Adrenaline</string>
+			<key>Artist</key><string>Gavin Rossdale</string>
+			<key>Genre</key><string>Sound Track</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4086345</integer>
+			<key>Total Time</key><integer>255242</integer>
+			<key>Date Modified</key><date>2021-09-03T15:07:15Z</date>
+			<key>Date Added</key><date>2025-05-23T00:00:41Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>210</integer>
+			<key>Comments</key><string>Triple X - soundtrack</string>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3742448845</integer>
+			<key>Play Date UTC</key><date>2022-08-04T12:07:25Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2024-02-09T12:52:38Z</date>
+			<key>Loved</key><true/>
+			<key>Normalization</key><integer>9905</integer>
+			<key>Persistent ID</key><string>57F19A60257D6389</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Gavin%20Rossdale%20-%20Adrenaline.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>11276</key>
+		<dict>
+			<key>Track ID</key><integer>11276</integer>
+			<key>Name</key><string>Life To Lifeless</string>
+			<key>Artist</key><string>Killswitch Engage</string>
+			<key>Album</key><string>Alive or just breathing</string>
+			<key>Work</key><string>New Metal</string>
+			<key>Genre</key><string>Metalcore</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3484972</integer>
+			<key>Total Time</key><integer>169822</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2021-09-03T16:07:32Z</date>
+			<key>Date Added</key><date>2025-05-23T00:02:40Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2021-07-04T21:33:30Z</date>
+			<key>Normalization</key><integer>7797</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>04AF1727362DA6DB</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Killswitch%20Engage%20-%20(2002)%20Alive%20or%20just%20breathing%20-%20Life%20To%20Lifeless.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>11278</key>
+		<dict>
+			<key>Track ID</key><integer>11278</integer>
+			<key>Name</key><string>My Last Serenade</string>
+			<key>Artist</key><string>Killswitch Engage</string>
+			<key>Composer</key><string>Killswitch Engage</string>
+			<key>Album</key><string>Alive or just breathing</string>
+			<key>Work</key><string>New Metal</string>
+			<key>Genre</key><string>Metalcore</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4149480</integer>
+			<key>Total Time</key><integer>253805</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2023-12-07T15:07:53Z</date>
+			<key>Date Added</key><date>2025-05-23T00:02:40Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>96</integer>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2021-05-16T18:39:34Z</date>
+			<key>Normalization</key><integer>7053</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>70BCEBC9374D3218</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Killswitch%20Engage%20-%20(2002)%20Alive%20or%20just%20breathing%20-%20My%20Last%20Serenade.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>11622</key>
+		<dict>
+			<key>Track ID</key><integer>11622</integer>
+			<key>Name</key><string>Counting On Me</string>
+			<key>Artist</key><string>Korn</string>
+			<key>Album</key><string>Take A Look In The Mirror</string>
+			<key>Genre</key><string>New Metal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7014956</integer>
+			<key>Total Time</key><integer>289488</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2021-09-03T16:17:29Z</date>
+			<key>Date Added</key><date>2025-05-23T00:02:56Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3747299659</integer>
+			<key>Play Date UTC</key><date>2022-09-29T15:34:19Z</date>
+			<key>Normalization</key><integer>7576</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>13A9BC367ECA82DB</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Korn%20-%20(2003)%20Take%20a%20look%20in%20the%20mirror%20-%20Counting%20On%20Me.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>11626</key>
+		<dict>
+			<key>Track ID</key><integer>11626</integer>
+			<key>Name</key><string>Did My Time</string>
+			<key>Artist</key><string>Korn</string>
+			<key>Album</key><string>Take A Look In The Mirror</string>
+			<key>Genre</key><string>New Metal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5933225</integer>
+			<key>Total Time</key><integer>243983</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2021-09-03T16:17:43Z</date>
+			<key>Date Added</key><date>2025-05-23T00:02:57Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3778065196</integer>
+			<key>Play Date UTC</key><date>2023-09-20T17:33:16Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2021-12-06T03:56:03Z</date>
+			<key>Normalization</key><integer>8462</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>431104DB13683BC6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Korn%20-%20(2003)%20Take%20a%20look%20in%20the%20mirror%20-%20Did%20My%20Time.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>11628</key>
+		<dict>
+			<key>Track ID</key><integer>11628</integer>
+			<key>Name</key><string>Everything I've Known</string>
+			<key>Artist</key><string>Korn</string>
+			<key>Album</key><string>Take A Look In The Mirror</string>
+			<key>Genre</key><string>New Metal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5228359</integer>
+			<key>Total Time</key><integer>214935</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2021-09-03T16:17:43Z</date>
+			<key>Date Added</key><date>2025-05-23T00:02:57Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3778063842</integer>
+			<key>Play Date UTC</key><date>2023-09-20T17:10:42Z</date>
+			<key>Normalization</key><integer>7230</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E40983465C40A2C4</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Korn%20-%20(2003)%20Take%20a%20look%20in%20the%20mirror%20-%20Everything%20I've%20Known.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>11630</key>
+		<dict>
+			<key>Track ID</key><integer>11630</integer>
+			<key>Name</key><string>Here It Comes Again</string>
+			<key>Artist</key><string>Korn</string>
+			<key>Album</key><string>Take A Look In The Mirror</string>
+			<key>Genre</key><string>New Metal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5203943</integer>
+			<key>Total Time</key><integer>213916</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2021-09-03T16:17:46Z</date>
+			<key>Date Added</key><date>2025-05-23T00:02:57Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3778062265</integer>
+			<key>Play Date UTC</key><date>2023-09-20T16:44:25Z</date>
+			<key>Normalization</key><integer>7600</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0D8865697C1595E7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Korn%20-%20(2003)%20Take%20a%20look%20in%20the%20mirror%20-%20Here%20It%20Comes%20Again.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>11636</key>
+		<dict>
+			<key>Track ID</key><integer>11636</integer>
+			<key>Name</key><string>One (Metallica Cover)</string>
+			<key>Artist</key><string>Korn</string>
+			<key>Album</key><string>Take A Look In The Mirror</string>
+			<key>Genre</key><string>New Metal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>20780726</integer>
+			<key>Total Time</key><integer>863921</integer>
+			<key>Start Time</key><integer>610000</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2021-09-03T16:18:07Z</date>
+			<key>Date Added</key><date>2025-05-23T00:02:58Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Bonus escondida no album</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3712691735</integer>
+			<key>Play Date UTC</key><date>2021-08-25T02:15:35Z</date>
+			<key>Normalization</key><integer>7672</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B7FC7B3B91A0C0F8</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Korn%20-%20(2003)%20Take%20a%20look%20in%20the%20mirror%20-%20One%20(Metallica%20cover,%20ao%20vivo).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>11638</key>
+		<dict>
+			<key>Track ID</key><integer>11638</integer>
+			<key>Name</key><string>Play Me</string>
+			<key>Artist</key><string>Korn</string>
+			<key>Album</key><string>Take A Look In The Mirror</string>
+			<key>Genre</key><string>New Metal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4910963</integer>
+			<key>Total Time</key><integer>201691</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2024-07-04T16:22:14Z</date>
+			<key>Date Added</key><date>2025-05-23T00:02:58Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>100</integer>
+			<key>Normalization</key><integer>6933</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>84F86B8387C5BE21</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Korn%20-%20(2003)%20Take%20a%20look%20in%20the%20mirror%20-%20Play%20Me.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>11640</key>
+		<dict>
+			<key>Track ID</key><integer>11640</integer>
+			<key>Name</key><string>Right Now</string>
+			<key>Artist</key><string>Korn</string>
+			<key>Album</key><string>Take A Look In The Mirror</string>
+			<key>Genre</key><string>New Metal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4630108</integer>
+			<key>Total Time</key><integer>189962</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2021-09-03T16:18:10Z</date>
+			<key>Date Added</key><date>2025-05-23T00:02:58Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3740516527</integer>
+			<key>Play Date UTC</key><date>2022-07-13T03:22:07Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2021-11-19T16:25:19Z</date>
+			<key>Normalization</key><integer>10494</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>974DAC036D687C25</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Korn%20-%20(2003)%20Take%20a%20look%20in%20the%20mirror%20-%20Right%20Now.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>11644</key>
+		<dict>
+			<key>Track ID</key><integer>11644</integer>
+			<key>Name</key><string>Y'all Want a Single</string>
+			<key>Artist</key><string>Korn</string>
+			<key>Album</key><string>Take A Look In The Mirror</string>
+			<key>Genre</key><string>New Metal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4815198</integer>
+			<key>Total Time</key><integer>197694</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2021-09-03T16:18:23Z</date>
+			<key>Date Added</key><date>2025-05-23T00:02:58Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3778064035</integer>
+			<key>Play Date UTC</key><date>2023-09-20T17:13:55Z</date>
+			<key>Normalization</key><integer>8340</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F4C6DE40551D95E9</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Korn%20-%20(2003)%20Take%20a%20look%20in%20the%20mirror%20-%20Y'all%20Want%20a%20Single.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>12216</key>
+		<dict>
+			<key>Track ID</key><integer>12216</integer>
+			<key>Name</key><string>Get Low</string>
+			<key>Artist</key><string>Lil Jon</string>
+			<key>Album Artist</key><string>NFS</string>
+			<key>Composer</key><string>Lil Jon &#38; The Eastside Boyz</string>
+			<key>Album</key><string>NFS Underground</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4351683</integer>
+			<key>Total Time</key><integer>266031</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2024-07-04T16:22:18Z</date>
+			<key>Date Added</key><date>2025-05-23T00:03:25Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>99</integer>
+			<key>Comments</key><string>Com The Eastside Boyz</string>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2021-05-27T01:05:28Z</date>
+			<key>Normalization</key><integer>5961</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5682460FDC5E5EE6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Lil%20Jon%20&#38;%20The%20Eastside%20Boyz%20-%20Get%20Low.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>12370</key>
+		<dict>
+			<key>Track ID</key><integer>12370</integer>
+			<key>Name</key><string>Faint</string>
+			<key>Artist</key><string>Linkin Park</string>
+			<key>Album</key><string>Meteora</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4047338</integer>
+			<key>Total Time</key><integer>162063</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2021-09-03T16:39:16Z</date>
+			<key>Date Added</key><date>2025-05-23T00:03:34Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>12690</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0B6D4C085B69C370</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Linkin%20Park%20-%20(2003)%20Meteora%20-%20Faint_-_Abyss.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>12380</key>
+		<dict>
+			<key>Track ID</key><integer>12380</integer>
+			<key>Name</key><string>Lying from you</string>
+			<key>Artist</key><string>Linkin Park</string>
+			<key>Album</key><string>Meteora</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4358093</integer>
+			<key>Total Time</key><integer>175020</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2021-09-03T16:39:27Z</date>
+			<key>Date Added</key><date>2025-05-23T00:03:34Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>13447</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>377B076EF51F0710</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Linkin%20Park%20-%20(2003)%20Meteora%20-%20Lying_From_You_-_Abyss.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>12384</key>
+		<dict>
+			<key>Track ID</key><integer>12384</integer>
+			<key>Name</key><string>Numb</string>
+			<key>Artist</key><string>Linkin Park</string>
+			<key>Album</key><string>Meteora</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4657047</integer>
+			<key>Total Time</key><integer>187480</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2021-09-03T16:39:33Z</date>
+			<key>Date Added</key><date>2025-05-23T00:03:35Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3712691484</integer>
+			<key>Play Date UTC</key><date>2021-08-25T02:11:24Z</date>
+			<key>Normalization</key><integer>10147</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D96BD73B55F7DDED</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Linkin%20Park%20-%20(2003)%20Meteora%20-%20Numb_-_Abyss.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>12388</key>
+		<dict>
+			<key>Track ID</key><integer>12388</integer>
+			<key>Name</key><string>Somewhere I Belong</string>
+			<key>Artist</key><string>Linkin Park</string>
+			<key>Album</key><string>Meteora</string>
+			<key>Genre</key><string>New Metal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5291014</integer>
+			<key>Total Time</key><integer>213890</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2021-09-03T16:39:42Z</date>
+			<key>Date Added</key><date>2025-05-23T00:03:35Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>10</integer>
+			<key>Play Date</key><integer>3767113596</integer>
+			<key>Play Date UTC</key><date>2023-05-16T23:26:36Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2023-05-16T18:59:32Z</date>
+			<key>Normalization</key><integer>10304</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5C70C47CA7953711</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Linkin%20Park%20-%20(2003)%20Meteora%20-%20Somewhere_I_Belong_-_Abyss.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>13226</key>
+		<dict>
+			<key>Track ID</key><integer>13226</integer>
+			<key>Name</key><string>Shoot Me Again</string>
+			<key>Artist</key><string>Metallica</string>
+			<key>Album</key><string>St.anger</string>
+			<key>Genre</key><string>New Metal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6882782</integer>
+			<key>Total Time</key><integer>430158</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2021-09-03T17:33:36Z</date>
+			<key>Date Added</key><date>2025-05-23T00:04:17Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3712693571</integer>
+			<key>Play Date UTC</key><date>2021-08-25T02:46:11Z</date>
+			<key>Normalization</key><integer>8079</integer>
+			<key>Persistent ID</key><string>BF1DA46AEEDF3EBC</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Metallica%20-%20(2003)%20St.%20Anger%20-%20Shoot%20Me%20Again.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>13228</key>
+		<dict>
+			<key>Track ID</key><integer>13228</integer>
+			<key>Name</key><string>St. Anger</string>
+			<key>Artist</key><string>Metallica</string>
+			<key>Album</key><string>St.anger</string>
+			<key>Genre</key><string>New Metal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7059456</integer>
+			<key>Total Time</key><integer>441182</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2021-09-03T17:33:36Z</date>
+			<key>Date Added</key><date>2025-05-23T00:04:17Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3712692634</integer>
+			<key>Play Date UTC</key><date>2021-08-25T02:30:34Z</date>
+			<key>Normalization</key><integer>10254</integer>
+			<key>Persistent ID</key><string>0FE77A6FBAA20ACD</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Metallica%20-%20(2003)%20St.%20Anger%20-%20St.%20Anger.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>13564</key>
+		<dict>
+			<key>Track ID</key><integer>13564</integer>
+			<key>Name</key><string>Sei la o nome do som</string>
+			<key>Artist</key><string>Minus</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5043675</integer>
+			<key>Total Time</key><integer>210060</integer>
+			<key>Date Modified</key><date>2021-09-03T17:45:40Z</date>
+			<key>Date Added</key><date>2025-05-23T00:04:34Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>32000</integer>
+			<key>Normalization</key><integer>2684</integer>
+			<key>Persistent ID</key><string>6DCE942CB7F9DE66</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Minus%20-%20sei%20la%20o%20nome%20do%20som.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>13872</key>
+		<dict>
+			<key>Track ID</key><integer>13872</integer>
+			<key>Name</key><string>Sun Doesn't Rise</string>
+			<key>Artist</key><string>Mushroomhead</string>
+			<key>Album</key><string>XIII</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6215765</integer>
+			<key>Total Time</key><integer>193920</integer>
+			<key>Date Modified</key><date>2023-08-25T00:09:20Z</date>
+			<key>Date Added</key><date>2025-05-23T00:04:50Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Volume Adjustment</key><integer>102</integer>
+			<key>Normalization</key><integer>13781</integer>
+			<key>Persistent ID</key><string>B4088F549B9C965B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Mushroomhead%20-%20Sun%20Doesn't%20Rise.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>14934</key>
+		<dict>
+			<key>Track ID</key><integer>14934</integer>
+			<key>Name</key><string>New wave</string>
+			<key>Artist</key><string>Pleymo</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3388739</integer>
+			<key>Total Time</key><integer>211565</integer>
+			<key>Date Modified</key><date>2024-07-04T16:22:59Z</date>
+			<key>Date Added</key><date>2025-05-23T00:05:57Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2021-05-27T01:09:37Z</date>
+			<key>Normalization</key><integer>9554</integer>
+			<key>Persistent ID</key><string>F58E7872D091C315</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Pleymo%20-%20New%20Wave.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>14944</key>
+		<dict>
+			<key>Track ID</key><integer>14944</integer>
+			<key>Name</key><string>World</string>
+			<key>Artist</key><string>Pleymo</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3673660</integer>
+			<key>Total Time</key><integer>229433</integer>
+			<key>Date Modified</key><date>2021-09-03T18:27:25Z</date>
+			<key>Date Added</key><date>2025-05-23T00:05:57Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>10970</integer>
+			<key>Persistent ID</key><string>CC8D08969C5011D5</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Pleymo%20-%20World.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15088</key>
+		<dict>
+			<key>Track ID</key><integer>15088</integer>
+			<key>Name</key><string>First It Giveth</string>
+			<key>Artist</key><string>Queens Of The Stone Age</string>
+			<key>Album</key><string>Songs For The Deaf</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8289971</integer>
+			<key>Total Time</key><integer>198452</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2021-09-03T18:31:10Z</date>
+			<key>Date Added</key><date>2025-05-23T00:06:05Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3712692830</integer>
+			<key>Play Date UTC</key><date>2021-08-25T02:33:50Z</date>
+			<key>Normalization</key><integer>9938</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>1DC0471A61CC2D6D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Queens%20of%20the%20Stone%20Age%20-%20(XXXX)%20Songs%20for%20the%20Deaf%20-%20First%20It%20Giveth.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15994</key>
+		<dict>
+			<key>Track ID</key><integer>15994</integer>
+			<key>Name</key><string>40 Below</string>
+			<key>Artist</key><string>Spineshank</string>
+			<key>Album</key><string>Strictly Diesel</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8186731</integer>
+			<key>Total Time</key><integer>202605</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>1998</integer>
+			<key>Date Modified</key><date>2021-09-03T18:52:53Z</date>
+			<key>Date Added</key><date>2025-05-23T00:06:53Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>15</integer>
+			<key>Play Date</key><integer>3778878688</integer>
+			<key>Play Date UTC</key><date>2023-09-30T03:31:28Z</date>
+			<key>Normalization</key><integer>12664</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>Spineshank</string>
+			<key>Persistent ID</key><string>5C0A31BD96C5920C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Spineshank%20-%20(1998)%20Strictly%20Diesel%20-%2040%20Below.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>16024</key>
+		<dict>
+			<key>Track ID</key><integer>16024</integer>
+			<key>Name</key><string>Asthmatic</string>
+			<key>Artist</key><string>Spineshank</string>
+			<key>Album</key><string>The Height Of Callousness</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8516531</integer>
+			<key>Total Time</key><integer>210677</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2021-09-03T18:53:42Z</date>
+			<key>Date Added</key><date>2025-05-23T00:06:55Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>15</integer>
+			<key>Play Date</key><integer>3778877784</integer>
+			<key>Play Date UTC</key><date>2023-09-30T03:16:24Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2020-06-14T17:55:37Z</date>
+			<key>Normalization</key><integer>13213</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Height Of Callousness</string>
+			<key>Sort Artist</key><string>Spineshank</string>
+			<key>Persistent ID</key><string>8A3FA6292D75001D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Spineshank%20-%20(2000)%20The%20Height%20Of%20Callousness%20-%20Asthmatic.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>16028</key>
+		<dict>
+			<key>Track ID</key><integer>16028</integer>
+			<key>Name</key><string>Full Circle</string>
+			<key>Artist</key><string>Spineshank</string>
+			<key>Album</key><string>The Height Of Callousness</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8335768</integer>
+			<key>Total Time</key><integer>206158</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2021-09-03T18:53:53Z</date>
+			<key>Date Added</key><date>2025-05-23T00:06:55Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>14</integer>
+			<key>Play Date</key><integer>3778877578</integer>
+			<key>Play Date UTC</key><date>2023-09-30T03:12:58Z</date>
+			<key>Normalization</key><integer>11360</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Height Of Callousness</string>
+			<key>Sort Artist</key><string>Spineshank</string>
+			<key>Persistent ID</key><string>F25924C1627D04F2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Spineshank%20-%20(2000)%20The%20Height%20Of%20Callousness%20-%20Full%20Circle.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>16032</key>
+		<dict>
+			<key>Track ID</key><integer>16032</integer>
+			<key>Name</key><string>Negative Space</string>
+			<key>Artist</key><string>Spineshank</string>
+			<key>Album</key><string>The Height Of Callousness</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6468542</integer>
+			<key>Total Time</key><integer>159477</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2021-09-03T18:53:56Z</date>
+			<key>Date Added</key><date>2025-05-23T00:06:55Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>14</integer>
+			<key>Play Date</key><integer>3778878122</integer>
+			<key>Play Date UTC</key><date>2023-09-30T03:22:02Z</date>
+			<key>Normalization</key><integer>11190</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Height Of Callousness</string>
+			<key>Sort Artist</key><string>Spineshank</string>
+			<key>Persistent ID</key><string>89DBB47B265A4196</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Spineshank%20-%20(2000)%20The%20Height%20Of%20Callousness%20-%20Negative%20Space.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>16034</key>
+		<dict>
+			<key>Track ID</key><integer>16034</integer>
+			<key>Name</key><string>New Disease</string>
+			<key>Artist</key><string>Spineshank</string>
+			<key>Album</key><string>The Height Of Callousness</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7870788</integer>
+			<key>Total Time</key><integer>194533</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2021-09-03T18:54:01Z</date>
+			<key>Date Added</key><date>2025-05-23T00:06:55Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>14</integer>
+			<key>Play Date</key><integer>3778878490</integer>
+			<key>Play Date UTC</key><date>2023-09-30T03:28:10Z</date>
+			<key>Normalization</key><integer>10607</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Height Of Callousness</string>
+			<key>Sort Artist</key><string>Spineshank</string>
+			<key>Persistent ID</key><string>8040C67990EFFEF0</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Spineshank%20-%20(2000)%20The%20Height%20Of%20Callousness%20-%20New%20Disease.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>16046</key>
+		<dict>
+			<key>Track ID</key><integer>16046</integer>
+			<key>Name</key><string>The Height Of Callousness</string>
+			<key>Artist</key><string>Spineshank</string>
+			<key>Album</key><string>The Height Of Callousness</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7411061</integer>
+			<key>Total Time</key><integer>183040</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2021-09-03T18:54:25Z</date>
+			<key>Date Added</key><date>2025-05-23T00:06:56Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>15</integer>
+			<key>Play Date</key><integer>3778878300</integer>
+			<key>Play Date UTC</key><date>2023-09-30T03:25:00Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2021-05-08T16:30:28Z</date>
+			<key>Normalization</key><integer>11268</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Height Of Callousness</string>
+			<key>Sort Artist</key><string>Spineshank</string>
+			<key>Sort Name</key><string>Height Of Callousness</string>
+			<key>Persistent ID</key><string>702C55243EBD1D4D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Spineshank%20-%20(2000)%20The%20Height%20Of%20Callousness%20-%20The%20Height%20Of%20Callousness.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>16244</key>
+		<dict>
+			<key>Track ID</key><integer>16244</integer>
+			<key>Name</key><string>The Only</string>
+			<key>Artist</key><string>Static-X</string>
+			<key>Album Artist</key><string>Static-X</string>
+			<key>Composer</key><string>Ken Jay/Tripp Eisen/Wayne Static</string>
+			<key>Album</key><string>Shadow Zone</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4228823</integer>
+			<key>Total Time</key><integer>171075</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2024-06-17T17:36:53Z</date>
+			<key>Date Added</key><date>2025-05-23T00:07:08Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3779031391</integer>
+			<key>Play Date UTC</key><date>2023-10-01T21:56:31Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2020-07-22T05:39:26Z</date>
+			<key>Normalization</key><integer>10390</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>Only</string>
+			<key>Persistent ID</key><string>9A336349AF94590C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Static-X%20-%20(2003)%20Shadow%20Zone%20-%20The%20Only.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>Back to 2003</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>61343</integer>
+			<key>Playlist Persistent ID</key><string>5A106F8AC0F9159B</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>13228</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13226</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7850</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11278</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11276</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12370</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12380</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12384</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12388</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12216</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14934</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14944</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13564</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11622</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11630</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11626</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11628</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11638</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11636</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9188</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6742</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4114</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15088</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13872</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16244</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3152</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16028</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16024</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16046</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16034</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16032</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15994</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11640</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11644</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

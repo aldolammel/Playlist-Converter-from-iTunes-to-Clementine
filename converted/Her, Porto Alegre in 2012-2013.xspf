@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+    <trackList>
+        <track>
+            <title>Gunslinger</title>
+            <creator>Avenged Sevenfold</creator>
+            <album>Avenged Sevenfold</album>
+            <duration>251533</duration>
+            <trackNum>5</trackNum>
+            <location>U:\Shared\Music/Avenged%20Sevenfold%20-%20(2007)%20Avenged%20Sevenfold%20-%20Gunslinger.mp3</location>
+        </track>
+        <track>
+            <title>Locked Out of Heaven</title>
+            <creator>Bruno Mars</creator>
+            <album>Locked Out of Heaven (Single)</album>
+            <duration>233560</duration>
+            <trackNum>1</trackNum>
+            <location>U:\Shared\Music/Bruno%20Mars%20-%20(2012)%20Single%20-%20Locked%20Out%20of%20Heaven.mp3</location>
+        </track>
+        <track>
+            <title>The Sound Of Winter</title>
+            <creator>Bush</creator>
+            <album>The Sea Of Memories</album>
+            <duration>208875</duration>
+            <trackNum>2</trackNum>
+            <location>U:\Shared\Music/Bush%20-%20(2011)%20The%20sea%20of%20memories%20-%20The%20Sound%20Of%20Winter.mp3</location>
+        </track>
+        <track>
+            <title>Time (Queensway remix)</title>
+            <creator>Chase &amp; Status</creator>
+            <duration>309498</duration>
+            <location>U:\Shared\Music/Chase%20&amp;%20Status%20-%20Time%20(Queensway%20remix).mp3</location>
+        </track>
+        <track>
+            <title>The Meddler</title>
+            <creator>Chevelle</creator>
+            <album>Hats Off To The Bull</album>
+            <duration>253204</duration>
+            <trackNum>4</trackNum>
+            <location>U:\Shared\Music/Chevelle%20-%20(2011)%20Hats%20Off%20To%20The%20Bull%20-%20The%20Meddler.mp3</location>
+        </track>
+        <track>
+            <title>Going Wrong (Armin Van Buuren Remixed)</title>
+            <creator>André Sarate</creator>
+            <duration>320208</duration>
+            <location>U:\Shared\Music/Dj%20Andr%C3%A9%20Sarate%20-%20Going%20Wrong%20(Armin%20Van%20Buuren%20Remixed).mp3</location>
+        </track>
+        <track>
+            <title>Underground Kings</title>
+            <creator>Drake</creator>
+            <album>Take Care (Deluxe Edition)</album>
+            <duration>212532</duration>
+            <trackNum>7</trackNum>
+            <location>U:\Shared\Music/Drake%20-%20(2011)%20Take%20care%20-%20Under%20Gound%20Kings.mp3</location>
+        </track>
+        <track>
+            <title>MDMA</title>
+            <creator>Emmure</creator>
+            <album>Slave to the Game</album>
+            <duration>206942</duration>
+            <trackNum>10</trackNum>
+            <location>U:\Shared\Music/Emmure%20-%20(2012)%20Slave%20to%20the%20Game%20-%20MDMA.mp3</location>
+        </track>
+        <track>
+            <title>99</title>
+            <creator>Fightstar</creator>
+            <album>One Day Son, This Will All Be Yours</album>
+            <duration>245577</duration>
+            <trackNum>1</trackNum>
+            <location>U:\Shared\Music/Fightstar%20-%20(2007)%20One%20day%20son,%20this%20will%20all%20be%20yours%20-%2099.mp3</location>
+        </track>
+        <track>
+            <title>Our Last Common Ancestor</title>
+            <creator>Fightstar</creator>
+            <album>One Day Son, This Will All Be Yours</album>
+            <duration>237087</duration>
+            <trackNum>11</trackNum>
+            <location>U:\Shared\Music/Fightstar%20-%20(2007)%20One%20day%20son,%20this%20will%20all%20be%20yours%20-%20Our%20last%20common%20ancestor.mp3</location>
+        </track>
+        <track>
+            <title>Presságio</title>
+            <creator>Gloria</creator>
+            <album>(Re)Nascido</album>
+            <duration>228963</duration>
+            <trackNum>4</trackNum>
+            <location>U:\Shared\Music/Gloria%20-%20(2012)%20(Re)nascido%20-%20Press%E2%80%A0gio.mp3</location>
+        </track>
+        <track>
+            <title>Ambulances</title>
+            <creator>Institute</creator>
+            <album>Distort Yourself</album>
+            <duration>275200</duration>
+            <trackNum>9</trackNum>
+            <location>U:\Shared\Music/Institute%20-%20(2005)%20Distort%20yourself%20-%20Ambulances.mp3</location>
+        </track>
+        <track>
+            <title>Information Age</title>
+            <creator>Institute</creator>
+            <album>Distort Yourself</album>
+            <duration>222720</duration>
+            <trackNum>4</trackNum>
+            <location>U:\Shared\Music/Institute%20-%20(2005)%20Distort%20yourself%20-%20Information%20Age.mp3</location>
+        </track>
+        <track>
+            <title>The Buzz of My System</title>
+            <creator>Institute</creator>
+            <album>Distort Yourself</album>
+            <duration>266684</duration>
+            <trackNum>14</trackNum>
+            <location>U:\Shared\Music/Institute%20-%20(2005)%20Distort%20yourself%20-%20The%20buzz%20of%20my%20system.mp3</location>
+        </track>
+        <track>
+            <title>Hip-Hop Saved My Life</title>
+            <creator>Lupe Fiasco</creator>
+            <duration>242050</duration>
+            <location>U:\Shared\Music/Lupe%20Fiasco%20-%20Hip-Hop%20Saved%20My%20Life.mp3</location>
+        </track>
+        <track>
+            <title>Amor de chocolate [ Naldo e Batutinha DJ - Vs Remix ]</title>
+            <creator>Naldo</creator>
+            <duration>224078</duration>
+            <trackNum>1</trackNum>
+            <location>U:\Shared\Music/Naldo%20-%20Amor%20de%20chocolate%20(Remix).mp3</location>
+        </track>
+        <track>
+            <title>God And Drugs</title>
+            <creator>The Classic Crime</creator>
+            <album>The Silver Cord</album>
+            <duration>255503</duration>
+            <trackNum>9</trackNum>
+            <location>U:\Shared\Music/The%20Classic%20Crime%20-%20(2008)%20The%20Silver%20Cord%20-%20God%20And%20Drugs.mp3</location>
+        </track>
+    </trackList>
+</playlist>

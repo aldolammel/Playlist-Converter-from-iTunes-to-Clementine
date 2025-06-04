@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+    <trackList>
+        <track>
+            <title>Blade Runner 2049</title>
+            <creator>Synthwave Goose</creator>
+            <duration>228075</duration>
+            <location>U:\Shared\Music/Blade%20Runner%202049.mp3</location>
+        </track>
+        <track>
+            <title>Nightland</title>
+            <creator>Droid Bishop</creator>
+            <duration>356545</duration>
+            <location>U:\Shared\Music/Droid%20Bishop%20-%20Nightland.mp3</location>
+        </track>
+        <track>
+            <title>Parallel</title>
+            <creator>Eagle Eyed Tiger </creator>
+            <duration>294687</duration>
+            <location>U:\Shared\Music/Eagle%20Eyed%20Tiger%20-%20Bandcamp%20-%20Parallel.mp3</location>
+        </track>
+        <track>
+            <title>Jester’s Door</title>
+            <creator>In Flames</creator>
+            <album>Sounds Of A Playground Fading</album>
+            <duration>157309</duration>
+            <trackNum>11</trackNum>
+            <location>U:\Shared\Music/In%20Flames%20-%20(2011)%20Sounds%20of%20a%20Playground%20Fading%20-%20Jester%E2%80%99s%20Door%20.mp3</location>
+        </track>
+        <track>
+            <title>Cure for the itch</title>
+            <creator>Linkin Park</creator>
+            <album>Hybrid Theory</album>
+            <duration>159320</duration>
+            <trackNum>11</trackNum>
+            <location>U:\Shared\Music/Linkin%20Park%20-%20(2000)%20Hybrid%20Theory%20-%20Pista%20Audio%2011.mp3</location>
+        </track>
+        <track>
+            <title>Black Market Memories</title>
+            <creator>Mega Drive</creator>
+            <duration>350876</duration>
+            <location>U:\Shared\Music/Mega%20Drive%20-%20Black%20Market%20Memories.mp3</location>
+        </track>
+        <track>
+            <title>Midnight Crusader</title>
+            <creator>Nickius</creator>
+            <duration>228649</duration>
+            <location>U:\Shared\Music/Midnight%20Crusader.mp3</location>
+        </track>
+        <track>
+            <title>Another World</title>
+            <creator>Vybloom</creator>
+            <duration>231523</duration>
+            <location>U:\Shared\Music/Vybloom%20-%20Another%20World.mp3</location>
+        </track>
+        <track>
+            <title>Timeless Into The Night</title>
+            <creator>Vybloom</creator>
+            <duration>224966</duration>
+            <location>U:\Shared\Music/Vybloom%20-%20Timeless%20Into%20The%20Night.mp3</location>
+        </track>
+        <track>
+            <title>Mechanical Love</title>
+            <creator>Trevor Something</creator>
+            <album>Trevor Something Does Not Exist</album>
+            <duration>218122</duration>
+            <trackNum>9</trackNum>
+            <location>U:\Shared\Music/Trevor%20Something%20-%20(2014)%20Trevor%20Something%20Does%20Not%20Exist%20-%2009%20Mechanical%20Love.mp3</location>
+        </track>
+        <track>
+            <title>Into Your Heart</title>
+            <creator>Trevor Something</creator>
+            <album>Trevor Something Does Not Exist</album>
+            <duration>251872</duration>
+            <trackNum>12</trackNum>
+            <location>U:\Shared\Music/Trevor%20Something%20-%20(2014)%20Trevor%20Something%20Does%20Not%20Exist%20-%2012%20Into%20Your%20Heart.mp3</location>
+        </track>
+        <track>
+            <title>Searching</title>
+            <creator>Trevor Something</creator>
+            <album>Trevor Something Does Not Exist</album>
+            <duration>264097</duration>
+            <trackNum>6</trackNum>
+            <location>U:\Shared\Music/Trevor%20Something%20-%20(2014)%20Trevor%20Something%20Does%20Not%20Exist%20-%2006%20Searching.mp3</location>
+        </track>
+        <track>
+            <title>Looking for Tracy Tzu</title>
+            <creator>Carpenter Brut</creator>
+            <duration>259704</duration>
+            <location>U:\Shared\Music/Carpenter%20Brut%20-%20Looking%20for%20Tracy%20Tzu.mp3</location>
+        </track>
+        <track>
+            <title>Exhale</title>
+            <creator>Juno Dreams</creator>
+            <album>Paradise</album>
+            <duration>269400</duration>
+            <trackNum>6</trackNum>
+            <location>U:\Shared\Music/Juno%20Dreams%20-%20(2018)%20Paradise%20-%2006%20Exhale.mp3</location>
+        </track>
+        <track>
+            <title>Paradise</title>
+            <creator>Juno Dreams</creator>
+            <album>Paradise</album>
+            <duration>292022</duration>
+            <trackNum>3</trackNum>
+            <location>U:\Shared\Music/Juno%20Dreams%20-%20(2018)%20Paradise%20-%2003%20Paradise.mp3</location>
+        </track>
+        <track>
+            <title>Coastal Drive</title>
+            <creator>ADMO</creator>
+            <duration>192052</duration>
+            <location>U:\Shared\Music/ADMO%20-%202018%20-%20Coastal%20Drive.mp3</location>
+        </track>
+        <track>
+            <title>Venger (James Kent)</title>
+            <creator>A. Yarmak</creator>
+            <duration>272712</duration>
+            <location>U:\Shared\Music/A.%20Yarmak%20-%202019%20-%20Venger%20(James%20Kent).mp3</location>
+        </track>
+    </trackList>
+</playlist>

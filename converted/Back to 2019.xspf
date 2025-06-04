@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+    <trackList>
+        <track>
+            <title>Talk About it (Vicki Vox)</title>
+            <creator>Alder</creator>
+            <duration>181995</duration>
+            <location>U:\Shared\Music/Alder%20feat.%20Vicki%20Vox%20-%20Talk%20About%20It.mp3</location>
+        </track>
+        <track>
+            <title>The Ghoul Next Door (ft. Kendall Miles)</title>
+            <creator>Alex</creator>
+            <duration>138762</duration>
+            <location>U:\Shared\Music/ALEX%20&amp;%20Kendall%20Miles%20-%20The%20Ghoul%20Next%20Door.mp3</location>
+        </track>
+        <track>
+            <title>Radiant night</title>
+            <creator>Atiye Deniz</creator>
+            <duration>196545</duration>
+            <location>U:\Shared\Music/Atiye%20Deniz%20-%20Radiant%20night%20(Turkish%20artist).mp3</location>
+        </track>
+        <track>
+            <title>Fresh Bruises</title>
+            <creator>Bring Me the Horizon</creator>
+            <album>Amo</album>
+            <duration>198530</duration>
+            <trackNum>10</trackNum>
+            <location>U:\Shared\Music/Bring%20Me%20The%20Horizon%20-%20(2019)%20Amo%20-%20Fresh%20Bruises.mp3</location>
+        </track>
+        <track>
+            <title>I Apologize if you Feel Something</title>
+            <creator>Bring Me the Horizon</creator>
+            <album>Amo</album>
+            <duration>139650</duration>
+            <trackNum>1</trackNum>
+            <location>U:\Shared\Music/Bring%20Me%20The%20Horizon%20-%20(2019)%20Amo%20-%20I%20Apologize%20if%20you%20Feel%20Something.mp3</location>
+        </track>
+        <track>
+            <title>I Don't Know What to Say</title>
+            <creator>Bring Me the Horizon</creator>
+            <album>Amo</album>
+            <duration>352470</duration>
+            <trackNum>13</trackNum>
+            <location>U:\Shared\Music/Bring%20Me%20The%20Horizon%20-%20(2019)%20Amo%20-%20I%20Don't%20Know%20What%20to%20Say.mp3</location>
+        </track>
+        <track>
+            <title>In the Dark</title>
+            <creator>Bring Me the Horizon</creator>
+            <album>Amo</album>
+            <duration>271255</duration>
+            <trackNum>4</trackNum>
+            <location>U:\Shared\Music/Bring%20Me%20The%20Horizon%20-%20(2019)%20Amo%20-%20In%20the%20Dark.mp3</location>
+        </track>
+        <track>
+            <title>Medicine</title>
+            <creator>Bring Me the Horizon</creator>
+            <album>Amo</album>
+            <duration>227343</duration>
+            <trackNum>7</trackNum>
+            <location>U:\Shared\Music/Bring%20Me%20The%20Horizon%20-%20(2019)%20Amo%20-%20Medicine.mp3</location>
+        </track>
+        <track>
+            <title>Mother Tongue</title>
+            <creator>Bring Me the Horizon</creator>
+            <album>Amo</album>
+            <duration>217495</duration>
+            <trackNum>11</trackNum>
+            <location>U:\Shared\Music/Bring%20Me%20The%20Horizon%20-%20(2019)%20Amo%20-%20Mother%20Tongue.mp3</location>
+        </track>
+        <track>
+            <title>Nihilist Blues</title>
+            <creator>Bring Me the Horizon</creator>
+            <album>Amo</album>
+            <duration>325590</duration>
+            <trackNum>3</trackNum>
+            <location>U:\Shared\Music/Bring%20Me%20The%20Horizon%20-%20(2019)%20Amo%20-%20Nihilist%20Blues.mp3</location>
+        </track>
+        <track>
+            <title>Ouch</title>
+            <creator>Bring Me the Horizon</creator>
+            <album>Amo</album>
+            <duration>109087</duration>
+            <trackNum>6</trackNum>
+            <location>U:\Shared\Music/Bring%20Me%20The%20Horizon%20-%20(2019)%20Amo%20-%20Ouch.mp3</location>
+        </track>
+        <track>
+            <title>Shameless</title>
+            <creator>Camila Cabello</creator>
+            <duration>218775</duration>
+            <location>U:\Shared\Music/Camila%20Cabello%20-%20Shameless.mp3</location>
+        </track>
+        <track>
+            <title>Feels Like Summer</title>
+            <creator>Childish Gambino</creator>
+            <duration>285779</duration>
+            <location>U:\Shared\Music/Childish%20Gambino%20-%20Feels%20Like%20Summer%20(Official%20Music%20Video).mp3</location>
+        </track>
+        <track>
+            <title>Fashion</title>
+            <creator>Dominique Young Unique</creator>
+            <duration>247170</duration>
+            <location>U:\Shared\Music/Dominique%20Young%20Unique%20-%20Fashion.mp3</location>
+        </track>
+        <track>
+            <title>A Fantástica Fábrica de Cadáver</title>
+            <creator>Eduardo</creator>
+            <duration>263340</duration>
+            <location>U:\Shared\Music/Eduardo%20-%20A%20Fant%C3%A1stica%20F%C3%A1brica%20de%20Cad%C3%A1ver.mp3</location>
+        </track>
+        <track>
+            <title>Supernal (ft. oDDling)</title>
+            <creator>Forhill</creator>
+            <duration>245185</duration>
+            <location>U:\Shared\Music/Forhill%20&amp;%20oDDling%20-%20Supernal.mp3</location>
+        </track>
+        <track>
+            <title>Isso Não É Um Teste</title>
+            <creator>Fresno</creator>
+            <album>sua alegria foi cancelada</album>
+            <duration>163840</duration>
+            <trackNum>3</trackNum>
+            <location>U:\Shared\Music/Fresno%20-%20(2019)%20Sua%20Alegria%20Foi%20Cancelada%20-%20Isso%20N%C3%A3o%20%C3%89%20Um%20Teste.mp3</location>
+        </track>
+        <track>
+            <title>Natureza Caos</title>
+            <creator>Fresno</creator>
+            <album>sua alegria foi cancelada</album>
+            <duration>220081</duration>
+            <trackNum>4</trackNum>
+            <location>U:\Shared\Music/Fresno%20-%20(2019)%20Sua%20Alegria%20Foi%20Cancelada%20-%20Natureza%20Caos.mp3</location>
+        </track>
+        <track>
+            <title>Recalibrate</title>
+            <creator>Interiors</creator>
+            <duration>300016</duration>
+            <location>U:\Shared\Music/Interiors%20-%20Recalibrate.mp3</location>
+        </track>
+        <track>
+            <title>YEAH RIGHT</title>
+            <creator>Joji</creator>
+            <duration>174994</duration>
+            <location>U:\Shared\Music/Joji%20-%20YEAH%20RIGHT.mp3</location>
+        </track>
+        <track>
+            <title>Institutionalized</title>
+            <creator>Kendrick Lamar</creator>
+            <album>To Pimp A Butterfly</album>
+            <duration>271830</duration>
+            <trackNum>4</trackNum>
+            <location>U:\Shared\Music/Kendrick%20Lamar%20-(2015)%20To%20Pimp%20a%20Butterfly%20-%20Institutionalized.mp3</location>
+        </track>
+        <track>
+            <title>The Blacker The Berry</title>
+            <creator>Kendrick Lamar</creator>
+            <album>To Pimp A Butterfly</album>
+            <duration>328881</duration>
+            <trackNum>13</trackNum>
+            <location>U:\Shared\Music/Kendrick%20Lamar%20-(2015)%20To%20Pimp%20a%20Butterfly%20-%20The%20Blacker%20The%20Berry.mp3</location>
+        </track>
+        <track>
+            <title>You'll Never Find Me</title>
+            <creator>Korn</creator>
+            <duration>220656</duration>
+            <location>U:\Shared\Music/Korn%20-%20(2019)%20-%20You'll%20Never%20Find%20Me.mp3</location>
+        </track>
+        <track>
+            <title>I Love It (Kanye West &amp; Adele Givens)</title>
+            <creator>Lil Pump</creator>
+            <duration>130324</duration>
+            <location>U:\Shared\Music/Lil%20Pump%20-%20I%20Love%20It%20(Kanye%20West%20&amp;%20Adele%20Givens).mp3</location>
+        </track>
+        <track>
+            <title>Unidentified Object</title>
+            <creator>M83</creator>
+            <album>Oblivion Original Soundtrack</album>
+            <duration>151719</duration>
+            <trackNum>10</trackNum>
+            <location>U:\Shared\Music/M83%20-%20(2013)%20Oblivion%20(Original%20Motion%20Picture%20Soundtrack)%20-%20Unidentified%20Object.mp3</location>
+        </track>
+        <track>
+            <title>Killing Strangers</title>
+            <creator>Marilyn Manson</creator>
+            <album>The Pale Emperor (Deluxe)</album>
+            <duration>336487</duration>
+            <trackNum>1</trackNum>
+            <location>U:\Shared\Music/Marylin%20Manson%20-%20(2015)%20The%20Pale%20Emperor%20-%20Killing%20Strangers.m4a</location>
+        </track>
+        <track>
+            <title>Black Market Memories</title>
+            <creator>Mega Drive</creator>
+            <duration>350876</duration>
+            <location>U:\Shared\Music/Mega%20Drive%20-%20Black%20Market%20Memories.mp3</location>
+        </track>
+        <track>
+            <title>Break the Same</title>
+            <creator>MuteMath</creator>
+            <album>MuteMath</album>
+            <duration>442148</duration>
+            <trackNum>10</trackNum>
+            <location>U:\Shared\Music/Mutemath%20-%20(2006)%20Mutemath%20-%20break%20the%20same.mp3</location>
+        </track>
+        <track>
+            <title>Bloodline</title>
+            <creator>Northlane</creator>
+            <duration>215092</duration>
+            <location>U:\Shared\Music/Northlane%20-%20Bloodline%20%5BOfficial%20Music%20Video%5D.mp3</location>
+        </track>
+        <track>
+            <title>Inside (w chief)</title>
+            <creator>oatmello</creator>
+            <duration>121678</duration>
+            <location>U:\Shared\Music/oatmello%20-%20inside%20(w%20chief.).mp3</location>
+        </track>
+        <track>
+            <title> The End (ft. Fujitsu)</title>
+            <creator>Philanthrope</creator>
+            <duration>136124</duration>
+            <location>U:\Shared\Music/Philanthrope%20-%20The%20End%20(ft%20Fujitsu).mp3</location>
+        </track>
+        <track>
+            <title>Devil in the Details</title>
+            <creator>Placebo</creator>
+            <album>Battle for the Sun</album>
+            <duration>268460</duration>
+            <trackNum>5</trackNum>
+            <location>U:\Shared\Music/Placebo%20-%20(2009)%20Battle%20for%20the%20Sun%20-%20Devil%20in%20the%20Details.mp3</location>
+        </track>
+        <track>
+            <title>Deliverance</title>
+            <creator>RY X</creator>
+            <duration>230504</duration>
+            <location>U:\Shared\Music/RY%20X%20-%20Deliverance.mp3</location>
+        </track>
+        <track>
+            <title>Como São As Coisas</title>
+            <creator>Supercombo</creator>
+            <duration>234135</duration>
+            <location>U:\Shared\Music/Supercombo%20-%20Como%20S%C3%A3o%20As%20Coisas.mp3</location>
+        </track>
+        <track>
+            <title>Bioactive</title>
+            <creator>Sybreed</creator>
+            <album>Slave Design</album>
+            <duration>384720</duration>
+            <trackNum>1</trackNum>
+            <location>U:\Shared\Music/Sybreed%20-%20(2004)%20Slave%20Design%20-%20Bioactive.mp3</location>
+        </track>
+        <track>
+            <title>Next Day Will Never Come</title>
+            <creator>Sybreed</creator>
+            <album>Slave Design</album>
+            <duration>324360</duration>
+            <trackNum>5</trackNum>
+            <location>U:\Shared\Music/Sybreed%20-%20(2004)%20Slave%20Design%20-%20Next%20Day%20Will%20Never%20Come.mp3</location>
+        </track>
+        <track>
+            <title>Children of Planet Earth (Voyager Golden Disc Messages)</title>
+            <creator>Symphony of Science</creator>
+            <duration>294034</duration>
+            <location>U:\Shared\Music/Symphony%20of%20Science%20-%202019%20-%20Children%20of%20Planet%20Earth%20The%20Voyager%20Golden%20Record%20Remixed.mp3</location>
+        </track>
+        <track>
+            <title>Everybody Wants To Rule The World</title>
+            <creator>Tears For Fears</creator>
+            <album>Songs from the Big Chair</album>
+            <duration>251637</duration>
+            <location>U:\Shared\Music/Tears%20For%20Fears%20-%20(1985)%20Songs%20from%20the%20Big%20Chair%20-%20Everybody%20Wants%20To%20Rule%20The%20World.mp3</location>
+        </track>
+        <track>
+            <title>Arms Around You (Lil Pump ft. Maluma &amp; Swae Lee)</title>
+            <creator>XXXTENTACION</creator>
+            <duration>195787</duration>
+            <location>U:\Shared\Music/XXXTENTACION%20-%20Arms%20Around%20You%20(Lil%20Pump%20ft.%20Maluma%20&amp;%20Swae%20Lee).mp3</location>
+        </track>
+        <track>
+            <title>No Reason (Feat. Nick Murphy)</title>
+            <creator>Bonobo</creator>
+            <album>Migration</album>
+            <duration>449044</duration>
+            <trackNum>10</trackNum>
+            <location>U:\Shared\Music/Bonobo%20-%20(2017)%20Migration%20-%20No%20Reason%20(Feat.%20Nick%20Murphy).mp3</location>
+        </track>
+        <track>
+            <title>Figures</title>
+            <creator>Bonobo</creator>
+            <album>Migration</album>
+            <duration>368378</duration>
+            <trackNum>12</trackNum>
+            <location>U:\Shared\Music/Bonobo%20-%20(2017)%20Migration%20-%20Figures.mp3</location>
+        </track>
+        <track>
+            <title>Grains</title>
+            <creator>Bonobo</creator>
+            <album>Migration</album>
+            <duration>268956</duration>
+            <trackNum>4</trackNum>
+            <location>U:\Shared\Music/Bonobo%20-%20(2017)%20Migration%20-%20Grains.mp3</location>
+        </track>
+    </trackList>
+</playlist>

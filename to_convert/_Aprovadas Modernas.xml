@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2025-06-04T02:39:14Z</date>
+	<key>Application Version</key><string>12.13.7.1</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/E:/Users/aldol/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>187AD5E35C5E82C1</string>
+	<key>Tracks</key>
+	<dict>
+		<key>3078</key>
+		<dict>
+			<key>Track ID</key><integer>3078</integer>
+			<key>Name</key><string>Let Me Put My Love into You</string>
+			<key>Artist</key><string>ACDC</string>
+			<key>Album</key><string>Back in Black</string>
+			<key>Genre</key><string>Hard Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7564545</integer>
+			<key>Total Time</key><integer>255686</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>1980</integer>
+			<key>Date Modified</key><date>2021-09-03T01:04:45Z</date>
+			<key>Date Added</key><date>2025-05-22T23:55:06Z</date>
+			<key>Bit Rate</key><integer>232</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>9836</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>17981092D2840883</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/AC-DC%20-%20(1980)%20Back%20in%20Black%20-%20Let%20me%20put%20my%20love%20into%20you.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8074</key>
+		<dict>
+			<key>Track ID</key><integer>8074</integer>
+			<key>Name</key><string>Parallel</string>
+			<key>Artist</key><string>Eagle Eyed Tiger </string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7082912</integer>
+			<key>Total Time</key><integer>294687</integer>
+			<key>Date Modified</key><date>2024-03-29T14:04:35Z</date>
+			<key>Date Added</key><date>2025-05-22T23:59:49Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>99</integer>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3771852544</integer>
+			<key>Play Date UTC</key><date>2023-07-10T19:49:04Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2023-07-22T21:17:30Z</date>
+			<key>Normalization</key><integer>1532</integer>
+			<key>Persistent ID</key><string>DA353CC8AE031A45</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Eagle%20Eyed%20Tiger%20-%20Bandcamp%20-%20Parallel.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>9054</key>
+		<dict>
+			<key>Track ID</key><integer>9054</integer>
+			<key>Name</key><string>Apparition</string>
+			<key>Artist</key><string>Forhill</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11372685</integer>
+			<key>Total Time</key><integer>280476</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>Date Modified</key><date>2024-03-29T14:04:34Z</date>
+			<key>Date Added</key><date>2025-05-23T00:00:35Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>100</integer>
+			<key>Comments</key><string>Visit http://forhill.bandcamp.com</string>
+			<key>Play Count</key><integer>12</integer>
+			<key>Play Date</key><integer>3771853009</integer>
+			<key>Play Date UTC</key><date>2023-07-10T19:56:49Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2021-12-03T21:09:57Z</date>
+			<key>Normalization</key><integer>1727</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3764B957D828614D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Forhill%20-%20Apparition.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>11870</key>
+		<dict>
+			<key>Track ID</key><integer>11870</integer>
+			<key>Name</key><string>Chill Day</string>
+			<key>Artist</key><string>LAKEY INSPIRED</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10735413</integer>
+			<key>Total Time</key><integer>186070</integer>
+			<key>Date Modified</key><date>2021-09-03T16:25:34Z</date>
+			<key>Date Added</key><date>2025-05-23T00:03:09Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3762416053</integer>
+			<key>Play Date UTC</key><date>2023-03-23T14:34:13Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2021-10-01T10:13:54Z</date>
+			<key>Normalization</key><integer>1403</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>LAKEY INSPIRED</string>
+			<key>Persistent ID</key><string>55E6996C273C9FBD</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Lakey%20Inspired%20-%20Chill%20Day.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>12582</key>
+		<dict>
+			<key>Track ID</key><integer>12582</integer>
+			<key>Name</key><string>Burst</string>
+			<key>Artist</key><string>Lloyd P-White</string>
+			<key>Kind</key><string>WAV audio file</string>
+			<key>Size</key><integer>24979988</integer>
+			<key>Total Time</key><integer>141333</integer>
+			<key>Date Modified</key><date>2021-09-03T16:44:06Z</date>
+			<key>Date Added</key><date>2025-05-23T00:03:44Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>13</integer>
+			<key>Play Date</key><integer>3768375285</integer>
+			<key>Play Date UTC</key><date>2023-05-31T13:54:45Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2023-03-17T00:51:36Z</date>
+			<key>Normalization</key><integer>3683</integer>
+			<key>Persistent ID</key><string>A4554557C050635A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Lloyd%20P-White%20-%20Burst.wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>17784</key>
+		<dict>
+			<key>Track ID</key><integer>17784</integer>
+			<key>Name</key><string>Deluxury</string>
+			<key>Artist</key><string>Francci &#38; Flávio La Barre</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8798384</integer>
+			<key>Total Time</key><integer>217808</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2024-07-12T23:22:02Z</date>
+			<key>Date Added</key><date>2025-05-23T00:08:29Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>97</integer>
+			<key>Comments</key><string>Visit https://francci.bandcamp.com</string>
+			<key>Play Count</key><integer>435</integer>
+			<key>Play Date</key><integer>3783185688</integer>
+			<key>Play Date UTC</key><date>2023-11-18T22:54:48Z</date>
+			<key>Skip Count</key><integer>20</integer>
+			<key>Skip Date</key><date>2022-09-14T03:59:13Z</date>
+			<key>Loved</key><true/>
+			<key>Normalization</key><integer>7784</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>7C449FA3B5993267</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Francci%20&#38;%20Fl%C3%A1vio%20La%20Barre%20-%20Deluxury.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>17796</key>
+		<dict>
+			<key>Track ID</key><integer>17796</integer>
+			<key>Name</key><string>Error 404</string>
+			<key>Artist</key><string>Lofi Geek</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6519118</integer>
+			<key>Total Time</key><integer>162720</integer>
+			<key>Date Modified</key><date>2025-05-26T23:34:16Z</date>
+			<key>Date Added</key><date>2025-05-23T00:08:30Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Volume Adjustment</key><integer>95</integer>
+			<key>Play Count</key><integer>423</integer>
+			<key>Play Date</key><integer>3783276158</integer>
+			<key>Play Date UTC</key><date>2023-11-20T00:02:38Z</date>
+			<key>Skip Count</key><integer>12</integer>
+			<key>Skip Date</key><date>2023-05-13T19:18:46Z</date>
+			<key>Loved</key><true/>
+			<key>Normalization</key><integer>1259</integer>
+			<key>Persistent ID</key><string>02D092D42A047D4E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Lofi%20Greek%20-%20Error%20404.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>18080</key>
+		<dict>
+			<key>Track ID</key><integer>18080</integer>
+			<key>Name</key><string>Much Higher (no copyright - no restriction to use)</string>
+			<key>Artist</key><string>Causmic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6914969</integer>
+			<key>Total Time</key><integer>171168</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2021-06-13T03:22:22Z</date>
+			<key>Date Added</key><date>2025-05-23T00:08:44Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Volume Adjustment</key><integer>255</integer>
+			<key>Play Count</key><integer>441</integer>
+			<key>Play Date</key><integer>3783185979</integer>
+			<key>Play Date UTC</key><date>2023-11-18T22:59:39Z</date>
+			<key>Skip Count</key><integer>10</integer>
+			<key>Skip Date</key><date>2025-05-26T23:34:16Z</date>
+			<key>Normalization</key><integer>1368</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>CFCAE1B9CFE17F93</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Causmic%20-%20(2020)%20Much%20Higher%20(no%20copyright%20-%20no%20restriction%20to%20use).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>18090</key>
+		<dict>
+			<key>Track ID</key><integer>18090</integer>
+			<key>Name</key><string>M0lly</string>
+			<key>Artist</key><string>Ytho</string>
+			<key>Album Artist</key><string>Aim To Head</string>
+			<key>Album</key><string>FR∆CT̅URE 2021</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8128611</integer>
+			<key>Total Time</key><integer>199471</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2025-05-26T23:34:18Z</date>
+			<key>Date Added</key><date>2025-05-23T00:08:44Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>98</integer>
+			<key>Play Count</key><integer>471</integer>
+			<key>Play Date</key><integer>3773481121</integer>
+			<key>Play Date UTC</key><date>2023-07-29T16:12:01Z</date>
+			<key>Skip Count</key><integer>13</integer>
+			<key>Skip Date</key><date>2022-11-23T14:37:57Z</date>
+			<key>Normalization</key><integer>5058</integer>
+			<key>Artwork Count</key><integer>2</integer>
+			<key>Persistent ID</key><string>E89CCEE81FAA0E18</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Ytho%20-%20(2020)%20M0lly.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>18362</key>
+		<dict>
+			<key>Track ID</key><integer>18362</integer>
+			<key>Name</key><string>Tides</string>
+			<key>Artist</key><string>Dontcry &#38; Nokiaa</string>
+			<key>Album</key><string>Odyssey</string>
+			<key>Genre</key><string>Lo Fi</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2318210</integer>
+			<key>Total Time</key><integer>128235</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2024-07-12T23:22:09Z</date>
+			<key>Date Added</key><date>2025-05-23T00:08:59Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>96</integer>
+			<key>Play Count</key><integer>14</integer>
+			<key>Play Date</key><integer>3766101836</integer>
+			<key>Play Date UTC</key><date>2023-05-05T06:23:56Z</date>
+			<key>Normalization</key><integer>1259</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>19CDB61D176C3C34</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Dontcry%20&#38;%20Nokiaa%20-%20(2020)%20odyssey%20-%20Tides.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>18676</key>
+		<dict>
+			<key>Track ID</key><integer>18676</integer>
+			<key>Name</key><string>Core</string>
+			<key>Artist</key><string>Neronus</string>
+			<key>Album</key><string>Blassed Tapes</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6881983</integer>
+			<key>Total Time</key><integer>168202</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2022-11-18T15:38:15Z</date>
+			<key>Date Added</key><date>2025-05-23T00:09:14Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>100</integer>
+			<key>Play Count</key><integer>41</integer>
+			<key>Play Date</key><integer>3788163240</integer>
+			<key>Play Date UTC</key><date>2024-01-15T13:34:00Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2022-12-02T14:34:04Z</date>
+			<key>Normalization</key><integer>1892</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5D35825BF766D09B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Neronus%20-%20(2020)%20Blassed%20Tapes%20-%20Core.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>18678</key>
+		<dict>
+			<key>Track ID</key><integer>18678</integer>
+			<key>Name</key><string>Overdose</string>
+			<key>Artist</key><string>Neronus</string>
+			<key>Album</key><string>Reason to Exist </string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6855126</integer>
+			<key>Total Time</key><integer>168071</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Modified</key><date>2024-06-18T22:33:27Z</date>
+			<key>Date Added</key><date>2025-05-23T00:09:14Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>99</integer>
+			<key>Play Count</key><integer>32</integer>
+			<key>Play Date</key><integer>3788163076</integer>
+			<key>Play Date UTC</key><date>2024-01-15T13:31:16Z</date>
+			<key>Skip Count</key><integer>5</integer>
+			<key>Skip Date</key><date>2024-01-14T12:45:19Z</date>
+			<key>Normalization</key><integer>3999</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F92D1BFEB712080E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Neronus%20-%20(2021)%20Reason%20to%20Exist%20-%20Overdose.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>18940</key>
+		<dict>
+			<key>Track ID</key><integer>18940</integer>
+			<key>Name</key><string>Take me back</string>
+			<key>Artist</key><string>Kanisan</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5981536</integer>
+			<key>Total Time</key><integer>149280</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>Date Modified</key><date>2023-09-28T15:17:32Z</date>
+			<key>Date Added</key><date>2025-05-23T00:09:27Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3778823846</integer>
+			<key>Play Date UTC</key><date>2023-09-29T12:17:26Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2023-09-29T22:48:31Z</date>
+			<key>Normalization</key><integer>1259</integer>
+			<key>Persistent ID</key><string>B32845F0B0EC050E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Kanisan%20-%202023%20-%20Take%20me%20back.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>_Aprovadas Modernas</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>60708</integer>
+			<key>Playlist Persistent ID</key><string>78D92FD393284883</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>18090</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18676</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18678</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3078</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18362</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9054</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17784</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8074</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18080</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12582</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11870</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17796</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18940</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

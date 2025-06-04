@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+    <trackList>
+        <track>
+            <title>Fogo</title>
+            <creator>Capital Inicial</creator>
+            <album>Acústico MTV</album>
+            <duration>297456</duration>
+            <trackNum>11</trackNum>
+            <location>U:\Shared\Music/Capital%20Inicial%20-%20(2000)%20Ac%C3%BAstico%20MTV%20-%20Fogo.mp3</location>
+        </track>
+        <track>
+            <title>The Abyss Of Your Eyes</title>
+            <creator>Stratovarius</creator>
+            <album>Visions (Japanese Edition)</album>
+            <duration>338651</duration>
+            <trackNum>6</trackNum>
+            <location>U:\Shared\Music/Stratovarius%20-(1997)%20Visions%20-%20The%20Abyss%20Of%20Your%20Eyes.mp3</location>
+        </track>
+    </trackList>
+</playlist>
