@@ -1,0 +1,2501 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+    <trackList>
+        <track>
+            <title>Skyfall</title>
+            <creator>Adele</creator>
+            <album>007: Skyfall</album>
+            <duration>286171</duration>
+            <location>U:\Shared\Music\Adele - Skyfall.mp3</location>
+        </track>
+        <track>
+            <title>Alone in the Town</title>
+            <creator>Silent Hill</creator>
+            <album>Silent Hill 2</album>
+            <duration>139546</duration>
+            <trackNum>10</trackNum>
+            <location>U:\Shared\Music\Akira Yamaoka - (2001) Silent Hill 2 - alone_in_the_town.mp3</location>
+        </track>
+        <track>
+            <title>Angels Thanatos</title>
+            <creator>Silent Hill</creator>
+            <album>Silent Hill 2</album>
+            <duration>197929</duration>
+            <trackNum>12</trackNum>
+            <location>U:\Shared\Music\Akira Yamaoka - (2001) Silent Hill 2 - angels_thanatos.mp3</location>
+        </track>
+        <track>
+            <title>Ashes and Ghosts</title>
+            <creator>Silent Hill</creator>
+            <album>Silent Hill 2</album>
+            <duration>188160</duration>
+            <trackNum>7</trackNum>
+            <location>U:\Shared\Music\Akira Yamaoka - (2001) Silent Hill 2 - ashes_and_ghosts.mp3</location>
+        </track>
+        <track>
+            <title>A World of Madness</title>
+            <creator>Silent Hill</creator>
+            <album>Silent Hill 2</album>
+            <duration>107154</duration>
+            <trackNum>4</trackNum>
+            <location>U:\Shared\Music\Akira Yamaoka - (2001) Silent Hill 2 - a_world_of_madness.mp3</location>
+        </track>
+        <track>
+            <title>Betrayal</title>
+            <creator>Silent Hill</creator>
+            <album>Silent Hill 2</album>
+            <duration>150413</duration>
+            <trackNum>25</trackNum>
+            <location>U:\Shared\Music\Akira Yamaoka - (2001) Silent Hill 2 - betrayal.mp3</location>
+        </track>
+        <track>
+            <title>Black Fairy</title>
+            <creator>Silent Hill</creator>
+            <album>Silent Hill 2</album>
+            <duration>72463</duration>
+            <trackNum>26</trackNum>
+            <location>U:\Shared\Music\Akira Yamaoka - (2001) Silent Hill 2 - black_fairy.mp3</location>
+        </track>
+        <track>
+            <title>Block Mind</title>
+            <creator>Silent Hill</creator>
+            <album>Silent Hill 2</album>
+            <duration>72385</duration>
+            <trackNum>14</trackNum>
+            <location>U:\Shared\Music\Akira Yamaoka - (2001) Silent Hill 2 - block_mind.mp3</location>
+        </track>
+        <track>
+            <title>Fermata in Mistic Air</title>
+            <creator>Silent Hill</creator>
+            <album>Silent Hill 2</album>
+            <duration>136777</duration>
+            <trackNum>16</trackNum>
+            <location>U:\Shared\Music\Akira Yamaoka - (2001) Silent Hill 2 - fermata_in_mistic_air.mp3</location>
+        </track>
+        <track>
+            <title>Forest</title>
+            <creator>Silent Hill</creator>
+            <album>Silent Hill 2</album>
+            <duration>103653</duration>
+            <trackNum>3</trackNum>
+            <location>U:\Shared\Music\Akira Yamaoka - (2001) Silent Hill 2 - forest.mp3</location>
+        </track>
+        <track>
+            <title>Heavens Night</title>
+            <creator>Silent Hill</creator>
+            <album>Silent Hill 2</album>
+            <duration>124708</duration>
+            <trackNum>9</trackNum>
+            <location>U:\Shared\Music\Akira Yamaoka - (2001) Silent Hill 2 - heavens_night.mp3</location>
+        </track>
+        <track>
+            <title>Laura Plays the Piano</title>
+            <creator>Silent Hill</creator>
+            <album>Silent Hill 2</album>
+            <duration>115017</duration>
+            <trackNum>22</trackNum>
+            <location>U:\Shared\Music\Akira Yamaoka - (2001) Silent Hill 2 - laura_plays_the_piano.mp3</location>
+        </track>
+        <track>
+            <title>Love Psalm</title>
+            <creator>Silent Hill</creator>
+            <album>Silent Hill 2</album>
+            <duration>266527</duration>
+            <trackNum>18</trackNum>
+            <location>U:\Shared\Music\Akira Yamaoka - (2001) Silent Hill 2 - love_psalm.mp3</location>
+        </track>
+        <track>
+            <title>Magdalene</title>
+            <creator>Silent Hill</creator>
+            <album>Silent Hill 2</album>
+            <duration>112822</duration>
+            <trackNum>15</trackNum>
+            <location>U:\Shared\Music\Akira Yamaoka - (2001) Silent Hill 2 - magdalene.mp3</location>
+        </track>
+        <track>
+            <title>Noone Love You</title>
+            <creator>Silent Hill</creator>
+            <album>Silent Hill 2</album>
+            <duration>92212</duration>
+            <trackNum>20</trackNum>
+            <location>U:\Shared\Music\Akira Yamaoka - (2001) Silent Hill 2 - noone_love_you.mp3</location>
+        </track>
+        <track>
+            <title>Null Moon</title>
+            <creator>Silent Hill</creator>
+            <album>Silent Hill 2</album>
+            <duration>170318</duration>
+            <trackNum>8</trackNum>
+            <location>U:\Shared\Music\Akira Yamaoka - (2001) Silent Hill 2 - null_moon.mp3</location>
+        </track>
+        <track>
+            <title>Ordinary Vanity</title>
+            <creator>Silent Hill</creator>
+            <album>Silent Hill 2</album>
+            <duration>99813</duration>
+            <trackNum>5</trackNum>
+            <location>U:\Shared\Music\Akira Yamaoka - (2001) Silent Hill 2 - ordinary_vanity.mp3</location>
+        </track>
+        <track>
+            <title>Overdose Delusion</title>
+            <creator>Silent Hill</creator>
+            <album>Silent Hill 2</album>
+            <duration>271595</duration>
+            <trackNum>28</trackNum>
+            <location>U:\Shared\Music\Akira Yamaoka - (2001) Silent Hill 2 - overdose_delusion.mp3</location>
+        </track>
+        <track>
+            <title>Pianissimo Epilogue</title>
+            <creator>Silent Hill</creator>
+            <album>Silent Hill 2</album>
+            <duration>97018</duration>
+            <trackNum>29</trackNum>
+            <location>U:\Shared\Music\Akira Yamaoka - (2001) Silent Hill 2 - pianissimo_epilogue.mp3</location>
+        </track>
+        <track>
+            <title>Prisonic Fairytale</title>
+            <creator>Silent Hill</creator>
+            <album>Silent Hill 2</album>
+            <duration>114860</duration>
+            <trackNum>17</trackNum>
+            <location>U:\Shared\Music\Akira Yamaoka - (2001) Silent Hill 2 - prisonic_fairytale.mp3</location>
+        </track>
+        <track>
+            <title>Promise</title>
+            <creator>Silent Hill</creator>
+            <album>Silent Hill 2</album>
+            <duration>279980</duration>
+            <trackNum>30</trackNum>
+            <location>U:\Shared\Music\Akira Yamaoka - (2001) Silent Hill 2 - promise.mp3</location>
+        </track>
+        <track>
+            <title>Promise (Reprise)</title>
+            <creator>Silent Hill</creator>
+            <album>Silent Hill 2</album>
+            <duration>104986</duration>
+            <trackNum>6</trackNum>
+            <location>U:\Shared\Music\Akira Yamaoka - (2001) Silent Hill 2 - promise_(reprise).mp3</location>
+        </track>
+        <track>
+            <title>Silent Heaven</title>
+            <creator>Silent Hill</creator>
+            <album>Silent Hill 2</album>
+            <duration>133799</duration>
+            <trackNum>19</trackNum>
+            <location>U:\Shared\Music\Akira Yamaoka - (2001) Silent Hill 2 - silent_heaven.mp3</location>
+        </track>
+        <track>
+            <title>Terror in the Depths of Fog</title>
+            <creator>Silent Hill</creator>
+            <album>Silent Hill 2</album>
+            <duration>271699</duration>
+            <trackNum>23</trackNum>
+            <location>U:\Shared\Music\Akira Yamaoka - (2001) Silent Hill 2 - terror_in_the_depths_of_fog.mp3</location>
+        </track>
+        <track>
+            <title>Theme of Laura</title>
+            <creator>Silent Hill</creator>
+            <album>Silent Hill 2</album>
+            <duration>204329</duration>
+            <trackNum>1</trackNum>
+            <location>U:\Shared\Music\Akira Yamaoka - (2001) Silent Hill 2 - theme_of_laura.mp3</location>
+        </track>
+        <track>
+            <title>Theme of Laura (Reprise)</title>
+            <creator>Silent Hill</creator>
+            <album>Silent Hill 2</album>
+            <duration>111621</duration>
+            <trackNum>27</trackNum>
+            <location>U:\Shared\Music\Akira Yamaoka - (2001) Silent Hill 2 - theme_of_laura_(reprise).mp3</location>
+        </track>
+        <track>
+            <title>The Darkness That Lurks in Our Mind</title>
+            <creator>Silent Hill</creator>
+            <album>Silent Hill 2</album>
+            <duration>75990</duration>
+            <trackNum>11</trackNum>
+            <location>U:\Shared\Music\Akira Yamaoka - (2001) Silent Hill 2 - the_darkness_that_lurks_in_our_mind.mp3</location>
+        </track>
+        <track>
+            <title>The Day of Night</title>
+            <creator>Silent Hill</creator>
+            <album>Silent Hill 2</album>
+            <duration>97436</duration>
+            <trackNum>13</trackNum>
+            <location>U:\Shared\Music\Akira Yamaoka - (2001) Silent Hill 2 - the_day_of_night.mp3</location>
+        </track>
+        <track>
+            <title>The Reverse Will</title>
+            <creator>Silent Hill</creator>
+            <album>Silent Hill 2</album>
+            <duration>213681</duration>
+            <trackNum>21</trackNum>
+            <location>U:\Shared\Music\Akira Yamaoka - (2001) Silent Hill 2 - the_reverse_will.mp3</location>
+        </track>
+        <track>
+            <title>True</title>
+            <creator>Silent Hill</creator>
+            <album>Silent Hill 2</album>
+            <duration>186984</duration>
+            <trackNum>24</trackNum>
+            <location>U:\Shared\Music\Akira Yamaoka - (2001) Silent Hill 2 - true.mp3</location>
+        </track>
+        <track>
+            <title>White Noiz</title>
+            <creator>Silent Hill</creator>
+            <album>Silent Hill 2</album>
+            <duration>83905</duration>
+            <trackNum>2</trackNum>
+            <location>U:\Shared\Music\Akira Yamaoka - (2001) Silent Hill 2 - white_noiz.mp3</location>
+        </track>
+        <track>
+            <title>I Need Speed</title>
+            <creator>Capone</creator>
+            <album>NFS Underground 2</album>
+            <duration>207673</duration>
+            <trackNum>2</trackNum>
+            <location>U:\Shared\Music\Capone - I Need Speed.mp3</location>
+        </track>
+        <track>
+            <title>After The Chase</title>
+            <creator>Cliff Martinez</creator>
+            <album>Drive</album>
+            <duration>325590</duration>
+            <trackNum>13</trackNum>
+            <location>U:\Shared\Music\Cliff Martinez - (2012) Drive Soundtrack - After The Chase.mp3</location>
+        </track>
+        <track>
+            <title>Bride of Deluxe</title>
+            <creator>Cliff Martinez</creator>
+            <album>Drive</album>
+            <duration>237453</duration>
+            <trackNum>19</trackNum>
+            <location>U:\Shared\Music\Cliff Martinez - (2012) Drive Soundtrack - Bride of Deluxe.mp3</location>
+        </track>
+        <track>
+            <title>A Real Hero (feat. Electric Youth)</title>
+            <creator>Cliff Martinez</creator>
+            <album>Drive</album>
+            <duration>267755</duration>
+            <trackNum>3</trackNum>
+            <location>U:\Shared\Music\Cliff Martinez - (2012) Drive Soundtrack - College - A Real Hero (feat. Electric Youth).mp3</location>
+        </track>
+        <track>
+            <title>Under Your Spell</title>
+            <creator>Cliff Martinez</creator>
+            <album>Drive</album>
+            <duration>232933</duration>
+            <trackNum>2</trackNum>
+            <location>U:\Shared\Music\Cliff Martinez - (2012) Drive Soundtrack - Desire - Under Your Spell.mp3</location>
+        </track>
+        <track>
+            <title>Hammer</title>
+            <creator>Cliff Martinez</creator>
+            <album>Drive</album>
+            <duration>284473</duration>
+            <trackNum>14</trackNum>
+            <location>U:\Shared\Music\Cliff Martinez - (2012) Drive Soundtrack - Hammer.mp3</location>
+        </track>
+        <track>
+            <title>He Had a Good Time</title>
+            <creator>Cliff Martinez</creator>
+            <album>Drive</album>
+            <duration>97201</duration>
+            <trackNum>8</trackNum>
+            <location>U:\Shared\Music\Cliff Martinez - (2012) Drive Soundtrack - He Had a Good Time.mp3</location>
+        </track>
+        <track>
+            <title>I Drive</title>
+            <creator>Cliff Martinez</creator>
+            <album>Drive</album>
+            <duration>123559</duration>
+            <trackNum>7</trackNum>
+            <location>U:\Shared\Music\Cliff Martinez - (2012) Drive Soundtrack - I Drive.mp3</location>
+        </track>
+        <track>
+            <title>Nightcall</title>
+            <creator>Kavinsky</creator>
+            <album>Drive</album>
+            <duration>259866</duration>
+            <trackNum>1</trackNum>
+            <location>U:\Shared\Music\Cliff Martinez - (2012) Drive Soundtrack - Kavinsky &amp; Lovefoxxx - Nightcall.mp3</location>
+        </track>
+        <track>
+            <title>Kick Your Teeth</title>
+            <creator>Cliff Martinez</creator>
+            <album>Drive</album>
+            <duration>160365</duration>
+            <trackNum>10</trackNum>
+            <location>U:\Shared\Music\Cliff Martinez - (2012) Drive Soundtrack - Kick Your Teeth.mp3</location>
+        </track>
+        <track>
+            <title>My Name On a Car</title>
+            <creator>Cliff Martinez</creator>
+            <album>Drive</album>
+            <duration>138997</duration>
+            <trackNum>17</trackNum>
+            <location>U:\Shared\Music\Cliff Martinez - (2012) Drive Soundtrack - My Name On a Car.mp3</location>
+        </track>
+        <track>
+            <title>On the Beach</title>
+            <creator>Cliff Martinez</creator>
+            <album>Drive</album>
+            <duration>395467</duration>
+            <trackNum>18</trackNum>
+            <location>U:\Shared\Music\Cliff Martinez - (2012) Drive Soundtrack - On the Beach.mp3</location>
+        </track>
+        <track>
+            <title>Oh My Love (feat. Katyna Ranieri)</title>
+            <creator>Cliff Martinez</creator>
+            <album>Drive</album>
+            <duration>170475</duration>
+            <trackNum>4</trackNum>
+            <location>U:\Shared\Music\Cliff Martinez - (2012) Drive Soundtrack - Riz Ortolani - Oh My Love (feat. Katyna Ranieri).mp3</location>
+        </track>
+        <track>
+            <title>Rubber Head</title>
+            <creator>Cliff Martinez</creator>
+            <album>Drive</album>
+            <duration>188630</duration>
+            <trackNum>6</trackNum>
+            <location>U:\Shared\Music\Cliff Martinez - (2012) Drive Soundtrack - Rubber Head.mp3</location>
+        </track>
+        <track>
+            <title>See You in Four</title>
+            <creator>Cliff Martinez</creator>
+            <album>Drive</album>
+            <duration>157753</duration>
+            <trackNum>12</trackNum>
+            <location>U:\Shared\Music\Cliff Martinez - (2012) Drive Soundtrack - See You in Four.mp3</location>
+        </track>
+        <track>
+            <title>Skull Crushing</title>
+            <creator>Cliff Martinez</creator>
+            <album>Drive</album>
+            <duration>357616</duration>
+            <trackNum>16</trackNum>
+            <location>U:\Shared\Music\Cliff Martinez - (2012) Drive Soundtrack - Skull Crushing.mp3</location>
+        </track>
+        <track>
+            <title>Tick of the Clock</title>
+            <creator>Cliff Martinez</creator>
+            <album>Drive</album>
+            <duration>288261</duration>
+            <trackNum>5</trackNum>
+            <location>U:\Shared\Music\Cliff Martinez - (2012) Drive Soundtrack - The Chromatics - Tick of the Clock.mp3</location>
+        </track>
+        <track>
+            <title>They Broke His Pelvis</title>
+            <creator>Cliff Martinez</creator>
+            <album>Drive</album>
+            <duration>118334</duration>
+            <trackNum>9</trackNum>
+            <location>U:\Shared\Music\Cliff Martinez - (2012) Drive Soundtrack - They Broke His Pelvis.mp3</location>
+        </track>
+        <track>
+            <title>Where's the Deluxe Version?</title>
+            <creator>Cliff Martinez</creator>
+            <album>Drive</album>
+            <duration>332721</duration>
+            <trackNum>11</trackNum>
+            <location>U:\Shared\Music\Cliff Martinez - (2012) Drive Soundtrack - Where's the Deluxe Version.mp3</location>
+        </track>
+        <track>
+            <title>Wrong Floor</title>
+            <creator>Cliff Martinez</creator>
+            <album>Drive</album>
+            <duration>91167</duration>
+            <trackNum>15</trackNum>
+            <location>U:\Shared\Music\Cliff Martinez - (2012) Drive Soundtrack - Wrong Floor.mp3</location>
+        </track>
+        <track>
+            <title>Meet John Constantine</title>
+            <creator>Brian Tyler &amp; Klaus Badelt</creator>
+            <album>Constantine Original Motion Picture Soundtrack</album>
+            <duration>159320</duration>
+            <trackNum>3</trackNum>
+            <location>U:\Shared\Music\Constantine - Meet John Constantine (Soundtrack).mp3</location>
+        </track>
+        <track>
+            <title>Counterweight</title>
+            <creator>Brian Tyler &amp; Klaus Badelt</creator>
+            <album>Constantine Original Motion Picture Soundtrack</album>
+            <duration>167418</duration>
+            <location>U:\Shared\Music\Constantine Soundtrack - Counterweight.mp3</location>
+        </track>
+        <track>
+            <title>Hell Freeway</title>
+            <creator>Brian Tyler &amp; Klaus Badelt</creator>
+            <album>Constantine Original Motion Picture Soundtrack</album>
+            <duration>163186</duration>
+            <location>U:\Shared\Music\Constantine Soundtrack - Hell Freeway.mp3</location>
+        </track>
+        <track>
+            <title>Last Rites</title>
+            <creator>Brian Tyler &amp; Klaus Badelt</creator>
+            <album>Constantine Original Motion Picture Soundtrack</album>
+            <duration>115513</duration>
+            <location>U:\Shared\Music\Constantine Soundtrack - Last Rites.mp3</location>
+        </track>
+        <track>
+            <title>Adagio For Tron</title>
+            <creator>Daft Punk</creator>
+            <album>Tron Legacy Soundtrack</album>
+            <duration>251062</duration>
+            <trackNum>10</trackNum>
+            <location>U:\Shared\Music\Daft Punk - (2010) Tron Legacy - Adagio For Tron.mp3</location>
+        </track>
+        <track>
+            <title>Arena</title>
+            <creator>Daft Punk</creator>
+            <album>Tron Legacy Soundtrack</album>
+            <duration>93204</duration>
+            <trackNum>6</trackNum>
+            <location>U:\Shared\Music\Daft Punk - (2010) Tron Legacy - Arena.mp3</location>
+        </track>
+        <track>
+            <title>Armory</title>
+            <creator>Daft Punk</creator>
+            <album>Tron Legacy Soundtrack</album>
+            <duration>122958</duration>
+            <trackNum>5</trackNum>
+            <location>U:\Shared\Music\Daft Punk - (2010) Tron Legacy - Armory.mp3</location>
+        </track>
+        <track>
+            <title>Arrival</title>
+            <creator>Daft Punk</creator>
+            <album>Tron Legacy Soundtrack</album>
+            <duration>120476</duration>
+            <trackNum>19</trackNum>
+            <location>U:\Shared\Music\Daft Punk - (2010) Tron Legacy - Arrival.mp3</location>
+        </track>
+        <track>
+            <title>C.L.U.</title>
+            <creator>Daft Punk</creator>
+            <album>Tron Legacy Soundtrack</album>
+            <duration>279301</duration>
+            <trackNum>18</trackNum>
+            <location>U:\Shared\Music\Daft Punk - (2010) Tron Legacy - C.L.U..mp3</location>
+        </track>
+        <track>
+            <title>Derezzed</title>
+            <creator>Daft Punk</creator>
+            <album>Tron Legacy Soundtrack</album>
+            <duration>104097</duration>
+            <trackNum>13</trackNum>
+            <location>U:\Shared\Music\Daft Punk - (2010) Tron Legacy - Derezzed.mp3</location>
+        </track>
+        <track>
+            <title>Disc Wars</title>
+            <creator>Daft Punk</creator>
+            <album>Tron Legacy Soundtrack</album>
+            <duration>251428</duration>
+            <trackNum>17</trackNum>
+            <location>U:\Shared\Music\Daft Punk - (2010) Tron Legacy - Disc Wars.mp3</location>
+        </track>
+        <track>
+            <title>End Of Line</title>
+            <creator>Daft Punk</creator>
+            <album>Tron Legacy Soundtrack</album>
+            <duration>156473</duration>
+            <trackNum>12</trackNum>
+            <location>U:\Shared\Music\Daft Punk - (2010) Tron Legacy - End Of Line.mp3</location>
+        </track>
+        <track>
+            <title>Fall</title>
+            <creator>Daft Punk</creator>
+            <album>Tron Legacy Soundtrack</album>
+            <duration>82599</duration>
+            <trackNum>14</trackNum>
+            <location>U:\Shared\Music\Daft Punk - (2010) Tron Legacy - Fall.mp3</location>
+        </track>
+        <track>
+            <title>Finale</title>
+            <creator>Daft Punk</creator>
+            <album>Tron Legacy Soundtrack</album>
+            <duration>262765</duration>
+            <trackNum>22</trackNum>
+            <location>U:\Shared\Music\Daft Punk - (2010) Tron Legacy - Finale.mp3</location>
+        </track>
+        <track>
+            <title>Flynn Lives</title>
+            <creator>Daft Punk</creator>
+            <album>Tron Legacy Soundtrack</album>
+            <duration>202135</duration>
+            <trackNum>20</trackNum>
+            <location>U:\Shared\Music\Daft Punk - (2010) Tron Legacy - Flynn Lives.mp3</location>
+        </track>
+        <track>
+            <title>Nocturne</title>
+            <creator>Daft Punk</creator>
+            <album>Tron Legacy Soundtrack</album>
+            <duration>101668</duration>
+            <trackNum>11</trackNum>
+            <location>U:\Shared\Music\Daft Punk - (2010) Tron Legacy - Nocturne.mp3</location>
+        </track>
+        <track>
+            <title>Outlands</title>
+            <creator>Daft Punk</creator>
+            <album>Tron Legacy Soundtrack</album>
+            <duration>162455</duration>
+            <trackNum>9</trackNum>
+            <location>U:\Shared\Music\Daft Punk - (2010) Tron Legacy - Outlands.mp3</location>
+        </track>
+        <track>
+            <title>Overture</title>
+            <creator>Daft Punk</creator>
+            <album>Tron Legacy Soundtrack</album>
+            <duration>147983</duration>
+            <trackNum>1</trackNum>
+            <location>U:\Shared\Music\Daft Punk - (2010) Tron Legacy - Overture.mp3</location>
+        </track>
+        <track>
+            <title>Recognizer</title>
+            <creator>Daft Punk</creator>
+            <album>Tron Legacy Soundtrack</album>
+            <duration>157701</duration>
+            <trackNum>4</trackNum>
+            <location>U:\Shared\Music\Daft Punk - (2010) Tron Legacy - Recognizer.mp3</location>
+        </track>
+        <track>
+            <title>Rectifier</title>
+            <creator>Daft Punk</creator>
+            <album>Tron Legacy Soundtrack</album>
+            <duration>134034</duration>
+            <trackNum>16</trackNum>
+            <location>U:\Shared\Music\Daft Punk - (2010) Tron Legacy - Rectifier.mp3</location>
+        </track>
+        <track>
+            <title>Rinzler</title>
+            <creator>Daft Punk</creator>
+            <album>Tron Legacy Soundtrack</album>
+            <duration>137613</duration>
+            <trackNum>7</trackNum>
+            <location>U:\Shared\Music\Daft Punk - (2010) Tron Legacy - Rinzler.mp3</location>
+        </track>
+        <track>
+            <title>Solar Sailer</title>
+            <creator>Daft Punk</creator>
+            <album>Tron Legacy Soundtrack</album>
+            <duration>162089</duration>
+            <trackNum>15</trackNum>
+            <location>U:\Shared\Music\Daft Punk - (2010) Tron Legacy - Solar Sailer.mp3</location>
+        </track>
+        <track>
+            <title>The Game Has Changed</title>
+            <creator>Daft Punk</creator>
+            <album>Tron Legacy Soundtrack</album>
+            <duration>205453</duration>
+            <trackNum>8</trackNum>
+            <location>U:\Shared\Music\Daft Punk - (2010) Tron Legacy - The Game Has Changed.mp3</location>
+        </track>
+        <track>
+            <title>The Grid</title>
+            <creator>Daft Punk</creator>
+            <album>Tron Legacy Soundtrack</album>
+            <duration>96731</duration>
+            <trackNum>2</trackNum>
+            <location>U:\Shared\Music\Daft Punk - (2010) Tron Legacy - The Grid.mp3</location>
+        </track>
+        <track>
+            <title>The Son Of Flynn</title>
+            <creator>Daft Punk</creator>
+            <album>Tron Legacy Soundtrack</album>
+            <duration>95216</duration>
+            <trackNum>3</trackNum>
+            <location>U:\Shared\Music\Daft Punk - (2010) Tron Legacy - The Son Of Flynn.mp3</location>
+        </track>
+        <track>
+            <title>Tron Legacy (End Titles)</title>
+            <creator>Daft Punk</creator>
+            <album>Tron Legacy Soundtrack</album>
+            <duration>197799</duration>
+            <trackNum>21</trackNum>
+            <location>U:\Shared\Music\Daft Punk - (2010) Tron Legacy - Tron Legacy (End Titles).mp3</location>
+        </track>
+        <track>
+            <title>Ave Maria</title>
+            <creator>Giulio Caccini &amp; Paul Pritchar</creator>
+            <album>Donnie Darko: Soundtrack &amp; Score</album>
+            <duration>177188</duration>
+            <trackNum>10</trackNum>
+            <location>U:\Shared\Music\Donnie Darko - (2002) Soundtrack &amp; Score - Ave Maria (Giulio Caccini &amp; Paul Pritchar).mp3</location>
+        </track>
+        <track>
+            <title>Burn it to the Ground</title>
+            <creator>Michael Andrews</creator>
+            <album>Donnie Darko: Soundtrack &amp; Score</album>
+            <duration>118386</duration>
+            <location>U:\Shared\Music\Donnie Darko - (2002) Soundtrack &amp; Score - Burn it to the Ground.mp3</location>
+        </track>
+        <track>
+            <title>Carpathian Ridge</title>
+            <creator>Michael Andrews</creator>
+            <album>Donnie Darko: Soundtrack &amp; Score</album>
+            <duration>95216</duration>
+            <location>U:\Shared\Music\Donnie Darko - (2002) Soundtrack &amp; Score - Carpathian Ridge.mp3</location>
+        </track>
+        <track>
+            <title>Cellar Door</title>
+            <creator>Michael Andrews</creator>
+            <album>Donnie Darko: Soundtrack &amp; Score</album>
+            <duration>63843</duration>
+            <location>U:\Shared\Music\Donnie Darko - (2002) Soundtrack &amp; Score - Cellar Door.mp3</location>
+        </track>
+        <track>
+            <title>Did You Know Him?</title>
+            <creator>Michael Andrews</creator>
+            <album>Donnie Darko: Soundtrack &amp; Score</album>
+            <duration>106866</duration>
+            <location>U:\Shared\Music\Donnie Darko - (2002) Soundtrack &amp; Score - Did You Know Him.mp3</location>
+        </track>
+        <track>
+            <title>Ensurance Trap</title>
+            <creator>Michael Andrews</creator>
+            <album>Donnie Darko: Soundtrack &amp; Score</album>
+            <duration>192182</duration>
+            <location>U:\Shared\Music\Donnie Darko - (2002) Soundtrack &amp; Score - Ensurance Trap.mp3</location>
+        </track>
+        <track>
+            <title>For Whom the Bell Tolls</title>
+            <creator>Steve Baker &amp; Carmen Dave</creator>
+            <album>Donnie Darko: Soundtrack &amp; Score</album>
+            <duration>192888</duration>
+            <trackNum>11</trackNum>
+            <location>U:\Shared\Music\Donnie Darko - (2002) Soundtrack &amp; Score - For Whom the Bell Tolls (Steve Baker &amp; Carmen Dave).mp3</location>
+        </track>
+        <track>
+            <title>Gretchen Ross</title>
+            <creator>Michael Andrews</creator>
+            <album>Donnie Darko: Soundtrack &amp; Score</album>
+            <duration>51513</duration>
+            <location>U:\Shared\Music\Donnie Darko - (2002) Soundtrack &amp; Score - Gretchen Ross.mp3</location>
+        </track>
+        <track>
+            <title>Head Over Heels</title>
+            <creator>Tears for Fears</creator>
+            <album>Donnie Darko: Soundtrack &amp; Score</album>
+            <duration>256653</duration>
+            <trackNum>6</trackNum>
+            <location>U:\Shared\Music\Donnie Darko - (2002) Soundtrack &amp; Score - Head Over Heels (Tears for Fears).mp3</location>
+        </track>
+        <track>
+            <title>Liquid Spear Waltz</title>
+            <creator>Michael Andrews</creator>
+            <album>Donnie Darko: Soundtrack &amp; Score</album>
+            <duration>92525</duration>
+            <location>U:\Shared\Music\Donnie Darko - (2002) Soundtrack &amp; Score - Liquid Spear Waltz.mp3</location>
+        </track>
+        <track>
+            <title>Love Will Tear Us Apart</title>
+            <creator>Joy Division</creator>
+            <album>Donnie Darko: Soundtrack &amp; Score</album>
+            <duration>203781</duration>
+            <trackNum>3</trackNum>
+            <location>U:\Shared\Music\Donnie Darko - (2002) Soundtrack &amp; Score - Love Will Tear Us Apart (Joy Division).mp3</location>
+        </track>
+        <track>
+            <title>Lucid Assembly</title>
+            <creator>Gerard Bauer &amp; Mike Bauer</creator>
+            <album>Donnie Darko: Soundtrack &amp; Score</album>
+            <duration>52088</duration>
+            <trackNum>9</trackNum>
+            <location>U:\Shared\Music\Donnie Darko - (2002) Soundtrack &amp; Score - Lucid Assembly (Gerard Bauer &amp; Mike Bauer).mp3</location>
+        </track>
+        <track>
+            <title>Lucid Memory</title>
+            <creator>Sam Bauer &amp; Gerard Bauer</creator>
+            <album>Donnie Darko: Soundtrack &amp; Score</album>
+            <duration>46053</duration>
+            <trackNum>8</trackNum>
+            <location>U:\Shared\Music\Donnie Darko - (2002) Soundtrack &amp; Score - Lucid Memory (Sam Bauer &amp; Gerard Bauer).mp3</location>
+        </track>
+        <track>
+            <title>Mad World (Alternate Mix)</title>
+            <creator>Michael Andrews</creator>
+            <album>Donnie Darko: Soundtrack &amp; Score</album>
+            <duration>220186</duration>
+            <location>U:\Shared\Music\Donnie Darko - (2002) Soundtrack &amp; Score - Mad World (Alternate Mix).mp3</location>
+        </track>
+        <track>
+            <title>Mad World</title>
+            <creator>Michael Andrews &amp; Gary Jules</creator>
+            <album>Donnie Darko: Soundtrack &amp; Score</album>
+            <duration>183118</duration>
+            <trackNum>5</trackNum>
+            <location>U:\Shared\Music\Donnie Darko - (2002) Soundtrack &amp; Score - Mad World (Michael Andrews &amp; Gary Jules).mp3</location>
+        </track>
+        <track>
+            <title>Manipulated Living</title>
+            <creator>Michael Andrews</creator>
+            <album>Donnie Darko: Soundtrack &amp; Score</album>
+            <duration>128626</duration>
+            <location>U:\Shared\Music\Donnie Darko - (2002) Soundtrack &amp; Score - Manipulated Living.mp3</location>
+        </track>
+        <track>
+            <title>Middlesex Times</title>
+            <creator>Michael Andrews</creator>
+            <album>Donnie Darko: Soundtrack &amp; Score</album>
+            <duration>102060</duration>
+            <location>U:\Shared\Music\Donnie Darko - (2002) Soundtrack &amp; Score - Middlesex Times.mp3</location>
+        </track>
+        <track>
+            <title>Never Tear Us Apart</title>
+            <creator>INXS</creator>
+            <album>Donnie Darko: Soundtrack &amp; Score</album>
+            <duration>184842</duration>
+            <trackNum>1</trackNum>
+            <location>U:\Shared\Music\Donnie Darko - (2002) Soundtrack &amp; Score - Never Tear Us Apart (INXS).mp3</location>
+        </track>
+        <track>
+            <title>Notorious</title>
+            <creator>Duran Duran</creator>
+            <album>Donnie Darko: Soundtrack &amp; Score</album>
+            <duration>240587</duration>
+            <trackNum>13</trackNum>
+            <location>U:\Shared\Music\Donnie Darko - (2002) Soundtrack &amp; Score - Notorious (Duran Duran).mp3</location>
+        </track>
+        <track>
+            <title>Philosophy of Time Travel</title>
+            <creator>Michael Andrews</creator>
+            <album>Donnie Darko: Soundtrack &amp; Score</album>
+            <duration>122383</duration>
+            <location>U:\Shared\Music\Donnie Darko - (2002) Soundtrack &amp; Score - Philosophy of Time Travel.mp3</location>
+        </track>
+        <track>
+            <title>Rosie Darko</title>
+            <creator>Michael Andrews</creator>
+            <album>Donnie Darko: Soundtrack &amp; Score</album>
+            <duration>85707</duration>
+            <location>U:\Shared\Music\Donnie Darko - (2002) Soundtrack &amp; Score - Rosie Darko.mp3</location>
+        </track>
+        <track>
+            <title>Show Me (Part 1)</title>
+            <creator>Quito Colayco &amp; Tony Hertz</creator>
+            <album>Donnie Darko: Soundtrack &amp; Score</album>
+            <duration>125152</duration>
+            <trackNum>12</trackNum>
+            <location>U:\Shared\Music\Donnie Darko - (2002) Soundtrack &amp; Score - Show Me [Part 1] (Quito Colayco &amp; Tony Hertz).mp3</location>
+        </track>
+        <track>
+            <title>Slipping Away</title>
+            <creator>Michael Andrews</creator>
+            <album>Donnie Darko: Soundtrack &amp; Score</album>
+            <duration>77322</duration>
+            <location>U:\Shared\Music\Donnie Darko - (2002) Soundtrack &amp; Score - Slipping Away.mp3</location>
+        </track>
+        <track>
+            <title>Stay</title>
+            <creator>Oingo Boingo</creator>
+            <album>Donnie Darko: Soundtrack &amp; Score</album>
+            <duration>218096</duration>
+            <trackNum>2</trackNum>
+            <location>U:\Shared\Music\Donnie Darko - (2002) Soundtrack &amp; Score - Stay (Oingo Boingo).mp3</location>
+        </track>
+        <track>
+            <title>The Artifact and Living</title>
+            <creator>Michael Andrews</creator>
+            <album>Donnie Darko: Soundtrack &amp; Score</album>
+            <duration>150047</duration>
+            <location>U:\Shared\Music\Donnie Darko - (2002) Soundtrack &amp; Score - The Artifact and Living.mp3</location>
+        </track>
+        <track>
+            <title>The Killing Moon</title>
+            <creator>Echo &amp; the Bunnymen</creator>
+            <album>Donnie Darko: Soundtrack &amp; Score</album>
+            <duration>355291</duration>
+            <trackNum>4</trackNum>
+            <location>U:\Shared\Music\Donnie Darko - (2002) Soundtrack &amp; Score - The Killing Moon (Echo &amp; the Bunnymen).mp3</location>
+        </track>
+        <track>
+            <title>The Tangent Universe</title>
+            <creator>Michael Andrews</creator>
+            <album>Donnie Darko: Soundtrack &amp; Score</album>
+            <duration>110524</duration>
+            <location>U:\Shared\Music\Donnie Darko - (2002) Soundtrack &amp; Score - The Tangent Universe.mp3</location>
+        </track>
+        <track>
+            <title>Time Travel</title>
+            <creator>Michael Andrews</creator>
+            <album>Donnie Darko: Soundtrack &amp; Score</album>
+            <duration>181968</duration>
+            <location>U:\Shared\Music\Donnie Darko - (2002) Soundtrack &amp; Score - Time Travel.mp3</location>
+        </track>
+        <track>
+            <title>Under the Milky Way</title>
+            <creator>The Church</creator>
+            <album>Donnie Darko: Soundtrack &amp; Score</album>
+            <duration>298318</duration>
+            <trackNum>7</trackNum>
+            <location>U:\Shared\Music\Donnie Darko - (2002) Soundtrack &amp; Score - Under the Milky Way (The Church).mp3</location>
+        </track>
+        <track>
+            <title>Waltz in the 4th Dimension</title>
+            <creator>Michael Andrews</creator>
+            <album>Donnie Darko: Soundtrack &amp; Score</album>
+            <duration>166739</duration>
+            <location>U:\Shared\Music\Donnie Darko - (2002) Soundtrack &amp; Score - Waltz in the 4th Dimension.mp3</location>
+        </track>
+        <track>
+            <title>End Of The Road</title>
+            <creator>Eddie Vedder</creator>
+            <album>"Into The Wild" Soundtrack</album>
+            <duration>199941</duration>
+            <trackNum>10</trackNum>
+            <location>U:\Shared\Music\Eddie Vedder - (2007) Into The Wild - End Of The Road.mp3</location>
+        </track>
+        <track>
+            <title>Far Behind</title>
+            <creator>Eddie Vedder</creator>
+            <album>"Into The Wild" Soundtrack</album>
+            <duration>135366</duration>
+            <trackNum>3</trackNum>
+            <location>U:\Shared\Music\Eddie Vedder - (2007) Into The Wild - Far Behind.mp3</location>
+        </track>
+        <track>
+            <title>Guaranteed</title>
+            <creator>Eddie Vedder</creator>
+            <album>"Into The Wild" Soundtrack</album>
+            <duration>442462</duration>
+            <trackNum>11</trackNum>
+            <location>U:\Shared\Music\Eddie Vedder - (2007) Into The Wild - Guaranteed.mp3</location>
+        </track>
+        <track>
+            <title>Hard Sun</title>
+            <creator>Eddie Vedder</creator>
+            <album>"Into The Wild" Soundtrack</album>
+            <duration>322142</duration>
+            <trackNum>7</trackNum>
+            <location>U:\Shared\Music\Eddie Vedder - (2007) Into The Wild - Hard Sun.mp3</location>
+        </track>
+        <track>
+            <title>Long Nights</title>
+            <creator>Eddie Vedder</creator>
+            <album>"Into The Wild" Soundtrack</album>
+            <duration>151823</duration>
+            <trackNum>5</trackNum>
+            <location>U:\Shared\Music\Eddie Vedder - (2007) Into The Wild - Long Nights.mp3</location>
+        </track>
+        <track>
+            <title>No Ceiling</title>
+            <creator>Eddie Vedder</creator>
+            <album>"Into The Wild" Soundtrack</album>
+            <duration>94093</duration>
+            <trackNum>2</trackNum>
+            <location>U:\Shared\Music\Eddie Vedder - (2007) Into The Wild - No Ceiling.mp3</location>
+        </track>
+        <track>
+            <title>Rise</title>
+            <creator>Eddie Vedder</creator>
+            <album>"Into The Wild" Soundtrack</album>
+            <duration>156499</duration>
+            <trackNum>4</trackNum>
+            <location>U:\Shared\Music\Eddie Vedder - (2007) Into The Wild - Rise.mp3</location>
+        </track>
+        <track>
+            <title>Setting Forth</title>
+            <creator>Eddie Vedder</creator>
+            <album>"Into The Wild" Soundtrack</album>
+            <duration>97906</duration>
+            <trackNum>1</trackNum>
+            <location>U:\Shared\Music\Eddie Vedder - (2007) Into The Wild - Setting Forth.mp3</location>
+        </track>
+        <track>
+            <title>Society</title>
+            <creator>Eddie Vedder</creator>
+            <album>"Into The Wild" Soundtrack</album>
+            <duration>236355</duration>
+            <trackNum>8</trackNum>
+            <location>U:\Shared\Music\Eddie Vedder - (2007) Into The Wild - Society.mp3</location>
+        </track>
+        <track>
+            <title>The Wolf</title>
+            <creator>Eddie Vedder</creator>
+            <album>"Into The Wild" Soundtrack</album>
+            <duration>92368</duration>
+            <trackNum>9</trackNum>
+            <location>U:\Shared\Music\Eddie Vedder - (2007) Into The Wild - The Wolf.mp3</location>
+        </track>
+        <track>
+            <title>Tuolumne</title>
+            <creator>Eddie Vedder</creator>
+            <album>"Into The Wild" Soundtrack</album>
+            <duration>60368</duration>
+            <trackNum>6</trackNum>
+            <location>U:\Shared\Music\Eddie Vedder - (2007) Into The Wild - Tuolumne.mp3</location>
+        </track>
+        <track>
+            <title>May it be</title>
+            <creator>Enya</creator>
+            <album>Lord of the Rings</album>
+            <duration>257802</duration>
+            <trackNum>18</trackNum>
+            <location>U:\Shared\Music\Enya - The Lord of the Rings.mp3</location>
+        </track>
+        <track>
+            <title>Air</title>
+            <creator>Ben Folds Five</creator>
+            <album>Godzilla The Album</album>
+            <duration>200515</duration>
+            <location>U:\Shared\Music\Godzilla - (1998) The album - Ben Folds Five - Air.mp3</location>
+        </track>
+        <track>
+            <title>Looking for Clues</title>
+            <creator>David Arnold</creator>
+            <album>Godzilla The Album</album>
+            <duration>108643</duration>
+            <location>U:\Shared\Music\Godzilla - (1998) The album - David Arnold - Looking for Clues.mp3</location>
+        </track>
+        <track>
+            <title>Opening Titles</title>
+            <creator>David Arnold</creator>
+            <album>Godzilla The Album</album>
+            <duration>163134</duration>
+            <location>U:\Shared\Music\Godzilla - (1998) The album - David Arnold - Opening Titles.mp3</location>
+        </track>
+        <track>
+            <title>Running Knees</title>
+            <creator>Days of the New</creator>
+            <album>Godzilla The Album</album>
+            <duration>221283</duration>
+            <location>U:\Shared\Music\Godzilla - (1998) The album - Days of the New - Running Knees.mp3</location>
+        </track>
+        <track>
+            <title>A320</title>
+            <creator>Foo Fighters</creator>
+            <album>Godzilla The Album</album>
+            <duration>345077</duration>
+            <location>U:\Shared\Music\Godzilla - (1998) The album - Foo Fighters - A320.mp3</location>
+        </track>
+        <track>
+            <title>Walk the Sky</title>
+            <creator>Fuel</creator>
+            <album>Godzilla The Album</album>
+            <duration>197825</duration>
+            <location>U:\Shared\Music\Godzilla - (1998) The album - Fuel - Walk the Sky.mp3</location>
+        </track>
+        <track>
+            <title>Out There</title>
+            <creator>Fuzzbubble</creator>
+            <album>Godzilla The Album</album>
+            <duration>168881</duration>
+            <location>U:\Shared\Music\Godzilla - (1998) The album - Fuzzbubble - Out There.mp3</location>
+        </track>
+        <track>
+            <title>Brain Stew (The Godzilla Remix)</title>
+            <creator>Green Day</creator>
+            <album>Godzilla The Album</album>
+            <duration>237975</duration>
+            <location>U:\Shared\Music\Godzilla - (1998) The album - Green Day - Brain Stew (The Godzilla Remix).mp3</location>
+        </track>
+        <track>
+            <title>Deeper Underground</title>
+            <creator>Jamiroquai</creator>
+            <album>Godzilla The Album</album>
+            <duration>282253</duration>
+            <location>U:\Shared\Music\Godzilla - (1998) The album - Jamiroquai - Deeper Underground.mp3</location>
+        </track>
+        <track>
+            <title>Undercover</title>
+            <creator>Joey DeLuxe</creator>
+            <album>Godzilla The Album</album>
+            <duration>311379</duration>
+            <location>U:\Shared\Music\Godzilla - (1998) The album - Joey DeLuxe - Undercover.mp3</location>
+        </track>
+        <track>
+            <title>Macy Day Parade</title>
+            <creator>Michael Penn</creator>
+            <album>Godzilla The Album</album>
+            <duration>258586</duration>
+            <location>U:\Shared\Music\Godzilla - (1998) The album - Michael Penn - Macy Day Parade.mp3</location>
+        </track>
+        <track>
+            <title>Come With Me (com Jimmy Page)</title>
+            <creator>Puff Daddy</creator>
+            <album>Godzilla The Album</album>
+            <duration>366367</duration>
+            <location>U:\Shared\Music\Godzilla - (1998) The album - Puff Daddy Featuring Jimmy Page - Come With Me.mp3</location>
+        </track>
+        <track>
+            <title>No Shelter</title>
+            <creator>Rage Against the Machine</creator>
+            <album>Godzilla The Album</album>
+            <duration>243800</duration>
+            <location>U:\Shared\Music\Godzilla - (1998) The album - Rage Against the Machine - No Shelter.mp3</location>
+        </track>
+        <track>
+            <title>Untitled</title>
+            <creator>Silverchair</creator>
+            <album>Godzilla The Album</album>
+            <duration>211043</duration>
+            <location>U:\Shared\Music\Godzilla - (1998) The album - Silverchair - Untitled.mp3</location>
+        </track>
+        <track>
+            <title>Heroes (David Bowie cover)</title>
+            <creator>The Wallflowers</creator>
+            <album>Godzilla The Album</album>
+            <duration>236408</duration>
+            <location>U:\Shared\Music\Godzilla - (1998) The album - The Wallflowers - Heroes.mp3</location>
+        </track>
+        <track>
+            <title>AudioTrack 02</title>
+            <creator>Half-life</creator>
+            <album>Half-life 1</album>
+            <duration>131944</duration>
+            <trackNum>2</trackNum>
+            <location>U:\Shared\Music\Half-life - AudioTrack 02.mp3</location>
+        </track>
+        <track>
+            <title>AudioTrack 10</title>
+            <creator>Half-life</creator>
+            <album>Half-life 1</album>
+            <duration>106579</duration>
+            <trackNum>10</trackNum>
+            <location>U:\Shared\Music\Half-life - AudioTrack 10.mp3</location>
+        </track>
+        <track>
+            <title>AudioTrack 11</title>
+            <creator>Half-life</creator>
+            <album>Half-life 1</album>
+            <duration>84845</duration>
+            <trackNum>11</trackNum>
+            <location>U:\Shared\Music\Half-life - AudioTrack 11.mp3</location>
+        </track>
+        <track>
+            <title>AudioTrack 12</title>
+            <creator>Half-life</creator>
+            <album>Half-life 1</album>
+            <duration>130298</duration>
+            <trackNum>12</trackNum>
+            <location>U:\Shared\Music\Half-life - AudioTrack 12.mp3</location>
+        </track>
+        <track>
+            <title>AudioTrack 18</title>
+            <creator>Half-life</creator>
+            <album>Half-life 1</album>
+            <duration>102504</duration>
+            <trackNum>18</trackNum>
+            <location>U:\Shared\Music\Half-life - AudioTrack 18.mp3</location>
+        </track>
+        <track>
+            <title>Track 06</title>
+            <creator>Half-life</creator>
+            <album>Half-life 2 Soundtrack</album>
+            <duration>33123</duration>
+            <trackNum>6</trackNum>
+            <location>U:\Shared\Music\Half-life 2 - Soundtrack - track_06.mp3</location>
+        </track>
+        <track>
+            <title>Track 07</title>
+            <creator>Half-life</creator>
+            <album>Half-life 2 Soundtrack</album>
+            <duration>69668</duration>
+            <trackNum>7</trackNum>
+            <location>U:\Shared\Music\Half-life 2 - Soundtrack - track_07.mp3</location>
+        </track>
+        <track>
+            <title>Track 08</title>
+            <creator>Half-life</creator>
+            <album>Half-life 2 Soundtrack</album>
+            <duration>52793</duration>
+            <trackNum>8</trackNum>
+            <location>U:\Shared\Music\Half-life 2 - Soundtrack - track_08.mp3</location>
+        </track>
+        <track>
+            <title>Track 09</title>
+            <creator>Half-life</creator>
+            <album>Half-life 2 Soundtrack</album>
+            <duration>86021</duration>
+            <trackNum>9</trackNum>
+            <location>U:\Shared\Music\Half-life 2 - Soundtrack - track_09.mp3</location>
+        </track>
+        <track>
+            <title>Track 10</title>
+            <creator>Half-life</creator>
+            <album>Half-life 2 Soundtrack</album>
+            <duration>106004</duration>
+            <trackNum>10</trackNum>
+            <location>U:\Shared\Music\Half-life 2 - Soundtrack - track_10.mp3</location>
+        </track>
+        <track>
+            <title>Track 11</title>
+            <creator>Half-life</creator>
+            <album>Half-life 2 Soundtrack</album>
+            <duration>44669</duration>
+            <trackNum>11</trackNum>
+            <location>U:\Shared\Music\Half-life 2 - Soundtrack - track_11.mp3</location>
+        </track>
+        <track>
+            <title>Track 12</title>
+            <creator>Half-life</creator>
+            <album>Half-life 2 Soundtrack</album>
+            <duration>137717</duration>
+            <trackNum>12</trackNum>
+            <location>U:\Shared\Music\Half-life 2 - Soundtrack - track_12.mp3</location>
+        </track>
+        <track>
+            <title>Track 13</title>
+            <creator>Half-life</creator>
+            <album>Half-life 2 Soundtrack</album>
+            <duration>15255</duration>
+            <trackNum>13</trackNum>
+            <location>U:\Shared\Music\Half-life 2 - Soundtrack - track_13.mp3</location>
+        </track>
+        <track>
+            <title>Track 14</title>
+            <creator>Half-life</creator>
+            <album>Half-life 2 Soundtrack</album>
+            <duration>71706</duration>
+            <trackNum>14</trackNum>
+            <location>U:\Shared\Music\Half-life 2 - Soundtrack - track_14.mp3</location>
+        </track>
+        <track>
+            <title>Track 15</title>
+            <creator>Half-life</creator>
+            <album>Half-life 2 Soundtrack</album>
+            <duration>48248</duration>
+            <trackNum>15</trackNum>
+            <location>U:\Shared\Music\Half-life 2 - Soundtrack - track_15.mp3</location>
+        </track>
+        <track>
+            <title>Track 35</title>
+            <creator>Half-life</creator>
+            <album>Half-life 2 Soundtrack</album>
+            <duration>79438</duration>
+            <trackNum>35</trackNum>
+            <location>U:\Shared\Music\Half-Life 2 soundtrack - 35.mp3</location>
+        </track>
+        <track>
+            <title>Track 16</title>
+            <creator>Half-life</creator>
+            <album>Half-life 2 Soundtrack</album>
+            <duration>8202</duration>
+            <trackNum>16</trackNum>
+            <location>U:\Shared\Music\Half-Life 2 soundtrack - track 16.mp3</location>
+        </track>
+        <track>
+            <title>AudioTrack 01</title>
+            <creator>Half-life</creator>
+            <album>Half-life 1</album>
+            <duration>84767</duration>
+            <trackNum>1</trackNum>
+            <location>U:\Shared\Music\Half-Life 2 soundtrack - track_01.mp3</location>
+        </track>
+        <track>
+            <title>Track 02</title>
+            <creator>Half-life</creator>
+            <album>Half-life 2 Soundtrack</album>
+            <duration>105482</duration>
+            <trackNum>2</trackNum>
+            <location>U:\Shared\Music\Half-Life 2 soundtrack - track_02.mp3</location>
+        </track>
+        <track>
+            <title>Track 03</title>
+            <creator>Half-life</creator>
+            <album>Half-life 2 Soundtrack</album>
+            <duration>67552</duration>
+            <trackNum>3</trackNum>
+            <location>U:\Shared\Music\Half-Life 2 soundtrack - track_03.mp3</location>
+        </track>
+        <track>
+            <title>Track 04</title>
+            <creator>Half-life</creator>
+            <album>Half-life 2 Soundtrack</album>
+            <duration>100806</duration>
+            <trackNum>4</trackNum>
+            <location>U:\Shared\Music\Half-Life 2 soundtrack - track_04.mp3</location>
+        </track>
+        <track>
+            <title>Track 05</title>
+            <creator>Half-life</creator>
+            <album>Half-life 2 Soundtrack</album>
+            <duration>92786</duration>
+            <trackNum>5</trackNum>
+            <location>U:\Shared\Music\Half-Life 2 soundtrack - track_05.mp3</location>
+        </track>
+        <track>
+            <title>Track 17</title>
+            <creator>Half-life</creator>
+            <album>Half-life 2 Soundtrack</album>
+            <duration>45453</duration>
+            <trackNum>17</trackNum>
+            <location>U:\Shared\Music\Half-Life 2 soundtrack - track_17.mp3</location>
+        </track>
+        <track>
+            <title>Track 18</title>
+            <creator>Half-life</creator>
+            <album>Half-life 2 Soundtrack</album>
+            <duration>85446</duration>
+            <trackNum>18</trackNum>
+            <location>U:\Shared\Music\Half-Life 2 soundtrack - track_18.mp3</location>
+        </track>
+        <track>
+            <title>Track 19</title>
+            <creator>Half-life</creator>
+            <album>Half-life 2 Soundtrack</album>
+            <duration>174811</duration>
+            <trackNum>19</trackNum>
+            <location>U:\Shared\Music\Half-Life 2 soundtrack - track_19.mp3</location>
+        </track>
+        <track>
+            <title>Track 20</title>
+            <creator>Half-life</creator>
+            <album>Half-life 2 Soundtrack</album>
+            <duration>117786</duration>
+            <trackNum>20</trackNum>
+            <location>U:\Shared\Music\Half-Life 2 soundtrack - track_20.mp3</location>
+        </track>
+        <track>
+            <title>Track 21</title>
+            <creator>Half-life</creator>
+            <album>Half-life 2 Soundtrack</album>
+            <duration>63190</duration>
+            <trackNum>21</trackNum>
+            <location>U:\Shared\Music\Half-Life 2 soundtrack - track_21.mp3</location>
+        </track>
+        <track>
+            <title>Track 22</title>
+            <creator>Half-life</creator>
+            <album>Half-life 2 Soundtrack</album>
+            <duration>172277</duration>
+            <trackNum>22</trackNum>
+            <location>U:\Shared\Music\Half-Life 2 soundtrack - track_22.mp3</location>
+        </track>
+        <track>
+            <title>track 23</title>
+            <creator>Half-life</creator>
+            <album>Half-life 2: Episode One</album>
+            <duration>71209</duration>
+            <location>U:\Shared\Music\Half-Life 2 soundtrack - track_23.mp3</location>
+        </track>
+        <track>
+            <title>Track 24</title>
+            <creator>Half-life</creator>
+            <album>Half-life 2 Soundtrack</album>
+            <duration>161280</duration>
+            <trackNum>24</trackNum>
+            <location>U:\Shared\Music\Half-Life 2 soundtrack - track_24.mp3</location>
+        </track>
+        <track>
+            <title>Track 25</title>
+            <creator>Half-life</creator>
+            <album>Half-life 2 Soundtrack</album>
+            <duration>55562</duration>
+            <trackNum>25</trackNum>
+            <location>U:\Shared\Music\Half-Life 2 soundtrack - track_25.mp3</location>
+        </track>
+        <track>
+            <title>Track 26</title>
+            <creator>Half-life</creator>
+            <album>Half-life 2 Soundtrack</album>
+            <duration>75049</duration>
+            <trackNum>26</trackNum>
+            <location>U:\Shared\Music\Half-Life 2 soundtrack - track_26.mp3</location>
+        </track>
+        <track>
+            <title>Track 27</title>
+            <creator>Half-life</creator>
+            <album>Half-life 2 Soundtrack</album>
+            <duration>100362</duration>
+            <trackNum>27</trackNum>
+            <location>U:\Shared\Music\Half-Life 2 soundtrack - track_27.mp3</location>
+        </track>
+        <track>
+            <title>Track 28</title>
+            <creator>Half-life</creator>
+            <album>Half-life 2 Soundtrack</album>
+            <duration>86778</duration>
+            <trackNum>28</trackNum>
+            <location>U:\Shared\Music\Half-Life 2 soundtrack - track_28.mp3</location>
+        </track>
+        <track>
+            <title>Track 29</title>
+            <creator>Half-life</creator>
+            <album>Half-life 2 Soundtrack</album>
+            <duration>95216</duration>
+            <trackNum>29</trackNum>
+            <location>U:\Shared\Music\Half-Life 2 soundtrack - track_29.mp3</location>
+        </track>
+        <track>
+            <title>Track 30</title>
+            <creator>Half-life</creator>
+            <album>Half-life 2 Soundtrack</album>
+            <duration>101955</duration>
+            <trackNum>30</trackNum>
+            <location>U:\Shared\Music\Half-Life 2 soundtrack - track_30.mp3</location>
+        </track>
+        <track>
+            <title>Track 31</title>
+            <creator>Half-life</creator>
+            <album>Half-life 2 Soundtrack</album>
+            <duration>98220</duration>
+            <trackNum>31</trackNum>
+            <location>U:\Shared\Music\Half-Life 2 soundtrack - track_31.mp3</location>
+        </track>
+        <track>
+            <title>Track 32</title>
+            <creator>Half-life</creator>
+            <album>Half-life 2 Soundtrack</album>
+            <duration>133851</duration>
+            <trackNum>32</trackNum>
+            <location>U:\Shared\Music\Half-Life 2 soundtrack - track_32.mp3</location>
+        </track>
+        <track>
+            <title>Track 33</title>
+            <creator>Half-life</creator>
+            <album>Half-life 2 Soundtrack</album>
+            <duration>39497</duration>
+            <trackNum>33</trackNum>
+            <location>U:\Shared\Music\Half-Life 2 soundtrack - track_33.mp3</location>
+        </track>
+        <track>
+            <title>Track 34</title>
+            <creator>Half-life</creator>
+            <album>Half-life 2 Soundtrack</album>
+            <duration>63451</duration>
+            <trackNum>34</trackNum>
+            <location>U:\Shared\Music\Half-Life 2 soundtrack - track_34.mp3</location>
+        </track>
+        <track>
+            <title>Track 36</title>
+            <creator>Half-life</creator>
+            <album>Half-life 2 Soundtrack</album>
+            <duration>86622</duration>
+            <trackNum>36</trackNum>
+            <location>U:\Shared\Music\Half-Life 2 soundtrack - track_36.mp3</location>
+        </track>
+        <track>
+            <title>Track 37</title>
+            <creator>Half-life</creator>
+            <album>Half-life 2 Soundtrack</album>
+            <duration>86935</duration>
+            <trackNum>37</trackNum>
+            <location>U:\Shared\Music\Half-Life 2 soundtrack - track_37.mp3</location>
+        </track>
+        <track>
+            <title>Track 38</title>
+            <creator>Half-life</creator>
+            <album>Half-life 2 Soundtrack</album>
+            <duration>117681</duration>
+            <trackNum>38</trackNum>
+            <location>U:\Shared\Music\Half-Life 2 soundtrack - track_38.mp3</location>
+        </track>
+        <track>
+            <title>Track 39</title>
+            <creator>Half-life</creator>
+            <album>Half-life 2 Soundtrack</album>
+            <duration>125936</duration>
+            <trackNum>39</trackNum>
+            <location>U:\Shared\Music\Half-Life 2 soundtrack - track_39.mp3</location>
+        </track>
+        <track>
+            <title>Track 40</title>
+            <creator>Half-life</creator>
+            <album>Half-life 2 Soundtrack</album>
+            <duration>122592</duration>
+            <trackNum>40</trackNum>
+            <location>U:\Shared\Music\Half-Life 2 soundtrack - track_40.mp3</location>
+        </track>
+        <track>
+            <title>Track 41</title>
+            <creator>Half-life</creator>
+            <album>Half-life 2 Soundtrack</album>
+            <duration>92499</duration>
+            <trackNum>41</trackNum>
+            <location>U:\Shared\Music\Half-Life 2 soundtrack - track_41.mp3</location>
+        </track>
+        <track>
+            <title>Track 42</title>
+            <creator>Half-life</creator>
+            <album>Half-life 2 Soundtrack</album>
+            <duration>32078</duration>
+            <trackNum>42</trackNum>
+            <location>U:\Shared\Music\Half-Life 2 soundtrack - track_42.mp3</location>
+        </track>
+        <track>
+            <title>Track 43</title>
+            <creator>Half-life</creator>
+            <album>Half-life 2 Soundtrack</album>
+            <duration>104542</duration>
+            <trackNum>43</trackNum>
+            <location>U:\Shared\Music\Half-Life 2 soundtrack - track_43.mp3</location>
+        </track>
+        <track>
+            <title>VLVX song21</title>
+            <creator>Half-life</creator>
+            <album>Half-life 2: Episode One</album>
+            <duration>169560</duration>
+            <location>U:\Shared\Music\Half-Life2 EP1 - VLVX_song21.mp3</location>
+        </track>
+        <track>
+            <title>Get Low</title>
+            <creator>Lil Jon</creator>
+            <album>NFS Underground</album>
+            <duration>266031</duration>
+            <location>U:\Shared\Music\Lil Jon &amp; The Eastside Boyz - Get Low.mp3</location>
+        </track>
+        <track>
+            <title>To Hell We Ride</title>
+            <creator>Lostprophets</creator>
+            <album>NFS Underground</album>
+            <duration>220734</duration>
+            <location>U:\Shared\Music\Lostprophets -To Hell We Ride.mp3</location>
+        </track>
+        <track>
+            <title>Ashes of Our Fathers</title>
+            <creator>M83</creator>
+            <album>Oblivion Original Soundtrack</album>
+            <duration>212088</duration>
+            <trackNum>26</trackNum>
+            <location>U:\Shared\Music\M83 - (2013) Oblivion (Original Motion Picture Soundtrack) - Ashes of Our Fathers.mp3</location>
+        </track>
+        <track>
+            <title>Canyon Battle</title>
+            <creator>M83</creator>
+            <album>Oblivion Original Soundtrack</album>
+            <duration>357746</duration>
+            <trackNum>19</trackNum>
+            <location>U:\Shared\Music\M83 - (2013) Oblivion (Original Motion Picture Soundtrack) - Canyon Battle.mp3</location>
+        </track>
+        <track>
+            <title>Crater Lake</title>
+            <creator>M83</creator>
+            <album>Oblivion Original Soundtrack</album>
+            <duration>87797</duration>
+            <trackNum>9</trackNum>
+            <location>U:\Shared\Music\M83 - (2013) Oblivion (Original Motion Picture Soundtrack) - Crater Lake.mp3</location>
+        </track>
+        <track>
+            <title>Drone Attack</title>
+            <creator>M83</creator>
+            <album>Oblivion Original Soundtrack</album>
+            <duration>206367</duration>
+            <trackNum>16</trackNum>
+            <location>U:\Shared\Music\M83 - (2013) Oblivion (Original Motion Picture Soundtrack) - Drone Attack.mp3</location>
+        </track>
+        <track>
+            <title>Earth 2077</title>
+            <creator>M83</creator>
+            <album>Oblivion Original Soundtrack</album>
+            <duration>142837</duration>
+            <trackNum>14</trackNum>
+            <location>U:\Shared\Music\M83 - (2013) Oblivion (Original Motion Picture Soundtrack) - Earth 2077.mp3</location>
+        </track>
+        <track>
+            <title>Fearful Odds</title>
+            <creator>M83</creator>
+            <album>Oblivion Original Soundtrack</album>
+            <duration>191164</duration>
+            <trackNum>28</trackNum>
+            <location>U:\Shared\Music\M83 - (2013) Oblivion (Original Motion Picture Soundtrack) - Fearful Odds.mp3</location>
+        </track>
+        <track>
+            <title>Horatius</title>
+            <creator>M83</creator>
+            <album>Oblivion Original Soundtrack</album>
+            <duration>151327</duration>
+            <trackNum>6</trackNum>
+            <location>U:\Shared\Music\M83 - (2013) Oblivion (Original Motion Picture Soundtrack) - Horatius.mp3</location>
+        </track>
+        <track>
+            <title>Hydrorig</title>
+            <creator>M83</creator>
+            <album>Oblivion Original Soundtrack</album>
+            <duration>142968</duration>
+            <trackNum>8</trackNum>
+            <location>U:\Shared\Music\M83 - (2013) Oblivion (Original Motion Picture Soundtrack) - Hydrorig.mp3</location>
+        </track>
+        <track>
+            <title>I'm Sending You Away</title>
+            <creator>M83</creator>
+            <album>Oblivion Original Soundtrack</album>
+            <duration>339983</duration>
+            <trackNum>25</trackNum>
+            <location>U:\Shared\Music\M83 - (2013) Oblivion (Original Motion Picture Soundtrack) - I'm Sending You Away.mp3</location>
+        </track>
+        <track>
+            <title>Jack's Dream</title>
+            <creator>M83</creator>
+            <album>Oblivion Original Soundtrack</album>
+            <duration>89965</duration>
+            <trackNum>1</trackNum>
+            <location>U:\Shared\Music\M83 - (2013) Oblivion (Original Motion Picture Soundtrack) - Jack's Dream.mp3</location>
+        </track>
+        <track>
+            <title>Knife Fight In a Phone Booth</title>
+            <creator>M83</creator>
+            <album>Oblivion Original Soundtrack</album>
+            <duration>279353</duration>
+            <trackNum>24</trackNum>
+            <location>U:\Shared\Music\M83 - (2013) Oblivion (Original Motion Picture Soundtrack) - Knife Fight In a Phone Booth.mp3</location>
+        </track>
+        <track>
+            <title>Losing Control</title>
+            <creator>M83</creator>
+            <album>Oblivion Original Soundtrack</album>
+            <duration>237453</duration>
+            <trackNum>18</trackNum>
+            <location>U:\Shared\Music\M83 - (2013) Oblivion (Original Motion Picture Soundtrack) - Losing Control.mp3</location>
+        </track>
+        <track>
+            <title>Oblivion (feat. Susanne Sundfør)</title>
+            <creator>M83</creator>
+            <album>Oblivion Original Soundtrack</album>
+            <duration>356728</duration>
+            <trackNum>30</trackNum>
+            <location>U:\Shared\Music\M83 - (2013) Oblivion (Original Motion Picture Soundtrack) - Oblivion (feat. Susanne Sundfør).mp3</location>
+        </track>
+        <track>
+            <title>Odyssey Rescue</title>
+            <creator>M83</creator>
+            <album>Oblivion Original Soundtrack</album>
+            <duration>251924</duration>
+            <trackNum>11</trackNum>
+            <location>U:\Shared\Music\M83 - (2013) Oblivion (Original Motion Picture Soundtrack) - Odyssey Rescue.mp3</location>
+        </track>
+        <track>
+            <title>Radiation Zone</title>
+            <creator>M83</creator>
+            <album>Oblivion Original Soundtrack</album>
+            <duration>252055</duration>
+            <trackNum>20</trackNum>
+            <location>U:\Shared\Music\M83 - (2013) Oblivion (Original Motion Picture Soundtrack) - Radiation Zone.mp3</location>
+        </track>
+        <track>
+            <title>Raven Rock</title>
+            <creator>M83</creator>
+            <album>Oblivion Original Soundtrack</album>
+            <duration>275200</duration>
+            <trackNum>23</trackNum>
+            <location>U:\Shared\Music\M83 - (2013) Oblivion (Original Motion Picture Soundtrack) - Raven Rock.mp3</location>
+        </track>
+        <track>
+            <title>Retrieval</title>
+            <creator>M83</creator>
+            <album>Oblivion Original Soundtrack</album>
+            <duration>407771</duration>
+            <trackNum>13</trackNum>
+            <location>U:\Shared\Music\M83 - (2013) Oblivion (Original Motion Picture Soundtrack) - Retrieval.mp3</location>
+        </track>
+        <track>
+            <title>Return from Delta</title>
+            <creator>M83</creator>
+            <album>Oblivion Original Soundtrack</album>
+            <duration>142419</duration>
+            <trackNum>12</trackNum>
+            <location>U:\Shared\Music\M83 - (2013) Oblivion (Original Motion Picture Soundtrack) - Return from Delta.mp3</location>
+        </track>
+        <track>
+            <title>Return to Empire State</title>
+            <creator>M83</creator>
+            <album>Oblivion Original Soundtrack</album>
+            <duration>401084</duration>
+            <trackNum>17</trackNum>
+            <location>U:\Shared\Music\M83 - (2013) Oblivion (Original Motion Picture Soundtrack) - Return to Empire State.mp3</location>
+        </track>
+        <track>
+            <title>Revelations</title>
+            <creator>M83</creator>
+            <album>Oblivion Original Soundtrack</album>
+            <duration>102661</duration>
+            <trackNum>15</trackNum>
+            <location>U:\Shared\Music\M83 - (2013) Oblivion (Original Motion Picture Soundtrack) - Revelations.mp3</location>
+        </track>
+        <track>
+            <title>StarWaves</title>
+            <creator>M83</creator>
+            <album>Oblivion Original Soundtrack</album>
+            <duration>221231</duration>
+            <trackNum>7</trackNum>
+            <location>U:\Shared\Music\M83 - (2013) Oblivion (Original Motion Picture Soundtrack) - StarWaves.mp3</location>
+        </track>
+        <track>
+            <title>Supercell</title>
+            <creator>M83</creator>
+            <album>Oblivion Original Soundtrack</album>
+            <duration>258925</duration>
+            <trackNum>3</trackNum>
+            <location>U:\Shared\Music\M83 - (2013) Oblivion (Original Motion Picture Soundtrack) - Supercell.mp3</location>
+        </track>
+        <track>
+            <title>Tech 49</title>
+            <creator>M83</creator>
+            <album>Oblivion Original Soundtrack</album>
+            <duration>361195</duration>
+            <trackNum>4</trackNum>
+            <location>U:\Shared\Music\M83 - (2013) Oblivion (Original Motion Picture Soundtrack) - Tech 49.mp3</location>
+        </track>
+        <track>
+            <title>Temples of Our Gods</title>
+            <creator>M83</creator>
+            <album>Oblivion Original Soundtrack</album>
+            <duration>195683</duration>
+            <trackNum>27</trackNum>
+            <location>U:\Shared\Music\M83 - (2013) Oblivion (Original Motion Picture Soundtrack) - Temples of Our Gods.mp3</location>
+        </track>
+        <track>
+            <title>The Library</title>
+            <creator>M83</creator>
+            <album>Oblivion Original Soundtrack</album>
+            <duration>206759</duration>
+            <trackNum>5</trackNum>
+            <location>U:\Shared\Music\M83 - (2013) Oblivion (Original Motion Picture Soundtrack) - The Library.mp3</location>
+        </track>
+        <track>
+            <title>Undimmed By Time, Unbound By Death</title>
+            <creator>M83</creator>
+            <album>Oblivion Original Soundtrack</album>
+            <duration>146651</duration>
+            <trackNum>29</trackNum>
+            <location>U:\Shared\Music\M83 - (2013) Oblivion (Original Motion Picture Soundtrack) - Undimmed By Time, Unbound By Death.mp3</location>
+        </track>
+        <track>
+            <title>Unidentified Object</title>
+            <creator>M83</creator>
+            <album>Oblivion Original Soundtrack</album>
+            <duration>151719</duration>
+            <trackNum>10</trackNum>
+            <location>U:\Shared\Music\M83 - (2013) Oblivion (Original Motion Picture Soundtrack) - Unidentified Object.mp3</location>
+        </track>
+        <track>
+            <title>Waking Up</title>
+            <creator>M83</creator>
+            <album>Oblivion Original Soundtrack</album>
+            <duration>257724</duration>
+            <trackNum>2</trackNum>
+            <location>U:\Shared\Music\M83 - (2013) Oblivion (Original Motion Picture Soundtrack) - Waking Up.mp3</location>
+        </track>
+        <track>
+            <title>Welcome Back</title>
+            <creator>M83</creator>
+            <album>Oblivion Original Soundtrack</album>
+            <duration>106710</duration>
+            <trackNum>22</trackNum>
+            <location>U:\Shared\Music\M83 - (2013) Oblivion (Original Motion Picture Soundtrack) - Welcome Back.mp3</location>
+        </track>
+        <track>
+            <title>You Can't Save Her</title>
+            <creator>M83</creator>
+            <album>Oblivion Original Soundtrack</album>
+            <duration>298657</duration>
+            <trackNum>21</trackNum>
+            <location>U:\Shared\Music\M83 - (2013) Oblivion (Original Motion Picture Soundtrack) - You Can't Save Her.mp3</location>
+        </track>
+        <track>
+            <title>Main Theme</title>
+            <creator>Michael Kamen</creator>
+            <album>Band of Brothers</album>
+            <duration>144979</duration>
+            <trackNum>1</trackNum>
+            <location>U:\Shared\Music\Michael Kamen - Band of Brothers - 01 - main theme.mp3</location>
+        </track>
+        <track>
+            <title>Band of Brothers Suite One</title>
+            <creator>Michael Kamen</creator>
+            <album>Band of Brothers</album>
+            <duration>391601</duration>
+            <trackNum>2</trackNum>
+            <location>U:\Shared\Music\Michael Kamen - Band of Brothers - 02 - band of brothers suite one.mp3</location>
+        </track>
+        <track>
+            <title>Band of Brothers Suite Two</title>
+            <creator>Michael Kamen</creator>
+            <album>Band of Brothers</album>
+            <duration>555781</duration>
+            <trackNum>3</trackNum>
+            <location>U:\Shared\Music\Michael Kamen - Band of Brothers - 03 - band of brothers suite two.mp3</location>
+        </track>
+        <track>
+            <title>The Mission Begins</title>
+            <creator>Michael Kamen</creator>
+            <album>Band of Brothers</album>
+            <duration>350458</duration>
+            <trackNum>4</trackNum>
+            <location>U:\Shared\Music\Michael Kamen - Band of Brothers - 04 - the mission begins.mp3</location>
+        </track>
+        <track>
+            <title>Swamp</title>
+            <creator>Michael Kamen</creator>
+            <album>Band of Brothers</album>
+            <duration>128705</duration>
+            <trackNum>5</trackNum>
+            <location>U:\Shared\Music\Michael Kamen - Band of Brothers - 05 - swamp.mp3</location>
+        </track>
+        <track>
+            <title>Spiers' Speech</title>
+            <creator>Michael Kamen</creator>
+            <album>Band of Brothers</album>
+            <duration>62275</duration>
+            <trackNum>6</trackNum>
+            <location>U:\Shared\Music\Michael Kamen - Band of Brothers - 06 - spiers' speech.mp3</location>
+        </track>
+        <track>
+            <title>Fire on Lake</title>
+            <creator>Michael Kamen</creator>
+            <album>Band of Brothers</album>
+            <duration>136594</duration>
+            <trackNum>7</trackNum>
+            <location>U:\Shared\Music\Michael Kamen - Band of Brothers - 07 - fire on lake.mp3</location>
+        </track>
+        <track>
+            <title>Parapluie</title>
+            <creator>Michael Kamen</creator>
+            <album>Band of Brothers</album>
+            <duration>137221</duration>
+            <trackNum>8</trackNum>
+            <location>U:\Shared\Music\Michael Kamen - Band of Brothers - 08 - parapluie.mp3</location>
+        </track>
+        <track>
+            <title>Boy Eats Chocolate</title>
+            <creator>Michael Kamen</creator>
+            <album>Band of Brothers</album>
+            <duration>78759</duration>
+            <trackNum>9</trackNum>
+            <location>U:\Shared\Music\Michael Kamen - Band of Brothers - 09 - boy eats chocolate.mp3</location>
+        </track>
+        <track>
+            <title>Bull's Theme</title>
+            <creator>Michael Kamen</creator>
+            <album>Band of Brothers</album>
+            <duration>201090</duration>
+            <trackNum>10</trackNum>
+            <location>U:\Shared\Music\Michael Kamen - Band of Brothers - 10 - bull's theme.mp3</location>
+        </track>
+        <track>
+            <title>Winters on Subway</title>
+            <creator>Michael Kamen</creator>
+            <album>Band of Brothers</album>
+            <duration>114416</duration>
+            <trackNum>11</trackNum>
+            <location>U:\Shared\Music\Michael Kamen - Band of Brothers - 11 - winters on subway.mp3</location>
+        </track>
+        <track>
+            <title>Headscarf</title>
+            <creator>Michael Kamen</creator>
+            <album>Band of Brothers</album>
+            <duration>251585</duration>
+            <trackNum>12</trackNum>
+            <location>U:\Shared\Music\Michael Kamen - Band of Brothers - 12 - headscarf.mp3</location>
+        </track>
+        <track>
+            <title>Buck in Hospital</title>
+            <creator>Michael Kamen</creator>
+            <album>Band of Brothers</album>
+            <duration>122017</duration>
+            <trackNum>13</trackNum>
+            <location>U:\Shared\Music\Michael Kamen - Band of Brothers - 13 - buck in hospital.mp3</location>
+        </track>
+        <track>
+            <title>Plaisir D'Amour</title>
+            <creator>Michael Kamen</creator>
+            <album>Band of Brothers</album>
+            <duration>116793</duration>
+            <trackNum>14</trackNum>
+            <location>U:\Shared\Music\Michael Kamen - Band of Brothers - 14 - plaisir d'amour.mp3</location>
+        </track>
+        <track>
+            <title>Preparing For Patrol</title>
+            <creator>Michael Kamen</creator>
+            <album>Band of Brothers</album>
+            <duration>152058</duration>
+            <trackNum>15</trackNum>
+            <location>U:\Shared\Music\Michael Kamen - Band of Brothers - 15 - preparing for patrol.mp3</location>
+        </track>
+        <track>
+            <title>String Quartet in C Sharp Minor Op.131</title>
+            <creator>Michael Kamen</creator>
+            <album>Band of Brothers</album>
+            <duration>133511</duration>
+            <trackNum>16</trackNum>
+            <location>U:\Shared\Music\Michael Kamen - Band of Brothers - 16 - string quartet in c sharp minor op.131.mp3</location>
+        </track>
+        <track>
+            <title>Discovery of the Camp</title>
+            <creator>Michael Kamen</creator>
+            <album>Band of Brothers</album>
+            <duration>659774</duration>
+            <trackNum>17</trackNum>
+            <location>U:\Shared\Music\Michael Kamen - Band of Brothers - 17 - discovery of the camp.mp3</location>
+        </track>
+        <track>
+            <title>Nixon's Walk</title>
+            <creator>Michael Kamen</creator>
+            <album>Band of Brothers</album>
+            <duration>138318</duration>
+            <trackNum>18</trackNum>
+            <location>U:\Shared\Music\Michael Kamen - Band of Brothers - 18 - nixon's walk.mp3</location>
+        </track>
+        <track>
+            <title>Austria</title>
+            <creator>Michael Kamen</creator>
+            <album>Band of Brothers</album>
+            <duration>121260</duration>
+            <trackNum>19</trackNum>
+            <location>U:\Shared\Music\Michael Kamen - Band of Brothers - 19 - austria.mp3</location>
+        </track>
+        <track>
+            <title>Band of Brothers Requiem</title>
+            <creator>Michael Kamen</creator>
+            <album>Band of Brothers</album>
+            <duration>198974</duration>
+            <trackNum>20</trackNum>
+            <location>U:\Shared\Music\Michael Kamen - Band of Brothers - 20 - band of brothers requiem.mp3</location>
+        </track>
+        <track>
+            <title>BotPack #9</title>
+            <creator>Michiel van den Bos</creator>
+            <album>Unreal Tournament Original Soundtrack</album>
+            <duration>289828</duration>
+            <location>U:\Shared\Music\Michiel van den Bos - (1999) Unreal Tournament - BotPack #9 (Botmca9.umx).mp3</location>
+        </track>
+        <track>
+            <title>Foregone Destruction</title>
+            <creator>Michiel van den Bos</creator>
+            <album>Unreal Tournament Original Soundtrack</album>
+            <duration>251559</duration>
+            <location>U:\Shared\Music\Michiel van den Bos - (1999) Unreal Tournament - Foregone Destruction.mp3</location>
+        </track>
+        <track>
+            <title>Organic</title>
+            <creator>Michiel van den Bos</creator>
+            <album>Unreal Tournament Original Soundtrack</album>
+            <duration>183562</duration>
+            <location>U:\Shared\Music\Michiel van den Bos - (1999) Unreal Tournament - Organic.mp3</location>
+        </track>
+        <track>
+            <title>Phantom</title>
+            <creator>Michiel van den Bos</creator>
+            <album>Unreal Tournament Original Soundtrack</album>
+            <duration>361404</duration>
+            <location>U:\Shared\Music\Michiel van den Bos - (1999) Unreal Tournament - Phantom.mp3</location>
+        </track>
+        <track>
+            <title>Save Me</title>
+            <creator>Michiel van den Bos</creator>
+            <album>Unreal Tournament Original Soundtrack</album>
+            <duration>112822</duration>
+            <location>U:\Shared\Music\Michiel van den Bos - (1999) Unreal Tournament - Save Me (SaveMe.umx).mp3</location>
+        </track>
+        <track>
+            <title>SuperFist</title>
+            <creator>Michiel van den Bos</creator>
+            <album>Unreal Tournament Original Soundtrack</album>
+            <duration>118021</duration>
+            <location>U:\Shared\Music\Michiel van den Bos - (1999) Unreal Tournament - SuperFist.mp3</location>
+        </track>
+        <track>
+            <title>The Course</title>
+            <creator>Michiel van den Bos</creator>
+            <album>Unreal Tournament Original Soundtrack</album>
+            <duration>268826</duration>
+            <location>U:\Shared\Music\Michiel van den Bos - (1999) Unreal Tournament - The Course (Course.umx).mp3</location>
+        </track>
+        <track>
+            <title>All That Is Left Of Us</title>
+            <creator>Michl Britsch</creator>
+            <album>Pandorum</album>
+            <duration>162977</duration>
+            <trackNum>1</trackNum>
+            <location>U:\Shared\Music\Michl Britsch - (2009) Pandorum Soundtrack - All That Is Left Of Us.mp3</location>
+        </track>
+        <track>
+            <title>Anti Riot</title>
+            <creator>Michl Britsch</creator>
+            <album>Pandorum</album>
+            <duration>257462</duration>
+            <trackNum>3</trackNum>
+            <location>U:\Shared\Music\Michl Britsch - (2009) Pandorum Soundtrack - Anti Riot.mp3</location>
+        </track>
+        <track>
+            <title>Biolab Attack</title>
+            <creator>Michl Britsch</creator>
+            <album>Pandorum</album>
+            <duration>145423</duration>
+            <trackNum>11</trackNum>
+            <location>U:\Shared\Music\Michl Britsch - (2009) Pandorum Soundtrack - Biolab Attack.mp3</location>
+        </track>
+        <track>
+            <title>Boom</title>
+            <creator>Michl Britsch</creator>
+            <album>Pandorum</album>
+            <duration>234997</duration>
+            <trackNum>14</trackNum>
+            <location>U:\Shared\Music\Michl Britsch - (2009) Pandorum Soundtrack - Boom.mp3</location>
+        </track>
+        <track>
+            <title>Bower's Trip</title>
+            <creator>Michl Britsch</creator>
+            <album>Pandorum</album>
+            <duration>470883</duration>
+            <trackNum>18</trackNum>
+            <location>U:\Shared\Music\Michl Britsch - (2009) Pandorum Soundtrack - Bower's Trip.mp3</location>
+        </track>
+        <track>
+            <title>Discovery / End Credits</title>
+            <creator>Michl Britsch</creator>
+            <album>Pandorum</album>
+            <duration>475115</duration>
+            <trackNum>19</trackNum>
+            <location>U:\Shared\Music\Michl Britsch - (2009) Pandorum Soundtrack - Discovery - End Credits.mp3</location>
+        </track>
+        <track>
+            <title>Fight Fight Fight</title>
+            <creator>Michl Britsch</creator>
+            <album>Pandorum</album>
+            <duration>175960</duration>
+            <trackNum>17</trackNum>
+            <location>U:\Shared\Music\Michl Britsch - (2009) Pandorum Soundtrack - Fight Fight Fight.mp3</location>
+        </track>
+        <track>
+            <title>Fucking Solidarity</title>
+            <creator>Michl Britsch</creator>
+            <album>Pandorum</album>
+            <duration>208091</duration>
+            <trackNum>9</trackNum>
+            <location>U:\Shared\Music\Michl Britsch - (2009) Pandorum Soundtrack - Fucking Solidarity.mp3</location>
+        </track>
+        <track>
+            <title>Gallo's Birth</title>
+            <creator>Michl Britsch</creator>
+            <album>Pandorum</album>
+            <duration>142027</duration>
+            <trackNum>10</trackNum>
+            <location>U:\Shared\Music\Michl Britsch - (2009) Pandorum Soundtrack - Gallo's Birth.mp3</location>
+        </track>
+        <track>
+            <title>Hunting Party</title>
+            <creator>Michl Britsch</creator>
+            <album>Pandorum</album>
+            <duration>168202</duration>
+            <trackNum>5</trackNum>
+            <location>U:\Shared\Music\Michl Britsch - (2009) Pandorum Soundtrack - Hunting Party.mp3</location>
+        </track>
+        <track>
+            <title>Kanyrna</title>
+            <creator>Michl Britsch</creator>
+            <album>Pandorum</album>
+            <duration>201926</duration>
+            <trackNum>12</trackNum>
+            <location>U:\Shared\Music\Michl Britsch - (2009) Pandorum Soundtrack - Kanyrna.mp3</location>
+        </track>
+        <track>
+            <title>Kulzer Complex</title>
+            <creator>Michl Britsch</creator>
+            <album>Pandorum</album>
+            <duration>280137</duration>
+            <trackNum>6</trackNum>
+            <location>U:\Shared\Music\Michl Britsch - (2009) Pandorum Soundtrack - Kulzer Complex.mp3</location>
+        </track>
+        <track>
+            <title>Pandorum</title>
+            <creator>Michl Britsch</creator>
+            <album>Pandorum</album>
+            <duration>238524</duration>
+            <trackNum>2</trackNum>
+            <location>U:\Shared\Music\Michl Britsch - (2009) Pandorum Soundtrack - Pandorum.mp3</location>
+        </track>
+        <track>
+            <title>Reactor</title>
+            <creator>Michl Britsch</creator>
+            <album>Pandorum</album>
+            <duration>247771</duration>
+            <trackNum>15</trackNum>
+            <location>U:\Shared\Music\Michl Britsch - (2009) Pandorum Soundtrack - Reactor.mp3</location>
+        </track>
+        <track>
+            <title>Scars</title>
+            <creator>Michl Britsch</creator>
+            <album>Pandorum</album>
+            <duration>139546</duration>
+            <trackNum>8</trackNum>
+            <location>U:\Shared\Music\Michl Britsch - (2009) Pandorum Soundtrack - Scars.mp3</location>
+        </track>
+        <track>
+            <title>Shape</title>
+            <creator>Michl Britsch</creator>
+            <album>Pandorum</album>
+            <duration>123167</duration>
+            <trackNum>4</trackNum>
+            <location>U:\Shared\Music\Michl Britsch - (2009) Pandorum Soundtrack - Shape.mp3</location>
+        </track>
+        <track>
+            <title>Skin On Skin</title>
+            <creator>Michl Britsch</creator>
+            <album>Pandorum</album>
+            <duration>201299</duration>
+            <trackNum>16</trackNum>
+            <location>U:\Shared\Music\Michl Britsch - (2009) Pandorum Soundtrack - Skin On Skin.mp3</location>
+        </track>
+        <track>
+            <title>Tanis Probe Broadcast</title>
+            <creator>Michl Britsch</creator>
+            <album>Pandorum</album>
+            <duration>121391</duration>
+            <trackNum>7</trackNum>
+            <location>U:\Shared\Music\Michl Britsch - (2009) Pandorum Soundtrack - Tanis Probe Broadcast.mp3</location>
+        </track>
+        <track>
+            <title>The Stars All Look Alike</title>
+            <creator>Michl Britsch</creator>
+            <album>Pandorum</album>
+            <duration>271882</duration>
+            <trackNum>13</trackNum>
+            <location>U:\Shared\Music\Michl Britsch - (2009) Pandorum Soundtrack - The Stars All Look Alike.mp3</location>
+        </track>
+        <track>
+            <title>Matrix Theme Song</title>
+            <creator>Moby</creator>
+            <album>Matrix Soundtrack</album>
+            <duration>445335</duration>
+            <trackNum>1</trackNum>
+            <location>U:\Shared\Music\Moby - Matrix Reloaded Theme.mp3</location>
+        </track>
+        <track>
+            <title>Everyone</title>
+            <creator>Adema</creator>
+            <album>Resident Evil</album>
+            <duration>215275</duration>
+            <trackNum>6</trackNum>
+            <location>U:\Shared\Music\Resident Evil - (2002) Music from and Inspired by the Original Motion Picture - Adema - Everyone.mp3</location>
+        </track>
+        <track>
+            <title>Something Told Me</title>
+            <creator>Coal Chamber</creator>
+            <album>Resident Evil</album>
+            <duration>202344</duration>
+            <trackNum>4</trackNum>
+            <location>U:\Shared\Music\Resident Evil - (2002) Music from and Inspired by the Original Motion Picture - Coal Chamber - Something Told Me.mp3</location>
+        </track>
+        <track>
+            <title>Name Of The Game (clean name)</title>
+            <creator>The Crystal Method</creator>
+            <album>Resident Evil</album>
+            <duration>213733</duration>
+            <trackNum>5</trackNum>
+            <location>U:\Shared\Music\Resident Evil - (2002) Music from and Inspired by the Original Motion Picture - Crystal Method - Name Of The Game.mp3</location>
+        </track>
+        <track>
+            <title>Dirt</title>
+            <creator>Depeche Mode</creator>
+            <album>Resident Evil</album>
+            <duration>298057</duration>
+            <trackNum>10</trackNum>
+            <location>U:\Shared\Music\Resident Evil - (2002) Music from and Inspired by the Original Motion Picture - Depeche Mode - Dirt.mp3</location>
+        </track>
+        <track>
+            <title>Invisible Wounds (The Suture Mix)</title>
+            <creator>Fear Factory</creator>
+            <album>Resident Evil</album>
+            <duration>216711</duration>
+            <trackNum>7</trackNum>
+            <location>U:\Shared\Music\Resident Evil - (2002) Music from and Inspired by the Original Motion Picture - Fear Factory - Invisible Wounds.mp3</location>
+        </track>
+        <track>
+            <title>The Infinity</title>
+            <creator>Five Pointe O</creator>
+            <album>Resident Evil</album>
+            <duration>267102</duration>
+            <trackNum>15</trackNum>
+            <location>U:\Shared\Music\Resident Evil - (2002) Music from and Inspired by the Original Motion Picture - Five Pointe O - The Infinity.mp3</location>
+        </track>
+        <track>
+            <title>What Comes Around (Day Of The Dead Mix)</title>
+            <creator>Ill Niño</creator>
+            <album>Resident Evil</album>
+            <duration>268199</duration>
+            <trackNum>11</trackNum>
+            <location>U:\Shared\Music\Resident Evil - (2002) Music from and Inspired by the Original Motion Picture - Ill Nino - What Comes Around.mp3</location>
+        </track>
+        <track>
+            <title>Cleansing</title>
+            <creator>Marilyn Manson</creator>
+            <album>Resident Evil</album>
+            <duration>314279</duration>
+            <trackNum>20</trackNum>
+            <location>U:\Shared\Music\Resident Evil - (2002) Music from and Inspired by the Original Motion Picture - Marilyn Manson - Cleansing.mp3</location>
+        </track>
+        <track>
+            <title>Resident Evil Main Title Theme</title>
+            <creator>Marilyn Manson</creator>
+            <album>Resident Evil</album>
+            <duration>129959</duration>
+            <trackNum>17</trackNum>
+            <location>U:\Shared\Music\Resident Evil - (2002) Music from and Inspired by the Original Motion Picture - Marilyn Manson - Resident Evil Main Title Theme.mp3</location>
+        </track>
+        <track>
+            <title>Reunion</title>
+            <creator>Marilyn Manson</creator>
+            <album>Resident Evil</album>
+            <duration>167026</duration>
+            <trackNum>19</trackNum>
+            <location>U:\Shared\Music\Resident Evil - (2002) Music from and Inspired by the Original Motion Picture - Marilyn Manson - Reunion.mp3</location>
+        </track>
+        <track>
+            <title>Seizure Of Power</title>
+            <creator>Marilyn Manson</creator>
+            <album>Resident Evil</album>
+            <duration>231471</duration>
+            <trackNum>18</trackNum>
+            <location>U:\Shared\Music\Resident Evil - (2002) Music from and Inspired by the Original Motion Picture - Marilyn Manson - Seizure Of Power.mp3</location>
+        </track>
+        <track>
+            <title>The Fight Song (slipknot remix)</title>
+            <creator>Marilyn Manson</creator>
+            <album>Resident Evil</album>
+            <duration>229668</duration>
+            <trackNum>3</trackNum>
+            <location>U:\Shared\Music\Resident Evil - (2002) Music from and Inspired by the Original Motion Picture - Marilyn Manson - The Fight Song.mp3</location>
+        </track>
+        <track>
+            <title>Release Yo' Delf (Prodigy Mix)</title>
+            <creator>Method Man</creator>
+            <album>Resident Evil</album>
+            <duration>356022</duration>
+            <trackNum>13</trackNum>
+            <location>U:\Shared\Music\Resident Evil - (2002) Music from and Inspired by the Original Motion Picture - Method Man - Release Yo Delf.mp3</location>
+        </track>
+        <track>
+            <title>Dig (everything and nothing remix)</title>
+            <creator>Mudvayne</creator>
+            <album>Resident Evil</album>
+            <duration>297560</duration>
+            <trackNum>12</trackNum>
+            <location>U:\Shared\Music\Resident Evil - (2002) Music from and Inspired by the Original Motion Picture - Mudvayne - Dig.mp3</location>
+        </track>
+        <track>
+            <title>Halleluja</title>
+            <creator>Rammstein</creator>
+            <album>Resident Evil</album>
+            <duration>219585</duration>
+            <trackNum>9</trackNum>
+            <location>U:\Shared\Music\Resident Evil - (2002) Music from and Inspired by the Original Motion Picture - Rammstein - Hallelujah.mp3</location>
+        </track>
+        <track>
+            <title>Red Queen</title>
+            <creator>Resident Evil</creator>
+            <album>Resident Evil</album>
+            <duration>4571</duration>
+            <trackNum>1</trackNum>
+            <location>U:\Shared\Music\Resident Evil - (2002) Music from and Inspired by the Original Motion Picture - Red Queen.mp3</location>
+        </track>
+        <track>
+            <title>800</title>
+            <creator>Saliva</creator>
+            <album>Resident Evil</album>
+            <duration>278622</duration>
+            <trackNum>14</trackNum>
+            <location>U:\Shared\Music\Resident Evil - (2002) Music from and Inspired by the Original Motion Picture - Saliva - 800.mp3</location>
+        </track>
+        <track>
+            <title>My Plague (new abuse mix)</title>
+            <creator>Slipknot</creator>
+            <album>Resident Evil</album>
+            <duration>181760</duration>
+            <trackNum>2</trackNum>
+            <location>U:\Shared\Music\Resident Evil - (2002) Music from and Inspired by the Original Motion Picture - Slipknot - My Plaque.mp3</location>
+        </track>
+        <track>
+            <title>Anything But This</title>
+            <creator>Static-X</creator>
+            <album>Resident Evil</album>
+            <duration>245159</duration>
+            <trackNum>8</trackNum>
+            <location>U:\Shared\Music\Resident Evil - (2002) Music from and Inspired by the Original Motion Picture - Static-X - Anything But This.mp3</location>
+        </track>
+        <track>
+            <title>The Umbrella Corporation</title>
+            <creator>Resident Evil</creator>
+            <album>Resident Evil</album>
+            <duration>31660</duration>
+            <trackNum>16</trackNum>
+            <location>U:\Shared\Music\Resident Evil - (2002) Music from and Inspired by the Original Motion Picture - The Umbrella Corporation.mp3</location>
+        </track>
+        <track>
+            <title>Bloodwork</title>
+            <creator>36 Crazyfists</creator>
+            <album>Apocalypse</album>
+            <duration>192835</duration>
+            <trackNum>15</trackNum>
+            <location>U:\Shared\Music\Resident Evil - (2004) Apocalypse Soundtrack - 36 Crazyfists - Bloodwork.mp3</location>
+        </track>
+        <track>
+            <title>The Outsider (Renholder Mix)</title>
+            <creator>A Perfect Circle</creator>
+            <album>Apocalypse</album>
+            <duration>326896</duration>
+            <trackNum>5</trackNum>
+            <location>U:\Shared\Music\Resident Evil - (2004) Apocalypse Soundtrack - A Perfect Circle - The Outsider (Renholder Mix).mp3</location>
+        </track>
+        <track>
+            <title>Escape From Hellview</title>
+            <creator>Cky</creator>
+            <album>Apocalypse</album>
+            <duration>222746</duration>
+            <trackNum>10</trackNum>
+            <location>U:\Shared\Music\Resident Evil - (2004) Apocalypse Soundtrack - Cky - Escape From Hellview.mp3</location>
+        </track>
+        <track>
+            <title>End The World (Acoustic)</title>
+            <creator>Cold</creator>
+            <album>Apocalypse</album>
+            <duration>217443</duration>
+            <trackNum>16</trackNum>
+            <location>U:\Shared\Music\Resident Evil - (2004) Apocalypse Soundtrack - Cold - End The World (Acoustic).mp3</location>
+        </track>
+        <track>
+            <title>Nymphetamine</title>
+            <creator>Cradle of Filth</creator>
+            <album>Apocalypse</album>
+            <duration>301374</duration>
+            <trackNum>9</trackNum>
+            <location>U:\Shared\Music\Resident Evil - (2004) Apocalypse Soundtrack - Cradle Of Filth - Nymphetamine.mp3</location>
+        </track>
+        <track>
+            <title>Us or Them</title>
+            <creator>The Cure</creator>
+            <album>Apocalypse</album>
+            <duration>250409</duration>
+            <trackNum>3</trackNum>
+            <location>U:\Shared\Music\Resident Evil - (2004) Apocalypse Soundtrack - Cure - Us Or Them.mp3</location>
+        </track>
+        <track>
+            <title>The Chauffeur</title>
+            <creator>Deftones</creator>
+            <album>Apocalypse</album>
+            <duration>324623</duration>
+            <trackNum>11</trackNum>
+            <location>U:\Shared\Music\Resident Evil - (2004) Apocalypse Soundtrack - Deftones - The Chauffeur.mp3</location>
+        </track>
+        <track>
+            <title>My Heartstrings Come Undone</title>
+            <creator>Demon Hunter</creator>
+            <album>Apocalypse</album>
+            <duration>278674</duration>
+            <trackNum>13</trackNum>
+            <location>U:\Shared\Music\Resident Evil - (2004) Apocalypse Soundtrack - Demon Hunter - My Heartstrings Come Undone.mp3</location>
+        </track>
+        <track>
+            <title>Digging Up The Corpses</title>
+            <creator>DevilDriver</creator>
+            <album>Apocalypse</album>
+            <duration>232542</duration>
+            <trackNum>8</trackNum>
+            <location>U:\Shared\Music\Resident Evil - (2004) Apocalypse Soundtrack - DevilDriver - Digging Up The Corpses.mp3</location>
+        </track>
+        <track>
+            <title>Join Me In Death</title>
+            <creator>H.I.M.</creator>
+            <album>Apocalypse</album>
+            <duration>217260</duration>
+            <trackNum>12</trackNum>
+            <location>U:\Shared\Music\Resident Evil - (2004) Apocalypse Soundtrack - H.I.M. - Join Me In Death.mp3</location>
+        </track>
+        <track>
+            <title>The End Of Heartache</title>
+            <creator>Killswitch Engage</creator>
+            <album>Apocalypse</album>
+            <duration>244558</duration>
+            <trackNum>6</trackNum>
+            <location>U:\Shared\Music\Resident Evil - (2004) Apocalypse Soundtrack - Killswitch Engage - The End Of Heartache.mp3</location>
+        </track>
+        <track>
+            <title>Swamped</title>
+            <creator>Lacuna Coil</creator>
+            <album>Apocalypse</album>
+            <duration>239647</duration>
+            <trackNum>4</trackNum>
+            <location>U:\Shared\Music\Resident Evil - (2004) Apocalypse Soundtrack - Lacuna Coil - Swamped.mp3</location>
+        </track>
+        <track>
+            <title>Future Proof</title>
+            <creator>Massive Attack</creator>
+            <album>Apocalypse</album>
+            <duration>339696</duration>
+            <trackNum>18</trackNum>
+            <location>U:\Shared\Music\Resident Evil - (2004) Apocalypse Soundtrack - Massive Attack - Future Proof.mp3</location>
+        </track>
+        <track>
+            <title>Mein Teil</title>
+            <creator>Rammstein</creator>
+            <album>Apocalypse</album>
+            <duration>263575</duration>
+            <trackNum>7</trackNum>
+            <location>U:\Shared\Music\Resident Evil - (2004) Apocalypse Soundtrack - Rammstein - Mein Teil.mp3</location>
+        </track>
+        <track>
+            <title>Girl On Fire (Resident Renholder Mix)</title>
+            <creator>Rob Zombie</creator>
+            <album>Apocalypse</album>
+            <duration>311118</duration>
+            <trackNum>17</trackNum>
+            <location>U:\Shared\Music\Resident Evil - (2004) Apocalypse Soundtrack - Rob Zombie - Girl On Fire (Resident Renholder Mix).mp3</location>
+        </track>
+        <track>
+            <title>Vermilion</title>
+            <creator>Slipknot</creator>
+            <album>Apocalypse</album>
+            <duration>254380</duration>
+            <trackNum>1</trackNum>
+            <location>U:\Shared\Music\Resident Evil - (2004) Apocalypse Soundtrack - Slipknot - Vermilion.mp3</location>
+        </track>
+        <track>
+            <title>Under A Killing Moon</title>
+            <creator>Thrice</creator>
+            <album>Apocalypse</album>
+            <duration>162142</duration>
+            <trackNum>14</trackNum>
+            <location>U:\Shared\Music\Resident Evil - (2004) Apocalypse Soundtrack - Thrice - Under A Killing Moon.mp3</location>
+        </track>
+        <track>
+            <title>Just A Little</title>
+            <creator>Used</creator>
+            <album>Apocalypse</album>
+            <duration>207908</duration>
+            <trackNum>2</trackNum>
+            <location>U:\Shared\Music\Resident Evil - (2004) Apocalypse Soundtrack - Used - Just A Little.mp3</location>
+        </track>
+        <track>
+            <title>One Love (Extinction Remix)</title>
+            <creator>Aiden Vs. The Legion Of Doom</creator>
+            <album>Extinction</album>
+            <duration>242024</duration>
+            <trackNum>7</trackNum>
+            <location>U:\Shared\Music\Resident Evil - (2007) Extinction - Aiden Vs. The Legion Of Doom - One Love.mp3</location>
+        </track>
+        <track>
+            <title>Duality (Project Alice String Remix)</title>
+            <creator>Bayside</creator>
+            <album>Extinction</album>
+            <duration>181864</duration>
+            <trackNum>5</trackNum>
+            <location>U:\Shared\Music\Resident Evil - (2007) Extinction - Bayside - Duality (Project Alice String Remix).mp3</location>
+        </track>
+        <track>
+            <title>Main Title</title>
+            <creator>Charlie Clouser</creator>
+            <album>Extinction</album>
+            <duration>49449</duration>
+            <trackNum>1</trackNum>
+            <location>U:\Shared\Music\Resident Evil - (2007) Extinction - Charlie Clouser -  Main Title.mp3</location>
+        </track>
+        <track>
+            <title>Convoy</title>
+            <creator>Charlie Clouser</creator>
+            <album>Extinction</album>
+            <duration>43755</duration>
+            <trackNum>19</trackNum>
+            <location>U:\Shared\Music\Resident Evil - (2007) Extinction - Charlie Clouser - Convoy.mp3</location>
+        </track>
+        <track>
+            <title>Laser Tunnels</title>
+            <creator>Charlie Clouser</creator>
+            <album>Extinction</album>
+            <duration>27742</duration>
+            <trackNum>12</trackNum>
+            <location>U:\Shared\Music\Resident Evil - (2007) Extinction - Charlie Clouser - Laser Tunnels.mp3</location>
+        </track>
+        <track>
+            <title>Losing</title>
+            <creator>Charlie Clouser</creator>
+            <album>Extinction</album>
+            <duration>79751</duration>
+            <trackNum>6</trackNum>
+            <location>U:\Shared\Music\Resident Evil - (2007) Extinction - Charlie Clouser - Losing.mp3</location>
+        </track>
+        <track>
+            <title>Paralyzed</title>
+            <creator>Chimaira</creator>
+            <album>Extinction</album>
+            <duration>187062</duration>
+            <trackNum>11</trackNum>
+            <location>U:\Shared\Music\Resident Evil - (2007) Extinction - Chimaira - Paralyzed.mp3</location>
+        </track>
+        <track>
+            <title>Catch Me</title>
+            <creator>City Sleeps</creator>
+            <album>Extinction</album>
+            <duration>201795</duration>
+            <trackNum>14</trackNum>
+            <location>U:\Shared\Music\Resident Evil - (2007) Extinction - City Sleeps - Catch Me.mp3</location>
+        </track>
+        <track>
+            <title>White Rabbit (SPC Eco Mix)</title>
+            <creator>Collide</creator>
+            <album>Extinction</album>
+            <duration>282096</duration>
+            <trackNum>10</trackNum>
+            <location>U:\Shared\Music\Resident Evil - (2007) Extinction - Collide - White Rabbit (SPC Eco Mix).mp3</location>
+        </track>
+        <track>
+            <title>Scenotaph (DJA Infected Remix)</title>
+            <creator>Emanuel</creator>
+            <album>Extinction</album>
+            <duration>256783</duration>
+            <trackNum>16</trackNum>
+            <location>U:\Shared\Music\Resident Evil - (2007) Extinction - Emanuel - Scenotaph (DJA Infected Remix).mp3</location>
+        </track>
+        <track>
+            <title>Deathcar</title>
+            <creator>Fightstar</creator>
+            <album>Extinction</album>
+            <duration>238132</duration>
+            <trackNum>8</trackNum>
+            <location>U:\Shared\Music\Resident Evil - (2007) Extinction - Fightstar - Deathcar.mp3</location>
+        </track>
+        <track>
+            <title>I'm So Sick (T-Virus Remix)</title>
+            <creator>Flyleaf Vs. The Legion Of Doom</creator>
+            <album>Extinction</album>
+            <duration>201325</duration>
+            <trackNum>3</trackNum>
+            <location>U:\Shared\Music\Resident Evil - (2007) Extinction - Flyleaf Vs. The Legion Of Doom - I'm So Sick (T-Virus Remix).mp3</location>
+        </track>
+        <track>
+            <title>Sixth Of June</title>
+            <creator>It Dies Today</creator>
+            <album>Extinction</album>
+            <duration>184267</duration>
+            <trackNum>17</trackNum>
+            <location>U:\Shared\Music\Resident Evil - (2007) Extinction - It Dies Today - Sixth of June.mp3</location>
+        </track>
+        <track>
+            <title>Wrecking Itself Taking You With Me</title>
+            <creator>Poison the Well</creator>
+            <album>Extinction</album>
+            <duration>201952</duration>
+            <trackNum>18</trackNum>
+            <location>U:\Shared\Music\Resident Evil - (2007) Extinction - Poison The Well - Wrecking Itself Taking You With Me.mp3</location>
+        </track>
+        <track>
+            <title>Contagious</title>
+            <creator>Searchlight</creator>
+            <album>Extinction</album>
+            <duration>258089</duration>
+            <trackNum>15</trackNum>
+            <location>U:\Shared\Music\Resident Evil - (2007) Extinction - Searchlight - Contagious.mp3</location>
+        </track>
+        <track>
+            <title>Asleep On The Frontlines (Appliantz Remix)</title>
+            <creator>The Bled</creator>
+            <album>Extinction</album>
+            <duration>333426</duration>
+            <trackNum>13</trackNum>
+            <location>U:\Shared\Music\Resident Evil - (2007) Extinction - The Bled - Asleep On The Frontlines (Appliantz Remix).mp3</location>
+        </track>
+        <track>
+            <title>I, Suicide</title>
+            <creator>Throwdown</creator>
+            <album>Extinction</album>
+            <duration>216293</duration>
+            <trackNum>9</trackNum>
+            <location>U:\Shared\Music\Resident Evil - (2007) Extinction - Throwdown - I, Suicide.mp3</location>
+        </track>
+        <track>
+            <title>Hunger OST</title>
+            <creator>Hans Zimmer</creator>
+            <album>Black Hawk Down Soundtrack</album>
+            <duration>392176</duration>
+            <location>U:\Shared\Music\Black Hawk Down Soundtrack - Hunger OST.mp3</location>
+        </track>
+    </trackList>
+</playlist>

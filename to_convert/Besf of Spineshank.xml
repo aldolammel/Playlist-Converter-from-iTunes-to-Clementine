@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2025-06-04T12:58:18Z</date>
+	<key>Application Version</key><string>12.13.7.1</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/E:/Users/aldol/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>187AD5E35C5E82C1</string>
+	<key>Tracks</key>
+	<dict>
+		<key>15994</key>
+		<dict>
+			<key>Track ID</key><integer>15994</integer>
+			<key>Name</key><string>40 Below</string>
+			<key>Artist</key><string>Spineshank</string>
+			<key>Album</key><string>Strictly Diesel</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8186731</integer>
+			<key>Total Time</key><integer>202605</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>1998</integer>
+			<key>Date Modified</key><date>2021-09-03T18:52:53Z</date>
+			<key>Date Added</key><date>2025-05-23T00:06:53Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>15</integer>
+			<key>Play Date</key><integer>3778878688</integer>
+			<key>Play Date UTC</key><date>2023-09-30T03:31:28Z</date>
+			<key>Normalization</key><integer>12664</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>Spineshank</string>
+			<key>Persistent ID</key><string>5C0A31BD96C5920C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Spineshank%20-%20(1998)%20Strictly%20Diesel%20-%2040%20Below.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>16006</key>
+		<dict>
+			<key>Track ID</key><integer>16006</integer>
+			<key>Name</key><string>Shinebox</string>
+			<key>Artist</key><string>Spineshank</string>
+			<key>Album</key><string>Strictly Diesel</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7575466</integer>
+			<key>Total Time</key><integer>187324</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>1998</integer>
+			<key>Date Modified</key><date>2021-09-03T18:53:08Z</date>
+			<key>Date Added</key><date>2025-05-23T00:06:54Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>15</integer>
+			<key>Play Date</key><integer>3778877967</integer>
+			<key>Play Date UTC</key><date>2023-09-30T03:19:27Z</date>
+			<key>Normalization</key><integer>9412</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>Spineshank</string>
+			<key>Persistent ID</key><string>898AB7A94C96E577</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Spineshank%20-%20(1998)%20Strictly%20Diesel%20-%20Shinebox.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>16024</key>
+		<dict>
+			<key>Track ID</key><integer>16024</integer>
+			<key>Name</key><string>Asthmatic</string>
+			<key>Artist</key><string>Spineshank</string>
+			<key>Album</key><string>The Height Of Callousness</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8516531</integer>
+			<key>Total Time</key><integer>210677</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2021-09-03T18:53:42Z</date>
+			<key>Date Added</key><date>2025-05-23T00:06:55Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>15</integer>
+			<key>Play Date</key><integer>3778877784</integer>
+			<key>Play Date UTC</key><date>2023-09-30T03:16:24Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2020-06-14T17:55:37Z</date>
+			<key>Normalization</key><integer>13213</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Height Of Callousness</string>
+			<key>Sort Artist</key><string>Spineshank</string>
+			<key>Persistent ID</key><string>8A3FA6292D75001D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Spineshank%20-%20(2000)%20The%20Height%20Of%20Callousness%20-%20Asthmatic.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>16028</key>
+		<dict>
+			<key>Track ID</key><integer>16028</integer>
+			<key>Name</key><string>Full Circle</string>
+			<key>Artist</key><string>Spineshank</string>
+			<key>Album</key><string>The Height Of Callousness</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8335768</integer>
+			<key>Total Time</key><integer>206158</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2021-09-03T18:53:53Z</date>
+			<key>Date Added</key><date>2025-05-23T00:06:55Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>14</integer>
+			<key>Play Date</key><integer>3778877578</integer>
+			<key>Play Date UTC</key><date>2023-09-30T03:12:58Z</date>
+			<key>Normalization</key><integer>11360</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Height Of Callousness</string>
+			<key>Sort Artist</key><string>Spineshank</string>
+			<key>Persistent ID</key><string>F25924C1627D04F2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Spineshank%20-%20(2000)%20The%20Height%20Of%20Callousness%20-%20Full%20Circle.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>16032</key>
+		<dict>
+			<key>Track ID</key><integer>16032</integer>
+			<key>Name</key><string>Negative Space</string>
+			<key>Artist</key><string>Spineshank</string>
+			<key>Album</key><string>The Height Of Callousness</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6468542</integer>
+			<key>Total Time</key><integer>159477</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2021-09-03T18:53:56Z</date>
+			<key>Date Added</key><date>2025-05-23T00:06:55Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>14</integer>
+			<key>Play Date</key><integer>3778878122</integer>
+			<key>Play Date UTC</key><date>2023-09-30T03:22:02Z</date>
+			<key>Normalization</key><integer>11190</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Height Of Callousness</string>
+			<key>Sort Artist</key><string>Spineshank</string>
+			<key>Persistent ID</key><string>89DBB47B265A4196</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Spineshank%20-%20(2000)%20The%20Height%20Of%20Callousness%20-%20Negative%20Space.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>16034</key>
+		<dict>
+			<key>Track ID</key><integer>16034</integer>
+			<key>Name</key><string>New Disease</string>
+			<key>Artist</key><string>Spineshank</string>
+			<key>Album</key><string>The Height Of Callousness</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7870788</integer>
+			<key>Total Time</key><integer>194533</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2021-09-03T18:54:01Z</date>
+			<key>Date Added</key><date>2025-05-23T00:06:55Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>14</integer>
+			<key>Play Date</key><integer>3778878490</integer>
+			<key>Play Date UTC</key><date>2023-09-30T03:28:10Z</date>
+			<key>Normalization</key><integer>10607</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Height Of Callousness</string>
+			<key>Sort Artist</key><string>Spineshank</string>
+			<key>Persistent ID</key><string>8040C67990EFFEF0</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Spineshank%20-%20(2000)%20The%20Height%20Of%20Callousness%20-%20New%20Disease.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>16046</key>
+		<dict>
+			<key>Track ID</key><integer>16046</integer>
+			<key>Name</key><string>The Height Of Callousness</string>
+			<key>Artist</key><string>Spineshank</string>
+			<key>Album</key><string>The Height Of Callousness</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7411061</integer>
+			<key>Total Time</key><integer>183040</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2021-09-03T18:54:25Z</date>
+			<key>Date Added</key><date>2025-05-23T00:06:56Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>15</integer>
+			<key>Play Date</key><integer>3778878300</integer>
+			<key>Play Date UTC</key><date>2023-09-30T03:25:00Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2021-05-08T16:30:28Z</date>
+			<key>Normalization</key><integer>11268</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Height Of Callousness</string>
+			<key>Sort Artist</key><string>Spineshank</string>
+			<key>Sort Name</key><string>Height Of Callousness</string>
+			<key>Persistent ID</key><string>702C55243EBD1D4D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Spineshank%20-%20(2000)%20The%20Height%20Of%20Callousness%20-%20The%20Height%20Of%20Callousness.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>Besf of: Spineshank</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>63100</integer>
+			<key>Playlist Persistent ID</key><string>9116B306450A140D</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>16028</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16024</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16046</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16034</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16032</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15994</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16006</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

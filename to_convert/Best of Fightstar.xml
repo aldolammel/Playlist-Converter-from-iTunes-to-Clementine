@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2025-06-04T13:03:40Z</date>
+	<key>Application Version</key><string>12.13.7.1</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/E:/Users/aldol/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>187AD5E35C5E82C1</string>
+	<key>Tracks</key>
+	<dict>
+		<key>8708</key>
+		<dict>
+			<key>Track ID</key><integer>8708</integer>
+			<key>Name</key><string>Grand Unification (Part 1)</string>
+			<key>Artist</key><string>Fightstar</string>
+			<key>Album</key><string>Grand Unification</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6383952</integer>
+			<key>Total Time</key><integer>199235</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2021-09-03T14:41:49Z</date>
+			<key>Date Added</key><date>2025-05-23T00:00:19Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3778069752</integer>
+			<key>Play Date UTC</key><date>2023-09-20T18:49:12Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2021-08-20T06:13:49Z</date>
+			<key>Normalization</key><integer>10163</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E57796B49EC62C67</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Fightstar%20-%20(2006)%20Grand%20Unification%20-%20Grand%20Unification%20(Part%201).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8714</key>
+		<dict>
+			<key>Track ID</key><integer>8714</integer>
+			<key>Name</key><string>Here Again (Last Conversation)</string>
+			<key>Artist</key><string>Fightstar</string>
+			<key>Album</key><string>Grand Unification</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6315620</integer>
+			<key>Total Time</key><integer>196388</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2025-01-26T01:22:12Z</date>
+			<key>Date Added</key><date>2025-05-23T00:00:20Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3778070200</integer>
+			<key>Play Date UTC</key><date>2023-09-20T18:56:40Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2021-11-19T16:20:27Z</date>
+			<key>Normalization</key><integer>7988</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6E5622EDA7D4DB92</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Fightstar%20-%20(2006)%20Grand%20Unification%20-%20Here%20Again%20(Last%20Conversation).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8716</key>
+		<dict>
+			<key>Track ID</key><integer>8716</integer>
+			<key>Name</key><string>Lost Like Tears in Rain</string>
+			<key>Artist</key><string>Fightstar</string>
+			<key>Album</key><string>Grand Unification</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7420279</integer>
+			<key>Total Time</key><integer>242416</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2021-09-03T14:42:05Z</date>
+			<key>Date Added</key><date>2025-05-23T00:00:20Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3778072979</integer>
+			<key>Play Date UTC</key><date>2023-09-20T19:42:59Z</date>
+			<key>Normalization</key><integer>8654</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>FDEF08226C8DCE35</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Fightstar%20-%20(2006)%20Grand%20Unification%20-%20Lost%20Like%20Tears%20in%20Rain.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8722</key>
+		<dict>
+			<key>Track ID</key><integer>8722</integer>
+			<key>Name</key><string>Paint Your Target</string>
+			<key>Artist</key><string>Fightstar</string>
+			<key>Album</key><string>Grand Unification</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6368270</integer>
+			<key>Total Time</key><integer>198582</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2021-09-03T14:42:22Z</date>
+			<key>Date Added</key><date>2025-05-23T00:00:20Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3778072490</integer>
+			<key>Play Date UTC</key><date>2023-09-20T19:34:50Z</date>
+			<key>Normalization</key><integer>10020</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0B704E3FFDF53208</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Fightstar%20-%20(2006)%20Grand%20Unification%20-%20Paint%20Your%20Target.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8724</key>
+		<dict>
+			<key>Track ID</key><integer>8724</integer>
+			<key>Name</key><string>Sleep Well Tonight</string>
+			<key>Artist</key><string>Fightstar</string>
+			<key>Album</key><string>Grand Unification</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7740013</integer>
+			<key>Total Time</key><integer>255738</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2021-09-03T14:42:23Z</date>
+			<key>Date Added</key><date>2025-05-23T00:00:20Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3778072741</integer>
+			<key>Play Date UTC</key><date>2023-09-20T19:39:01Z</date>
+			<key>Normalization</key><integer>7281</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B82FD96C7D733536</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Fightstar%20-%20(2006)%20Grand%20Unification%20-%20Sleep%20Well%20Tonight.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8744</key>
+		<dict>
+			<key>Track ID</key><integer>8744</integer>
+			<key>Name</key><string>Palahniuk's Laughter</string>
+			<key>Artist</key><string>Fightstar</string>
+			<key>Album Artist</key><string>Fightstar</string>
+			<key>Composer</key><string>Fightstar</string>
+			<key>Album</key><string>They liked you better when you were dead</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5907437</integer>
+			<key>Total Time</key><integer>249025</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2025-01-26T01:21:58Z</date>
+			<key>Date Added</key><date>2025-05-23T00:00:21Z</date>
+			<key>Bit Rate</key><integer>184</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3778069558</integer>
+			<key>Play Date UTC</key><date>2023-09-20T18:45:58Z</date>
+			<key>Normalization</key><integer>4997</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0344DFB5379D9A87</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Fightstar%20-%20(2006)%20They%20Liked%20You%20Better%20When%20You%20Dead%20-%20Palahniuk's%20Laughter.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8750</key>
+		<dict>
+			<key>Track ID</key><integer>8750</integer>
+			<key>Name</key><string>99</string>
+			<key>Artist</key><string>Fightstar</string>
+			<key>Album</key><string>One Day Son, This Will All Be Yours</string>
+			<key>Genre</key><string>New Metal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6710718</integer>
+			<key>Total Time</key><integer>245577</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2021-09-03T14:43:01Z</date>
+			<key>Date Added</key><date>2025-05-23T00:00:21Z</date>
+			<key>Bit Rate</key><integer>218</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3778071564</integer>
+			<key>Play Date UTC</key><date>2023-09-20T19:19:24Z</date>
+			<key>Normalization</key><integer>10387</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BB629692EEEEFEC7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Fightstar%20-%20(2007)%20One%20day%20son,%20this%20will%20all%20be%20yours%20-%2099.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8752</key>
+		<dict>
+			<key>Track ID</key><integer>8752</integer>
+			<key>Name</key><string>Amaze Us</string>
+			<key>Artist</key><string>Fightstar</string>
+			<key>Album</key><string>One Day Son, This Will All Be Yours</string>
+			<key>Genre</key><string>New Metal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7258893</integer>
+			<key>Total Time</key><integer>270968</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2021-09-03T14:43:02Z</date>
+			<key>Date Added</key><date>2025-05-23T00:00:21Z</date>
+			<key>Bit Rate</key><integer>213</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3778068635</integer>
+			<key>Play Date UTC</key><date>2023-09-20T18:30:35Z</date>
+			<key>Normalization</key><integer>8254</integer>
+			<key>Artwork Count</key><integer>2</integer>
+			<key>Persistent ID</key><string>91AB0517CE66944D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Fightstar%20-%20(2007)%20One%20day%20son,%20this%20will%20all%20be%20yours%20-%20Amaze%20us.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8754</key>
+		<dict>
+			<key>Track ID</key><integer>8754</integer>
+			<key>Name</key><string>Deathcar</string>
+			<key>Artist</key><string>Fightstar</string>
+			<key>Album</key><string>One Day Son, This Will All Be Yours</string>
+			<key>Genre</key><string>New Metal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7266469</integer>
+			<key>Total Time</key><integer>238158</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2021-09-03T14:43:09Z</date>
+			<key>Date Added</key><date>2025-05-23T00:00:22Z</date>
+			<key>Bit Rate</key><integer>242</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3778070671</integer>
+			<key>Play Date UTC</key><date>2023-09-20T19:04:31Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2021-11-24T01:41:10Z</date>
+			<key>Normalization</key><integer>12025</integer>
+			<key>Artwork Count</key><integer>2</integer>
+			<key>Persistent ID</key><string>7963F07824A9B233</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Fightstar%20-%20(2007)%20One%20day%20son,%20this%20will%20all%20be%20yours%20-%20Deathcar.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8762</key>
+		<dict>
+			<key>Track ID</key><integer>8762</integer>
+			<key>Name</key><string>One Day Son</string>
+			<key>Artist</key><string>Fightstar</string>
+			<key>Album</key><string>One Day Son, This Will All Be Yours</string>
+			<key>Genre</key><string>New Metal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7492168</integer>
+			<key>Total Time</key><integer>256417</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2021-09-03T14:43:22Z</date>
+			<key>Date Added</key><date>2025-05-23T00:00:22Z</date>
+			<key>Bit Rate</key><integer>232</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3778072064</integer>
+			<key>Play Date UTC</key><date>2023-09-20T19:27:44Z</date>
+			<key>Normalization</key><integer>6761</integer>
+			<key>Artwork Count</key><integer>2</integer>
+			<key>Persistent ID</key><string>0C6E42D319525D8C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Fightstar%20-%20(2007)%20One%20day%20son,%20this%20will%20all%20be%20yours%20-%20One%20day%20son.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8764</key>
+		<dict>
+			<key>Track ID</key><integer>8764</integer>
+			<key>Name</key><string>Our Last Common Ancestor</string>
+			<key>Artist</key><string>Fightstar</string>
+			<key>Album</key><string>One Day Son, This Will All Be Yours</string>
+			<key>Genre</key><string>New Metal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5973962</integer>
+			<key>Total Time</key><integer>237087</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2021-09-03T14:43:25Z</date>
+			<key>Date Added</key><date>2025-05-23T00:00:22Z</date>
+			<key>Bit Rate</key><integer>200</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3778071135</integer>
+			<key>Play Date UTC</key><date>2023-09-20T19:12:15Z</date>
+			<key>Normalization</key><integer>5749</integer>
+			<key>Artwork Count</key><integer>2</integer>
+			<key>Persistent ID</key><string>03F269D4C5B9BC36</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Fightstar%20-%20(2007)%20One%20day%20son,%20this%20will%20all%20be%20yours%20-%20Our%20last%20common%20ancestor.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8770</key>
+		<dict>
+			<key>Track ID</key><integer>8770</integer>
+			<key>Name</key><string>We Apologise For Nothing</string>
+			<key>Artist</key><string>Fightstar</string>
+			<key>Album</key><string>One Day Son, This Will All Be Yours</string>
+			<key>Genre</key><string>New Metal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7184803</integer>
+			<key>Total Time</key><integer>253309</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2021-09-03T14:43:34Z</date>
+			<key>Date Added</key><date>2025-05-23T00:00:22Z</date>
+			<key>Bit Rate</key><integer>226</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3778071812</integer>
+			<key>Play Date UTC</key><date>2023-09-20T19:23:32Z</date>
+			<key>Normalization</key><integer>7498</integer>
+			<key>Artwork Count</key><integer>2</integer>
+			<key>Persistent ID</key><string>B326D57ECF1767BA</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Fightstar%20-%20(2007)%20One%20day%20son,%20this%20will%20all%20be%20yours%20-%20We%20apologise%20for%20nothing.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8776</key>
+		<dict>
+			<key>Track ID</key><integer>8776</integer>
+			<key>Name</key><string>A City On Fire</string>
+			<key>Artist</key><string>Fightstar</string>
+			<key>Album</key><string>Be Human</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7833398</integer>
+			<key>Total Time</key><integer>188368</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2025-01-26T01:22:12Z</date>
+			<key>Date Added</key><date>2025-05-23T00:00:23Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3778071319</integer>
+			<key>Play Date UTC</key><date>2023-09-20T19:15:19Z</date>
+			<key>Normalization</key><integer>6137</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>City On Fire</string>
+			<key>Persistent ID</key><string>FA22C0156AE07D60</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Fightstar%20-%20(2009)%20Be%20Human%20%E2%80%93%20A%20City%20On%20Fire_%5Bplixid.com%5D.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8800</key>
+		<dict>
+			<key>Track ID</key><integer>8800</integer>
+			<key>Name</key><string>The Whisperer</string>
+			<key>Artist</key><string>Fightstar</string>
+			<key>Album</key><string>Be Human</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9787355</integer>
+			<key>Total Time</key><integer>237217</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2024-03-29T14:04:08Z</date>
+			<key>Date Added</key><date>2025-05-23T00:00:24Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3778069313</integer>
+			<key>Play Date UTC</key><date>2023-09-20T18:41:53Z</date>
+			<key>Normalization</key><integer>4701</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>Whisperer</string>
+			<key>Persistent ID</key><string>C3CC1EA070D9A4D7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Fightstar%20-%20(2009)%20Be%20Human%20%E2%80%93%20The%20Whisperer_%5Bplixid.com%5D.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8806</key>
+		<dict>
+			<key>Track ID</key><integer>8806</integer>
+			<key>Name</key><string>Palahniuk's Laughter (Acústico ao vivo)</string>
+			<key>Artist</key><string>Fightstar</string>
+			<key>Album</key><string>Unplugged at The PictureDrome</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9466742</integer>
+			<key>Total Time</key><integer>236408</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2021-09-03T14:44:48Z</date>
+			<key>Date Added</key><date>2025-05-23T00:00:24Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>254</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3778072296</integer>
+			<key>Play Date UTC</key><date>2023-09-20T19:31:36Z</date>
+			<key>Normalization</key><integer>187</integer>
+			<key>Persistent ID</key><string>F33ECB9619CE9274</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Fightstar%20-%20Palahniuk's%20Laughter%20(Live%20acoustic%202009).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>Best of: Fightstar</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>63340</integer>
+			<key>Playlist Persistent ID</key><string>E248FF30BEBFA492</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>8708</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8724</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8722</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8714</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8716</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8744</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8750</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8770</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8762</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8754</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8752</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8764</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8806</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8776</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8800</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

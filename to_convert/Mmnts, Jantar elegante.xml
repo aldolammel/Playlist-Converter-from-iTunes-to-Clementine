@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2025-06-04T13:13:20Z</date>
+	<key>Application Version</key><string>12.13.7.1</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/E:/Users/aldol/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>187AD5E35C5E82C1</string>
+	<key>Tracks</key>
+	<dict>
+		<key>4772</key>
+		<dict>
+			<key>Track ID</key><integer>4772</integer>
+			<key>Name</key><string>Stay The Same (feat. Andreya Triana)</string>
+			<key>Artist</key><string>Bonobo</string>
+			<key>Album Artist</key><string>Bonobo</string>
+			<key>Album</key><string>Black Sands</string>
+			<key>Genre</key><string>Downtempo/Ambient</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11524419</integer>
+			<key>Total Time</key><integer>284891</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2024-07-12T23:21:58Z</date>
+			<key>Date Added</key><date>2025-05-22T23:56:52Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>97</integer>
+			<key>Comments</key><string>Tumen Collection</string>
+			<key>Play Count</key><integer>14</integer>
+			<key>Play Date</key><integer>3766095125</integer>
+			<key>Play Date UTC</key><date>2023-05-05T04:32:05Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2022-01-12T17:38:23Z</date>
+			<key>Normalization</key><integer>2422</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5DD9C401D8AED91E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Bonobo%20-%20(2010)%20Black%20Sands%20-%20Stay%20The%20Same%20(feat.%20Andreya%20Triana).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>5194</key>
+		<dict>
+			<key>Track ID</key><integer>5194</integer>
+			<key>Name</key><string>Quente</string>
+			<key>Artist</key><string>Café Del Mar</string>
+			<key>Album Artist</key><string>Café Del Mar</string>
+			<key>Album</key><string>Volumen Nueve</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6081311</integer>
+			<key>Total Time</key><integer>248581</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2021-09-03T02:03:16Z</date>
+			<key>Date Added</key><date>2025-05-22T23:57:14Z</date>
+			<key>Bit Rate</key><integer>187</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>102</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3712784499</integer>
+			<key>Play Date UTC</key><date>2021-08-26T04:01:39Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2021-06-28T07:22:34Z</date>
+			<key>Normalization</key><integer>2328</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>99C04950B713FD37</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Caf%C3%A9%20del%20mar%20-%20(2002)%20Volumen%20Nueve%20-%20Quente.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>9108</key>
+		<dict>
+			<key>Track ID</key><integer>9108</integer>
+			<key>Name</key><string>The girl from Ipanema (com Tom Jobim)</string>
+			<key>Artist</key><string>Frank Sinatra</string>
+			<key>Album</key><string>My Way The Best Of Frank Sinatra</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8901774</integer>
+			<key>Total Time</key><integer>193750</integer>
+			<key>Track Number</key><integer>19</integer>
+			<key>Year</key><integer>1997</integer>
+			<key>Date Modified</key><date>2021-09-03T14:53:27Z</date>
+			<key>Date Added</key><date>2025-05-23T00:00:37Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3684146809</integer>
+			<key>Play Date UTC</key><date>2020-09-28T17:06:49Z</date>
+			<key>Normalization</key><integer>1259</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>girl from Ipanema (com Tom Jobim)</string>
+			<key>Persistent ID</key><string>43564199A6266EAD</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Frank%20Sinatra%20-%20(1997)%20My%20Way%20The%20Best%20Of%20Frank%20Sinatra%20-%20The%20girl%20from%20ipanema%20.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>10856</key>
+		<dict>
+			<key>Track ID</key><integer>10856</integer>
+			<key>Name</key><string>Nao vou fugir</string>
+			<key>Artist</key><string>Ive Mendes</string>
+			<key>Genre</key><string>Smooth Bossa Nova</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5096170</integer>
+			<key>Total Time</key><integer>317857</integer>
+			<key>Date Modified</key><date>2021-09-03T15:58:28Z</date>
+			<key>Date Added</key><date>2025-05-23T00:02:21Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3712264488</integer>
+			<key>Play Date UTC</key><date>2021-08-20T03:34:48Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2021-09-16T20:41:20Z</date>
+			<key>Normalization</key><integer>1235</integer>
+			<key>Persistent ID</key><string>7592CBF2A5D821C3</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Ive%20Mendes%20-%20Nao%20vou%20fugir.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>12704</key>
+		<dict>
+			<key>Track ID</key><integer>12704</integer>
+			<key>Name</key><string>Tomorrow</string>
+			<key>Artist</key><string>Lyn Leon</string>
+			<key>Genre</key><string>Fusion Lounge</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5244116</integer>
+			<key>Total Time</key><integer>327105</integer>
+			<key>Date Modified</key><date>2021-09-03T16:47:23Z</date>
+			<key>Date Added</key><date>2025-05-23T00:03:50Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>11</integer>
+			<key>Play Date</key><integer>3783261107</integer>
+			<key>Play Date UTC</key><date>2023-11-19T19:51:47Z</date>
+			<key>Skip Count</key><integer>6</integer>
+			<key>Skip Date</key><date>2022-09-14T04:01:21Z</date>
+			<key>Normalization</key><integer>1342</integer>
+			<key>Persistent ID</key><string>8F024800FA8617F7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Lyn%20Leon%20-%20Tomorrow.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>13354</key>
+		<dict>
+			<key>Track ID</key><integer>13354</integer>
+			<key>Name</key><string>Me And Mrs. Jones</string>
+			<key>Artist</key><string>Michael Buble</string>
+			<key>Album</key><string>Call Me Irresponsible</string>
+			<key>Genre</key><string>Vocal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6109173</integer>
+			<key>Total Time</key><integer>273893</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2021-09-03T17:38:30Z</date>
+			<key>Date Added</key><date>2025-05-23T00:04:23Z</date>
+			<key>Bit Rate</key><integer>178</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3684148106</integer>
+			<key>Play Date UTC</key><date>2020-09-28T17:28:26Z</date>
+			<key>Normalization</key><integer>2463</integer>
+			<key>Persistent ID</key><string>A1C85259E36FFD45</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Michael%20Bubl%C3%A9%20-%20(2007)%20Call%20me%20Irresponsible%20-%20me_and_mrs._jones.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>13544</key>
+		<dict>
+			<key>Track ID</key><integer>13544</integer>
+			<key>Name</key><string>'Round Midnight</string>
+			<key>Artist</key><string>Miles Davis</string>
+			<key>Album Artist</key><string>Miles Davis</string>
+			<key>Album</key><string>Greatest Hits [Columbia]</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>14679933</integer>
+			<key>Total Time</key><integer>357825</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>1997</integer>
+			<key>Date Modified</key><date>2021-09-03T17:45:02Z</date>
+			<key>Date Added</key><date>2025-05-23T00:04:33Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>10</integer>
+			<key>Play Date</key><integer>3776951089</integer>
+			<key>Play Date UTC</key><date>2023-09-07T20:04:49Z</date>
+			<key>Normalization</key><integer>1250</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>671914E409E5EE63</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Miles%20Davis%20-%20Greatest%20Hits%20-%20'Round%20Midnight.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>14236</key>
+		<dict>
+			<key>Track ID</key><integer>14236</integer>
+			<key>Name</key><string>Feelin' Good</string>
+			<key>Artist</key><string>Nina Simone</string>
+			<key>Album</key><string>Verve Remixed</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8744960</integer>
+			<key>Total Time</key><integer>364355</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2021-09-03T18:06:00Z</date>
+			<key>Date Added</key><date>2025-05-23T00:05:09Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2021-07-10T19:46:32Z</date>
+			<key>Normalization</key><integer>1788</integer>
+			<key>Persistent ID</key><string>7AACDC55133F69C2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Nina%20Simone%20-%20Feelin'%20Good.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15552</key>
+		<dict>
+			<key>Track ID</key><integer>15552</integer>
+			<key>Name</key><string>Lazy Afternoon</string>
+			<key>Artist</key><string>Regina Belle</string>
+			<key>Album</key><string>Lazy Afternoon</string>
+			<key>Genre</key><string>Jazz</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7720252</integer>
+			<key>Total Time</key><integer>321671</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2021-09-03T18:41:26Z</date>
+			<key>Date Added</key><date>2025-05-23T00:06:30Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3684151475</integer>
+			<key>Play Date UTC</key><date>2020-09-28T18:24:35Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2023-08-25T15:48:51Z</date>
+			<key>Normalization</key><integer>1340</integer>
+			<key>Persistent ID</key><string>95E17E64861E582B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Regina%20Belle%20-%20Lazy%20Afternoon.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>Mmnts, Jantar elegante</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>70990</integer>
+			<key>Playlist Persistent ID</key><string>DC9CB6C2E3112ED5</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>5194</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9108</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13544</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12704</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10856</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15552</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13354</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14236</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4772</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

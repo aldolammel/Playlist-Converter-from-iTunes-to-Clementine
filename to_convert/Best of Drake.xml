@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2025-06-04T13:03:24Z</date>
+	<key>Application Version</key><string>12.13.7.1</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/E:/Users/aldol/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>187AD5E35C5E82C1</string>
+	<key>Tracks</key>
+	<dict>
+		<key>7870</key>
+		<dict>
+			<key>Track ID</key><integer>7870</integer>
+			<key>Name</key><string>HYFR (Hell Ya Fucking Right) (com Lil Wayne)</string>
+			<key>Artist</key><string>Drake</string>
+			<key>Composer</key><string>Aubrey Graham, Chase N. Cashe</string>
+			<key>Album</key><string>Take Care (Deluxe Edition)</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8333158</integer>
+			<key>Total Time</key><integer>206706</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>15</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2024-07-04T16:22:30Z</date>
+			<key>Date Added</key><date>2025-05-22T23:59:39Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>100</integer>
+			<key>Play Count</key><integer>24</integer>
+			<key>Play Date</key><integer>3766602860</integer>
+			<key>Play Date UTC</key><date>2023-05-11T01:34:20Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2023-07-19T19:01:42Z</date>
+			<key>Normalization</key><integer>1906</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>Drake</string>
+			<key>Persistent ID</key><string>D79E89DDD2830482</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Drake%20-%20(2011)%20Take%20care%20-%20HYFR%20(Hell%20Ya%20Fucking%20Right)%20(Feat.%20Lil%20Wayne).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>7892</key>
+		<dict>
+			<key>Track ID</key><integer>7892</integer>
+			<key>Name</key><string>Underground Kings</string>
+			<key>Artist</key><string>Drake</string>
+			<key>Composer</key><string>Aubrey Graham, Patrick Douthit</string>
+			<key>Album</key><string>Take Care (Deluxe Edition)</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8566141</integer>
+			<key>Total Time</key><integer>212532</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2024-07-04T16:22:24Z</date>
+			<key>Date Added</key><date>2025-05-22T23:59:40Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>100</integer>
+			<key>Play Count</key><integer>22</integer>
+			<key>Play Date</key><integer>3774715631</integer>
+			<key>Play Date UTC</key><date>2023-08-12T23:07:11Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2022-09-14T14:18:14Z</date>
+			<key>Normalization</key><integer>2850</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>Drake</string>
+			<key>Persistent ID</key><string>51DBB4916C46BC16</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Drake%20-%20(2011)%20Take%20care%20-%20Under%20Gound%20Kings.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>7904</key>
+		<dict>
+			<key>Track ID</key><integer>7904</integer>
+			<key>Name</key><string>From Time (feat. Jhene Aiko)</string>
+			<key>Artist</key><string>Drake</string>
+			<key>Album Artist</key><string>Drake</string>
+			<key>Album</key><string>Nothing Was the Same</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>12968403</integer>
+			<key>Total Time</key><integer>322200</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2024-07-04T16:23:27Z</date>
+			<key>Date Added</key><date>2025-05-22T23:59:41Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Volume Adjustment</key><integer>100</integer>
+			<key>Play Count</key><integer>59</integer>
+			<key>Play Date</key><integer>3783175639</integer>
+			<key>Play Date UTC</key><date>2023-11-18T20:07:19Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2022-03-19T20:14:29Z</date>
+			<key>Normalization</key><integer>1626</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3D3145D094A70974</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Drake%20-%20(2013)%20Nothing%20Was%20the%20Same%20-%20From%20Time%20(feat.%20Jhene%20Aiko).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>7906</key>
+		<dict>
+			<key>Track ID</key><integer>7906</integer>
+			<key>Name</key><string>Furthest Thing</string>
+			<key>Artist</key><string>Drake</string>
+			<key>Album Artist</key><string>Drake</string>
+			<key>Album</key><string>Nothing Was the Same</string>
+			<key>Genre</key><string>Hip-Hop/Rap</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10766449</integer>
+			<key>Total Time</key><integer>267408</integer>
+			<key>Stop Time</key><integer>170000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2021-09-03T14:18:43Z</date>
+			<key>Date Added</key><date>2025-05-22T23:59:41Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Play Count</key><integer>52</integer>
+			<key>Play Date</key><integer>3783180510</integer>
+			<key>Play Date UTC</key><date>2023-11-18T21:28:30Z</date>
+			<key>Skip Count</key><integer>6</integer>
+			<key>Skip Date</key><date>2023-05-12T21:03:37Z</date>
+			<key>Normalization</key><integer>4325</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>115F0AD809EAFE78</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Drake%20-%20(2013)%20Nothing%20Was%20the%20Same%20-%20Furthest%20Thing.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>7926</key>
+		<dict>
+			<key>Track ID</key><integer>7926</integer>
+			<key>Name</key><string>6 Man</string>
+			<key>Artist</key><string>Drake</string>
+			<key>Album Artist</key><string>Drake</string>
+			<key>Album</key><string>If You're Reading This It's Too Late</string>
+			<key>Genre</key><string>Hip-Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5471537</integer>
+			<key>Total Time</key><integer>167758</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2024-03-29T14:04:23Z</date>
+			<key>Date Added</key><date>2025-05-22T23:59:42Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>100</integer>
+			<key>Play Count</key><integer>19</integer>
+			<key>Play Date</key><integer>3764912078</integer>
+			<key>Play Date UTC</key><date>2023-04-21T11:54:38Z</date>
+			<key>Normalization</key><integer>2196</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0BB094DD411E1DF1</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Drake%20-%206%20Man.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>7928</key>
+		<dict>
+			<key>Track ID</key><integer>7928</integer>
+			<key>Name</key><string>Back to Back</string>
+			<key>Artist</key><string>Drake</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2769860</integer>
+			<key>Total Time</key><integer>172460</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2024-07-04T16:23:10Z</date>
+			<key>Date Added</key><date>2025-05-22T23:59:42Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>99</integer>
+			<key>Play Count</key><integer>19</integer>
+			<key>Play Date</key><integer>3773073123</integer>
+			<key>Play Date UTC</key><date>2023-07-24T22:52:03Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2022-09-10T14:57:56Z</date>
+			<key>Normalization</key><integer>2710</integer>
+			<key>Sort Artist</key><string>Drake</string>
+			<key>Sort Name</key><string>Back to Back</string>
+			<key>Persistent ID</key><string>F48CD830FDD01407</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Drake%20-%20Back%20to%20Back.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>7930</key>
+		<dict>
+			<key>Track ID</key><integer>7930</integer>
+			<key>Name</key><string>Energy</string>
+			<key>Artist</key><string>Drake</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2858455</integer>
+			<key>Total Time</key><integer>177998</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2024-07-04T16:22:58Z</date>
+			<key>Date Added</key><date>2025-05-22T23:59:42Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>99</integer>
+			<key>Play Count</key><integer>17</integer>
+			<key>Play Date</key><integer>3764912775</integer>
+			<key>Play Date UTC</key><date>2023-04-21T12:06:15Z</date>
+			<key>Normalization</key><integer>737</integer>
+			<key>Sort Artist</key><string>Drake</string>
+			<key>Sort Name</key><string>Energy</string>
+			<key>Persistent ID</key><string>695AA25597DAB85F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Drake%20-%20Energy.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>7932</key>
+		<dict>
+			<key>Track ID</key><integer>7932</integer>
+			<key>Name</key><string>God's Plan</string>
+			<key>Artist</key><string>Drake</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11434082</integer>
+			<key>Total Time</key><integer>356989</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2021-09-03T14:19:50Z</date>
+			<key>Date Added</key><date>2025-05-22T23:59:42Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2022-09-10T15:02:06Z</date>
+			<key>Normalization</key><integer>1681</integer>
+			<key>Persistent ID</key><string>D454350D95B98DB1</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Drake%20-%20Gods%20Plan.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>7934</key>
+		<dict>
+			<key>Track ID</key><integer>7934</integer>
+			<key>Name</key><string>Hotline Bling</string>
+			<key>Artist</key><string>Drake</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4740524</integer>
+			<key>Total Time</key><integer>295627</integer>
+			<key>Start Time</key><integer>31000</integer>
+			<key>Date Modified</key><date>2024-07-04T16:22:50Z</date>
+			<key>Date Added</key><date>2025-05-22T23:59:42Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>99</integer>
+			<key>Play Count</key><integer>21</integer>
+			<key>Play Date</key><integer>3764911161</integer>
+			<key>Play Date UTC</key><date>2023-04-21T11:39:21Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2021-11-19T15:17:51Z</date>
+			<key>Normalization</key><integer>701</integer>
+			<key>Sort Artist</key><string>Drake</string>
+			<key>Sort Name</key><string>Hotline Bling</string>
+			<key>Persistent ID</key><string>7B4CE172E5352AE2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Drake%20-%20Hotline%20Bling.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>7936</key>
+		<dict>
+			<key>Track ID</key><integer>7936</integer>
+			<key>Name</key><string>No New Friends (DJ Khaled Remix com Rick Ross &#38; Lil Wayne)</string>
+			<key>Artist</key><string>Drake</string>
+			<key>Genre</key><string>Hip Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7375348</integer>
+			<key>Total Time</key><integer>307121</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2021-09-03T14:19:53Z</date>
+			<key>Date Added</key><date>2025-05-22T23:59:42Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>23</integer>
+			<key>Play Date</key><integer>3766603328</integer>
+			<key>Play Date UTC</key><date>2023-05-11T01:42:08Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2021-11-24T02:14:39Z</date>
+			<key>Normalization</key><integer>3278</integer>
+			<key>Persistent ID</key><string>AC1540A9D1C1E6A2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Drake%20-%20No%20New%20Friends%20(DJ%20Khaled%20Remix%20com%20Rick%20Ross%20&#38;%20Lil%20Wayne).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>Best of: Drake</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>63316</integer>
+			<key>Playlist Persistent ID</key><string>D0605F2657F14377</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>7870</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7892</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7906</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7926</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7928</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7932</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7934</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7936</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7930</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7904</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

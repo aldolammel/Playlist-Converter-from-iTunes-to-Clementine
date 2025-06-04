@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2025-06-04T13:06:11Z</date>
+	<key>Application Version</key><string>12.13.7.1</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/E:/Users/aldol/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>187AD5E35C5E82C1</string>
+	<key>Tracks</key>
+	<dict>
+		<key>14952</key>
+		<dict>
+			<key>Track ID</key><integer>14952</integer>
+			<key>Name</key><string>Psycho (ft. Ty Dolla)</string>
+			<key>Artist</key><string>Post Malone</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7584679</integer>
+			<key>Total Time</key><integer>236695</integer>
+			<key>Date Modified</key><date>2024-07-04T16:23:26Z</date>
+			<key>Date Added</key><date>2025-05-23T00:05:58Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>99</integer>
+			<key>Play Count</key><integer>28</integer>
+			<key>Play Date</key><integer>3783175871</integer>
+			<key>Play Date UTC</key><date>2023-11-18T20:11:11Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2023-05-31T13:59:50Z</date>
+			<key>Normalization</key><integer>1242</integer>
+			<key>Persistent ID</key><string>5C5AC2B815F997EB</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Post%20Malone%20-%20Psycho%20(ft.%20Ty%20Dolla).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>14956</key>
+		<dict>
+			<key>Track ID</key><integer>14956</integer>
+			<key>Name</key><string>Rockstar ft. 21 Savage (Dawg Remix)</string>
+			<key>Artist</key><string>Post Malone</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7881654</integer>
+			<key>Total Time</key><integer>196780</integer>
+			<key>Date Modified</key><date>2021-09-03T18:27:52Z</date>
+			<key>Date Added</key><date>2025-05-23T00:05:58Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>43</integer>
+			<key>Play Date</key><integer>3783185181</integer>
+			<key>Play Date UTC</key><date>2023-11-18T22:46:21Z</date>
+			<key>Normalization</key><integer>3769</integer>
+			<key>Persistent ID</key><string>EFB59BC25945B336</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Post%20Malone%20-%20Rockstar%20ft.%2021%20Savage%20(Dawg%20Remix).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>18740</key>
+		<dict>
+			<key>Track ID</key><integer>18740</integer>
+			<key>Name</key><string>Hollywood's Bleeding</string>
+			<key>Artist</key><string>Post Malone</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6305948</integer>
+			<key>Total Time</key><integer>157387</integer>
+			<key>Date Modified</key><date>2024-07-04T16:23:30Z</date>
+			<key>Date Added</key><date>2025-05-23T00:09:17Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>99</integer>
+			<key>Play Count</key><integer>24</integer>
+			<key>Play Date</key><integer>3783184081</integer>
+			<key>Play Date UTC</key><date>2023-11-18T22:28:01Z</date>
+			<key>Normalization</key><integer>1703</integer>
+			<key>Persistent ID</key><string>BE1E1B8E471DCAE5</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Post%20Malone%20-%20Hollywoods%20Bleeding.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>Best of: Post Malone</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>63604</integer>
+			<key>Playlist Persistent ID</key><string>79FE6FD5C4F278E7</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>18740</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14956</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14952</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

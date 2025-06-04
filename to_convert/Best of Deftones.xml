@@ -1,0 +1,1145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2025-06-04T13:01:48Z</date>
+	<key>Application Version</key><string>12.13.7.1</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/E:/Users/aldol/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>187AD5E35C5E82C1</string>
+	<key>Tracks</key>
+	<dict>
+		<key>7164</key>
+		<dict>
+			<key>Track ID</key><integer>7164</integer>
+			<key>Name</key><string>Bored</string>
+			<key>Artist</key><string>Deftones</string>
+			<key>Album</key><string>Adrenaline</string>
+			<key>Genre</key><string>AlternRock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5971003</integer>
+			<key>Total Time</key><integer>245968</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>1995</integer>
+			<key>Date Modified</key><date>2021-09-03T13:50:05Z</date>
+			<key>Date Added</key><date>2025-05-22T23:59:05Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Ross Robinson foi quem produziu este álbum. </string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3778056581</integer>
+			<key>Play Date UTC</key><date>2023-09-20T15:09:41Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2021-11-10T20:53:55Z</date>
+			<key>Normalization</key><integer>4400</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C3FC5430428A160A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Deftones%20-%20(1995)%20Adrenaline%20-%20Bored.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>7182</key>
+		<dict>
+			<key>Track ID</key><integer>7182</integer>
+			<key>Name</key><string>Be quiet and drive (far away)</string>
+			<key>Artist</key><string>Deftones</string>
+			<key>Album</key><string>Around the fur</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7437622</integer>
+			<key>Total Time</key><integer>308062</integer>
+			<key>Year</key><integer>1997</integer>
+			<key>Date Modified</key><date>2025-05-30T19:55:30Z</date>
+			<key>Date Added</key><date>2025-05-22T23:59:05Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>15</integer>
+			<key>Play Date</key><integer>3778052876</integer>
+			<key>Play Date UTC</key><date>2023-09-20T14:07:56Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2020-06-14T18:10:24Z</date>
+			<key>Normalization</key><integer>11661</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B65B98186E2EC14B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Deftones%20-%20(1997)%20Around%20the%20fur%20-%20Be%20quiet%20and%20drive%20(far)%20.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>7184</key>
+		<dict>
+			<key>Track ID</key><integer>7184</integer>
+			<key>Name</key><string>Dai the flu</string>
+			<key>Artist</key><string>Deftones</string>
+			<key>Album</key><string>Around the fur</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6683286</integer>
+			<key>Total Time</key><integer>276636</integer>
+			<key>Year</key><integer>1997</integer>
+			<key>Date Modified</key><date>2021-09-03T13:50:37Z</date>
+			<key>Date Added</key><date>2025-05-22T23:59:05Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3779030860</integer>
+			<key>Play Date UTC</key><date>2023-10-01T21:47:40Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2024-01-24T18:53:54Z</date>
+			<key>Normalization</key><integer>8113</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>544EBE621446A5E2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Deftones%20-%20(1997)%20Around%20the%20fur%20-%20Dai%20the%20flu.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>7186</key>
+		<dict>
+			<key>Track ID</key><integer>7186</integer>
+			<key>Name</key><string>Headup</string>
+			<key>Artist</key><string>Deftones</string>
+			<key>Album</key><string>Around the fur</string>
+			<key>Genre</key><string>AlternRock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7556005</integer>
+			<key>Total Time</key><integer>312999</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Year</key><integer>1997</integer>
+			<key>Date Modified</key><date>2021-09-03T13:50:38Z</date>
+			<key>Date Added</key><date>2025-05-22T23:59:06Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3778054388</integer>
+			<key>Play Date UTC</key><date>2023-09-20T14:33:08Z</date>
+			<key>Normalization</key><integer>7226</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BF82987255BFAB88</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Deftones%20-%20(1997)%20Around%20the%20fur%20-%20Headup.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>7190</key>
+		<dict>
+			<key>Track ID</key><integer>7190</integer>
+			<key>Name</key><string>Lotion</string>
+			<key>Artist</key><string>Deftones</string>
+			<key>Album</key><string>Around the fur</string>
+			<key>Genre</key><string>AlternRock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5751675</integer>
+			<key>Total Time</key><integer>237818</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>1997</integer>
+			<key>Date Modified</key><date>2021-09-03T13:50:43Z</date>
+			<key>Date Added</key><date>2025-05-22T23:59:06Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3778052434</integer>
+			<key>Play Date UTC</key><date>2023-09-20T14:00:34Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2021-11-13T17:55:55Z</date>
+			<key>Normalization</key><integer>12332</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>459C830BC55C9DCB</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Deftones%20-%20(1997)%20Around%20the%20fur%20-%20Lotion.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>7192</key>
+		<dict>
+			<key>Track ID</key><integer>7192</integer>
+			<key>Name</key><string>Mascara</string>
+			<key>Artist</key><string>Deftones</string>
+			<key>Album</key><string>Around the fur</string>
+			<key>Genre</key><string>AlternRock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5452625</integer>
+			<key>Total Time</key><integer>225358</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>1997</integer>
+			<key>Date Modified</key><date>2021-09-03T13:50:49Z</date>
+			<key>Date Added</key><date>2025-05-22T23:59:06Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3778058399</integer>
+			<key>Play Date UTC</key><date>2023-09-20T15:39:59Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2021-05-30T17:33:01Z</date>
+			<key>Normalization</key><integer>2423</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>7647CB8E5FE35D6F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Deftones%20-%20(1997)%20Around%20the%20fur%20-%20Mascara.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>7194</key>
+		<dict>
+			<key>Track ID</key><integer>7194</integer>
+			<key>Name</key><string>My own summer (shove it)</string>
+			<key>Artist</key><string>Deftones</string>
+			<key>Album</key><string>Around the fur</string>
+			<key>Genre</key><string>AlternRock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5212508</integer>
+			<key>Total Time</key><integer>215353</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>1997</integer>
+			<key>Date Modified</key><date>2021-09-03T13:50:49Z</date>
+			<key>Date Added</key><date>2025-05-22T23:59:06Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3778054079</integer>
+			<key>Play Date UTC</key><date>2023-09-20T14:27:59Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2020-06-14T18:09:34Z</date>
+			<key>Normalization</key><integer>7946</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>53AD296FFC5178B6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Deftones%20-%20(1997)%20Around%20the%20fur%20-%20My%20own%20summer%20(shove%20it).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>7204</key>
+		<dict>
+			<key>Track ID</key><integer>7204</integer>
+			<key>Name</key><string>Back To School</string>
+			<key>Artist</key><string>Deftones</string>
+			<key>Album</key><string>White Pony</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6165253</integer>
+			<key>Total Time</key><integer>255582</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2024-07-04T16:22:03Z</date>
+			<key>Date Added</key><date>2025-05-22T23:59:06Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>99</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3778054876</integer>
+			<key>Play Date UTC</key><date>2023-09-20T14:41:16Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2021-11-13T20:02:36Z</date>
+			<key>Normalization</key><integer>10641</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>CF0F3552192746EA</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Deftones%20-%20(2000)%20White%20Pony%20-%20Back%20To%20School.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>7208</key>
+		<dict>
+			<key>Track ID</key><integer>7208</integer>
+			<key>Name</key><string>Change (in the house of flies)</string>
+			<key>Artist</key><string>Deftones</string>
+			<key>Album</key><string>White Pony</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7220334</integer>
+			<key>Total Time</key><integer>299546</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2025-01-26T01:22:00Z</date>
+			<key>Date Added</key><date>2025-05-22T23:59:07Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>100</integer>
+			<key>Comments</key><string>[EGO] ----- EGO ----- [EGO]</string>
+			<key>Play Count</key><integer>20</integer>
+			<key>Play Date</key><integer>3771339441</integer>
+			<key>Play Date UTC</key><date>2023-07-04T21:17:21Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2023-03-23T17:45:52Z</date>
+			<key>Normalization</key><integer>9415</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>923EB7D3D39AEE80</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Deftones%20-%20(2000)%20White%20Pony%20-%20Change%20(In%20The%20House%20Of%20Flies).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>7210</key>
+		<dict>
+			<key>Track ID</key><integer>7210</integer>
+			<key>Name</key><string>Digital Bath</string>
+			<key>Artist</key><string>Deftones</string>
+			<key>Album</key><string>White Pony</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6162689</integer>
+			<key>Total Time</key><integer>255477</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2025-01-26T01:22:04Z</date>
+			<key>Date Added</key><date>2025-05-22T23:59:07Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>100</integer>
+			<key>Comments</key><string>[EGO] ----- EGO ----- [EGO]</string>
+			<key>Play Count</key><integer>50</integer>
+			<key>Play Date</key><integer>3783183519</integer>
+			<key>Play Date UTC</key><date>2023-11-18T22:18:39Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2022-05-08T13:46:39Z</date>
+			<key>Normalization</key><integer>6921</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>16360B0A79AAC7A2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Deftones%20-%20(2000)%20White%20Pony%20-%20Digital%20Bath.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>7212</key>
+		<dict>
+			<key>Track ID</key><integer>7212</integer>
+			<key>Name</key><string>Elite</string>
+			<key>Artist</key><string>Deftones</string>
+			<key>Album</key><string>White Pony</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5836690</integer>
+			<key>Total Time</key><integer>241893</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2021-09-03T13:51:20Z</date>
+			<key>Date Added</key><date>2025-05-22T23:59:07Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>[EGO] ----- EGO ----- [EGO]</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3778054625</integer>
+			<key>Play Date UTC</key><date>2023-09-20T14:37:05Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2022-09-07T14:26:07Z</date>
+			<key>Normalization</key><integer>16591</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>CFE2697D1EAE04C7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Deftones%20-%20(2000)%20White%20Pony%20-%20Elite.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>7218</key>
+		<dict>
+			<key>Track ID</key><integer>7218</integer>
+			<key>Name</key><string>Knife party</string>
+			<key>Artist</key><string>Deftones</string>
+			<key>Album</key><string>White Pony</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6973374</integer>
+			<key>Total Time</key><integer>289253</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2021-09-03T13:51:34Z</date>
+			<key>Date Added</key><date>2025-05-22T23:59:07Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3778058179</integer>
+			<key>Play Date UTC</key><date>2023-09-20T15:36:19Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2020-06-16T15:50:21Z</date>
+			<key>Normalization</key><integer>8076</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>36CB3CE4B0A0FCE1</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Deftones%20-%20(2000)%20White%20Pony%20-%20Knife%20Party.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>7222</key>
+		<dict>
+			<key>Track ID</key><integer>7222</integer>
+			<key>Name</key><string>Passenger (com o vocal do A Perfect Circle)</string>
+			<key>Artist</key><string>Deftones</string>
+			<key>Album</key><string>White Pony</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8881734</integer>
+			<key>Total Time</key><integer>368770</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2021-09-03T13:51:38Z</date>
+			<key>Date Added</key><date>2025-05-22T23:59:07Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3778056068</integer>
+			<key>Play Date UTC</key><date>2023-09-20T15:01:08Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2020-06-14T18:20:04Z</date>
+			<key>Normalization</key><integer>4698</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>EAECB063762633F1</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Deftones%20-%20(2000)%20White%20Pony%20-%20Passenger.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>7226</key>
+		<dict>
+			<key>Track ID</key><integer>7226</integer>
+			<key>Name</key><string>RX Queen</string>
+			<key>Artist</key><string>Deftones</string>
+			<key>Album</key><string>White Pony</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6459231</integer>
+			<key>Total Time</key><integer>267833</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2021-09-03T13:51:44Z</date>
+			<key>Date Added</key><date>2025-05-22T23:59:07Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>[EGO] ----- EGO ----- [EGO]</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3740498541</integer>
+			<key>Play Date UTC</key><date>2022-07-12T22:22:21Z</date>
+			<key>Normalization</key><integer>4351</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>1EB31EE474F3A6DF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Deftones%20-%20(2000)%20White%20Pony%20-%20RX%20Queen.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>7234</key>
+		<dict>
+			<key>Track ID</key><integer>7234</integer>
+			<key>Name</key><string>Battle-Axe</string>
+			<key>Artist</key><string>Deftones</string>
+			<key>Album</key><string>Deftones</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>13075431</integer>
+			<key>Total Time</key><integer>301949</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2025-01-26T01:22:07Z</date>
+			<key>Date Added</key><date>2025-05-22T23:59:08Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3771340278</integer>
+			<key>Play Date UTC</key><date>2023-07-04T21:31:18Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2023-09-30T03:33:03Z</date>
+			<key>Normalization</key><integer>9135</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B19AB232EB6A6FE6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Deftones%20-%20(2003)%20Deftones%20-%20Battle-Axe.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>7236</key>
+		<dict>
+			<key>Track ID</key><integer>7236</integer>
+			<key>Name</key><string>Bloody Cape</string>
+			<key>Artist</key><string>Deftones</string>
+			<key>Album</key><string>Deftones</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9716085</integer>
+			<key>Total Time</key><integer>217965</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2021-09-03T13:52:12Z</date>
+			<key>Date Added</key><date>2025-05-22T23:59:08Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3778053575</integer>
+			<key>Play Date UTC</key><date>2023-09-20T14:19:35Z</date>
+			<key>Normalization</key><integer>10975</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2085A8242D9CF278</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Deftones%20-%20(2003)%20Deftones%20-%20Bloody%20Cape.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>7252</key>
+		<dict>
+			<key>Track ID</key><integer>7252</integer>
+			<key>Name</key><string>When Girls Telephone Boys</string>
+			<key>Artist</key><string>Deftones</string>
+			<key>Composer</key><string>Deftones</string>
+			<key>Album</key><string>Deftones</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5422747</integer>
+			<key>Total Time</key><integer>276480</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2021-09-03T13:52:37Z</date>
+			<key>Date Added</key><date>2025-05-22T23:59:09Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3778056340</integer>
+			<key>Play Date UTC</key><date>2023-09-20T15:05:40Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2021-07-02T19:59:27Z</date>
+			<key>Normalization</key><integer>12030</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>DCD4025C2A3616B3</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Deftones%20-%20(2003)%20Deftones%20-%20When%20Girls%20Telephone%20Boys.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>7254</key>
+		<dict>
+			<key>Track ID</key><integer>7254</integer>
+			<key>Name</key><string>Beware</string>
+			<key>Artist</key><string>Deftones</string>
+			<key>Album</key><string>Saturday Night Wrist</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8768996</integer>
+			<key>Total Time</key><integer>360751</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2021-09-03T13:52:38Z</date>
+			<key>Date Added</key><date>2025-05-22T23:59:09Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3778059027</integer>
+			<key>Play Date UTC</key><date>2023-09-20T15:50:27Z</date>
+			<key>Normalization</key><integer>6537</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>74209C7013CAFFF7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Deftones%20-%20(2006)%20Saturday%20Night%20Wrist%20-%20Beware.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>7260</key>
+		<dict>
+			<key>Track ID</key><integer>7260</integer>
+			<key>Name</key><string>Hole In The Earth</string>
+			<key>Artist</key><string>Deftones</string>
+			<key>Album</key><string>Saturday Night Wrist</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6097036</integer>
+			<key>Total Time</key><integer>249417</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2021-09-03T13:52:44Z</date>
+			<key>Date Added</key><date>2025-05-22T23:59:09Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>www.torrentazos.com</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3778052200</integer>
+			<key>Play Date UTC</key><date>2023-09-20T13:56:40Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2021-05-29T00:49:26Z</date>
+			<key>Normalization</key><integer>11005</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>384C92D47E14E9C0</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Deftones%20-%20(2006)%20Saturday%20Night%20Wrist%20-%20Hole%20in%20the%20earth.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>7262</key>
+		<dict>
+			<key>Track ID</key><integer>7262</integer>
+			<key>Name</key><string>Kimdracula</string>
+			<key>Artist</key><string>Deftones</string>
+			<key>Album</key><string>Saturday Night Wrist</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4813017</integer>
+			<key>Total Time</key><integer>195918</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2021-09-03T13:52:47Z</date>
+			<key>Date Added</key><date>2025-05-22T23:59:09Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3778048977</integer>
+			<key>Play Date UTC</key><date>2023-09-20T13:02:57Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2021-05-29T00:49:35Z</date>
+			<key>Normalization</key><integer>12375</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F3751B600F76418C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Deftones%20-%20(2006)%20Saturday%20Night%20Wrist%20-%20Kimdracula.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>7270</key>
+		<dict>
+			<key>Track ID</key><integer>7270</integer>
+			<key>Name</key><string>Dallas (gravações perdidas)</string>
+			<key>Artist</key><string>Deftones</string>
+			<key>Album</key><string>Eros</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2489963</integer>
+			<key>Total Time</key><integer>154958</integer>
+			<key>Start Time</key><integer>20000</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2021-09-03T13:52:57Z</date>
+			<key>Date Added</key><date>2025-05-22T23:59:10Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>255</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3778057894</integer>
+			<key>Play Date UTC</key><date>2023-09-20T15:31:34Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2021-11-23T18:49:02Z</date>
+			<key>Normalization</key><integer>550</integer>
+			<key>Sort Album</key><string>Eros</string>
+			<key>Sort Artist</key><string>Deftones</string>
+			<key>Sort Name</key><string>Dallas (gravações perdidas)</string>
+			<key>Persistent ID</key><string>BD22C92F7E2815E1</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Deftones%20-%20(2008)%20Eros%20-%20Dallas%20(grava%C3%A7%C3%B5es%20perdidas).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>7282</key>
+		<dict>
+			<key>Track ID</key><integer>7282</integer>
+			<key>Name</key><string>Risk</string>
+			<key>Artist</key><string>Deftones</string>
+			<key>Album</key><string>Diamond Eyes</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8808245</integer>
+			<key>Total Time</key><integer>218880</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2021-09-03T13:53:25Z</date>
+			<key>Date Added</key><date>2025-05-22T23:59:10Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3778057764</integer>
+			<key>Play Date UTC</key><date>2023-09-20T15:29:24Z</date>
+			<key>Normalization</key><integer>6970</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>80F1CAFDB0A68D26</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Deftones%20-%20(2010)%20Diamond%20Eyes%20-%20Risk.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>7288</key>
+		<dict>
+			<key>Track ID</key><integer>7288</integer>
+			<key>Name</key><string>Sextape</string>
+			<key>Artist</key><string>Deftones</string>
+			<key>Album</key><string>Diamond Eyes</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9711037</integer>
+			<key>Total Time</key><integer>241449</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2021-09-03T13:53:39Z</date>
+			<key>Date Added</key><date>2025-05-22T23:59:11Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3720528216</integer>
+			<key>Play Date UTC</key><date>2021-11-23T18:03:36Z</date>
+			<key>Normalization</key><integer>3412</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8FD4DC04653BE4BB</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Deftones%20-%20(2010)%20Diamond%20Eyes%20-%20Sextape.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>7294</key>
+		<dict>
+			<key>Track ID</key><integer>7294</integer>
+			<key>Name</key><string>Entombed</string>
+			<key>Artist</key><string>Deftones</string>
+			<key>Album</key><string>Koi No Yokan</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>13733227</integer>
+			<key>Total Time</key><integer>299311</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2021-09-03T13:53:52Z</date>
+			<key>Date Added</key><date>2025-05-22T23:59:11Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3778055175</integer>
+			<key>Play Date UTC</key><date>2023-09-20T14:46:15Z</date>
+			<key>Normalization</key><integer>7567</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>1235A579F4FDD9A6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Deftones%20-%20(2012)%20Koi%20No%20Yokan%20-%20Entombed.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>7300</key>
+		<dict>
+			<key>Track ID</key><integer>7300</integer>
+			<key>Name</key><string>Graphic Nature</string>
+			<key>Artist</key><string>Deftones</string>
+			<key>Album</key><string>Koi No Yokan</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>12624596</integer>
+			<key>Total Time</key><integer>271595</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2021-09-03T13:54:04Z</date>
+			<key>Date Added</key><date>2025-05-22T23:59:11Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3778055442</integer>
+			<key>Play Date UTC</key><date>2023-09-20T14:50:42Z</date>
+			<key>Normalization</key><integer>15440</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3EC96E854F110ED0</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Deftones%20-%20(2012)%20Koi%20No%20Yokan%20-%20Graphic%20Nature.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>7302</key>
+		<dict>
+			<key>Track ID</key><integer>7302</integer>
+			<key>Name</key><string>Leathers</string>
+			<key>Artist</key><string>Deftones</string>
+			<key>Album</key><string>Koi No Yokan</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11718664</integer>
+			<key>Total Time</key><integer>248946</integer>
+			<key>Start Time</key><integer>39000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2021-09-03T13:54:14Z</date>
+			<key>Date Added</key><date>2025-05-22T23:59:11Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3720473513</integer>
+			<key>Play Date UTC</key><date>2021-11-23T02:51:53Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2020-06-14T18:16:17Z</date>
+			<key>Normalization</key><integer>15233</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0F190C28FC4DE2D7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Deftones%20-%20(2012)%20Koi%20No%20Yokan%20-%20Leathers.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>7304</key>
+		<dict>
+			<key>Track ID</key><integer>7304</integer>
+			<key>Name</key><string>Poltergeist</string>
+			<key>Artist</key><string>Deftones</string>
+			<key>Album</key><string>Koi No Yokan</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10220283</integer>
+			<key>Total Time</key><integer>211487</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2021-09-03T13:54:18Z</date>
+			<key>Date Added</key><date>2025-05-22T23:59:12Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3778057226</integer>
+			<key>Play Date UTC</key><date>2023-09-20T15:20:26Z</date>
+			<key>Normalization</key><integer>17509</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>56F9AFF42AF8601B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Deftones%20-%20(2012)%20Koi%20No%20Yokan%20-%20Poltergeist.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>7328</key>
+		<dict>
+			<key>Track ID</key><integer>7328</integer>
+			<key>Name</key><string>Phantom Bride (feat. Jerry Cantrell Alice in Chains)</string>
+			<key>Artist</key><string>Deftones</string>
+			<key>Album Artist</key><string>Deftones</string>
+			<key>Album</key><string>Gore</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11863460</integer>
+			<key>Total Time</key><integer>293120</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2021-09-03T13:55:19Z</date>
+			<key>Date Added</key><date>2025-05-22T23:59:13Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>pdmhcore.ru</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3778051956</integer>
+			<key>Play Date UTC</key><date>2023-09-20T13:52:36Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2020-06-16T16:09:35Z</date>
+			<key>Normalization</key><integer>7844</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>Phantom Bride (feat. Jerry Cantrell Alice in Chains)</string>
+			<key>Persistent ID</key><string>BE4C40546F5A5ADE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Deftones%20-%20(2016)%20Gore%20-%20Phantom%20Bride.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>7332</key>
+		<dict>
+			<key>Track ID</key><integer>7332</integer>
+			<key>Name</key><string>Prayers / Triangles</string>
+			<key>Artist</key><string>Deftones</string>
+			<key>Album Artist</key><string>Deftones</string>
+			<key>Album</key><string>Gore</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8858345</integer>
+			<key>Total Time</key><integer>217991</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2021-09-03T13:55:23Z</date>
+			<key>Date Added</key><date>2025-05-22T23:59:13Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>pdmhcore.ru</string>
+			<key>Play Count</key><integer>14</integer>
+			<key>Play Date</key><integer>3778057020</integer>
+			<key>Play Date UTC</key><date>2023-09-20T15:17:00Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2022-06-25T03:14:25Z</date>
+			<key>Normalization</key><integer>9022</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>68CDA3970EBB1507</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Deftones%20-%20(2016)%20Gore%20-%20Prayers%20-%20Triangles.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>7334</key>
+		<dict>
+			<key>Track ID</key><integer>7334</integer>
+			<key>Name</key><string>Rubicon</string>
+			<key>Artist</key><string>Deftones</string>
+			<key>Album Artist</key><string>Deftones</string>
+			<key>Album</key><string>Gore</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>12054664</integer>
+			<key>Total Time</key><integer>297900</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2021-09-03T13:55:28Z</date>
+			<key>Date Added</key><date>2025-05-22T23:59:13Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>pdmhcore.ru</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3778053869</integer>
+			<key>Play Date UTC</key><date>2023-09-20T14:24:29Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2021-07-02T19:59:40Z</date>
+			<key>Loved</key><true/>
+			<key>Normalization</key><integer>14755</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6856131DA4E47D20</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Deftones%20-%20(2016)%20Gore%20-%20Rubicon.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>13540</key>
+		<dict>
+			<key>Track ID</key><integer>13540</integer>
+			<key>Name</key><string>Lift Off (feat. Chino Moreno and Machine Gun Kelly)</string>
+			<key>Artist</key><string>Mike Shinoda</string>
+			<key>Genre</key><string>Hip-Hop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5781727</integer>
+			<key>Total Time</key><integer>240378</integer>
+			<key>Date Modified</key><date>2024-07-04T16:23:10Z</date>
+			<key>Date Added</key><date>2025-05-23T00:04:33Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>99</integer>
+			<key>Play Count</key><integer>23</integer>
+			<key>Play Date</key><integer>3778053362</integer>
+			<key>Play Date UTC</key><date>2023-09-20T14:16:02Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2020-10-06T15:16:03Z</date>
+			<key>Normalization</key><integer>3460</integer>
+			<key>Persistent ID</key><string>FC289AD2E43CF27B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Mike%20Shinoda%20-%20Lift%20Off.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>17690</key>
+		<dict>
+			<key>Track ID</key><integer>17690</integer>
+			<key>Name</key><string>Error</string>
+			<key>Artist</key><string>Deftones</string>
+			<key>Album Artist</key><string>Deftones</string>
+			<key>Album</key><string>Ohms</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11745219</integer>
+			<key>Total Time</key><integer>290403</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2021-09-03T13:55:39Z</date>
+			<key>Date Added</key><date>2025-05-23T00:08:25Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Freak37</string>
+			<key>Play Count</key><integer>28</integer>
+			<key>Play Date</key><integer>3720527511</integer>
+			<key>Play Date UTC</key><date>2021-11-23T17:51:51Z</date>
+			<key>Skip Count</key><integer>6</integer>
+			<key>Skip Date</key><date>2021-08-07T00:40:19Z</date>
+			<key>Normalization</key><integer>12820</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>54EF6E25AE486F87</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Deftones%20-%20(2020)%20Ohms%20-%20Error.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>17702</key>
+		<dict>
+			<key>Track ID</key><integer>17702</integer>
+			<key>Name</key><string>The Spell of Mathematics</string>
+			<key>Artist</key><string>Deftones</string>
+			<key>Album Artist</key><string>Deftones</string>
+			<key>Album</key><string>Ohms</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>13232147</integer>
+			<key>Total Time</key><integer>327575</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2021-09-03T13:56:11Z</date>
+			<key>Date Added</key><date>2025-05-23T00:08:25Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Freak37</string>
+			<key>Play Count</key><integer>40</integer>
+			<key>Play Date</key><integer>3783277296</integer>
+			<key>Play Date UTC</key><date>2023-11-20T00:21:36Z</date>
+			<key>Skip Count</key><integer>7</integer>
+			<key>Skip Date</key><date>2022-09-07T04:49:03Z</date>
+			<key>Loved</key><true/>
+			<key>Normalization</key><integer>7692</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>Spell of Mathematics</string>
+			<key>Persistent ID</key><string>2B9BEB2098C6B01E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Deftones%20-%20(2020)%20Ohms%20-%20The%20Spell%20of%20Mathematics.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>17786</key>
+		<dict>
+			<key>Track ID</key><integer>17786</integer>
+			<key>Name</key><string>Change (Deftones cover)</string>
+			<key>Artist</key><string>Alicia Widar</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10686113</integer>
+			<key>Total Time</key><integer>266893</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Modified</key><date>2021-05-29T19:56:33Z</date>
+			<key>Date Added</key><date>2025-05-23T00:08:29Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>254</integer>
+			<key>Play Count</key><integer>14</integer>
+			<key>Play Date</key><integer>3778055704</integer>
+			<key>Play Date UTC</key><date>2023-09-20T14:55:04Z</date>
+			<key>Skip Count</key><integer>7</integer>
+			<key>Skip Date</key><date>2023-09-29T12:47:56Z</date>
+			<key>Normalization</key><integer>365</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>9C940ADD0C0D8851</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Alicia%20Widar%20-%20(2021)%20-%20Change%20(Deftones%20cover).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>18684</key>
+		<dict>
+			<key>Track ID</key><integer>18684</integer>
+			<key>Name</key><string>Holier</string>
+			<key>Artist</key><string>††† (Crosses)</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9482445</integer>
+			<key>Total Time</key><integer>236800</integer>
+			<key>Start Time</key><integer>7000</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Date Modified</key><date>2024-06-18T22:33:42Z</date>
+			<key>Date Added</key><date>2025-05-23T00:09:14Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>99</integer>
+			<key>Play Count</key><integer>29</integer>
+			<key>Play Date</key><integer>3788161833</integer>
+			<key>Play Date UTC</key><date>2024-01-15T13:10:33Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2022-12-19T20:53:29Z</date>
+			<key>Normalization</key><integer>4436</integer>
+			<key>Persistent ID</key><string>3CEF875CCEB6880A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Crosses%20-%20(2022)%20xxxxxx%20-%20Holier.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>Best of: Deftones</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>63278</integer>
+			<key>Playlist Persistent ID</key><string>31A84826AA58E0AE</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>7332</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7328</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7260</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7262</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7212</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7204</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7208</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7210</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7218</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7222</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7226</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13540</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7164</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7194</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7192</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7190</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7186</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7182</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7184</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7252</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7236</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7234</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7288</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7282</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7270</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7302</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7304</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7294</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7300</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7254</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7334</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17690</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17702</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17786</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18684</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

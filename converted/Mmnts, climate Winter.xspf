@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+    <trackList>
+        <track>
+            <title>Base LoFi para a canção Cheia De Manias (JDutra)</title>
+            <creator>Raça Negra</creator>
+            <duration>173087</duration>
+            <location>U:\Shared\Music\Raça Negra - Cheia de Manias (lofi remix by João Dutra - jdutra - no voices).mp3</location>
+        </track>
+        <track>
+            <title>Pug Life (feat Chad Bogus)</title>
+            <creator>Beatslingers</creator>
+            <duration>193410</duration>
+            <location>U:\Shared\Music\Beatslingers - 2014 - Pug Life (Chad Bogus).mp3</location>
+        </track>
+        <track>
+            <title>Time</title>
+            <creator>Bassti</creator>
+            <album>Chillhop</album>
+            <duration>95208</duration>
+            <location>U:\Shared\Music\Bassti - (2017) Chillhop - Time.mp3</location>
+        </track>
+        <track>
+            <title>lazyness</title>
+            <creator>Nothingtosay</creator>
+            <album>Introspective</album>
+            <duration>161880</duration>
+            <trackNum>7</trackNum>
+            <location>U:\Shared\Music\Nothingtosay - (2020) Introspective - 7 - lazyness.mp3</location>
+        </track>
+        <track>
+            <title>Motions</title>
+            <creator>Tibeauthetraveler</creator>
+            <album>Motions</album>
+            <duration>121547</duration>
+            <location>U:\Shared\Music\Tibeauthetraveler - (2021) Motions - Motions.mp3</location>
+        </track>
+        <track>
+            <title>Paralisou</title>
+            <creator>Cynthia Luz</creator>
+            <duration>193724</duration>
+            <location>U:\Shared\Music\Cynthia Luz - Paralisou.mp3</location>
+        </track>
+        <track>
+            <title>No Secrets</title>
+            <creator>dryhope</creator>
+            <album>Kenopsia</album>
+            <duration>115226</duration>
+            <location>U:\Shared\Music\Dryhope - (2020) Kenopsia - No Secrets.mp3</location>
+        </track>
+        <track>
+            <title>Don't Go Away (Remastered)</title>
+            <creator>Oasis</creator>
+            <album>Be Here Now</album>
+            <duration>288696</duration>
+            <location>U:\Shared\Music\Oasis - (1997) Be Here Now - Don't Go Away.mp3</location>
+        </track>
+        <track>
+            <title>Gravura</title>
+            <creator>Franktuary</creator>
+            <duration>210504</duration>
+            <location>U:\Shared\Music\Franktuary - 2020 - Gravura.mp3</location>
+        </track>
+        <track>
+            <title>Aurora</title>
+            <creator>Nomyn </creator>
+            <duration>215640</duration>
+            <location>U:\Shared\Music\Nomyn - (2020) - Aurora.mp3</location>
+        </track>
+        <track>
+            <title>Figures</title>
+            <creator>Bonobo</creator>
+            <album>Migration</album>
+            <duration>368378</duration>
+            <trackNum>12</trackNum>
+            <location>U:\Shared\Music\Bonobo - (2017) Migration - Figures.mp3</location>
+        </track>
+        <track>
+            <title>Grains</title>
+            <creator>Bonobo</creator>
+            <album>Migration</album>
+            <duration>268956</duration>
+            <trackNum>4</trackNum>
+            <location>U:\Shared\Music\Bonobo - (2017) Migration - Grains.mp3</location>
+        </track>
+    </trackList>
+</playlist>

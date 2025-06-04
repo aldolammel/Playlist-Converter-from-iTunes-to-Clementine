@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+    <trackList>
+        <track>
+            <title>Beautiful And Strange</title>
+            <creator>Mudvayne</creator>
+            <album>Mudvayne</album>
+            <duration>303151</duration>
+            <trackNum>1</trackNum>
+            <location>U:\Shared\Music\Mudvayne - (2009) Mudvayne - Beautiful And Strange.mp3</location>
+        </track>
+    </trackList>
+</playlist>

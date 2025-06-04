@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2025-06-04T13:10:19Z</date>
+	<key>Application Version</key><string>12.13.7.1</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/E:/Users/aldol/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>187AD5E35C5E82C1</string>
+	<key>Tracks</key>
+	<dict>
+		<key>16182</key>
+		<dict>
+			<key>Track ID</key><integer>16182</integer>
+			<key>Name</key><string>I'm With Stupid</string>
+			<key>Artist</key><string>Static-X</string>
+			<key>Album Artist</key><string>Static-X</string>
+			<key>Composer</key><string>Static-X</string>
+			<key>Album</key><string>Wisconsin Death Trip</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5036997</integer>
+			<key>Total Time</key><integer>204591</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2024-06-17T17:36:50Z</date>
+			<key>Date Added</key><date>2025-05-23T00:07:03Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>100</integer>
+			<key>Normalization</key><integer>4062</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D6A7870DF2EE36B9</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Static-X%20-%20(1999)%20Wisconsin%20Death%20Trip%20-%20I'm%20With%20Stupid.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>16194</key>
+		<dict>
+			<key>Track ID</key><integer>16194</integer>
+			<key>Name</key><string>The Trance Is the Motion</string>
+			<key>Artist</key><string>Static-X</string>
+			<key>Album Artist</key><string>Static-X</string>
+			<key>Composer</key><string>Static-X</string>
+			<key>Album</key><string>Wisconsin Death Trip</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7091539</integer>
+			<key>Total Time</key><integer>290324</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2024-06-17T17:36:52Z</date>
+			<key>Date Added</key><date>2025-05-23T00:07:04Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>100</integer>
+			<key>Normalization</key><integer>3432</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>Trance Is the Motion</string>
+			<key>Persistent ID</key><string>9E8BA17988D74CD6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Static-X%20-%20(1999)%20Wisconsin%20Death%20Trip%20-%20The%20Trance%20Is%20the%20Motion.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>16204</key>
+		<dict>
+			<key>Track ID</key><integer>16204</integer>
+			<key>Name</key><string>Black and White</string>
+			<key>Artist</key><string>Static-X</string>
+			<key>Album Artist</key><string>Static-X</string>
+			<key>Composer</key><string>Ken Jay/Tony "Citric-T" Campos/Wayne Static</string>
+			<key>Album</key><string>Machine</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5667309</integer>
+			<key>Total Time</key><integer>230504</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2024-06-17T17:36:53Z</date>
+			<key>Date Added</key><date>2025-05-23T00:07:05Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3779028187</integer>
+			<key>Play Date UTC</key><date>2023-10-01T21:03:07Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2020-06-16T15:15:30Z</date>
+			<key>Normalization</key><integer>7722</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>FF69989B722367D0</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Static-X%20-%20(2001)%20Machine%20-%20Black%20and%20White.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>16206</key>
+		<dict>
+			<key>Track ID</key><integer>16206</integer>
+			<key>Name</key><string>Burn to Burn</string>
+			<key>Artist</key><string>Static-X</string>
+			<key>Album Artist</key><string>Static-X</string>
+			<key>Composer</key><string>Ken Jay/Tony "Citric-T" Campos/Wayne Static</string>
+			<key>Album</key><string>Machine</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6318347</integer>
+			<key>Total Time</key><integer>257671</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2024-06-17T17:36:53Z</date>
+			<key>Date Added</key><date>2025-05-23T00:07:05Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>100</integer>
+			<key>Normalization</key><integer>8136</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>11CCB3BE296F6A98</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Static-X%20-%20(2001)%20Machine%20-%20Burn%20to%20Burn.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>16208</key>
+		<dict>
+			<key>Track ID</key><integer>16208</integer>
+			<key>Name</key><string>Cold</string>
+			<key>Artist</key><string>Static-X</string>
+			<key>Album Artist</key><string>Static-X</string>
+			<key>Composer</key><string>Ken Jay/Tony "Citric-T" Campos/Wayne Static</string>
+			<key>Album</key><string>Machine</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5435052</integer>
+			<key>Total Time</key><integer>220813</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2024-06-17T17:36:52Z</date>
+			<key>Date Added</key><date>2025-05-23T00:07:05Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>100</integer>
+			<key>Normalization</key><integer>7473</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C3ED3A68328C3047</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Static-X%20-%20(2001)%20Machine%20-%20Cold.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>16230</key>
+		<dict>
+			<key>Track ID</key><integer>16230</integer>
+			<key>Name</key><string>Invincible</string>
+			<key>Artist</key><string>Static-X</string>
+			<key>Album Artist</key><string>Static-X</string>
+			<key>Composer</key><string>Ken Jay/Tripp Eisen/Wayne Static</string>
+			<key>Album</key><string>Shadow Zone</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5999780</integer>
+			<key>Total Time</key><integer>244610</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2024-06-17T17:36:53Z</date>
+			<key>Date Added</key><date>2025-05-23T00:07:07Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>100</integer>
+			<key>Normalization</key><integer>6043</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BDEB36C0E63C0A56</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Static-X%20-%20(2003)%20Shadow%20Zone%20-%20Invincible.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>16244</key>
+		<dict>
+			<key>Track ID</key><integer>16244</integer>
+			<key>Name</key><string>The Only</string>
+			<key>Artist</key><string>Static-X</string>
+			<key>Album Artist</key><string>Static-X</string>
+			<key>Composer</key><string>Ken Jay/Tripp Eisen/Wayne Static</string>
+			<key>Album</key><string>Shadow Zone</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4228823</integer>
+			<key>Total Time</key><integer>171075</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2024-06-17T17:36:53Z</date>
+			<key>Date Added</key><date>2025-05-23T00:07:08Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3779031391</integer>
+			<key>Play Date UTC</key><date>2023-10-01T21:56:31Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2020-07-22T05:39:26Z</date>
+			<key>Normalization</key><integer>10390</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>Only</string>
+			<key>Persistent ID</key><string>9A336349AF94590C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Static-X%20-%20(2003)%20Shadow%20Zone%20-%20The%20Only.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>16250</key>
+		<dict>
+			<key>Track ID</key><integer>16250</integer>
+			<key>Name</key><string>Cannibal</string>
+			<key>Artist</key><string>Static-X</string>
+			<key>Album Artist</key><string>Static-X</string>
+			<key>Composer</key><string>Wayne Static</string>
+			<key>Album</key><string>Cannibal</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5548397</integer>
+			<key>Total Time</key><integer>193175</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2024-06-17T17:36:53Z</date>
+			<key>Date Added</key><date>2025-05-23T00:07:08Z</date>
+			<key>Bit Rate</key><integer>224</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>100</integer>
+			<key>Normalization</key><integer>10293</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>119E33F12E07F393</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Static-X%20-%20(2007)%20Cannibal%20-%20Cannibal.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>16256</key>
+		<dict>
+			<key>Track ID</key><integer>16256</integer>
+			<key>Name</key><string>Cuts You Up</string>
+			<key>Artist</key><string>Static-X</string>
+			<key>Album Artist</key><string>Static-X</string>
+			<key>Composer</key><string>Wayne Static</string>
+			<key>Album</key><string>Cannibal</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6288565</integer>
+			<key>Total Time</key><integer>206863</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2024-06-17T17:36:53Z</date>
+			<key>Date Added</key><date>2025-05-23T00:07:08Z</date>
+			<key>Bit Rate</key><integer>238</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>100</integer>
+			<key>Normalization</key><integer>15172</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>10A3E1CBE9BEC15E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Static-X%20-%20(2007)%20Cannibal%20-%20Cuts%20You%20Up.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>16270</key>
+		<dict>
+			<key>Track ID</key><integer>16270</integer>
+			<key>Name</key><string>Grind 2 Halt</string>
+			<key>Artist</key><string>Static-X</string>
+			<key>Album</key><string>Cult Of Static</string>
+			<key>Genre</key><string>Heavy Metal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8137677</integer>
+			<key>Total Time</key><integer>295471</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2024-06-17T17:36:55Z</date>
+			<key>Date Added</key><date>2025-05-23T00:07:09Z</date>
+			<key>Bit Rate</key><integer>218</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>100</integer>
+			<key>Comments</key><string>Enjoy &#38; Go Support The Artist.......pz1</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3678230125</integer>
+			<key>Play Date UTC</key><date>2020-07-22T05:35:25Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2020-07-22T05:38:08Z</date>
+			<key>Normalization</key><integer>4681</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F609BA7CD095B8AA</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Static-X%20-%20(2009)%20Cult%20of%20Static%20-%20grind_2_halt.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>16272</key>
+		<dict>
+			<key>Track ID</key><integer>16272</integer>
+			<key>Name</key><string>Hypure</string>
+			<key>Artist</key><string>Static-X</string>
+			<key>Album</key><string>Cult Of Static</string>
+			<key>Genre</key><string>Heavy Metal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7142137</integer>
+			<key>Total Time</key><integer>255373</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2024-06-17T17:36:54Z</date>
+			<key>Date Added</key><date>2025-05-23T00:07:09Z</date>
+			<key>Bit Rate</key><integer>221</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>100</integer>
+			<key>Comments</key><string>Enjoy &#38; Go Support The Artist.......pz1</string>
+			<key>Normalization</key><integer>4559</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0035C6BB6945EE19</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Static-X%20-%20(2009)%20Cult%20of%20Static%20-%20hypure.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>16284</key>
+		<dict>
+			<key>Track ID</key><integer>16284</integer>
+			<key>Name</key><string>Tera-Fied</string>
+			<key>Artist</key><string>Static-X</string>
+			<key>Album</key><string>Cult Of Static</string>
+			<key>Genre</key><string>Heavy Metal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8310299</integer>
+			<key>Total Time</key><integer>319164</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2024-06-17T17:36:54Z</date>
+			<key>Date Added</key><date>2025-05-23T00:07:09Z</date>
+			<key>Bit Rate</key><integer>206</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>100</integer>
+			<key>Comments</key><string>Enjoy &#38; Go Support The Artist.......pz1</string>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2020-07-22T05:37:55Z</date>
+			<key>Normalization</key><integer>3827</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>EB8E55A0C4E3F6A7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Static-X%20-%20(2009)%20Cult%20of%20Static%20-%20tera-fied.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>16286</key>
+		<dict>
+			<key>Track ID</key><integer>16286</integer>
+			<key>Name</key><string>Terminal</string>
+			<key>Artist</key><string>Static-X</string>
+			<key>Album</key><string>Cult Of Static</string>
+			<key>Genre</key><string>Heavy Metal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6267359</integer>
+			<key>Total Time</key><integer>217391</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2024-06-17T17:36:54Z</date>
+			<key>Date Added</key><date>2025-05-23T00:07:10Z</date>
+			<key>Bit Rate</key><integer>228</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>100</integer>
+			<key>Comments</key><string>Enjoy &#38; Go Support The Artist.......pz1</string>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2020-06-16T15:15:44Z</date>
+			<key>Normalization</key><integer>7194</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5F9650D6E88F4250</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Static-X%20-%20(2009)%20Cult%20of%20Static%20-%20terminal.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>Best of: Static-X</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>63716</integer>
+			<key>Playlist Persistent ID</key><string>CF081A1C4A6BD897</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>16284</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16194</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16182</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16272</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16286</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16270</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16244</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16230</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16208</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16206</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16204</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16250</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16256</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

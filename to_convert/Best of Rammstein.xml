@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2025-06-04T13:08:54Z</date>
+	<key>Application Version</key><string>12.13.7.1</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/E:/Users/aldol/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>187AD5E35C5E82C1</string>
+	<key>Tracks</key>
+	<dict>
+		<key>15314</key>
+		<dict>
+			<key>Track ID</key><integer>15314</integer>
+			<key>Name</key><string>Ich</string>
+			<key>Artist</key><string>Rammstein</string>
+			<key>Genre</key><string>Psychedelic Rock - Nazista</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3489629</integer>
+			<key>Total Time</key><integer>217939</integer>
+			<key>Date Modified</key><date>2024-06-17T17:36:21Z</date>
+			<key>Date Added</key><date>2025-05-23T00:06:18Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>103</integer>
+			<key>Normalization</key><integer>6929</integer>
+			<key>Persistent ID</key><string>B819AC285DAF8CFB</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Rammstein%20-%20Ich%20Will.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15320</key>
+		<dict>
+			<key>Track ID</key><integer>15320</integer>
+			<key>Name</key><string>Mein Teil</string>
+			<key>Artist</key><string>Rammstein</string>
+			<key>Genre</key><string>Blues</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4325080</integer>
+			<key>Total Time</key><integer>270210</integer>
+			<key>Date Modified</key><date>2024-06-17T17:36:21Z</date>
+			<key>Date Added</key><date>2025-05-23T00:06:18Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>102</integer>
+			<key>Comments</key><string>Streamripper! </string>
+			<key>Normalization</key><integer>2772</integer>
+			<key>Persistent ID</key><string>CF16AEE6B4255647</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Rammstein%20-%20Mein%20Teil.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15328</key>
+		<dict>
+			<key>Track ID</key><integer>15328</integer>
+			<key>Name</key><string>Sonne</string>
+			<key>Artist</key><string>Rammstein</string>
+			<key>Genre</key><string>Psychedelic Rock - Nazista</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4368957</integer>
+			<key>Total Time</key><integer>272901</integer>
+			<key>Date Modified</key><date>2024-06-17T17:36:21Z</date>
+			<key>Date Added</key><date>2025-05-23T00:06:19Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>103</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2021-02-28T22:23:29Z</date>
+			<key>Normalization</key><integer>6923</integer>
+			<key>Persistent ID</key><string>B8D3BBE1899D8D7D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Rammstein%20-%20Sonne.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15340</key>
+		<dict>
+			<key>Track ID</key><integer>15340</integer>
+			<key>Name</key><string>Du Hast</string>
+			<key>Artist</key><string>Rammstein</string>
+			<key>Genre</key><string>Psychedelic Rock - Nazista</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3774781</integer>
+			<key>Total Time</key><integer>235755</integer>
+			<key>Date Modified</key><date>2024-06-17T17:36:23Z</date>
+			<key>Date Added</key><date>2025-05-23T00:06:19Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>103</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3779031091</integer>
+			<key>Play Date UTC</key><date>2023-10-01T21:51:31Z</date>
+			<key>Normalization</key><integer>6513</integer>
+			<key>Persistent ID</key><string>F0138B420931695C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Rammstien%20-%20Du%20Hast%20(English).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>17792</key>
+		<dict>
+			<key>Track ID</key><integer>17792</integer>
+			<key>Name</key><string>Enter Sandman (Metallica cover)</string>
+			<key>Artist</key><string>Rammstein</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11578355</integer>
+			<key>Total Time</key><integer>289200</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Modified</key><date>2024-06-17T17:36:21Z</date>
+			<key>Date Added</key><date>2025-05-23T00:08:30Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Volume Adjustment</key><integer>102</integer>
+			<key>Play Count</key><integer>15</integer>
+			<key>Play Date</key><integer>3720191875</integer>
+			<key>Play Date UTC</key><date>2021-11-19T20:37:55Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2021-05-27T01:22:16Z</date>
+			<key>Normalization</key><integer>1938</integer>
+			<key>Persistent ID</key><string>D15487F9D320F93C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Rammstein%20-%20Enter%20Sandman%20(Metallica%20cover).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>Best of: Rammstein</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>63610</integer>
+			<key>Playlist Persistent ID</key><string>0851FDE260E0F696</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>15340</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17792</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15328</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15314</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15320</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

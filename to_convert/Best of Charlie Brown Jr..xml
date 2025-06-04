@@ -1,0 +1,1509 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2025-06-04T13:01:01Z</date>
+	<key>Application Version</key><string>12.13.7.1</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/E:/Users/aldol/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>187AD5E35C5E82C1</string>
+	<key>Tracks</key>
+	<dict>
+		<key>5564</key>
+		<dict>
+			<key>Track ID</key><integer>5564</integer>
+			<key>Name</key><string>Aquela Paz</string>
+			<key>Artist</key><string>Charlie Brown Jr.</string>
+			<key>Album</key><string>Transpiração Contínua Prolongada</string>
+			<key>Genre</key><string>Brazilian Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4570031</integer>
+			<key>Total Time</key><integer>182256</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>1997</integer>
+			<key>Date Modified</key><date>2024-02-08T17:33:15Z</date>
+			<key>Date Added</key><date>2025-05-22T23:57:35Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>103</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3721562775</integer>
+			<key>Play Date UTC</key><date>2021-12-05T17:26:15Z</date>
+			<key>Normalization</key><integer>3288</integer>
+			<key>Artwork Count</key><integer>2</integer>
+			<key>Persistent ID</key><string>60A8E289EB78B985</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Charlie%20Brown%20Jr.%20-%20(1997)%20Transpira%C3%A7%C3%A3o%20Cont%C3%ADnua%20Prolongada%20-%20Aquela%20Paz.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>5566</key>
+		<dict>
+			<key>Track ID</key><integer>5566</integer>
+			<key>Name</key><string>Charlie Brown Jr.</string>
+			<key>Artist</key><string>Charlie Brown Jr.</string>
+			<key>Album</key><string>Transpiração Contínua Prolongada</string>
+			<key>Genre</key><string>Brazilian Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4804520</integer>
+			<key>Total Time</key><integer>192026</integer>
+			<key>Track Number</key><integer>16</integer>
+			<key>Year</key><integer>1997</integer>
+			<key>Date Modified</key><date>2024-02-08T17:33:15Z</date>
+			<key>Date Added</key><date>2025-05-22T23:57:35Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>103</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3712327497</integer>
+			<key>Play Date UTC</key><date>2021-08-20T21:04:57Z</date>
+			<key>Normalization</key><integer>9366</integer>
+			<key>Artwork Count</key><integer>2</integer>
+			<key>Persistent ID</key><string>5286043524ABC200</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Charlie%20Brown%20Jr.%20-%20(1997)%20Transpira%C3%A7%C3%A3o%20Cont%C3%ADnua%20Prolongada%20-%20Charlie%20Brown%20Jr..mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>5568</key>
+		<dict>
+			<key>Track ID</key><integer>5568</integer>
+			<key>Name</key><string>Corra Vagabundo</string>
+			<key>Artist</key><string>Charlie Brown Jr.</string>
+			<key>Album</key><string>Transpiração Contínua Prolongada</string>
+			<key>Genre</key><string>Brazilian Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5368134</integer>
+			<key>Total Time</key><integer>215510</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Year</key><integer>1997</integer>
+			<key>Date Modified</key><date>2024-05-31T19:25:50Z</date>
+			<key>Date Added</key><date>2025-05-22T23:57:35Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3712331125</integer>
+			<key>Play Date UTC</key><date>2021-08-20T22:05:25Z</date>
+			<key>Normalization</key><integer>6481</integer>
+			<key>Artwork Count</key><integer>2</integer>
+			<key>Persistent ID</key><string>184D591F902E3512</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Charlie%20Brown%20Jr.%20-%20(1997)%20Transpira%C3%A7%C3%A3o%20Cont%C3%ADnua%20Prolongada%20-%20Corra%20Vagabundo.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>5570</key>
+		<dict>
+			<key>Track ID</key><integer>5570</integer>
+			<key>Name</key><string>Escalas Tropicais</string>
+			<key>Artist</key><string>Charlie Brown Jr.</string>
+			<key>Album</key><string>Transpiração Contínua Prolongada</string>
+			<key>Genre</key><string>Brazilian Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3282940</integer>
+			<key>Total Time</key><integer>128626</integer>
+			<key>Track Number</key><integer>15</integer>
+			<key>Year</key><integer>1997</integer>
+			<key>Date Modified</key><date>2024-02-08T17:33:14Z</date>
+			<key>Date Added</key><date>2025-05-22T23:57:35Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>103</integer>
+			<key>Normalization</key><integer>10106</integer>
+			<key>Artwork Count</key><integer>2</integer>
+			<key>Persistent ID</key><string>CF695861EA06EA4A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Charlie%20Brown%20Jr.%20-%20(1997)%20Transpira%C3%A7%C3%A3o%20Cont%C3%ADnua%20Prolongada%20-%20Escalas%20Tropicais.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>5572</key>
+		<dict>
+			<key>Track ID</key><integer>5572</integer>
+			<key>Name</key><string>Falar, Falar</string>
+			<key>Artist</key><string>Charlie Brown Jr.</string>
+			<key>Album</key><string>Transpiração Contínua Prolongada</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4212680</integer>
+			<key>Total Time</key><integer>167366</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Year</key><integer>1997</integer>
+			<key>Date Modified</key><date>2024-02-08T17:33:09Z</date>
+			<key>Date Added</key><date>2025-05-22T23:57:35Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>103</integer>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3726258964</integer>
+			<key>Play Date UTC</key><date>2022-01-29T01:56:04Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2021-12-03T20:51:00Z</date>
+			<key>Loved</key><true/>
+			<key>Normalization</key><integer>6842</integer>
+			<key>Artwork Count</key><integer>2</integer>
+			<key>Persistent ID</key><string>7E384EE258A7EC45</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Charlie%20Brown%20Jr.%20-%20(1997)%20Transpira%C3%A7%C3%A3o%20Cont%C3%ADnua%20Prolongada%20-%20Falar,%20Falar.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>5574</key>
+		<dict>
+			<key>Track ID</key><integer>5574</integer>
+			<key>Name</key><string>Festa</string>
+			<key>Artist</key><string>Charlie Brown Jr.</string>
+			<key>Album</key><string>Transpiração Contínua Prolongada</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4317992</integer>
+			<key>Total Time</key><integer>171755</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Year</key><integer>1997</integer>
+			<key>Date Modified</key><date>2024-05-31T19:28:25Z</date>
+			<key>Date Added</key><date>2025-05-22T23:57:35Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2022-05-17T20:05:28Z</date>
+			<key>Normalization</key><integer>5961</integer>
+			<key>Artwork Count</key><integer>2</integer>
+			<key>Persistent ID</key><string>73333016066FBA93</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Charlie%20Brown%20Jr.%20-%20(1997)%20Transpira%C3%A7%C3%A3o%20Cont%C3%ADnua%20Prolongada%20-%20Festa.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>5576</key>
+		<dict>
+			<key>Track ID</key><integer>5576</integer>
+			<key>Name</key><string>Gimme o Anel</string>
+			<key>Artist</key><string>Charlie Brown Jr.</string>
+			<key>Album</key><string>Transpiração Contínua Prolongada</string>
+			<key>Genre</key><string>Brazilian Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4277253</integer>
+			<key>Total Time</key><integer>170057</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>1997</integer>
+			<key>Date Modified</key><date>2025-05-30T19:55:29Z</date>
+			<key>Date Added</key><date>2025-05-22T23:57:36Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>100</integer>
+			<key>Normalization</key><integer>9186</integer>
+			<key>Artwork Count</key><integer>2</integer>
+			<key>Persistent ID</key><string>93D40A51C3721C9D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Charlie%20Brown%20Jr.%20-%20(1997)%20Transpira%C3%A7%C3%A3o%20Cont%C3%ADnua%20Prolongada%20-%20Gimme%20O%20Ane.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>5580</key>
+		<dict>
+			<key>Track ID</key><integer>5580</integer>
+			<key>Name</key><string>Lombra</string>
+			<key>Artist</key><string>Charlie Brown Jr.</string>
+			<key>Album</key><string>Transpiração Contínua Prolongada</string>
+			<key>Genre</key><string>Brazilian Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4796348</integer>
+			<key>Total Time</key><integer>191686</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Year</key><integer>1997</integer>
+			<key>Date Modified</key><date>2024-07-04T16:22:02Z</date>
+			<key>Date Added</key><date>2025-05-22T23:57:36Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2021-11-19T15:34:53Z</date>
+			<key>Normalization</key><integer>7067</integer>
+			<key>Artwork Count</key><integer>2</integer>
+			<key>Persistent ID</key><string>934B6020329AC45D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Charlie%20Brown%20Jr.%20-%20(1997)%20Transpira%C3%A7%C3%A3o%20Cont%C3%ADnua%20Prolongada%20-%20Lombra.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>5584</key>
+		<dict>
+			<key>Track ID</key><integer>5584</integer>
+			<key>Name</key><string>O Coro Vai Comê!</string>
+			<key>Artist</key><string>Charlie Brown Jr.</string>
+			<key>Album</key><string>Transpiração Contínua Prolongada</string>
+			<key>Genre</key><string>Brazilian Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3584496</integer>
+			<key>Total Time</key><integer>141191</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>1997</integer>
+			<key>Date Modified</key><date>2024-02-08T17:33:06Z</date>
+			<key>Date Added</key><date>2025-05-22T23:57:36Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>103</integer>
+			<key>Normalization</key><integer>9812</integer>
+			<key>Artwork Count</key><integer>2</integer>
+			<key>Persistent ID</key><string>48CDC2878672559A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Charlie%20Brown%20Jr.%20-%20(1997)%20Transpira%C3%A7%C3%A3o%20Cont%C3%ADnua%20Prolongada%20-%20O%20Coro%20Vai%20Com%C3%AA!.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>5586</key>
+		<dict>
+			<key>Track ID</key><integer>5586</integer>
+			<key>Name</key><string>Proibida Pra Mim (Grazon)</string>
+			<key>Artist</key><string>Charlie Brown Jr.</string>
+			<key>Album</key><string>Transpiração Contínua Prolongada</string>
+			<key>Genre</key><string>Brazilian Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4227753</integer>
+			<key>Total Time</key><integer>167993</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Year</key><integer>1997</integer>
+			<key>Date Modified</key><date>2024-02-08T17:33:09Z</date>
+			<key>Date Added</key><date>2025-05-22T23:57:36Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>103</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3742409155</integer>
+			<key>Play Date UTC</key><date>2022-08-04T01:05:55Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2021-11-24T15:42:49Z</date>
+			<key>Normalization</key><integer>8381</integer>
+			<key>Artwork Count</key><integer>2</integer>
+			<key>Persistent ID</key><string>FA597600A0CA2C2B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Charlie%20Brown%20Jr.%20-%20(1997)%20Transpira%C3%A7%C3%A3o%20Cont%C3%ADnua%20Prolongada%20-%20Proibida%20Pra%20Mim%20(Grazon).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>5588</key>
+		<dict>
+			<key>Track ID</key><integer>5588</integer>
+			<key>Name</key><string>Quinta-Feira</string>
+			<key>Artist</key><string>Charlie Brown Jr.</string>
+			<key>Album</key><string>Transpiração Contínua Prolongada</string>
+			<key>Genre</key><string>Brazilian Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7161800</integer>
+			<key>Total Time</key><integer>290246</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Year</key><integer>1997</integer>
+			<key>Date Modified</key><date>2024-02-08T17:33:17Z</date>
+			<key>Date Added</key><date>2025-05-22T23:57:36Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>103</integer>
+			<key>Normalization</key><integer>5579</integer>
+			<key>Artwork Count</key><integer>2</integer>
+			<key>Persistent ID</key><string>8A684F28E6694AC6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Charlie%20Brown%20Jr.%20-%20(1997)%20Transpira%C3%A7%C3%A3o%20Cont%C3%ADnua%20Prolongada%20-%20Quinta-Feira.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>5590</key>
+		<dict>
+			<key>Track ID</key><integer>5590</integer>
+			<key>Name</key><string>Sheik</string>
+			<key>Artist</key><string>Charlie Brown Jr.</string>
+			<key>Album</key><string>Transpiração Contínua Prolongada</string>
+			<key>Genre</key><string>Brazilian Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4309215</integer>
+			<key>Total Time</key><integer>171389</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>1997</integer>
+			<key>Date Modified</key><date>2024-02-08T17:33:11Z</date>
+			<key>Date Added</key><date>2025-05-22T23:57:36Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>103</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3727120215</integer>
+			<key>Play Date UTC</key><date>2022-02-08T01:10:15Z</date>
+			<key>Normalization</key><integer>7652</integer>
+			<key>Artwork Count</key><integer>2</integer>
+			<key>Persistent ID</key><string>20FF8E18AB794710</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Charlie%20Brown%20Jr.%20-%20(1997)%20Transpira%C3%A7%C3%A3o%20Cont%C3%ADnua%20Prolongada%20-%20Sheik.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>5594</key>
+		<dict>
+			<key>Track ID</key><integer>5594</integer>
+			<key>Name</key><string>Tudo Que Ela Gosta De Escutar</string>
+			<key>Artist</key><string>Charlie Brown Jr.</string>
+			<key>Album</key><string>Transpiração Contínua Prolongada</string>
+			<key>Genre</key><string>Brazilian Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4422739</integer>
+			<key>Total Time</key><integer>176117</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>1997</integer>
+			<key>Date Modified</key><date>2024-02-08T17:33:09Z</date>
+			<key>Date Added</key><date>2025-05-22T23:57:36Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>103</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3712326557</integer>
+			<key>Play Date UTC</key><date>2021-08-20T20:49:17Z</date>
+			<key>Normalization</key><integer>6659</integer>
+			<key>Artwork Count</key><integer>2</integer>
+			<key>Persistent ID</key><string>3A63C26E31F36A85</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Charlie%20Brown%20Jr.%20-%20(1997)%20Transpira%C3%A7%C3%A3o%20Cont%C3%ADnua%20Prolongada%20-%20Tudo%20Que%20Ela%20Gosta%20De%20Escutar.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>5600</key>
+		<dict>
+			<key>Track ID</key><integer>5600</integer>
+			<key>Name</key><string>A grande volta</string>
+			<key>Artist</key><string>Charlie Brown Jr.</string>
+			<key>Album</key><string>Preço Curto Prazo Longo</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2281728</integer>
+			<key>Total Time</key><integer>139232</integer>
+			<key>Track Number</key><integer>18</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2024-02-08T17:33:00Z</date>
+			<key>Date Added</key><date>2025-05-22T23:57:37Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>99</integer>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3747486974</integer>
+			<key>Play Date UTC</key><date>2022-10-01T19:36:14Z</date>
+			<key>Normalization</key><integer>7151</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>grande volta</string>
+			<key>Persistent ID</key><string>B000A3AE12FBAAC7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Charlie%20Brown%20Jr.%20-%20(1999)%20Pre%C3%A7o%20Curto%20Prazo%20Longo%20-%20A%20grande%20volta.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>5608</key>
+		<dict>
+			<key>Track ID</key><integer>5608</integer>
+			<key>Name</key><string>Cidade grande</string>
+			<key>Artist</key><string>Charlie Brown Jr.</string>
+			<key>Album</key><string>Preço Curto Prazo Longo</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3144615</integer>
+			<key>Total Time</key><integer>194951</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2024-02-08T17:33:08Z</date>
+			<key>Date Added</key><date>2025-05-22T23:57:37Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>99</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3712326750</integer>
+			<key>Play Date UTC</key><date>2021-08-20T20:52:30Z</date>
+			<key>Normalization</key><integer>5677</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>38ABA5C03FCEFECF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Charlie%20Brown%20Jr.%20-%20(1999)%20Pre%C3%A7o%20Curto%20Prazo%20Longo%20-%20Cidade%20grande.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>5610</key>
+		<dict>
+			<key>Track ID</key><integer>5610</integer>
+			<key>Name</key><string>Confisco</string>
+			<key>Artist</key><string>Charlie Brown Jr.</string>
+			<key>Album</key><string>Preço Curto Prazo Longo</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2893857</integer>
+			<key>Total Time</key><integer>178808</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2024-02-08T17:32:54Z</date>
+			<key>Date Added</key><date>2025-05-22T23:57:37Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>99</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3712328338</integer>
+			<key>Play Date UTC</key><date>2021-08-20T21:18:58Z</date>
+			<key>Normalization</key><integer>7218</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>53E3AB16F3CF825D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Charlie%20Brown%20Jr.%20-%20(1999)%20Pre%C3%A7o%20Curto%20Prazo%20Longo%20-%20Confisco.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>5620</key>
+		<dict>
+			<key>Track ID</key><integer>5620</integer>
+			<key>Name</key><string>Historia mal escrita</string>
+			<key>Artist</key><string>Charlie Brown Jr.</string>
+			<key>Album</key><string>Preço Curto Prazo Longo</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3915027</integer>
+			<key>Total Time</key><integer>242651</integer>
+			<key>Track Number</key><integer>16</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2024-02-08T17:33:09Z</date>
+			<key>Date Added</key><date>2025-05-22T23:57:37Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>99</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3712326990</integer>
+			<key>Play Date UTC</key><date>2021-08-20T20:56:30Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2021-04-02T04:26:06Z</date>
+			<key>Normalization</key><integer>6281</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6F3A7ABC8F66CEDE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Charlie%20Brown%20Jr.%20-%20(1999)%20Pre%C3%A7o%20Curto%20Prazo%20Longo%20-%20Historia%20mal%20escrita.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>5622</key>
+		<dict>
+			<key>Track ID</key><integer>5622</integer>
+			<key>Name</key><string>Hoje de noite</string>
+			<key>Artist</key><string>Charlie Brown Jr.</string>
+			<key>Album</key><string>Preço Curto Prazo Longo</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2614997</integer>
+			<key>Total Time</key><integer>160888</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2025-01-26T01:22:09Z</date>
+			<key>Date Added</key><date>2025-05-22T23:57:37Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>99</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3712328162</integer>
+			<key>Play Date UTC</key><date>2021-08-20T21:16:02Z</date>
+			<key>Normalization</key><integer>4409</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>313A103788A4C624</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Charlie%20Brown%20Jr.%20-%20(1999)%20Pre%C3%A7o%20Curto%20Prazo%20Longo%20-%20Hoje%20de%20noite.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>5626</key>
+		<dict>
+			<key>Track ID</key><integer>5626</integer>
+			<key>Name</key><string>Mantenha a dúvida</string>
+			<key>Artist</key><string>Charlie Brown Jr.</string>
+			<key>Album</key><string>Preço Curto Prazo Longo</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2977589</integer>
+			<key>Total Time</key><integer>184058</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2025-01-26T01:21:59Z</date>
+			<key>Date Added</key><date>2025-05-22T23:57:38Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>99</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3723155285</integer>
+			<key>Play Date UTC</key><date>2021-12-24T03:48:05Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2021-07-08T02:08:11Z</date>
+			<key>Normalization</key><integer>8765</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0807BF92CC53697F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Charlie%20Brown%20Jr.%20-%20(1999)%20Pre%C3%A7o%20Curto%20Prazo%20Longo%20-%20Mantenha%20a%20D%C3%BAvida.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>5638</key>
+		<dict>
+			<key>Track ID</key><integer>5638</integer>
+			<key>Name</key><string>Resolve meu problema aí</string>
+			<key>Artist</key><string>Charlie Brown Jr.</string>
+			<key>Album</key><string>Preço Curto Prazo Longo</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2905227</integer>
+			<key>Total Time</key><integer>179539</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2024-04-06T15:18:26Z</date>
+			<key>Date Added</key><date>2025-05-22T23:57:38Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>99</integer>
+			<key>Play Count</key><integer>12</integer>
+			<key>Play Date</key><integer>3792824525</integer>
+			<key>Play Date UTC</key><date>2024-03-09T13:22:05Z</date>
+			<key>Normalization</key><integer>9902</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C5258E7E2B03A6B2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Charlie%20Brown%20Jr.%20-%20(1999)%20Pre%C3%A7o%20Curto%20Prazo%20Longo%20-%20Resolve%20Meu%20Problema%20Ai.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>5640</key>
+		<dict>
+			<key>Track ID</key><integer>5640</integer>
+			<key>Name</key><string>Te levar</string>
+			<key>Artist</key><string>Charlie Brown Jr.</string>
+			<key>Album</key><string>Preço Curto Prazo Longo</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2959818</integer>
+			<key>Total Time</key><integer>182935</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2024-02-08T17:33:05Z</date>
+			<key>Date Added</key><date>2025-05-22T23:57:38Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>99</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2021-08-17T16:51:39Z</date>
+			<key>Normalization</key><integer>9331</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>588A779550F242D0</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Charlie%20Brown%20Jr.%20-%20(1999)%20Pre%C3%A7o%20Curto%20Prazo%20Longo%20-%20Te%20levar.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>5642</key>
+		<dict>
+			<key>Track ID</key><integer>5642</integer>
+			<key>Name</key><string>Zóio de Lula</string>
+			<key>Artist</key><string>Charlie Brown Jr.</string>
+			<key>Album</key><string>Preço Curto Prazo Longo</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4018241</integer>
+			<key>Total Time</key><integer>249103</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2024-02-08T17:33:07Z</date>
+			<key>Date Added</key><date>2025-05-22T23:57:38Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>99</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3725388998</integer>
+			<key>Play Date UTC</key><date>2022-01-19T00:16:38Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2021-09-16T20:40:35Z</date>
+			<key>Normalization</key><integer>5092</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>12FFA792F498E64B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Charlie%20Brown%20Jr.%20-%20(1999)%20Pre%C3%A7o%20Curto%20Prazo%20Longo%20-%20Z%C3%B3io%20de%20Lula.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>5656</key>
+		<dict>
+			<key>Track ID</key><integer>5656</integer>
+			<key>Name</key><string>Não É Sério</string>
+			<key>Artist</key><string>Charlie Brown Jr.</string>
+			<key>Album</key><string>Nadando Com Os Tubarões</string>
+			<key>Genre</key><string>Brazilian Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4676259</integer>
+			<key>Total Time</key><integer>291395</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2021-09-03T02:15:34Z</date>
+			<key>Date Added</key><date>2025-05-22T23:57:39Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3726256360</integer>
+			<key>Play Date UTC</key><date>2022-01-29T01:12:40Z</date>
+			<key>Normalization</key><integer>4973</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2159644B19DDE829</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Charlie%20Brown%20Jr.%20-%20(2000)%20Nadando%20com%20os%20tubar%C3%B5es%20-%20N%C3%A3o%20%C3%89%20S%C3%A9rio.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>5676</key>
+		<dict>
+			<key>Track ID</key><integer>5676</integer>
+			<key>Name</key><string>Tudo Mudar</string>
+			<key>Artist</key><string>Charlie Brown Jr.</string>
+			<key>Album</key><string>Nadando Com Os Tubarões</string>
+			<key>Genre</key><string>Brazilian Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2163415</integer>
+			<key>Total Time</key><integer>133982</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2021-09-03T02:15:58Z</date>
+			<key>Date Added</key><date>2025-05-22T23:57:40Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3712329253</integer>
+			<key>Play Date UTC</key><date>2021-08-20T21:34:13Z</date>
+			<key>Normalization</key><integer>9043</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>9D2EE702F7C4310F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Charlie%20Brown%20Jr.%20-%20(2000)%20Nadando%20com%20os%20tubar%C3%B5es%20-%20Tudo%20Mudar.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>5678</key>
+		<dict>
+			<key>Track ID</key><integer>5678</integer>
+			<key>Name</key><string>Como Tudo Deve Ser</string>
+			<key>Artist</key><string>Charlie Brown Jr.</string>
+			<key>Album</key><string>100% Charlie Brown Jr. - Abalando A Sua Fábrica</string>
+			<key>Genre</key><string>Brazilian Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4390015</integer>
+			<key>Total Time</key><integer>272457</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2021-09-03T02:16:00Z</date>
+			<key>Date Added</key><date>2025-05-22T23:57:40Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>27</integer>
+			<key>Play Date</key><integer>3776947727</integer>
+			<key>Play Date UTC</key><date>2023-09-07T19:08:47Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2021-08-01T17:45:31Z</date>
+			<key>Normalization</key><integer>1572</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8E2A5345740E0715</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Charlie%20Brown%20Jr.%20-%20(2001)%20100%25%20CHarlie%20Brown%20Jr.%20-%20Como%20Tudo%20Deve%20Ser.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>5684</key>
+		<dict>
+			<key>Track ID</key><integer>5684</integer>
+			<key>Name</key><string>Hoje Eu Acordei Feliz</string>
+			<key>Artist</key><string>Charlie Brown Jr.</string>
+			<key>Album</key><string>100% Charlie Brown Jr. - Abalando A Sua Fábrica</string>
+			<key>Genre</key><string>Brazilian Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2233714</integer>
+			<key>Total Time</key><integer>138004</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2021-09-03T02:16:03Z</date>
+			<key>Date Added</key><date>2025-05-22T23:57:40Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3712331549</integer>
+			<key>Play Date UTC</key><date>2021-08-20T22:12:29Z</date>
+			<key>Normalization</key><integer>4584</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3D1BFA163D24FCFF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Charlie%20Brown%20Jr.%20-%20(2001)%20100%25%20CHarlie%20Brown%20Jr.%20-%20Hoje%20Eu%20Acordei%20Feliz.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>5686</key>
+		<dict>
+			<key>Track ID</key><integer>5686</integer>
+			<key>Name</key><string>Lugar Ao Sol</string>
+			<key>Artist</key><string>Charlie Brown Jr.</string>
+			<key>Album</key><string>100% Charlie Brown Jr. - Abalando A Sua Fábrica</string>
+			<key>Genre</key><string>Brazilian Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3425065</integer>
+			<key>Total Time</key><integer>212636</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2024-05-31T18:59:55Z</date>
+			<key>Date Added</key><date>2025-05-22T23:57:40Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>103</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3712677395</integer>
+			<key>Play Date UTC</key><date>2021-08-24T22:16:35Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2021-11-24T02:28:51Z</date>
+			<key>Normalization</key><integer>3343</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C5F1283974487F6A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Charlie%20Brown%20Jr.%20-%20(2001)%20100%25%20CHarlie%20Brown%20Jr.%20-%20Lugar%20Ao%20Sol.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>5718</key>
+		<dict>
+			<key>Track ID</key><integer>5718</integer>
+			<key>Name</key><string>Somos Poucos Mas Somos Loucos</string>
+			<key>Artist</key><string>Charlie Brown Jr.</string>
+			<key>Album</key><string>Bocas Ordinárias</string>
+			<key>Genre</key><string>Brazilian Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7953164</integer>
+			<key>Total Time</key><integer>330997</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2021-09-03T02:16:48Z</date>
+			<key>Date Added</key><date>2025-05-22T23:57:42Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>3719</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6BD6BC8A2DF11BE2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Charlie%20Brown%20Jr.%20-%20(2002)%20Bocas%20ordin%C3%A1rias%20-%20Somos%20Poucos%20Mas%20Somos%20Loucos.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>5722</key>
+		<dict>
+			<key>Track ID</key><integer>5722</integer>
+			<key>Name</key><string>Só Por Uma Noite</string>
+			<key>Artist</key><string>Charlie Brown Jr.</string>
+			<key>Album</key><string>Bocas Ordinárias</string>
+			<key>Genre</key><string>Brazilian Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4896810</integer>
+			<key>Total Time</key><integer>203650</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2025-01-26T01:22:11Z</date>
+			<key>Date Added</key><date>2025-05-22T23:57:42Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>100</integer>
+			<key>Play Count</key><integer>16</integer>
+			<key>Play Date</key><integer>3768158270</integer>
+			<key>Play Date UTC</key><date>2023-05-29T01:37:50Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2021-11-13T13:36:25Z</date>
+			<key>Normalization</key><integer>9715</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8A90B9E438482FE7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Charlie%20Brown%20Jr.%20-%20(2002)%20Bocas%20ordin%C3%A1rias%20-%20S%C3%B3%20Por%20Uma%20Noite.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>5726</key>
+		<dict>
+			<key>Track ID</key><integer>5726</integer>
+			<key>Name</key><string>Tudo Mudar</string>
+			<key>Artist</key><string>Charlie Brown Jr.</string>
+			<key>Album Artist</key><string>Charlie Brown Jr.</string>
+			<key>Composer</key><string>Chorãd Thiago</string>
+			<key>Album</key><string>Acustico MTV</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2250847</integer>
+			<key>Total Time</key><integer>140382</integer>
+			<key>Track Number</key><integer>18</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2021-09-03T02:16:52Z</date>
+			<key>Date Added</key><date>2025-05-22T23:57:42Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3712326384</integer>
+			<key>Play Date UTC</key><date>2021-08-20T20:46:24Z</date>
+			<key>Normalization</key><integer>3275</integer>
+			<key>Persistent ID</key><string>E87E76A7681443E0</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Charlie%20Brown%20Jr.%20-%20(2003)%20Acustico%20MTV%20-%20Tudo%20Mudar.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>5762</key>
+		<dict>
+			<key>Track ID</key><integer>5762</integer>
+			<key>Name</key><string>Cada cabeça falante tem sua Tromba De Elefante</string>
+			<key>Artist</key><string>Charlie Brown Jr.</string>
+			<key>Composer</key><string>Charlie Brown Jr.</string>
+			<key>Album</key><string>Imunidade Musical</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4378624</integer>
+			<key>Total Time</key><integer>269374</integer>
+			<key>Track Number</key><integer>16</integer>
+			<key>Track Count</key><integer>23</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2021-09-03T02:17:35Z</date>
+			<key>Date Added</key><date>2025-05-22T23:57:44Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>7128</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>1F2D7316CDA2B484</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Charlie%20Brown%20Jr.%20-%20(2005)%20Imunidade%20Musical%20-%20Cada%20cabe%C3%A7a%20falante%20tem%20sua%20Tromba%20De%20Elefante.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>5768</key>
+		<dict>
+			<key>Track ID</key><integer>5768</integer>
+			<key>Name</key><string>Ela vai voltar (Todos os defeitos de uma mulher perfeita)</string>
+			<key>Artist</key><string>Charlie Brown Jr.</string>
+			<key>Composer</key><string>Charlie Brown Jr.</string>
+			<key>Album</key><string>Imunidade Musical</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4518747</integer>
+			<key>Total Time</key><integer>188238</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>23</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2021-09-03T02:17:46Z</date>
+			<key>Date Added</key><date>2025-05-22T23:57:44Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3712328524</integer>
+			<key>Play Date UTC</key><date>2021-08-20T21:22:04Z</date>
+			<key>Normalization</key><integer>2412</integer>
+			<key>Persistent ID</key><string>4C1B5FF07A102369</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Charlie%20Brown%20Jr.%20-%20(2005)%20Imunidade%20Musical%20-%20Ela%20vai%20voltar%20(Todos%20os%20defeitos%20de%20uma%20mulher%20pe.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>5770</key>
+		<dict>
+			<key>Track ID</key><integer>5770</integer>
+			<key>Name</key><string>I Feel So Good Today</string>
+			<key>Artist</key><string>Charlie Brown Jr.</string>
+			<key>Composer</key><string>Charlie Brown Jr.</string>
+			<key>Album</key><string>Imunidade Musical</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4051301</integer>
+			<key>Total Time</key><integer>248842</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Track Count</key><integer>23</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2021-09-03T02:17:49Z</date>
+			<key>Date Added</key><date>2025-05-22T23:57:44Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>1796</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E39774C76FE9611C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Charlie%20Brown%20Jr.%20-%20(2005)%20Imunidade%20Musical%20-%20I%20feel%20so%20good%20today.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>5772</key>
+		<dict>
+			<key>Track ID</key><integer>5772</integer>
+			<key>Name</key><string>Liberdade Acima De Tudo</string>
+			<key>Artist</key><string>Charlie Brown Jr.</string>
+			<key>Composer</key><string>Charlie Brown Jr.</string>
+			<key>Album</key><string>Imunidade Musical</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3069952</integer>
+			<key>Total Time</key><integer>187637</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2021-09-03T02:17:48Z</date>
+			<key>Date Added</key><date>2025-05-22T23:57:44Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>8619</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>98D97BEA7742EA27</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Charlie%20Brown%20Jr.%20-%20(2005)%20Imunidade%20Musical%20-%20Liberdade%20acima%20de%20tudo.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>5774</key>
+		<dict>
+			<key>Track ID</key><integer>5774</integer>
+			<key>Name</key><string>Lutar pelo que é meu</string>
+			<key>Artist</key><string>Charlie Brown Jr.</string>
+			<key>Album Artist</key><string>Charlie Brown Jr.</string>
+			<key>Composer</key><string>Charlie Brown Jr.</string>
+			<key>Album</key><string>Imunidade Musical</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3284992</integer>
+			<key>Total Time</key><integer>201038</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>23</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2021-09-03T02:17:51Z</date>
+			<key>Date Added</key><date>2025-05-22T23:57:44Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>6836</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>7D920ACB02195E7E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Charlie%20Brown%20Jr.%20-%20(2005)%20Imunidade%20Musical%20-%20Lutar%20pelo%20que%20%C3%A9%20meu.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>5780</key>
+		<dict>
+			<key>Track ID</key><integer>5780</integer>
+			<key>Name</key><string>O Futuro É Um Labirinto Pra Quem Não Sabe O Que Quer</string>
+			<key>Artist</key><string>Charlie Brown Jr.</string>
+			<key>Composer</key><string>Charlie Brown Jr.</string>
+			<key>Album</key><string>Imunidade Musical</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2938880</integer>
+			<key>Total Time</key><integer>179408</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2021-09-03T02:18:00Z</date>
+			<key>Date Added</key><date>2025-05-22T23:57:45Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3712330497</integer>
+			<key>Play Date UTC</key><date>2021-08-20T21:54:57Z</date>
+			<key>Normalization</key><integer>7930</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D6A7011C9AE162C8</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Charlie%20Brown%20Jr.%20-%20(2005)%20Imunidade%20Musical%20-%20O%20futuro%20%C3%A9%20um%20labirinto%20pra%20quem%20n%C3%A3o%20sabe%20o%20que%20qu.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>5784</key>
+		<dict>
+			<key>Track ID</key><integer>5784</integer>
+			<key>Name</key><string>Onde Está O Mundo Bom? (Living In L.A.)</string>
+			<key>Artist</key><string>Charlie Brown Jr.</string>
+			<key>Composer</key><string>Charlie Brown Jr.</string>
+			<key>Album</key><string>Imunidade Musical</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2369536</integer>
+			<key>Total Time</key><integer>143830</integer>
+			<key>Track Number</key><integer>17</integer>
+			<key>Track Count</key><integer>23</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2021-09-03T02:18:03Z</date>
+			<key>Date Added</key><date>2025-05-22T23:57:45Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3712331690</integer>
+			<key>Play Date UTC</key><date>2021-08-20T22:14:50Z</date>
+			<key>Normalization</key><integer>9593</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>93980195922D5035</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Charlie%20Brown%20Jr.%20-%20(2005)%20Imunidade%20Musical%20-%20Onde%20est%C3%A1%20o%20mundo%20bom%20(Living%20in%20L.A).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>5792</key>
+		<dict>
+			<key>Track ID</key><integer>5792</integer>
+			<key>Name</key><string>Senhor do Tempo</string>
+			<key>Artist</key><string>Charlie Brown Jr.</string>
+			<key>Composer</key><string>Charlie Brown Jr.</string>
+			<key>Album</key><string>Imunidade Musical</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3313664</integer>
+			<key>Total Time</key><integer>202866</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>23</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2021-09-03T02:18:12Z</date>
+			<key>Date Added</key><date>2025-05-22T23:57:45Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3712332160</integer>
+			<key>Play Date UTC</key><date>2021-08-20T22:22:40Z</date>
+			<key>Normalization</key><integer>2275</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A67BE3C858AA0EE7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Charlie%20Brown%20Jr.%20-%20(2005)%20Imunidade%20Musical%20-%20Senhor%20do%20tempo.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>5798</key>
+		<dict>
+			<key>Track ID</key><integer>5798</integer>
+			<key>Name</key><string>É quente</string>
+			<key>Artist</key><string>Charlie Brown Jr.</string>
+			<key>Composer</key><string>Charlie Brown Jr.</string>
+			<key>Album</key><string>Imunidade Musical</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2936832</integer>
+			<key>Total Time</key><integer>179252</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>23</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2021-09-03T02:17:41Z</date>
+			<key>Date Added</key><date>2025-05-22T23:57:45Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>8139</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>DC9E08A9561AD936</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Charlie%20Brown%20Jr.%20-%20(2005)%20Imunidade%20Musical%20-%20%C3%89%20quente.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>5800</key>
+		<dict>
+			<key>Track ID</key><integer>5800</integer>
+			<key>Name</key><string>Be Myself</string>
+			<key>Artist</key><string>Charlie Brown Jr.</string>
+			<key>Album</key><string>Ritmo, Ritual e Responsa</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4448779</integer>
+			<key>Total Time</key><integer>273841</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2024-05-31T19:00:02Z</date>
+			<key>Date Added</key><date>2025-05-22T23:57:45Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>103</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3712329770</integer>
+			<key>Play Date UTC</key><date>2021-08-20T21:42:50Z</date>
+			<key>Normalization</key><integer>5755</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>1AF5F7C1C66E8383</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Charlie%20Brown%20Jr.%20-%20(2007)%20Ritmo,%20Ritual%20E%20Responsa%20-%20Be%20Myself.MP3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>5818</key>
+		<dict>
+			<key>Track ID</key><integer>5818</integer>
+			<key>Name</key><string>Não Viva em Vão</string>
+			<key>Artist</key><string>Charlie Brown Jr.</string>
+			<key>Album</key><string>Ritmo, Ritual e Responsa</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3823226</integer>
+			<key>Total Time</key><integer>234553</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2025-01-26T01:22:10Z</date>
+			<key>Date Added</key><date>2025-05-22T23:57:46Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3712330002</integer>
+			<key>Play Date UTC</key><date>2021-08-20T21:46:42Z</date>
+			<key>Normalization</key><integer>4922</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>597A28F261CD7EE8</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Charlie%20Brown%20Jr.%20-%20(2007)%20Ritmo,%20Ritual%20E%20Responsa%20-%20N%C3%A3o%20Viva%20Em%20V%C3%A3o.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>5824</key>
+		<dict>
+			<key>Track ID</key><integer>5824</integer>
+			<key>Name</key><string>Pontes Indestrutíveis</string>
+			<key>Artist</key><string>Charlie Brown Jr.</string>
+			<key>Album</key><string>Ritmo, Ritual e Responsa</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3461070</integer>
+			<key>Total Time</key><integer>212610</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2021-09-03T02:18:35Z</date>
+			<key>Date Added</key><date>2025-05-22T23:57:46Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3712330912</integer>
+			<key>Play Date UTC</key><date>2021-08-20T22:01:52Z</date>
+			<key>Normalization</key><integer>2326</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E49D6641AB97B9A3</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Charlie%20Brown%20Jr.%20-%20(2007)%20Ritmo,%20Ritual%20E%20Responsa%20-%20Pontes%20Indestrut%C3%ADveis.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>5832</key>
+		<dict>
+			<key>Track ID</key><integer>5832</integer>
+			<key>Name</key><string>Sem Medo da Escuridão (com MV Bill)</string>
+			<key>Artist</key><string>Charlie Brown Jr.</string>
+			<key>Album</key><string>Ritmo, Ritual e Responsa</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8331000</integer>
+			<key>Total Time</key><integer>344320</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2024-07-04T16:22:02Z</date>
+			<key>Date Added</key><date>2025-05-22T23:57:47Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3712696512</integer>
+			<key>Play Date UTC</key><date>2021-08-25T03:35:12Z</date>
+			<key>Normalization</key><integer>4514</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>93A40DC7C15D5700</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Charlie%20Brown%20Jr.%20-%20(2007)%20Ritmo,%20Ritual%20E%20Responsa%20-%20Sem%20Medo%20da%20Escurid%C3%A3o.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>5836</key>
+		<dict>
+			<key>Track ID</key><integer>5836</integer>
+			<key>Name</key><string>Skateboard Amor Eterno (c/ Sacramento MC's)</string>
+			<key>Artist</key><string>Charlie Brown Jr.</string>
+			<key>Album</key><string>Ritmo, Ritual e Responsa</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3816175</integer>
+			<key>Total Time</key><integer>234292</integer>
+			<key>Track Number</key><integer>20</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2024-05-31T19:28:13Z</date>
+			<key>Date Added</key><date>2025-05-22T23:57:47Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>100</integer>
+			<key>Normalization</key><integer>8840</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>34813A39C0F1CC4E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Charlie%20Brown%20Jr.%20-%20(2007)%20Ritmo,%20Ritual%20E%20Responsa%20-%20Skateboard%20Amor%20Eterno%20Feat.%20Sacramento%20MC's.MP3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>5840</key>
+		<dict>
+			<key>Track ID</key><integer>5840</integer>
+			<key>Name</key><string>Vida De Magnata (c/ João Gordo)</string>
+			<key>Artist</key><string>Charlie Brown Jr.</string>
+			<key>Album</key><string>Ritmo, Ritual e Responsa</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2699828</integer>
+			<key>Total Time</key><integer>164519</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2021-09-03T02:18:55Z</date>
+			<key>Date Added</key><date>2025-05-22T23:57:47Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>5212</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F5AACA9F73A804A4</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Charlie%20Brown%20Jr.%20-%20(2007)%20Ritmo,%20Ritual%20E%20Responsa%20-%20Vida%20De%20Magnata%20.MP3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>5842</key>
+		<dict>
+			<key>Track ID</key><integer>5842</integer>
+			<key>Name</key><string>Vivendo A Vida Numa Louca Viagem (com Sacramento MC's)</string>
+			<key>Artist</key><string>Charlie Brown Jr.</string>
+			<key>Album</key><string>Ritmo, Ritual e Responsa</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5195718</integer>
+			<key>Total Time</key><integer>320522</integer>
+			<key>Track Number</key><integer>17</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2024-07-04T16:23:01Z</date>
+			<key>Date Added</key><date>2025-05-22T23:57:47Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3712327308</integer>
+			<key>Play Date UTC</key><date>2021-08-20T21:01:48Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2021-05-27T01:09:31Z</date>
+			<key>Normalization</key><integer>3505</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>CDD0F2AFBCE4F59F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Charlie%20Brown%20Jr.%20-%20(2007)%20Ritmo,%20Ritual%20E%20Responsa%20-%20Vivendo%20A%20Vida%20Numa%20Louca%20Viagem.MP3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>5846</key>
+		<dict>
+			<key>Track ID</key><integer>5846</integer>
+			<key>Name</key><string>Camisa 10 Joga Bola Até na Chuva - Bomba Sônica</string>
+			<key>Artist</key><string>Charlie Brown Jr.</string>
+			<key>Album Artist</key><string>Charlie Brown Jr.</string>
+			<key>Album</key><string>Camisa 10 Joga Bola Até na Chuva</string>
+			<key>Genre</key><string>Pop Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7621367</integer>
+			<key>Total Time</key><integer>189910</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2021-09-03T02:19:09Z</date>
+			<key>Date Added</key><date>2025-05-22T23:57:47Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>7805</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>43F3443B36E93FE1</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Charlie%20Brown%20Jr.%20-%20(2009)%20Camisa%2010%20joga%20bola%20at%C3%A9%20na%20chuva%20-%20Camisa%2010%20Joga%20Bola%20At%C3%A9%20Na%20Chuva%20(Bomba%20S%C3%B4nica).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>5854</key>
+		<dict>
+			<key>Track ID</key><integer>5854</integer>
+			<key>Name</key><string>Me Encontra</string>
+			<key>Artist</key><string>Charlie Brown Jr.</string>
+			<key>Album</key><string>Camisa 10 Joga Bola Até Na Chuva</string>
+			<key>Genre</key><string>Brazilian Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6733433</integer>
+			<key>Total Time</key><integer>207986</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2024-05-31T18:59:57Z</date>
+			<key>Date Added</key><date>2025-05-22T23:57:48Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>103</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3774715261</integer>
+			<key>Play Date UTC</key><date>2023-08-12T23:01:01Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2023-03-29T10:56:41Z</date>
+			<key>Normalization</key><integer>4161</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>7F795857375F4816</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Charlie%20Brown%20Jr.%20-%20(2009)%20Camisa%2010%20joga%20bola%20at%C3%A9%20na%20chuva%20-%20Me%20Encontra.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>5864</key>
+		<dict>
+			<key>Track ID</key><integer>5864</integer>
+			<key>Name</key><string>Só Os Loucos Sabem</string>
+			<key>Artist</key><string>Charlie Brown Jr.</string>
+			<key>Album</key><string>Camisa 10 Joga Bola Até Na Chuva</string>
+			<key>Genre</key><string>Brazilian Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3454354</integer>
+			<key>Total Time</key><integer>210599</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2021-09-03T02:19:25Z</date>
+			<key>Date Added</key><date>2025-05-22T23:57:48Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3728474114</integer>
+			<key>Play Date UTC</key><date>2022-02-23T18:15:14Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2022-02-26T16:12:01Z</date>
+			<key>Normalization</key><integer>2576</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BF3F77ED86FBB052</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Charlie%20Brown%20Jr.%20-%20(2009)%20Camisa%2010%20joga%20bola%20at%C3%A9%20na%20chuva%20-%20S%C3%B3%20Os%20Loucos%20Sabem.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>Best of: Charlie Brown Jr.</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>63204</integer>
+			<key>Playlist Persistent ID</key><string>63E298868ABAF2A0</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>5584</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5594</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5590</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5576</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5564</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5588</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5586</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5580</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5568</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5572</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5574</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5570</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5566</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5610</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5626</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5620</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5600</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5608</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5622</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5640</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5642</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5656</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5676</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5684</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5686</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5678</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5722</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5718</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5726</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5774</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5798</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5768</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5792</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5770</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5762</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5784</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5772</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5780</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5824</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5818</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5800</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5832</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5840</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5842</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5836</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5854</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5864</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5846</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5638</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

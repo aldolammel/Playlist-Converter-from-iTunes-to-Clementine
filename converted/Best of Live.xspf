@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+    <trackList>
+        <track>
+            <title>Gas Hed Goes West</title>
+            <creator>Live</creator>
+            <album>Secret Samadhi</album>
+            <duration>335466</duration>
+            <trackNum>12</trackNum>
+            <location>U:\Shared\Music\Live - (1997) Secret Samadhi - Gas Hed Goes West.m4a</location>
+        </track>
+        <track>
+            <title>Ghost</title>
+            <creator>Live</creator>
+            <album>Secret Samadhi</album>
+            <duration>379800</duration>
+            <trackNum>5</trackNum>
+            <location>U:\Shared\Music\Live - (1997) Secret Samadhi - Ghost.m4a</location>
+        </track>
+        <track>
+            <title>Graze</title>
+            <creator>Live</creator>
+            <album>Secret Samadhi</album>
+            <duration>339533</duration>
+            <trackNum>3</trackNum>
+            <location>U:\Shared\Music\Live - (1997) Secret Samadhi - Graze.m4a</location>
+        </track>
+        <track>
+            <title>Insomnia And The Hole In The Universe</title>
+            <creator>Live</creator>
+            <album>Secret Samadhi</album>
+            <duration>241800</duration>
+            <trackNum>7</trackNum>
+            <location>U:\Shared\Music\Live - (1997) Secret Samadhi - Insomnia And The Hole In The Univ.m4a</location>
+        </track>
+        <track>
+            <title>Lakini's Juice</title>
+            <creator>Live</creator>
+            <album>Secret Samadhi</album>
+            <duration>299266</duration>
+            <trackNum>2</trackNum>
+            <location>U:\Shared\Music\Live - (1997) Secret Samadhi - Lakini's Juice.m4a</location>
+        </track>
+        <track>
+            <title>Meltdown</title>
+            <creator>Live</creator>
+            <album>The Distance to Here</album>
+            <duration>235128</duration>
+            <trackNum>10</trackNum>
+            <location>U:\Shared\Music\Live - (1999) The Distance to Here - Meltdown.mp3</location>
+        </track>
+        <track>
+            <title>Century</title>
+            <creator>Live</creator>
+            <album>Secret Samadhi</album>
+            <duration>202824</duration>
+            <trackNum>4</trackNum>
+            <location>U:\Shared\Music\Live - (1997) Secret Samadhi - Century.mp3</location>
+        </track>
+    </trackList>
+</playlist>

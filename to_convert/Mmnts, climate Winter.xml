@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2025-06-04T13:12:39Z</date>
+	<key>Application Version</key><string>12.13.7.1</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/E:/Users/aldol/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>187AD5E35C5E82C1</string>
+	<key>Tracks</key>
+	<dict>
+		<key>15390</key>
+		<dict>
+			<key>Track ID</key><integer>15390</integer>
+			<key>Name</key><string>Base LoFi para a canção Cheia De Manias (JDutra)</string>
+			<key>Artist</key><string>Raça Negra</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6933889</integer>
+			<key>Total Time</key><integer>173087</integer>
+			<key>Date Modified</key><date>2024-07-12T23:22:07Z</date>
+			<key>Date Added</key><date>2025-05-23T00:06:22Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>97</integer>
+			<key>Play Count</key><integer>26</integer>
+			<key>Play Date</key><integer>3766096295</integer>
+			<key>Play Date UTC</key><date>2023-05-05T04:51:35Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2020-10-27T15:46:17Z</date>
+			<key>Normalization</key><integer>132</integer>
+			<key>Persistent ID</key><string>BD1F57CC59F6E6D4</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Ra%C3%A7a%20Negra%20-%20Cheia%20de%20Manias%20(lofi%20remix%20by%20Jo%C3%A3o%20Dutra%20-%20jdutra%20-%20no%20voices).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>17590</key>
+		<dict>
+			<key>Track ID</key><integer>17590</integer>
+			<key>Name</key><string>Pug Life (feat Chad Bogus)</string>
+			<key>Artist</key><string>Beatslingers</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5038890</integer>
+			<key>Total Time</key><integer>193410</integer>
+			<key>Start Time</key><integer>3000</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2021-09-03T01:35:54Z</date>
+			<key>Date Added</key><date>2025-05-23T00:08:19Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>16</integer>
+			<key>Play Date</key><integer>3709808220</integer>
+			<key>Play Date UTC</key><date>2021-07-22T17:17:00Z</date>
+			<key>Skip Count</key><integer>6</integer>
+			<key>Skip Date</key><date>2021-08-02T16:36:22Z</date>
+			<key>Normalization</key><integer>1448</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>92E9A37E7206CE03</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Beatslingers%20-%202014%20-%20Pug%20Life%20(Chad%20Bogus).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>17758</key>
+		<dict>
+			<key>Track ID</key><integer>17758</integer>
+			<key>Name</key><string>Time</string>
+			<key>Artist</key><string>Bassti</string>
+			<key>Album</key><string>Chillhop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3832593</integer>
+			<key>Total Time</key><integer>95208</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2020-11-14T13:19:24Z</date>
+			<key>Date Added</key><date>2025-05-23T00:08:28Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Play Count</key><integer>23</integer>
+			<key>Play Date</key><integer>3830940633</integer>
+			<key>Play Date UTC</key><date>2025-05-24T17:10:33Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2023-07-24T17:00:41Z</date>
+			<key>Normalization</key><integer>1660</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A16B36B1305AC743</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Bassti%20-%20(2017)%20Chillhop%20-%20Time.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>18350</key>
+		<dict>
+			<key>Track ID</key><integer>18350</integer>
+			<key>Name</key><string>lazyness</string>
+			<key>Artist</key><string>Nothingtosay</string>
+			<key>Album</key><string>Introspective</string>
+			<key>Genre</key><string>Lo Fi</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2782125</integer>
+			<key>Total Time</key><integer>161880</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2024-07-12T23:22:06Z</date>
+			<key>Date Added</key><date>2025-05-23T00:08:58Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>96</integer>
+			<key>Play Count</key><integer>27</integer>
+			<key>Play Date</key><integer>3784361955</integer>
+			<key>Play Date UTC</key><date>2023-12-02T13:39:15Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2021-12-27T19:16:46Z</date>
+			<key>Normalization</key><integer>711</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>970DC178C1302BF4</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Nothingtosay%20-%20(2020)%20Introspective%20-%207%20-%20lazyness.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>18536</key>
+		<dict>
+			<key>Track ID</key><integer>18536</integer>
+			<key>Name</key><string>Motions</string>
+			<key>Artist</key><string>Tibeauthetraveler</string>
+			<key>Album</key><string>Motions</string>
+			<key>Genre</key><string>Lo Fi</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>1955138</integer>
+			<key>Total Time</key><integer>121547</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Modified</key><date>2024-07-12T23:22:08Z</date>
+			<key>Date Added</key><date>2025-05-23T00:09:07Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>96</integer>
+			<key>Play Count</key><integer>32</integer>
+			<key>Play Date</key><integer>3766103952</integer>
+			<key>Play Date UTC</key><date>2023-05-05T06:59:12Z</date>
+			<key>Normalization</key><integer>991</integer>
+			<key>Persistent ID</key><string>6906A65324F55606</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Tibeauthetraveler%20-%20(2021)%20Motions%20-%20Motions.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>18648</key>
+		<dict>
+			<key>Track ID</key><integer>18648</integer>
+			<key>Name</key><string>Paralisou</string>
+			<key>Artist</key><string>Cynthia Luz</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7851102</integer>
+			<key>Total Time</key><integer>193724</integer>
+			<key>Date Modified</key><date>2022-09-15T16:09:40Z</date>
+			<key>Date Added</key><date>2025-05-23T00:09:12Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>146</integer>
+			<key>Play Count</key><integer>16</integer>
+			<key>Play Date</key><integer>3767342813</integer>
+			<key>Play Date UTC</key><date>2023-05-19T15:06:53Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2023-03-23T18:10:18Z</date>
+			<key>Normalization</key><integer>3434</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F8FD9FB58AE59BD6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Cynthia%20Luz%20-%20Paralisou.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>18826</key>
+		<dict>
+			<key>Track ID</key><integer>18826</integer>
+			<key>Name</key><string>No Secrets</string>
+			<key>Artist</key><string>dryhope</string>
+			<key>Album</key><string>Kenopsia</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4674038</integer>
+			<key>Total Time</key><integer>115226</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2024-07-12T23:22:15Z</date>
+			<key>Date Added</key><date>2025-05-23T00:09:21Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>96</integer>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3775562534</integer>
+			<key>Play Date UTC</key><date>2023-08-22T18:22:14Z</date>
+			<key>Normalization</key><integer>1285</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A6619EBFF29EEC4F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Dryhope%20-%20(2020)%20Kenopsia%20-%20No%20Secrets.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>18916</key>
+		<dict>
+			<key>Track ID</key><integer>18916</integer>
+			<key>Name</key><string>Don't Go Away (Remastered)</string>
+			<key>Artist</key><string>Oasis</string>
+			<key>Album</key><string>Be Here Now</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11669143</integer>
+			<key>Total Time</key><integer>288696</integer>
+			<key>Year</key><integer>1997</integer>
+			<key>Date Modified</key><date>2025-05-30T19:55:45Z</date>
+			<key>Date Added</key><date>2025-05-23T00:09:26Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Volume Adjustment</key><integer>103</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3779020234</integer>
+			<key>Play Date UTC</key><date>2023-10-01T18:50:34Z</date>
+			<key>Normalization</key><integer>7512</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>01D7F2AE46972E30</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Oasis%20-%20(1997)%20Be%20Here%20Now%20-%20Don't%20Go%20Away.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>19100</key>
+		<dict>
+			<key>Track ID</key><integer>19100</integer>
+			<key>Name</key><string>Gravura</string>
+			<key>Artist</key><string>Franktuary</string>
+			<key>Genre</key><string>Lo Fi</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8629334</integer>
+			<key>Total Time</key><integer>210504</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2025-05-25T14:56:32Z</date>
+			<key>Date Added</key><date>2025-05-23T00:09:38Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Volume Adjustment</key><integer>95</integer>
+			<key>Play Count</key><integer>10</integer>
+			<key>Play Date</key><integer>3792818367</integer>
+			<key>Play Date UTC</key><date>2024-03-09T11:39:27Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2024-02-27T14:22:05Z</date>
+			<key>Normalization</key><integer>1407</integer>
+			<key>Persistent ID</key><string>9B22E677600F0A21</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Franktuary%20-%202020%20-%20Gravura.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>19104</key>
+		<dict>
+			<key>Track ID</key><integer>19104</integer>
+			<key>Name</key><string>Aurora</string>
+			<key>Artist</key><string>Nomyn </string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9706727</integer>
+			<key>Total Time</key><integer>215640</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2024-07-12T23:22:22Z</date>
+			<key>Date Added</key><date>2025-05-23T00:09:38Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Volume Adjustment</key><integer>96</integer>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3792785744</integer>
+			<key>Play Date UTC</key><date>2024-03-09T02:35:44Z</date>
+			<key>Normalization</key><integer>1859</integer>
+			<key>Persistent ID</key><string>CA4C571ED96ED0D4</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Nomyn%20-%20(2020)%20-%20Aurora.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>19272</key>
+		<dict>
+			<key>Track ID</key><integer>19272</integer>
+			<key>Name</key><string>Figures</string>
+			<key>Artist</key><string>Bonobo</string>
+			<key>Album</key><string>Migration</string>
+			<key>Genre</key><string>Electronica</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>14906855</integer>
+			<key>Total Time</key><integer>368378</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2024-07-12T14:08:42Z</date>
+			<key>Date Added</key><date>2025-05-24T16:32:20Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>100</integer>
+			<key>Comments</key><string>For more quality torrents, visit http://iboom.pm</string>
+			<key>Normalization</key><integer>1603</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BB04358264396FF5</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Bonobo%20-%20(2017)%20Migration%20-%20Figures.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>19294</key>
+		<dict>
+			<key>Track ID</key><integer>19294</integer>
+			<key>Name</key><string>Grains</string>
+			<key>Artist</key><string>Bonobo</string>
+			<key>Album</key><string>Migration</string>
+			<key>Genre</key><string>Electronica</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10929971</integer>
+			<key>Total Time</key><integer>268956</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2025-05-25T14:17:22Z</date>
+			<key>Date Added</key><date>2025-05-24T16:32:20Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>100</integer>
+			<key>Comments</key><string>For more quality torrents, visit http://iboom.pm</string>
+			<key>Normalization</key><integer>2092</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>AA932B36691C8377</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Bonobo%20-%20(2017)%20Migration%20-%20Grains.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>Mmnts, climate Winter</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>70700</integer>
+			<key>Playlist Persistent ID</key><string>F0B1B6755A8C633F</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>17590</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17758</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15390</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18350</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18536</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18648</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18916</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19100</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19104</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19294</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19272</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18826</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

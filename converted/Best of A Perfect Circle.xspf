@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+    <trackList>
+        <track>
+            <title>3 Libras</title>
+            <creator>A Perfect Circle</creator>
+            <album>Mer de Noms</album>
+            <duration>219742</duration>
+            <trackNum>6</trackNum>
+            <location>U:\Shared\Music\A Perfect Circle - (2000) Mer De Noms - 3 Libras.mp3</location>
+        </track>
+        <track>
+            <title>Judith</title>
+            <creator>A Perfect Circle</creator>
+            <album>Mer de Noms</album>
+            <duration>247379</duration>
+            <trackNum>4</trackNum>
+            <location>U:\Shared\Music\A Perfect Circle - (2000) Mer De Noms - Judith.mp3</location>
+        </track>
+        <track>
+            <title>Orestes</title>
+            <creator>A Perfect Circle</creator>
+            <album>Mer de Noms</album>
+            <duration>288548</duration>
+            <trackNum>5</trackNum>
+            <location>U:\Shared\Music\A Perfect Circle - (2000) Mer De Noms - Orestes.mp3</location>
+        </track>
+        <track>
+            <title>The Hollow</title>
+            <creator>A Perfect Circle</creator>
+            <album>Mer de Noms</album>
+            <duration>179435</duration>
+            <trackNum>1</trackNum>
+            <location>U:\Shared\Music\A Perfect Circle - (2000) Mer De Noms - The Hollow.mp3</location>
+        </track>
+        <track>
+            <title>Blue</title>
+            <creator>A Perfect Circle</creator>
+            <album>Thirteenth Step</album>
+            <duration>253704</duration>
+            <trackNum>4</trackNum>
+            <location>U:\Shared\Music\A Perfect Circle - (2003) Thirteenth Step - Blue.mp3</location>
+        </track>
+        <track>
+            <title>Vanishing</title>
+            <creator>A Perfect Circle</creator>
+            <album>Thirteenth Step</album>
+            <duration>291504</duration>
+            <trackNum>5</trackNum>
+            <location>U:\Shared\Music\A Perfect Circle - (2003) Thirteenth Step - Vanishing.mp3</location>
+        </track>
+        <track>
+            <title>Weak And Powerless</title>
+            <creator>A Perfect Circle</creator>
+            <album>Thirteenth Step</album>
+            <duration>195168</duration>
+            <trackNum>2</trackNum>
+            <location>U:\Shared\Music\A Perfect Circle - (2003) Thirteenth Step - Weak And Powerless.mp3</location>
+        </track>
+        <track>
+            <title>TalkTalk</title>
+            <creator>A Perfect Circle</creator>
+            <duration>255921</duration>
+            <location>U:\Shared\Music\A Perfect Circle - TalkTalk.mp3</location>
+        </track>
+        <track>
+            <title>The Doomed</title>
+            <creator>A Perfect Circle</creator>
+            <duration>281861</duration>
+            <location>U:\Shared\Music\A Perfect Circle - The Doomed.mp3</location>
+        </track>
+        <track>
+            <title>Sober</title>
+            <creator>Tool</creator>
+            <album>Undertow</album>
+            <duration>308480</duration>
+            <location>U:\Shared\Music\Tool - (1993) Undertow - Sober.mp3</location>
+        </track>
+    </trackList>
+</playlist>

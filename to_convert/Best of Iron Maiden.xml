@@ -1,0 +1,828 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2025-06-04T13:04:15Z</date>
+	<key>Application Version</key><string>12.13.7.1</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/E:/Users/aldol/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>187AD5E35C5E82C1</string>
+	<key>Tracks</key>
+	<dict>
+		<key>10444</key>
+		<dict>
+			<key>Track ID</key><integer>10444</integer>
+			<key>Name</key><string>Hallowed be Thy Name</string>
+			<key>Artist</key><string>Iron Maiden</string>
+			<key>Album</key><string>The Number Of The Beast</string>
+			<key>Genre</key><string>Heavy Metal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>19123542</integer>
+			<key>Total Time</key><integer>432848</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>1982</integer>
+			<key>Date Modified</key><date>2023-08-25T16:18:56Z</date>
+			<key>Date Added</key><date>2025-05-23T00:01:54Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>103</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3737641984</integer>
+			<key>Play Date UTC</key><date>2022-06-09T20:53:04Z</date>
+			<key>Normalization</key><integer>7110</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Number Of The Beast</string>
+			<key>Persistent ID</key><string>ADE5FCB3856AA90B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Iron%20Maiden%20-%20(1982)%20The%20Number%20of%20the%20Beast%20-%20Hallowed%20be%20Thy%20Name.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>10448</key>
+		<dict>
+			<key>Track ID</key><integer>10448</integer>
+			<key>Name</key><string>Run To The Hills</string>
+			<key>Artist</key><string>Iron Maiden</string>
+			<key>Album</key><string>The Number Of The Beast</string>
+			<key>Genre</key><string>Heavy Metal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11169775</integer>
+			<key>Total Time</key><integer>234004</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>1982</integer>
+			<key>Date Modified</key><date>2023-08-25T16:19:00Z</date>
+			<key>Date Added</key><date>2025-05-23T00:01:54Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>103</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3737639656</integer>
+			<key>Play Date UTC</key><date>2022-06-09T20:14:16Z</date>
+			<key>Normalization</key><integer>9526</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Number Of The Beast</string>
+			<key>Persistent ID</key><string>7B9019C4DBE1B8BF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Iron%20Maiden%20-%20(1982)%20The%20Number%20of%20the%20Beast%20-%20Run%20To%20The%20Hills.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>10450</key>
+		<dict>
+			<key>Track ID</key><integer>10450</integer>
+			<key>Name</key><string>The Number Of The Beast</string>
+			<key>Artist</key><string>Iron Maiden</string>
+			<key>Album</key><string>The Number Of The Beast</string>
+			<key>Genre</key><string>Heavy Metal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>13466467</integer>
+			<key>Total Time</key><integer>291422</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>1982</integer>
+			<key>Date Modified</key><date>2023-08-25T16:18:55Z</date>
+			<key>Date Added</key><date>2025-05-23T00:01:54Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>103</integer>
+			<key>Normalization</key><integer>8109</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Number Of The Beast</string>
+			<key>Sort Name</key><string>Number Of The Beast</string>
+			<key>Persistent ID</key><string>52646E73634E8F86</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Iron%20Maiden%20-%20(1982)%20The%20Number%20of%20the%20Beast%20-%20The%20Number%20Of%20The%20Beast.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>10468</key>
+		<dict>
+			<key>Track ID</key><integer>10468</integer>
+			<key>Name</key><string>The Trooper</string>
+			<key>Artist</key><string>Iron Maiden</string>
+			<key>Album</key><string>Piece Of Mind</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4024320</integer>
+			<key>Total Time</key><integer>251428</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>1984</integer>
+			<key>Date Modified</key><date>2023-08-25T16:18:50Z</date>
+			<key>Date Added</key><date>2025-05-23T00:01:55Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>103</integer>
+			<key>Normalization</key><integer>2227</integer>
+			<key>Sort Name</key><string>Trooper</string>
+			<key>Persistent ID</key><string>DE6E06AEBC5F3FFF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Iron%20Maiden%20-%20(1983)%20Piece%20of%20mind%20-%20The%20Trooper.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>10474</key>
+		<dict>
+			<key>Track ID</key><integer>10474</integer>
+			<key>Name</key><string>2 Minutes To Midnight</string>
+			<key>Artist</key><string>Iron Maiden</string>
+			<key>Album</key><string>Powerslave</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5822464</integer>
+			<key>Total Time</key><integer>363755</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>1984</integer>
+			<key>Date Modified</key><date>2023-08-25T16:18:45Z</date>
+			<key>Date Added</key><date>2025-05-23T00:01:55Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>103</integer>
+			<key>Normalization</key><integer>2130</integer>
+			<key>Persistent ID</key><string>5A6DF4CEB2E178E6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Iron%20Maiden%20-%20(1984)%20Powerslave%20-%202%20Minutes%20To%20Midnight.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>10476</key>
+		<dict>
+			<key>Track ID</key><integer>10476</integer>
+			<key>Name</key><string>Aces High</string>
+			<key>Artist</key><string>Iron Maiden</string>
+			<key>Album</key><string>Powerslave</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4345856</integer>
+			<key>Total Time</key><integer>271542</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>1984</integer>
+			<key>Date Modified</key><date>2023-08-25T16:18:56Z</date>
+			<key>Date Added</key><date>2025-05-23T00:01:55Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>103</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3737639927</integer>
+			<key>Play Date UTC</key><date>2022-06-09T20:18:47Z</date>
+			<key>Normalization</key><integer>3408</integer>
+			<key>Persistent ID</key><string>75DB7DE5E51CDEDF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Iron%20Maiden%20-%20(1984)%20Powerslave%20-%20Aces%20High.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>10484</key>
+		<dict>
+			<key>Track ID</key><integer>10484</integer>
+			<key>Name</key><string>Powerslave</string>
+			<key>Artist</key><string>Iron Maiden</string>
+			<key>Album</key><string>Powerslave</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6903808</integer>
+			<key>Total Time</key><integer>431412</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>1984</integer>
+			<key>Date Modified</key><date>2023-08-25T16:18:50Z</date>
+			<key>Date Added</key><date>2025-05-23T00:01:56Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>103</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3737640358</integer>
+			<key>Play Date UTC</key><date>2022-06-09T20:25:58Z</date>
+			<key>Normalization</key><integer>2488</integer>
+			<key>Persistent ID</key><string>78C18332A99F0B8A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Iron%20Maiden%20-%20(1984)%20Powerslave%20-%20Powerslave.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>10490</key>
+		<dict>
+			<key>Track ID</key><integer>10490</integer>
+			<key>Name</key><string>Alexander The Great</string>
+			<key>Artist</key><string>Iron Maiden</string>
+			<key>Album Artist</key><string>Iron Maiden</string>
+			<key>Composer</key><string>Steve Harris</string>
+			<key>Album</key><string>Somewhere In Time</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>12980005</integer>
+			<key>Total Time</key><integer>515657</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>1986</integer>
+			<key>Date Modified</key><date>2023-08-25T16:18:44Z</date>
+			<key>Date Added</key><date>2025-05-23T00:01:56Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>103</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3737641551</integer>
+			<key>Play Date UTC</key><date>2022-06-09T20:45:51Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2022-06-10T19:26:36Z</date>
+			<key>Normalization</key><integer>1553</integer>
+			<key>Artwork Count</key><integer>2</integer>
+			<key>Persistent ID</key><string>BCC647AAC9E5C71D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Iron%20Maiden%20-%20(1986)%20Somewhere%20in%20Time%20-%20Alexander%20The%20Great.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>10504</key>
+		<dict>
+			<key>Track ID</key><integer>10504</integer>
+			<key>Name</key><string>Wasted Years</string>
+			<key>Artist</key><string>Iron Maiden</string>
+			<key>Album</key><string>Somewhere In Time</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7989838</integer>
+			<key>Total Time</key><integer>307591</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Date Modified</key><date>2023-08-25T16:18:32Z</date>
+			<key>Date Added</key><date>2025-05-23T00:01:57Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>103</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3737642291</integer>
+			<key>Play Date UTC</key><date>2022-06-09T20:58:11Z</date>
+			<key>Normalization</key><integer>1683</integer>
+			<key>Artwork Count</key><integer>2</integer>
+			<key>Persistent ID</key><string>2C54A5EC12819F21</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Iron%20Maiden%20-%20(1986)%20Somewhere%20in%20Time%20-%20Wasted%20Years.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>10506</key>
+		<dict>
+			<key>Track ID</key><integer>10506</integer>
+			<key>Name</key><string>Can I Play With Madness</string>
+			<key>Artist</key><string>Iron Maiden</string>
+			<key>Album</key><string>Seventh Son Of A Seventh Son</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5474451</integer>
+			<key>Total Time</key><integer>211017</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>1988</integer>
+			<key>Date Modified</key><date>2023-08-25T16:18:32Z</date>
+			<key>Date Added</key><date>2025-05-23T00:01:57Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>103</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3745507967</integer>
+			<key>Play Date UTC</key><date>2022-09-08T21:52:47Z</date>
+			<key>Normalization</key><integer>1758</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>09EAB49C5F73B677</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Iron%20Maiden%20-%20(1988)%20Seventh%20Son%20Of%20A%20Seventh%20Son%20-%20Can%20I%20Play%20With%20Madness.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>10510</key>
+		<dict>
+			<key>Track ID</key><integer>10510</integer>
+			<key>Name</key><string>Moonchild</string>
+			<key>Artist</key><string>Iron Maiden</string>
+			<key>Album</key><string>Seventh Son Of A Seventh Son</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7524927</integer>
+			<key>Total Time</key><integer>339173</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>1988</integer>
+			<key>Date Modified</key><date>2023-08-25T16:18:35Z</date>
+			<key>Date Added</key><date>2025-05-23T00:01:57Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>103</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3745507761</integer>
+			<key>Play Date UTC</key><date>2022-09-08T21:49:21Z</date>
+			<key>Normalization</key><integer>1437</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D205CB9CBFEB7BBE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Iron%20Maiden%20-%20(1988)%20Seventh%20Son%20Of%20A%20Seventh%20Son%20-%20Moonchild.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>10516</key>
+		<dict>
+			<key>Track ID</key><integer>10516</integer>
+			<key>Name</key><string>The Clairvoyant</string>
+			<key>Artist</key><string>Iron Maiden</string>
+			<key>Album</key><string>Seventh Son Of A Seventh Son</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6370947</integer>
+			<key>Total Time</key><integer>267049</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>1988</integer>
+			<key>Date Modified</key><date>2023-08-25T16:18:30Z</date>
+			<key>Date Added</key><date>2025-05-23T00:01:57Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>103</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3737640625</integer>
+			<key>Play Date UTC</key><date>2022-06-09T20:30:25Z</date>
+			<key>Normalization</key><integer>1357</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>Clairvoyant</string>
+			<key>Persistent ID</key><string>B921AE877D0C8738</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Iron%20Maiden%20-%20(1988)%20Seventh%20Son%20Of%20A%20Seventh%20Son%20-%20The%20Clairvoyant.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>10550</key>
+		<dict>
+			<key>Track ID</key><integer>10550</integer>
+			<key>Name</key><string>Judas Be My Guide</string>
+			<key>Artist</key><string>Iron Maiden</string>
+			<key>Album</key><string>Fear of the dark</string>
+			<key>Genre</key><string>Heavy Metal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3131206</integer>
+			<key>Total Time</key><integer>188760</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Year</key><integer>1992</integer>
+			<key>Date Modified</key><date>2023-08-25T16:18:23Z</date>
+			<key>Date Added</key><date>2025-05-23T00:01:59Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>102</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3737639189</integer>
+			<key>Play Date UTC</key><date>2022-06-09T20:06:29Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2022-10-01T13:21:12Z</date>
+			<key>Normalization</key><integer>1682</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F38C965409DD8431</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Iron%20Maiden%20-%20(1992)%20Fear%20of%20the%20Dark%20-%20Judas%20Be%20My%20Guide.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>10570</key>
+		<dict>
+			<key>Track ID</key><integer>10570</integer>
+			<key>Name</key><string>Fear Of The Dark</string>
+			<key>Artist</key><string>Iron Maiden</string>
+			<key>Album</key><string>Live At Donington</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10566809</integer>
+			<key>Total Time</key><integer>431542</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Year</key><integer>1992</integer>
+			<key>Date Modified</key><date>2023-08-25T16:18:23Z</date>
+			<key>Date Added</key><date>2025-05-23T00:02:00Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>103</integer>
+			<key>Comments</key><string>Track 10</string>
+			<key>Normalization</key><integer>9643</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>531B0D94DE17E90C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Iron%20Maiden%20-%20(1992)%20Live%20At%20Donington%20-%20Fear%20Of%20The%20Dark.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>10596</key>
+		<dict>
+			<key>Track ID</key><integer>10596</integer>
+			<key>Name</key><string>Wasting Love</string>
+			<key>Artist</key><string>Iron Maiden</string>
+			<key>Album</key><string>Live At Donington</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8296658</integer>
+			<key>Total Time</key><integer>336953</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>1992</integer>
+			<key>Date Modified</key><date>2023-08-25T16:18:32Z</date>
+			<key>Date Added</key><date>2025-05-23T00:02:02Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>103</integer>
+			<key>Comments</key><string>Track 6</string>
+			<key>Normalization</key><integer>7226</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F4BB3FE19DB57DAC</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Iron%20Maiden%20-%20(1992)%20Live%20At%20Donington%20-%20Wasting%20Love.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>10602</key>
+		<dict>
+			<key>Track ID</key><integer>10602</integer>
+			<key>Name</key><string>Brave New World</string>
+			<key>Artist</key><string>Iron Maiden</string>
+			<key>Album</key><string>Brave new world</string>
+			<key>Genre</key><string>Heavy Metal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9307769</integer>
+			<key>Total Time</key><integer>378958</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2023-08-25T16:18:01Z</date>
+			<key>Date Added</key><date>2025-05-23T00:02:02Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>102</integer>
+			<key>Comments</key><string>Música baseada na obra do Aldous Huxley "Brave New World" ou "Adorável Mundo Novo". </string>
+			<key>Normalization</key><integer>5821</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5965ED1FC12FCDDC</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Iron%20Maiden%20-%20(2000)%20Brave%20New%20World%20-%20Brave%20New%20World.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>10604</key>
+		<dict>
+			<key>Track ID</key><integer>10604</integer>
+			<key>Name</key><string>Dream Of Mirrors</string>
+			<key>Artist</key><string>Iron Maiden</string>
+			<key>Album</key><string>Brave new world</string>
+			<key>Genre</key><string>Heavy Metal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>13674120</integer>
+			<key>Total Time</key><integer>561162</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2023-08-25T16:18:07Z</date>
+			<key>Date Added</key><date>2025-05-23T00:02:02Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>102</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3737639000</integer>
+			<key>Play Date UTC</key><date>2022-06-09T20:03:20Z</date>
+			<key>Normalization</key><integer>4973</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4A440FDA9514B1F8</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Iron%20Maiden%20-%20(2000)%20Brave%20New%20World%20-%20Dream%20Of%20Mirrors.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>10606</key>
+		<dict>
+			<key>Track ID</key><integer>10606</integer>
+			<key>Name</key><string>Ghost Of The Navigator</string>
+			<key>Artist</key><string>Iron Maiden</string>
+			<key>Album</key><string>Brave new world</string>
+			<key>Genre</key><string>Heavy Metal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10053304</integer>
+			<key>Total Time</key><integer>410070</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2023-08-25T16:18:08Z</date>
+			<key>Date Added</key><date>2025-05-23T00:02:03Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>102</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3737641035</integer>
+			<key>Play Date UTC</key><date>2022-06-09T20:37:15Z</date>
+			<key>Normalization</key><integer>8248</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2DE51C75004EF524</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Iron%20Maiden%20-%20(2000)%20Brave%20New%20World%20-%20Ghost%20Of%20The%20Navigator.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>10614</key>
+		<dict>
+			<key>Track ID</key><integer>10614</integer>
+			<key>Name</key><string>The Nomad</string>
+			<key>Artist</key><string>Iron Maiden</string>
+			<key>Album</key><string>Brave new world</string>
+			<key>Genre</key><string>Heavy Metal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>13313537</integer>
+			<key>Total Time</key><integer>546115</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2023-08-25T16:18:06Z</date>
+			<key>Date Added</key><date>2025-05-23T00:02:03Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>102</integer>
+			<key>Normalization</key><integer>7180</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>Nomad</string>
+			<key>Persistent ID</key><string>8515B613DC23624B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Iron%20Maiden%20-%20(2000)%20Brave%20New%20World%20-%20The%20Nomad.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>10616</key>
+		<dict>
+			<key>Track ID</key><integer>10616</integer>
+			<key>Name</key><string>The Thin Line Between Love &#38; Hate</string>
+			<key>Artist</key><string>Iron Maiden</string>
+			<key>Album</key><string>Brave new world</string>
+			<key>Genre</key><string>Heavy Metal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>12371432</integer>
+			<key>Total Time</key><integer>506044</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2023-08-25T16:18:15Z</date>
+			<key>Date Added</key><date>2025-05-23T00:02:04Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>102</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3737638439</integer>
+			<key>Play Date UTC</key><date>2022-06-09T19:53:59Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2022-01-05T00:08:42Z</date>
+			<key>Normalization</key><integer>7371</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>Thin Line Between Love &#38; Hate</string>
+			<key>Persistent ID</key><string>1E7F1BAE2DDC2CE9</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Iron%20Maiden%20-%20(2000)%20Brave%20New%20World%20-%20The%20Thin%20Line%20Between%20Love%20&#38;%20Hate.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>10664</key>
+		<dict>
+			<key>Track ID</key><integer>10664</integer>
+			<key>Name</key><string>Face In The Sand</string>
+			<key>Artist</key><string>Iron Maiden</string>
+			<key>Album</key><string>Dance of Death</string>
+			<key>Genre</key><string>Heavy Metal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9475733</integer>
+			<key>Total Time</key><integer>391157</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2023-08-25T16:17:51Z</date>
+			<key>Date Added</key><date>2025-05-23T00:02:06Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>103</integer>
+			<key>Normalization</key><integer>9478</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>830EA5E9CC364B3F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Iron%20Maiden%20-%20(2003)%20Dance%20Of%20Death%20-%20face%20in%20the%20sand.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>10674</key>
+		<dict>
+			<key>Track ID</key><integer>10674</integer>
+			<key>Name</key><string>No More Lies</string>
+			<key>Artist</key><string>Iron Maiden</string>
+			<key>Album</key><string>Dance of Death</string>
+			<key>Genre</key><string>Heavy Metal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10691367</integer>
+			<key>Total Time</key><integer>441808</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2023-08-25T16:17:41Z</date>
+			<key>Date Added</key><date>2025-05-23T00:02:06Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>103</integer>
+			<key>Normalization</key><integer>9504</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3CD5D3962589BF1D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Iron%20Maiden%20-%20(2003)%20Dance%20of%20Death%20-%20no%20more%20lies.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>10676</key>
+		<dict>
+			<key>Track ID</key><integer>10676</integer>
+			<key>Name</key><string>Paschendale</string>
+			<key>Artist</key><string>Iron Maiden</string>
+			<key>Album</key><string>Dance of Death</string>
+			<key>Genre</key><string>Heavy Metal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>12283489</integer>
+			<key>Total Time</key><integer>508133</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2023-08-25T16:18:00Z</date>
+			<key>Date Added</key><date>2025-05-23T00:02:06Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>103</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3737637932</integer>
+			<key>Play Date UTC</key><date>2022-06-09T19:45:32Z</date>
+			<key>Normalization</key><integer>10062</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>356609E69081CF3C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Iron%20Maiden%20-%20(2003)%20Dance%20of%20Death%20-%20paschendale.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>10680</key>
+		<dict>
+			<key>Track ID</key><integer>10680</integer>
+			<key>Name</key><string>Wildest Dreams</string>
+			<key>Artist</key><string>Iron Maiden</string>
+			<key>Album</key><string>Dance of Death</string>
+			<key>Genre</key><string>Heavy Metal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5675857</integer>
+			<key>Total Time</key><integer>232829</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2023-08-25T16:17:42Z</date>
+			<key>Date Added</key><date>2025-05-23T00:02:06Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>103</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3737639422</integer>
+			<key>Play Date UTC</key><date>2022-06-09T20:10:22Z</date>
+			<key>Normalization</key><integer>11091</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>9FCE8F9D53D31506</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Iron%20Maiden%20-%20(2003)%20Dance%20Of%20Death%20-%20wildest%20dreams.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>10720</key>
+		<dict>
+			<key>Track ID</key><integer>10720</integer>
+			<key>Name</key><string>Lord of Light</string>
+			<key>Artist</key><string>Iron Maiden</string>
+			<key>Album</key><string>A Matter of Life and Death</string>
+			<key>Genre</key><string>Heavy Metal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11738913</integer>
+			<key>Total Time</key><integer>444682</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2023-08-25T16:17:16Z</date>
+			<key>Date Added</key><date>2025-05-23T00:02:08Z</date>
+			<key>Bit Rate</key><integer>204</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>103</integer>
+			<key>Comments</key><string>:&#62;</string>
+			<key>Normalization</key><integer>2585</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Matter of Life and Death</string>
+			<key>Persistent ID</key><string>ED89C9DDFA412F0F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Iron%20Maiden%20-%20(2006)%20A%20Matter%20of%20Life%20and%20Death%20-%20lord_of_light.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>13642</key>
+		<dict>
+			<key>Track ID</key><integer>13642</integer>
+			<key>Name</key><string>The Trooper (Iron Maiden cover)</string>
+			<key>Artist</key><string>Motörhead</string>
+			<key>Composer</key><string>Steve Harris</string>
+			<key>Album</key><string>An All Star Salute To Iron Maiden</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7847372</integer>
+			<key>Total Time</key><integer>196127</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2021-09-03T17:48:55Z</date>
+			<key>Date Added</key><date>2025-05-23T00:04:39Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>103</integer>
+			<key>Normalization</key><integer>19436</integer>
+			<key>Sort Album</key><string>All Star Salute To Iron Maiden</string>
+			<key>Sort Name</key><string>Trooper (Iron Maiden cover)</string>
+			<key>Persistent ID</key><string>DD2E42F37CDE6039</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Motorhead%20-%20(2005)%20An%20All%20Star%20Salute%20To%20Iron%20Maiden%20-%20The%20Trooper.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>Best of: Iron Maiden</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>63415</integer>
+			<key>Playlist Persistent ID</key><string>7B291C914C2BBDA4</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>10606</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10602</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10604</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10614</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10616</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10680</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10674</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10676</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10550</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10720</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10450</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10448</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10444</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10468</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10476</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10474</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10484</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10510</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10506</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10516</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10504</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10490</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10570</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10596</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10664</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13642</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

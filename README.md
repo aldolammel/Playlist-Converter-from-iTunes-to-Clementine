@@ -1,5 +1,6 @@
 # Playlist Converter: from iTunes to Clementine
->*by @aldolammel*
+>*Author: @aldolammel*
+>*Public repository: https://github.com/aldolammel/Playlist-Converter-from-iTunes-to-Clementine*
 
 This simple app converts your iTunes playlists from .xml to .xspf files used by Clementine's playlists. 
 

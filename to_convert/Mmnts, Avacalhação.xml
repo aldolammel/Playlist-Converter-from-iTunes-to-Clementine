@@ -1,0 +1,639 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2025-06-04T13:11:51Z</date>
+	<key>Application Version</key><string>12.13.7.1</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/E:/Users/aldol/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>187AD5E35C5E82C1</string>
+	<key>Tracks</key>
+	<dict>
+		<key>3738</key>
+		<dict>
+			<key>Track ID</key><integer>3738</integer>
+			<key>Name</key><string>Líquido Preto</string>
+			<key>Artist</key><string>Apanhador Só</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2060153</integer>
+			<key>Total Time</key><integer>128078</integer>
+			<key>Date Modified</key><date>2021-09-03T01:20:17Z</date>
+			<key>Date Added</key><date>2025-05-22T23:55:44Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3709492782</integer>
+			<key>Play Date UTC</key><date>2021-07-19T01:39:42Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2021-08-02T16:04:31Z</date>
+			<key>Normalization</key><integer>3408</integer>
+			<key>Persistent ID</key><string>6C54B3712B21F504</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Apanhador%20S%C3%B3%20-%20L%C3%ADquido%20Preto.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>4300</key>
+		<dict>
+			<key>Track ID</key><integer>4300</integer>
+			<key>Name</key><string>Hey Dude</string>
+			<key>Artist</key><string>Beatallica</string>
+			<key>Album</key><string>Beatallica</string>
+			<key>Genre</key><string>Satire</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11044864</integer>
+			<key>Total Time</key><integer>460146</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2021-09-03T01:35:56Z</date>
+			<key>Date Added</key><date>2025-05-22T23:56:17Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2023-09-29T12:48:12Z</date>
+			<key>Normalization</key><integer>5684</integer>
+			<key>Persistent ID</key><string>287AC42EA4083EEB</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Beatallica%20-%20Hey%20Dude.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>4328</key>
+		<dict>
+			<key>Track ID</key><integer>4328</integer>
+			<key>Name</key><string>Arruda de guiné</string>
+			<key>Artist</key><string>Bezerra da Silva</string>
+			<key>Composer</key><string>Bira do Cavaco/Velho Bira/Rubens da Vila</string>
+			<key>Genre</key><string>genre</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3141632</integer>
+			<key>Total Time</key><integer>196231</integer>
+			<key>Date Modified</key><date>2024-05-31T19:25:35Z</date>
+			<key>Date Added</key><date>2025-05-22T23:56:18Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2020-07-04T08:09:37Z</date>
+			<key>Normalization</key><integer>3480</integer>
+			<key>Persistent ID</key><string>12166002801F0F15</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Bezerra%20da%20Silva%20-%20Arruda%20de%20Guin.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>4688</key>
+		<dict>
+			<key>Track ID</key><integer>4688</integer>
+			<key>Name</key><string>Mexiko</string>
+			<key>Artist</key><string>Bohse Onkelz</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2705785</integer>
+			<key>Total Time</key><integer>168829</integer>
+			<key>Date Modified</key><date>2021-09-03T01:45:42Z</date>
+			<key>Date Added</key><date>2025-05-22T23:56:40Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>2435</integer>
+			<key>Persistent ID</key><string>42C5EA00B249EED8</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Bohse%20Onkelz%20-%20Mexiko.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>7356</key>
+		<dict>
+			<key>Track ID</key><integer>7356</integer>
+			<key>Name</key><string>Malandramente</string>
+			<key>Artist</key><string>Dennis</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2774851</integer>
+			<key>Total Time</key><integer>172773</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2021-09-03T13:56:43Z</date>
+			<key>Date Added</key><date>2025-05-22T23:59:14Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>3741</integer>
+			<key>Sort Artist</key><string>Dennis</string>
+			<key>Sort Name</key><string>Malandramente</string>
+			<key>Persistent ID</key><string>7D57DB7AEAC4CE29</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Dennis%20e%20MCs%20Nandinho%20-%20Negobam%20-%20Malandramente.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>7432</key>
+		<dict>
+			<key>Track ID</key><integer>7432</integer>
+			<key>Name</key><string>Tomo bomba</string>
+			<key>Artist</key><string>Mag</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>13371453</integer>
+			<key>Total Time</key><integer>334027</integer>
+			<key>Date Modified</key><date>2024-07-04T16:22:18Z</date>
+			<key>Date Added</key><date>2025-05-22T23:59:18Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>99</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2021-12-10T02:23:04Z</date>
+			<key>Normalization</key><integer>2687</integer>
+			<key>Persistent ID</key><string>B62968E4852D461E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Desconhecido%20-%20Rap%20do%20anabolizante.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>7438</key>
+		<dict>
+			<key>Track ID</key><integer>7438</integer>
+			<key>Name</key><string>Uma garota do cacete</string>
+			<key>Artist</key><string>Desconhecido</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>642866</integer>
+			<key>Total Time</key><integer>53388</integer>
+			<key>Date Modified</key><date>2021-09-30T16:35:39Z</date>
+			<key>Date Added</key><date>2025-05-22T23:59:19Z</date>
+			<key>Bit Rate</key><integer>96</integer>
+			<key>Sample Rate</key><integer>32000</integer>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2025-05-25T14:54:44Z</date>
+			<key>Normalization</key><integer>245</integer>
+			<key>Persistent ID</key><string>61A0163DD1C09EEB</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Desconhecido%20-%20Uma%20garota%20do%20cacete.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8372</key>
+		<dict>
+			<key>Track ID</key><integer>8372</integer>
+			<key>Name</key><string>Go Emo</string>
+			<key>Artist</key><string>EmoRangers</string>
+			<key>Genre</key><string>Other</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>546816</integer>
+			<key>Total Time</key><integer>68075</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2021-09-03T14:33:06Z</date>
+			<key>Date Added</key><date>2025-05-23T00:00:03Z</date>
+			<key>Bit Rate</key><integer>64</integer>
+			<key>Sample Rate</key><integer>22050</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2021-09-16T20:40:00Z</date>
+			<key>Normalization</key><integer>6089</integer>
+			<key>Persistent ID</key><string>851E081D69625DCA</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/EmoRangers%20-%20Go%20Emo.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8410</key>
+		<dict>
+			<key>Track ID</key><integer>8410</integer>
+			<key>Name</key><string>Einstein vs Stephen Hawking</string>
+			<key>Artist</key><string>Epic Rap Battles of History</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2493028</integer>
+			<key>Total Time</key><integer>155167</integer>
+			<key>Date Modified</key><date>2024-07-04T16:22:41Z</date>
+			<key>Date Added</key><date>2025-05-23T00:00:05Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>99</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3712270221</integer>
+			<key>Play Date UTC</key><date>2021-08-20T05:10:21Z</date>
+			<key>Normalization</key><integer>3042</integer>
+			<key>Persistent ID</key><string>948825ED1905E648</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Epic%20Rap%20Battles%20of%20History%20-%20Einstein%20vs%20Stephen%20Hawking.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8412</key>
+		<dict>
+			<key>Track ID</key><integer>8412</integer>
+			<key>Name</key><string>Rasputin vs Stalin</string>
+			<key>Artist</key><string>Epic Rap Battles of History</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3495168</integer>
+			<key>Total Time</key><integer>217782</integer>
+			<key>Date Modified</key><date>2024-07-04T16:22:41Z</date>
+			<key>Date Added</key><date>2025-05-23T00:00:05Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>99</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2021-08-25T01:03:51Z</date>
+			<key>Normalization</key><integer>1533</integer>
+			<key>Persistent ID</key><string>EE949EF911AE51B8</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Epic%20Rap%20Battles%20of%20History%20-%20Season%202%20-%20Rasputin%20vs%20Stalin.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8830</key>
+		<dict>
+			<key>Track ID</key><integer>8830</integer>
+			<key>Name</key><string>Maniac</string>
+			<key>Artist</key><string>Michael Sembello</string>
+			<key>Album</key><string>Flashdance Soundtrack</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3857721</integer>
+			<key>Total Time</key><integer>240457</integer>
+			<key>Year</key><integer>1983</integer>
+			<key>Date Modified</key><date>2021-09-03T14:45:22Z</date>
+			<key>Date Added</key><date>2025-05-23T00:00:25Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3761469621</integer>
+			<key>Play Date UTC</key><date>2023-03-12T15:40:21Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2021-10-05T18:44:23Z</date>
+			<key>Normalization</key><integer>13230</integer>
+			<key>Persistent ID</key><string>406888CDCD3243D0</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Flashdance%20-%20Maniac.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>12832</key>
+		<dict>
+			<key>Track ID</key><integer>12832</integer>
+			<key>Name</key><string>Aro 16</string>
+			<key>Artist</key><string>Mag</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5754134</integer>
+			<key>Total Time</key><integer>359549</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Date Modified</key><date>2024-07-04T16:22:16Z</date>
+			<key>Date Added</key><date>2025-05-23T00:03:57Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>100</integer>
+			<key>Normalization</key><integer>3026</integer>
+			<key>Persistent ID</key><string>F6FF1EF19D71B330</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/MAG%20-%20Aro%2016.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>12858</key>
+		<dict>
+			<key>Track ID</key><integer>12858</integer>
+			<key>Name</key><string>Cabeça de Bagre II</string>
+			<key>Artist</key><string>Mamonas Assassinas</string>
+			<key>Album</key><string>Mamonas Assassinas</string>
+			<key>Genre</key><string>West Coast Rap</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5834752</integer>
+			<key>Total Time</key><integer>145841</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>1995</integer>
+			<key>Date Modified</key><date>2021-09-03T17:19:34Z</date>
+			<key>Date Added</key><date>2025-05-23T00:03:58Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2023-06-28T00:32:47Z</date>
+			<key>Normalization</key><integer>2252</integer>
+			<key>Persistent ID</key><string>E5DDC208F5DA6AFB</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Mamonas%20Assassinas%20-%20Cabe%C3%A7a%20de%20Bagre%20II.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>12860</key>
+		<dict>
+			<key>Track ID</key><integer>12860</integer>
+			<key>Name</key><string>Débil Metal</string>
+			<key>Artist</key><string>Mamonas Assassinas</string>
+			<key>Album</key><string>Mamonas Assassinas</string>
+			<key>Genre</key><string>West Coast Rap</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7440805</integer>
+			<key>Total Time</key><integer>185965</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Year</key><integer>1995</integer>
+			<key>Date Modified</key><date>2021-09-03T17:19:39Z</date>
+			<key>Date Added</key><date>2025-05-23T00:03:58Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2022-02-10T16:36:35Z</date>
+			<key>Normalization</key><integer>2398</integer>
+			<key>Persistent ID</key><string>1BE41C66EE1DDF50</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Mamonas%20Assassinas%20-%20D%C3%A9bil%20Metal.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>12862</key>
+		<dict>
+			<key>Track ID</key><integer>12862</integer>
+			<key>Name</key><string>Garota Do Shopping</string>
+			<key>Artist</key><string>Mamonas Assassinas</string>
+			<key>Album</key><string>Mamonas Assassinas</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2675513</integer>
+			<key>Total Time</key><integer>167079</integer>
+			<key>Year</key><integer>1995</integer>
+			<key>Date Modified</key><date>2021-09-03T17:19:38Z</date>
+			<key>Date Added</key><date>2025-05-23T00:03:58Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2021-11-24T02:22:13Z</date>
+			<key>Normalization</key><integer>1989</integer>
+			<key>Persistent ID</key><string>5604C6EF117C77EB</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Mamonas%20Assassinas%20-%20Garota%20Do%20Shopping.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>12864</key>
+		<dict>
+			<key>Track ID</key><integer>12864</integer>
+			<key>Name</key><string>Sábado de Sol</string>
+			<key>Artist</key><string>Mamonas Assassinas</string>
+			<key>Album</key><string>Mamonas Assassinas</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>977340</integer>
+			<key>Total Time</key><integer>60943</integer>
+			<key>Year</key><integer>1995</integer>
+			<key>Date Modified</key><date>2021-09-03T17:19:55Z</date>
+			<key>Date Added</key><date>2025-05-23T00:03:58Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2023-06-28T00:34:52Z</date>
+			<key>Normalization</key><integer>320</integer>
+			<key>Persistent ID</key><string>D4FDF308E91EC8BF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Mamonas%20Assassinas%20-%20S%C3%A1bado%20de%20Sol.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>13638</key>
+		<dict>
+			<key>Track ID</key><integer>13638</integer>
+			<key>Name</key><string>Morro do Dendê</string>
+			<key>Artist</key><string>Funk</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7160035</integer>
+			<key>Total Time</key><integer>297900</integer>
+			<key>Date Modified</key><date>2024-05-31T19:25:46Z</date>
+			<key>Date Added</key><date>2025-05-23T00:04:39Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>99</integer>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3745434179</integer>
+			<key>Play Date UTC</key><date>2022-09-08T01:22:59Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2021-08-02T16:20:05Z</date>
+			<key>Normalization</key><integer>3917</integer>
+			<key>Persistent ID</key><string>01DECCA2329C0E87</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/MORRO%20DO%20DEND%C3%8A.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15036</key>
+		<dict>
+			<key>Track ID</key><integer>15036</integer>
+			<key>Name</key><string>Lepo Lepo</string>
+			<key>Artist</key><string>Psirico</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7947795</integer>
+			<key>Total Time</key><integer>198312</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2024-05-31T19:28:10Z</date>
+			<key>Date Added</key><date>2025-05-23T00:06:02Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Volume Adjustment</key><integer>100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2021-12-10T03:11:17Z</date>
+			<key>Normalization</key><integer>4136</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>377123BB0110DC35</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Psirico%20-%20(2013)%20Lepo%20Lepo.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15186</key>
+		<dict>
+			<key>Track ID</key><integer>15186</integer>
+			<key>Name</key><string>Selim</string>
+			<key>Artist</key><string>Raimundos</string>
+			<key>Album</key><string>Raimundos</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6132615</integer>
+			<key>Total Time</key><integer>254197</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Track Count</key><integer>16</integer>
+			<key>Year</key><integer>1994</integer>
+			<key>Date Modified</key><date>2024-11-07T02:08:55Z</date>
+			<key>Date Added</key><date>2025-05-23T00:06:10Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>100</integer>
+			<key>Normalization</key><integer>1564</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2905EDCE6460E5EC</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Raimundos%20-%20(1994)%20Raimundos%20-%20Selim.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15290</key>
+		<dict>
+			<key>Track ID</key><integer>15290</integer>
+			<key>Name</key><string>Língua presa</string>
+			<key>Artist</key><string>Raimundos</string>
+			<key>Album</key><string>Só no Forevis</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>1611115</integer>
+			<key>Total Time</key><integer>100414</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2021-09-03T18:35:04Z</date>
+			<key>Date Added</key><date>2025-05-23T00:06:17Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>8076</integer>
+			<key>Persistent ID</key><string>07969D55C79F291C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Raimundos%20-%20Lingua%20presa.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>18086</key>
+		<dict>
+			<key>Track ID</key><integer>18086</integer>
+			<key>Name</key><string>Your new morning alarm (live)</string>
+			<key>Artist</key><string>Marc Rebillet</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2407624</integer>
+			<key>Total Time</key><integer>57913</integer>
+			<key>Start Time</key><integer>12850</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Modified</key><date>2021-06-13T03:18:15Z</date>
+			<key>Date Added</key><date>2025-05-23T00:08:44Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>254</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3707148730</integer>
+			<key>Play Date UTC</key><date>2021-06-21T22:32:10Z</date>
+			<key>Skip Count</key><integer>5</integer>
+			<key>Skip Date</key><date>2021-07-02T17:09:04Z</date>
+			<key>Normalization</key><integer>1909</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5F622B4A77CFFDFA</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Marc%20Rebillet%20-%20(2021)%20your%20new%20morning%20alarm%20(live).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>18542</key>
+		<dict>
+			<key>Track ID</key><integer>18542</integer>
+			<key>Name</key><string>Cabaré (Lo Fi version)</string>
+			<key>Artist</key><string>Prod Madz</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6043955</integer>
+			<key>Total Time</key><integer>150840</integer>
+			<key>Date Modified</key><date>2024-05-31T19:28:34Z</date>
+			<key>Date Added</key><date>2025-05-23T00:09:07Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Volume Adjustment</key><integer>99</integer>
+			<key>Play Count</key><integer>33</integer>
+			<key>Play Date</key><integer>3762968961</integer>
+			<key>Play Date UTC</key><date>2023-03-30T00:09:21Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2023-03-23T17:41:35Z</date>
+			<key>Normalization</key><integer>1259</integer>
+			<key>Persistent ID</key><string>0DB1AC6D89508903</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Prod%20Madz%20-%20Cabar%C3%A9%20(Lo%20Fi%20version).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>18556</key>
+		<dict>
+			<key>Track ID</key><integer>18556</integer>
+			<key>Name</key><string>Cerol Na Mão</string>
+			<key>Artist</key><string>Bonde Do Tigrão</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6569290</integer>
+			<key>Total Time</key><integer>163970</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2024-05-31T19:28:23Z</date>
+			<key>Date Added</key><date>2025-05-23T00:09:08Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>99</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2022-09-14T03:18:29Z</date>
+			<key>Normalization</key><integer>4183</integer>
+			<key>Persistent ID</key><string>E6F02B55EDBD0B94</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Bonde%20Do%20Tigr%C3%A3o%20-%20(2001)%20-%20Cerol%20Na%20M%C3%A3o.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>Mmnts, Avacalhação</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>70599</integer>
+			<key>Playlist Persistent ID</key><string>438AE05D33F58EAE</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>7432</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8372</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4328</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4688</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12858</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12860</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12864</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12862</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3738</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7438</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15290</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8830</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15036</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7356</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8410</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8412</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15186</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13638</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4300</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18086</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12832</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18542</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18556</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

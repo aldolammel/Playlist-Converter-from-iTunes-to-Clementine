@@ -1,0 +1,684 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+    <trackList>
+        <track>
+            <title>Sleepwalking</title>
+            <creator>The Chain Gang of 1974</creator>
+            <album>The Music of Grand Theft Auto V, Vol. 1: Original Music</album>
+            <duration>218693</duration>
+            <trackNum>18</trackNum>
+            <location>U:\Shared\Music\18. The Chain Gang of 1974 - Sleepwalking.m4a</location>
+        </track>
+        <track>
+            <title>Savoir</title>
+            <creator>30 Seconds To Mars</creator>
+            <album>A Beautiful Lie</album>
+            <duration>204486</duration>
+            <trackNum>6</trackNum>
+            <location>U:\Shared\Music\30 Seconds to Mars - (2005) A Beautiful Lie - Savoir.mp3</location>
+        </track>
+        <track>
+            <title>Kings And Queens</title>
+            <creator>30 Seconds To Mars</creator>
+            <album>This Is War</album>
+            <duration>347794</duration>
+            <trackNum>3</trackNum>
+            <location>U:\Shared\Music\30 Seconds To Mars - (2009) This is war - Kings And Queens.mp3</location>
+        </track>
+        <track>
+            <title>Two Months From A Year</title>
+            <creator>36 Crazyfists</creator>
+            <album>Bitterness The Star</album>
+            <duration>264594</duration>
+            <trackNum>8</trackNum>
+            <location>U:\Shared\Music\36 Crazyfists - (2001) Bitterness The Star - Two Months From A Year.mp3</location>
+        </track>
+        <track>
+            <title>At the End of August</title>
+            <creator>36 Crazyfists</creator>
+            <album>A Snow Capped Romance</album>
+            <duration>237975</duration>
+            <trackNum>1</trackNum>
+            <location>U:\Shared\Music\36 Crazyfists - (2004) A Snow Capped Romance - At the End of August.mp3</location>
+        </track>
+        <track>
+            <title>Everyday</title>
+            <creator>A Broken Silence</creator>
+            <album>All For What...</album>
+            <duration>241397</duration>
+            <trackNum>7</trackNum>
+            <location>U:\Shared\Music\A Broken Silence - (2010) All For What - Everyday.mp3</location>
+        </track>
+        <track>
+            <title>Born And Raised</title>
+            <creator>Alexisonfire</creator>
+            <album>Old Crows / Young Cardinals</album>
+            <duration>240927</duration>
+            <trackNum>4</trackNum>
+            <location>U:\Shared\Music\Alexisonfire - (2009) Old Crows Young Cardinals - Born And Raised.mp3</location>
+        </track>
+        <track>
+            <title>Emerald Street</title>
+            <creator>Alexisonfire</creator>
+            <album>Old Crows / Young Cardinals</album>
+            <duration>195787</duration>
+            <trackNum>8</trackNum>
+            <location>U:\Shared\Music\Alexisonfire - (2009) Old Crows Young Cardinals - Emerald Street.mp3</location>
+        </track>
+        <track>
+            <title>Wayfarer Youth</title>
+            <creator>Alexisonfire</creator>
+            <album>Old Crows / Young Cardinals</album>
+            <duration>222093</duration>
+            <trackNum>12</trackNum>
+            <location>U:\Shared\Music\Alexisonfire - (2009) Old Crows Young Cardinals - Wayfarer Youth.mp3</location>
+        </track>
+        <track>
+            <title>Young Cardinals</title>
+            <creator>Alexisonfire</creator>
+            <album>Old Crows / Young Cardinals</album>
+            <duration>217782</duration>
+            <trackNum>2</trackNum>
+            <location>U:\Shared\Music\Alexisonfire - (2009) Old Crows Young Cardinals - Young Cardinals.mp3</location>
+        </track>
+        <track>
+            <title>Gravity</title>
+            <creator>Architects</creator>
+            <album>All Our Gods Have Abandoned Us</album>
+            <duration>198164</duration>
+            <trackNum>8</trackNum>
+            <location>U:\Shared\Music\Architects - (2016) All Our Gods Have Abandoned Us - Gravity.mp3</location>
+        </track>
+        <track>
+            <title>Dying To Heal</title>
+            <creator>Architects</creator>
+            <album>Holy Hell</album>
+            <duration>230896</duration>
+            <trackNum>8</trackNum>
+            <location>U:\Shared\Music\Architects - (2018) Holy Hell - Dying To Heal.mp3</location>
+        </track>
+        <track>
+            <title>Closer</title>
+            <creator>Susana Ft. Omnia &amp; The Blizzard</creator>
+            <album>A State Of Trance 2010</album>
+            <duration>354847</duration>
+            <trackNum>1</trackNum>
+            <location>U:\Shared\Music\Armin Van Buuren - (2010) A State Of Trance - Closer.mp3</location>
+        </track>
+        <track>
+            <title>Cut And Run</title>
+            <creator>Beat Service Ft. Emma Lock</creator>
+            <album>A State Of Trance 2010</album>
+            <duration>341890</duration>
+            <trackNum>9</trackNum>
+            <location>U:\Shared\Music\Armin Van Buuren - (2010) A State Of Trance - Cut And Run.mp3</location>
+        </track>
+        <track>
+            <title>Safe [Wherever You Are] (Rank 1 Remix - AVB Intro Edit)</title>
+            <creator>Velvetine</creator>
+            <album>A State Of Trance 2010</album>
+            <duration>404506</duration>
+            <trackNum>1</trackNum>
+            <location>U:\Shared\Music\Armin Van Buuren - (2010) A State Of Trance - Safe [Wherever You Are] (Rank 1 Remix - AVB Intro Edit).mp3</location>
+        </track>
+        <track>
+            <title>Stranger To Myself (Tenishia's Burnout Mix)</title>
+            <creator>Tenishia Ft. Aneym</creator>
+            <album>A State Of Trance 2010</album>
+            <duration>334602</duration>
+            <trackNum>10</trackNum>
+            <location>U:\Shared\Music\Armin Van Buuren - (2010) A State Of Trance - Stranger To Myself (Tenishia's Burnout Mix).mp3</location>
+        </track>
+        <track>
+            <title>Trapeze (Daniel Kandi's Emotional Remix)</title>
+            <creator>Ferry Tayle</creator>
+            <album>A State Of Trance 2010</album>
+            <duration>254197</duration>
+            <trackNum>9</trackNum>
+            <location>U:\Shared\Music\Armin Van Buuren - (2010) A State Of Trance - Trapeze (Daniel Kandi's Emotional Remix).mp3</location>
+        </track>
+        <track>
+            <title>We Won't Forget</title>
+            <creator>Robert Nickson</creator>
+            <album>A State Of Trance 2010</album>
+            <duration>276349</duration>
+            <trackNum>14</trackNum>
+            <location>U:\Shared\Music\Armin Van Buuren - (2010) A State Of Trance - We Won't Forget.mp3</location>
+        </track>
+        <track>
+            <title>Who We Are</title>
+            <creator>Luigi Lusini</creator>
+            <album>A State Of Trance 2010</album>
+            <duration>354507</duration>
+            <trackNum>2</trackNum>
+            <location>U:\Shared\Music\Armin Van Buuren - (2010) A State Of Trance - Who We Are.mp3</location>
+        </track>
+        <track>
+            <title>I Won't Give In</title>
+            <creator>Asking Alexandria</creator>
+            <duration>231314</duration>
+            <location>U:\Shared\Music\Asking Alexandria - I Won't Give In (2015).mp3</location>
+        </track>
+        <track>
+            <title>Sabotage</title>
+            <creator>Beastie Boys</creator>
+            <duration>181786</duration>
+            <location>U:\Shared\Music\Beastie Boys - Sabotage.mp3</location>
+        </track>
+        <track>
+            <title>Deja Vu</title>
+            <creator>Blessthefall</creator>
+            <album>Hollow Bodies</album>
+            <duration>258115</duration>
+            <trackNum>4</trackNum>
+            <location>U:\Shared\Music\Blessthefall - (2013) Hollow Bodies - Deja Vu.mp3</location>
+        </track>
+        <track>
+            <title>Hollow Bodies</title>
+            <creator>Blessthefall</creator>
+            <album>Hollow Bodies</album>
+            <duration>257985</duration>
+            <trackNum>3</trackNum>
+            <location>U:\Shared\Music\Blessthefall - (2013) Hollow Bodies - Hollow Bodies.mp3</location>
+        </track>
+        <track>
+            <title>Dreams Go Where Life Fades</title>
+            <creator>Blugazer</creator>
+            <album>edmSpotlight Compilation 3</album>
+            <duration>330266</duration>
+            <location>U:\Shared\Music\Blugazer - edmSpotlight Compilation 3 - Dreams Go Where Life Fades.mp3</location>
+        </track>
+        <track>
+            <title>Song 2</title>
+            <creator>Blur</creator>
+            <album>Blur</album>
+            <duration>121469</duration>
+            <trackNum>32</trackNum>
+            <location>U:\Shared\Music\blur - 1997 - Song 2.mp3</location>
+        </track>
+        <track>
+            <title>Sleepwalking</title>
+            <creator>Bring Me The Horizon</creator>
+            <album>Sempiternal</album>
+            <duration>230217</duration>
+            <trackNum>4</trackNum>
+            <location>U:\Shared\Music\Bring Me The Horizon - (2013) Sempiternal - Sleepwalking.mp3</location>
+        </track>
+        <track>
+            <title>Throne</title>
+            <creator>Bring Me the Horizon</creator>
+            <album>That's the Spirit</album>
+            <duration>191582</duration>
+            <trackNum>3</trackNum>
+            <location>U:\Shared\Music\Bring Me The Horizon - (2015) Thats the Spirit - Throne.mp3</location>
+        </track>
+        <track>
+            <title>The Cure (sunshine mix)</title>
+            <creator>Miro</creator>
+            <album>Volumen Nueve</album>
+            <duration>334576</duration>
+            <trackNum>6</trackNum>
+            <location>U:\Shared\Music\Café del mar - (2002) Volumen Nueve - The Cure (sunshine mix).mp3</location>
+        </track>
+        <track>
+            <title>We Are The Many</title>
+            <creator>Caliban</creator>
+            <album>I Am Nemesis</album>
+            <duration>240666</duration>
+            <trackNum>1</trackNum>
+            <location>U:\Shared\Music\Caliban - (2012) I Am Nemesis - We Are The Many.mp3</location>
+        </track>
+        <track>
+            <title>Sweet Nothing (com Florence Welch [Original Mix])</title>
+            <creator>Calvin Harris</creator>
+            <album>18 Mouths</album>
+            <duration>212636</duration>
+            <trackNum>10</trackNum>
+            <location>U:\Shared\Music\Calvin Harris - 18 months - Sweet Nothing (com Florence Welch).mp3</location>
+        </track>
+        <track>
+            <title>Sanctuary</title>
+            <creator>Cavalera Conspiracy</creator>
+            <album>Inflikted</album>
+            <duration>203128</duration>
+            <trackNum>2</trackNum>
+            <location>U:\Shared\Music\Cavalera Conspiracy - (2008) Inflikted - Sanctuary.mp3</location>
+        </track>
+        <track>
+            <title>Terrorize</title>
+            <creator>Cavalera Conspiracy</creator>
+            <album>Inflikted</album>
+            <duration>217391</duration>
+            <trackNum>3</trackNum>
+            <location>U:\Shared\Music\Cavalera Conspiracy - (2008) Inflikted - Terrorize.mp3</location>
+        </track>
+        <track>
+            <title>Mantenha a dúvida</title>
+            <creator>Charlie Brown Jr.</creator>
+            <album>Preço Curto Prazo Longo</album>
+            <duration>184058</duration>
+            <trackNum>14</trackNum>
+            <location>U:\Shared\Music\Charlie Brown Jr. - (1999) Preço Curto Prazo Longo - Mantenha a Dúvida.mp3</location>
+        </track>
+        <track>
+            <title>The Broken</title>
+            <creator>Coheed and Cambria</creator>
+            <album>Year Of The Black Rainbow</album>
+            <duration>235311</duration>
+            <trackNum>2</trackNum>
+            <location>U:\Shared\Music\Coheed and Cambria - (2010) Year Of The Black Rainbow - The Broken.mp3</location>
+        </track>
+        <track>
+            <title>When Girls Telephone Boys</title>
+            <creator>Deftones</creator>
+            <album>Deftones</album>
+            <duration>276480</duration>
+            <trackNum>6</trackNum>
+            <location>U:\Shared\Music\Deftones - (2003) Deftones - When Girls Telephone Boys.mp3</location>
+        </track>
+        <track>
+            <title>Jungle</title>
+            <creator>Desconhecido</creator>
+            <duration>315062</duration>
+            <location>U:\Shared\Music\Desconhecido -  Jungle.mp3</location>
+        </track>
+        <track>
+            <title>Going Wrong (Armin Van Buuren Remixed)</title>
+            <creator>André Sarate</creator>
+            <duration>320208</duration>
+            <location>U:\Shared\Music\Dj André Sarate - Going Wrong (Armin Van Buuren Remixed).mp3</location>
+        </track>
+        <track>
+            <title>A Fantástica Fábrica de Cadáver</title>
+            <creator>Eduardo</creator>
+            <duration>263340</duration>
+            <location>U:\Shared\Music\Eduardo - A Fantástica Fábrica de Cadáver.mp3</location>
+        </track>
+        <track>
+            <title>The Willing</title>
+            <creator>Emanuel</creator>
+            <album>Soundtrack To A Headrush</album>
+            <duration>211586</duration>
+            <trackNum>3</trackNum>
+            <location>U:\Shared\Music\Emanuel - (2005) Soundtrack To A Headrush - The Willing.m4a</location>
+        </track>
+        <track>
+            <title>Day 7</title>
+            <creator>Eminence</creator>
+            <album>The God of All Mistakes</album>
+            <duration>248868</duration>
+            <trackNum>1</trackNum>
+            <location>U:\Shared\Music\Eminence - (2008) The God of All Mistakes - Day 7.mp3</location>
+        </track>
+        <track>
+            <title>MDMA</title>
+            <creator>Emmure</creator>
+            <album>Slave to the Game</album>
+            <duration>206942</duration>
+            <trackNum>10</trackNum>
+            <location>U:\Shared\Music\Emmure - (2012) Slave to the Game - MDMA.mp3</location>
+        </track>
+        <track>
+            <title>Demons with Ryu</title>
+            <creator>Emmure</creator>
+            <duration>181760</duration>
+            <location>U:\Shared\Music\Emmure - Demons with Ryu.mp3</location>
+        </track>
+        <track>
+            <title>From Out Of Nowhere</title>
+            <creator>Faith No More</creator>
+            <album>The Very Best Definitive Ultimate Greatest Hits Collection</album>
+            <duration>202318</duration>
+            <trackNum>2</trackNum>
+            <location>U:\Shared\Music\Faith No More - (2009) The Very Best Definitive Ultimate Greatest Hits Collection - From Out Of Nowhere.mp3</location>
+        </track>
+        <track>
+            <title>Aquamento (Original Mix)</title>
+            <creator>Gelardi Thomas N</creator>
+            <duration>201456</duration>
+            <location>U:\Shared\Music\Gelardi Thomas N - Aquamento (Original Mix).mp3</location>
+        </track>
+        <track>
+            <title>Gold Guns Girls</title>
+            <creator>Metric</creator>
+            <duration>240509</duration>
+            <location>U:\Shared\Music\Gold Guns Girls - Metric.mp3</location>
+        </track>
+        <track>
+            <title>Better</title>
+            <creator>Guns N' Roses</creator>
+            <album>Chinese Democracy</album>
+            <duration>312372</duration>
+            <trackNum>1</trackNum>
+            <location>U:\Shared\Music\Guns N' Roses - (2008) Chinese Democracy - Better.mp3</location>
+        </track>
+        <track>
+            <title>Gimme Danger (com The Stooges)</title>
+            <creator>Iggy Pop</creator>
+            <duration>208483</duration>
+            <location>U:\Shared\Music\Iggy Pop - Gimme Danger (com The Stooges).mp3</location>
+        </track>
+        <track>
+            <title>Recalibrate</title>
+            <creator>Interiors</creator>
+            <duration>300016</duration>
+            <location>U:\Shared\Music\Interiors - Recalibrate.mp3</location>
+        </track>
+        <track>
+            <title>(2003) Dance of Death - Wildest Dreams (Instrumental Part Only)</title>
+            <creator>Iron Maiden</creator>
+            <album>Trechos Fodas</album>
+            <duration>63399</duration>
+            <trackNum>1</trackNum>
+            <location>U:\Shared\Music\Iron Maiden - Trechos Fodas - (2003) Dance Of Death - wildest dreams.mp3</location>
+        </track>
+        <track>
+            <title>Just Because</title>
+            <creator>Jane's Addiction</creator>
+            <duration>233482</duration>
+            <location>U:\Shared\Music\Janes Addiction - Just Because.mp3</location>
+        </track>
+        <track>
+            <title>Believer</title>
+            <creator>Kill Hannah</creator>
+            <album>Until Theres Nothing Left Of Us</album>
+            <duration>226742</duration>
+            <trackNum>2</trackNum>
+            <location>U:\Shared\Music\Kill Hannah - Believer.mp3</location>
+        </track>
+        <track>
+            <title>Wings Of Feather And Wax</title>
+            <creator>Killer Be Killed</creator>
+            <album>Killer Be Killed</album>
+            <duration>220786</duration>
+            <trackNum>1</trackNum>
+            <location>U:\Shared\Music\Killer Be Killed - (2014) Killer Be Killed - Wings Of Feather And Wax.mp3</location>
+        </track>
+        <track>
+            <title>Pretty</title>
+            <creator>Korn</creator>
+            <album>Follow the Leader</album>
+            <duration>252133</duration>
+            <location>U:\Shared\Music\Korn - Follow the Leader - Pretty.mp3</location>
+        </track>
+        <track>
+            <title>LOKO</title>
+            <creator>LOOKAS</creator>
+            <album>By Soundcloud</album>
+            <duration>231810</duration>
+            <location>U:\Shared\Music\Lookas - Soundcloud - LOKO.mp3</location>
+        </track>
+        <track>
+            <title>Amsterdam (Smith Pledger Remix)</title>
+            <creator>Luminary</creator>
+            <duration>591960</duration>
+            <location>U:\Shared\Music\Luminary - Amsterdam (Smith Pledger Remix).mp3</location>
+        </track>
+        <track>
+            <title>Amsterdam (Super8 &amp; Tab Remix)</title>
+            <creator>Luminary</creator>
+            <duration>493975</duration>
+            <location>U:\Shared\Music\Luminary - Amsterdam (Super 8 &amp; Tab Remix).mp3</location>
+        </track>
+        <track>
+            <title>Nova História</title>
+            <creator>Malta</creator>
+            <duration>196571</duration>
+            <location>U:\Shared\Music\Malta - Nova História.mp3</location>
+        </track>
+        <track>
+            <title>Pressure (Alesso Remix)</title>
+            <creator>Nadia Ali, Starkillers &amp; Alex Kenji</creator>
+            <album>Best Of House 2012</album>
+            <duration>225071</duration>
+            <location>U:\Shared\Music\Massivedrum - (2011) Best of House 2012 - Nadia Ali, Starkillers &amp; Alex Kenji - Pressure (Alesso Remix).mp3</location>
+        </track>
+        <track>
+            <title>No Cigar</title>
+            <creator>Millencolin</creator>
+            <album>Pennybridge Pioneers</album>
+            <duration>162925</duration>
+            <trackNum>1</trackNum>
+            <location>U:\Shared\Music\Millencolin - Pennybridge Pioneers - No Cigar.mp3</location>
+        </track>
+        <track>
+            <title>Trck 1</title>
+            <creator>Paul PinI</creator>
+            <album>Pinfluence</album>
+            <duration>341263</duration>
+            <location>U:\Shared\Music\Paul PinI - (2014) Pinfluence - Trck 1.mp3</location>
+        </track>
+        <track>
+            <title>Trck 2</title>
+            <creator>Paul PinI</creator>
+            <album>Pinfluence</album>
+            <duration>498886</duration>
+            <location>U:\Shared\Music\Paul PinI - (2014) Pinfluence - Trck 2.mp3</location>
+        </track>
+        <track>
+            <title>Tonight The Sun Will Rise</title>
+            <creator>People In Planes</creator>
+            <album>Beyond The Horizon</album>
+            <duration>231183</duration>
+            <trackNum>9</trackNum>
+            <location>U:\Shared\Music\People In Planes - (2008) Beyond The Horizon - Tonight The Sun Will Rise.mp3</location>
+        </track>
+        <track>
+            <title>Utopia Meridian (Remix)</title>
+            <creator>Phase Difference</creator>
+            <duration>180950</duration>
+            <location>U:\Shared\Music\Phase Difference - Utopia Meridian (Remix).mp3</location>
+        </track>
+        <track>
+            <title>Devil in the Details</title>
+            <creator>Placebo</creator>
+            <album>Battle for the Sun</album>
+            <duration>268460</duration>
+            <trackNum>5</trackNum>
+            <location>U:\Shared\Music\Placebo - (2009) Battle for the Sun - Devil in the Details.mp3</location>
+        </track>
+        <track>
+            <title>Chino Moreno</title>
+            <creator>Point Decster</creator>
+            <duration>321567</duration>
+            <location>U:\Shared\Music\Point Decster - Chino Moreno.mp3</location>
+        </track>
+        <track>
+            <title>Caos Renomeado</title>
+            <creator>Project46</creator>
+            <album>Que Seja Feita a Nossa Vontade</album>
+            <duration>281103</duration>
+            <trackNum>1</trackNum>
+            <location>U:\Shared\Music\Project46 - (2014) Seja Feita a Vossa Vontade - Caos Renomeado.mp3</location>
+        </track>
+        <track>
+            <title>Break Me Down</title>
+            <creator>Red</creator>
+            <album>End Of Silence</album>
+            <duration>255791</duration>
+            <trackNum>7</trackNum>
+            <location>U:\Shared\Music\Red - (2006) End Of Silence - Break Me Down.mp3</location>
+        </track>
+        <track>
+            <title>Name Of The Game (clean name)</title>
+            <creator>The Crystal Method</creator>
+            <album>Resident Evil</album>
+            <duration>213733</duration>
+            <trackNum>5</trackNum>
+            <location>U:\Shared\Music\Resident Evil - (2002) Music from and Inspired by the Original Motion Picture - Crystal Method - Name Of The Game.mp3</location>
+        </track>
+        <track>
+            <title>Erased</title>
+            <creator>Rewind Yesterday</creator>
+            <duration>204486</duration>
+            <location>U:\Shared\Music\Rewind Yesterday - Erased.mp3</location>
+        </track>
+        <track>
+            <title>Isolation</title>
+            <creator>Sepultura</creator>
+            <album>Quadra</album>
+            <duration>296150</duration>
+            <trackNum>1</trackNum>
+            <location>U:\Shared\Music\Sepultura - (2020) Quadra - Isolation.mp3</location>
+        </track>
+        <track>
+            <title>Superunknown</title>
+            <creator>Soundgarden</creator>
+            <album>Superunknown</album>
+            <duration>306442</duration>
+            <trackNum>5</trackNum>
+            <location>U:\Shared\Music\Soundgarden - (1994) Superunknown - Superunknown.mp3</location>
+        </track>
+        <track>
+            <title>The Only</title>
+            <creator>Static-X</creator>
+            <album>Shadow Zone</album>
+            <duration>171075</duration>
+            <trackNum>7</trackNum>
+            <location>U:\Shared\Music\Static-X - (2003) Shadow Zone - The Only.mp3</location>
+        </track>
+        <track>
+            <title>Bioactive</title>
+            <creator>Sybreed</creator>
+            <album>Slave Design</album>
+            <duration>384720</duration>
+            <trackNum>1</trackNum>
+            <location>U:\Shared\Music\Sybreed - (2004) Slave Design - Bioactive.mp3</location>
+        </track>
+        <track>
+            <title>Walkman</title>
+            <creator>Tequila Baby</creator>
+            <album>Sangue, Ouro e Polvora</album>
+            <duration>187062</duration>
+            <trackNum>11</trackNum>
+            <location>U:\Shared\Music\Tequila Baby - (1999) Sangue, Ouro e Polvora - Walkman.mp3</location>
+        </track>
+        <track>
+            <title>My Favourite Game</title>
+            <creator>The Cardigans</creator>
+            <album>Best Of</album>
+            <duration>220473</duration>
+            <trackNum>10</trackNum>
+            <location>U:\Shared\Music\The Cardigans - (2008) Best of - my_favourite_game.mp3</location>
+        </track>
+        <track>
+            <title>Discotheque</title>
+            <creator>U2</creator>
+            <duration>319451</duration>
+            <location>U:\Shared\Music\U2 - Discotheque.mp3</location>
+        </track>
+        <track>
+            <title>Take Control</title>
+            <creator>Killswitch Engage</creator>
+            <album>Atonement</album>
+            <duration>224365</duration>
+            <trackNum>8</trackNum>
+            <location>U:\Shared\Music\Killswitch Engage - (2019) Atonement - Take Control.mp3</location>
+        </track>
+        <track>
+            <title>The Signal Fire (ft. Howard Jones of Light the Torch)</title>
+            <creator>Killswitch Engage</creator>
+            <album>Atonement</album>
+            <duration>185260</duration>
+            <trackNum>2</trackNum>
+            <location>U:\Shared\Music\Killswitch Engage - (2019) Atonement - The Signal Fire (Featuring Howard Jones of Light the Torch).mp3</location>
+        </track>
+        <track>
+            <title>Big Picture (SG Lewis Remix)</title>
+            <creator>London Grammar</creator>
+            <duration>348682</duration>
+            <location>U:\Shared\Music\London Grammar - 2017 - Big Picture (SG Lewis Remix).mp3</location>
+        </track>
+        <track>
+            <title>Searching</title>
+            <creator>Trevor Something</creator>
+            <album>Trevor Something Does Not Exist</album>
+            <duration>264097</duration>
+            <trackNum>6</trackNum>
+            <location>U:\Shared\Music\Trevor Something - (2014) Trevor Something Does Not Exist - 06 Searching.mp3</location>
+        </track>
+        <track>
+            <title>Amazonia</title>
+            <creator>Gojira</creator>
+            <duration>290040</duration>
+            <location>U:\Shared\Music\Gojira - 2021 - Amazonia.mp3</location>
+        </track>
+        <track>
+            <title>Blood &amp; Honey (Part I)</title>
+            <creator>Cane Hill</creator>
+            <duration>209449</duration>
+            <location>U:\Shared\Music\Cane Hill - 2021 - Blood &amp; Honey Part I.mp3</location>
+        </track>
+        <track>
+            <title>Midnight Sky</title>
+            <creator>Miley Cyrus</creator>
+            <duration>222960</duration>
+            <location>U:\Shared\Music\Miley Cyrus - 2020 - Midnight Sky.mp3</location>
+        </track>
+        <track>
+            <title>Bodies</title>
+            <creator>The Smashing Pumpkins</creator>
+            <album>Mellon Collie And The Infinite Sadness</album>
+            <duration>252264</duration>
+            <trackNum>2</trackNum>
+            <location>U:\Shared\Music\The Smashing Pumpkins - (XXXX) Twilight To Starlight - Bodies.mp3</location>
+        </track>
+        <track>
+            <title>HOLIDAY</title>
+            <creator>Turnstile</creator>
+            <album>Glow on</album>
+            <duration>172080</duration>
+            <location>U:\Shared\Music\Turnstile - (2021) Glow on - HOLIDAY.mp3</location>
+        </track>
+        <track>
+            <title>Cry (ft. Grimes)</title>
+            <creator>Ashnikko</creator>
+            <duration>129576</duration>
+            <location>U:\Shared\Music\Ashnikko - (2020) Cry (ft. Grimes).mp3</location>
+        </track>
+        <track>
+            <title>I Never Thought I'd See the Day</title>
+            <creator>Sade</creator>
+            <duration>254093</duration>
+            <location>U:\Shared\Music\Sade - I Never Thought I'd See the Day.mp3</location>
+        </track>
+        <track>
+            <title>Core</title>
+            <creator>Neronus</creator>
+            <album>Blassed Tapes</album>
+            <duration>168202</duration>
+            <location>U:\Shared\Music\Neronus - (2020) Blassed Tapes - Core.mp3</location>
+        </track>
+        <track>
+            <title>Homo Imperceptibilis (Ambrosia)</title>
+            <creator>Sygnals</creator>
+            <duration>586945</duration>
+            <location>U:\Shared\Music\Sygnals - (2011) - Homo Imperceptibilis (Ambrosia).mp3</location>
+        </track>
+        <track>
+            <title>Akudama</title>
+            <creator>Alpha Wolf</creator>
+            <album>A Quiet Place to Die</album>
+            <duration>157466</duration>
+            <location>U:\Shared\Music\Alpha Wolf - (2020) A Quiet Place to Die - Akudama.mp3</location>
+        </track>
+        <track>
+            <title>Nocturne</title>
+            <creator>Tesseract</creator>
+            <duration>271072</duration>
+            <location>U:\Shared\Music\TESSERACT - Nocturne.mp3</location>
+        </track>
+        <track>
+            <title>Hollywood's Bleeding</title>
+            <creator>Post Malone</creator>
+            <duration>157387</duration>
+            <location>U:\Shared\Music\Post Malone - Hollywoods Bleeding.mp3</location>
+        </track>
+        <track>
+            <title>The Void</title>
+            <creator>Spiritbox</creator>
+            <duration>220839</duration>
+            <location>U:\Shared\Music\Spiritbox - (2023) - The Void.mp3</location>
+        </track>
+    </trackList>
+</playlist>

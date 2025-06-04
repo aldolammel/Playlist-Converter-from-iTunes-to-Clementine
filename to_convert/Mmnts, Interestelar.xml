@@ -1,0 +1,645 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2025-06-04T13:13:13Z</date>
+	<key>Application Version</key><string>12.13.7.1</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/E:/Users/aldol/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>187AD5E35C5E82C1</string>
+	<key>Tracks</key>
+	<dict>
+		<key>2690</key>
+		<dict>
+			<key>Track ID</key><integer>2690</integer>
+			<key>Name</key><string>Echelon</string>
+			<key>Artist</key><string>30 Seconds To Mars</string>
+			<key>Composer</key><string>Jared Leto</string>
+			<key>Album</key><string>30 Seconds To Mars</string>
+			<key>Genre</key><string>Rock Industrial</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8448698</integer>
+			<key>Total Time</key><integer>349805</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2024-06-17T17:42:34Z</date>
+			<key>Date Added</key><date>2025-05-22T23:54:47Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3712318584</integer>
+			<key>Play Date UTC</key><date>2021-08-20T18:36:24Z</date>
+			<key>Normalization</key><integer>4220</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F23ADC872E3949C5</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/30%20Seconds%20To%20Mars%20-%20(2002)%2030%20Seconds%20To%20Mars%20-%20Echelon.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>3758</key>
+		<dict>
+			<key>Track ID</key><integer>3758</integer>
+			<key>Name</key><string>Red Hypergiant</string>
+			<key>Artist</key><string>Architects</string>
+			<key>Album Artist</key><string>Architects</string>
+			<key>Album</key><string>Lost Forever // Lost Together (Deluxe Edition)</string>
+			<key>Genre</key><string>Progressive Metalcore / Post-Hardcore</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5288102</integer>
+			<key>Total Time</key><integer>130063</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2024-06-17T17:42:34Z</date>
+			<key>Date Added</key><date>2025-05-22T23:55:45Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>100</integer>
+			<key>Comments</key><string>Alternative Music.mp3</string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3710771627</integer>
+			<key>Play Date UTC</key><date>2021-08-02T20:53:47Z</date>
+			<key>Normalization</key><integer>5429</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2F111ED2C25F8D1F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Architects%20-%20(2015)%20Lost%20Forever%20Lost%20Together%20-%20Red%20Hypergiant.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>3800</key>
+		<dict>
+			<key>Track ID</key><integer>3800</integer>
+			<key>Name</key><string>Doomsday</string>
+			<key>Artist</key><string>Architects</string>
+			<key>Album Artist</key><string>Architects</string>
+			<key>Album</key><string>Holy Hell</string>
+			<key>Genre</key><string>Metalcore</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10149172</integer>
+			<key>Total Time</key><integer>248946</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2024-06-17T17:42:40Z</date>
+			<key>Date Added</key><date>2025-05-22T23:55:48Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>100</integer>
+			<key>Comments</key><string>Freak37</string>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3745999338</integer>
+			<key>Play Date UTC</key><date>2022-09-14T14:22:18Z</date>
+			<key>Normalization</key><integer>8669</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5B879B8FC71E3A07</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Architects%20-%20(2018)%20Holy%20Hell%20-%20Doomsday.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>4600</key>
+		<dict>
+			<key>Track ID</key><integer>4600</integer>
+			<key>Name</key><string>Come to Dust</string>
+			<key>Artist</key><string>Boards Of Canada</string>
+			<key>Album</key><string>Tomorrow's Harvest</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9932884</integer>
+			<key>Total Time</key><integer>247666</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Track Number</key><integer>16</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2024-06-17T17:42:35Z</date>
+			<key>Date Added</key><date>2025-05-22T23:56:35Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>100</integer>
+			<key>Comments</key><string>www.p2pdl.com</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3707489419</integer>
+			<key>Play Date UTC</key><date>2021-06-25T21:10:19Z</date>
+			<key>Normalization</key><integer>1564</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F42DAADA80980124</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Boards%20Of%20Canada%20-%20(2013)%20Tomorrows%20Harvest%20-%20Come%20to%20Dust.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>4618</key>
+		<dict>
+			<key>Track ID</key><integer>4618</integer>
+			<key>Name</key><string>Split Your Inifinities</string>
+			<key>Artist</key><string>Boards Of Canada</string>
+			<key>Album</key><string>Tomorrow's Harvest</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10782406</integer>
+			<key>Total Time</key><integer>268904</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2024-06-17T17:42:31Z</date>
+			<key>Date Added</key><date>2025-05-22T23:56:36Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>100</integer>
+			<key>Comments</key><string>www.p2pdl.com</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3707486104</integer>
+			<key>Play Date UTC</key><date>2021-06-25T20:15:04Z</date>
+			<key>Normalization</key><integer>1323</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0EDF5F512942FC99</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Boards%20Of%20Canada%20-%20(2013)%20Tomorrows%20Harvest%20-%20Split%20Your%20Inifinities.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>11042</key>
+		<dict>
+			<key>Track ID</key><integer>11042</integer>
+			<key>Name</key><string>A Glorious Dawn (com Carl Sagan e Stephen Hawking)</string>
+			<key>Artist</key><string>John D. Boswell</string>
+			<key>Album</key><string>Best of Symphony of Science</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4017776</integer>
+			<key>Total Time</key><integer>214386</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2024-06-17T17:42:37Z</date>
+			<key>Date Added</key><date>2025-05-23T00:02:29Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>99</integer>
+			<key>Comments</key><string>Conhecido tb como melodysheep no Youtube. </string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3745508807</integer>
+			<key>Play Date UTC</key><date>2022-09-08T22:06:47Z</date>
+			<key>Normalization</key><integer>1922</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>Glorious Dawn (com Carl Sagan e Stephen Hawking)</string>
+			<key>Persistent ID</key><string>D98EAFAB8EC546C3</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/John%20D.%20Boswell%20-%20A%20Glorious%20Dawn%20(com%20Carl%20Sagan%20e%20Stephen%20Hawking.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>11046</key>
+		<dict>
+			<key>Track ID</key><integer>11046</integer>
+			<key>Name</key><string>We Are All Connected</string>
+			<key>Artist</key><string>John D. Boswell</string>
+			<key>Composer</key><string>Sagan, Feynman, Tyson e Nye</string>
+			<key>Album</key><string>Best of Symphony of Science</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5957815</integer>
+			<key>Total Time</key><integer>251924</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2024-06-17T17:42:40Z</date>
+			<key>Date Added</key><date>2025-05-23T00:02:29Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>99</integer>
+			<key>Comments</key><string>Conhecido tb como melodysheep no Youtube. </string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3745508598</integer>
+			<key>Play Date UTC</key><date>2022-09-08T22:03:18Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2022-09-08T22:06:59Z</date>
+			<key>Normalization</key><integer>2004</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0A0F8A3DF7B6C9AA</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/John%20D.%20Boswell%20-%20We%20Are%20All%20Connected%20(com%20Sagan,%20Feynman,%20deGrasse%20Tyson%20e%20Bill%20Nye).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>12748</key>
+		<dict>
+			<key>Track ID</key><integer>12748</integer>
+			<key>Name</key><string>Oblivion (feat. Susanne Sundfør)</string>
+			<key>Artist</key><string>M83</string>
+			<key>Album Artist</key><string>Oblivion</string>
+			<key>Album</key><string>Oblivion Original Soundtrack</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>14897570</integer>
+			<key>Total Time</key><integer>356728</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>30</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2024-06-17T17:42:38Z</date>
+			<key>Date Added</key><date>2025-05-23T00:03:52Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3707486458</integer>
+			<key>Play Date UTC</key><date>2021-06-25T20:20:58Z</date>
+			<key>Normalization</key><integer>3731</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4E1527B282358195</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/M83%20-%20(2013)%20Oblivion%20(Original%20Motion%20Picture%20Soundtrack)%20-%20Oblivion%20(feat.%20Susanne%20Sundf%C3%B8r).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>13302</key>
+		<dict>
+			<key>Track ID</key><integer>13302</integer>
+			<key>Name</key><string>Impro 2016l4l2</string>
+			<key>Artist</key><string>Metome</string>
+			<key>Kind</key><string>WAV audio file</string>
+			<key>Size</key><integer>45158444</integer>
+			<key>Total Time</key><integer>256000</integer>
+			<key>Date Modified</key><date>2017-05-30T08:51:28Z</date>
+			<key>Date Added</key><date>2025-05-23T00:04:21Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3707489174</integer>
+			<key>Play Date UTC</key><date>2021-06-25T21:06:14Z</date>
+			<key>Normalization</key><integer>1404</integer>
+			<key>Persistent ID</key><string>4B4DF0E32CAD77C2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Metome%20-%20Impro%202016l4l2%20(creative%20commons).wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>13480</key>
+		<dict>
+			<key>Track ID</key><integer>13480</integer>
+			<key>Name</key><string>Discovery / End Credits</string>
+			<key>Artist</key><string>Michl Britsch</string>
+			<key>Album Artist</key><string>Pandorum</string>
+			<key>Composer</key><string>Michl Britsch</string>
+			<key>Album</key><string>Pandorum</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>19066587</integer>
+			<key>Total Time</key><integer>475115</integer>
+			<key>Track Number</key><integer>19</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2024-06-17T17:42:38Z</date>
+			<key>Date Added</key><date>2025-05-23T00:04:30Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>99</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3743290204</integer>
+			<key>Play Date UTC</key><date>2022-08-14T05:50:04Z</date>
+			<key>Normalization</key><integer>1259</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0331F75435EA7B9D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Michl%20Britsch%20-%20(2009)%20Pandorum%20Soundtrack%20-%20Discovery%20-%20End%20Credits.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>16324</key>
+		<dict>
+			<key>Track ID</key><integer>16324</integer>
+			<key>Name</key><string>Decoy</string>
+			<key>Artist</key><string>Sybreed</string>
+			<key>Album</key><string>Slave Design</string>
+			<key>Genre</key><string>Death Wave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>12679118</integer>
+			<key>Total Time</key><integer>307200</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2024-11-23T23:46:45Z</date>
+			<key>Date Added</key><date>2025-05-23T00:07:12Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Volume Adjustment</key><integer>100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3707486762</integer>
+			<key>Play Date UTC</key><date>2021-06-25T20:26:02Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2021-09-22T19:32:38Z</date>
+			<key>Normalization</key><integer>13975</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>EBFE99AB9D3A0C3F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Sybreed%20-%20(2004)%20Slave%20Design%20-%20Decoy.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>17660</key>
+		<dict>
+			<key>Track ID</key><integer>17660</integer>
+			<key>Name</key><string>End Transmission</string>
+			<key>Artist</key><string>Fire From Gods</string>
+			<key>Album</key><string>Narrative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5401905</integer>
+			<key>Total Time</key><integer>220107</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2025-05-27T00:20:41Z</date>
+			<key>Date Added</key><date>2025-05-23T00:08:23Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>98</integer>
+			<key>Play Count</key><integer>20</integer>
+			<key>Play Date</key><integer>3756363001</integer>
+			<key>Play Date UTC</key><date>2023-01-12T12:10:01Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2022-12-19T20:57:15Z</date>
+			<key>Normalization</key><integer>7679</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>354B75CF373B8560</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Fire%20From%20Gods%20-%20(2016)%20Narrative%20-%20End%20Transmission.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>18476</key>
+		<dict>
+			<key>Track ID</key><integer>18476</integer>
+			<key>Name</key><string>Vestiges of a hard landing</string>
+			<key>Artist</key><string>Black Sky Giant</string>
+			<key>Album Artist</key><string>Black Sky Giant</string>
+			<key>Album</key><string>Falling Mothership</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>13892483</integer>
+			<key>Total Time</key><integer>344058</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Modified</key><date>2024-06-17T17:42:39Z</date>
+			<key>Date Added</key><date>2025-05-23T00:09:03Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>100</integer>
+			<key>Comments</key><string>Visit https://blackskygiant.bandcamp.com</string>
+			<key>Play Count</key><integer>54</integer>
+			<key>Play Date</key><integer>3776953350</integer>
+			<key>Play Date UTC</key><date>2023-09-07T20:42:30Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2022-04-11T02:46:32Z</date>
+			<key>Normalization</key><integer>2062</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5501B751E8A604B6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Black%20Sky%20Giant%20-%20(2021)%20Falling%20Mothership%20-%2001%20Vestiges%20of%20a%20hard%20landing.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>18478</key>
+		<dict>
+			<key>Track ID</key><integer>18478</integer>
+			<key>Name</key><string>Batriders</string>
+			<key>Artist</key><string>Black Sky Giant</string>
+			<key>Album Artist</key><string>Black Sky Giant</string>
+			<key>Album</key><string>Falling Mothership</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10609234</integer>
+			<key>Total Time</key><integer>262060</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Modified</key><date>2024-06-17T17:42:36Z</date>
+			<key>Date Added</key><date>2025-05-23T00:09:03Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>100</integer>
+			<key>Comments</key><string>Visit https://blackskygiant.bandcamp.com</string>
+			<key>Play Count</key><integer>38</integer>
+			<key>Play Date</key><integer>3754396411</integer>
+			<key>Play Date UTC</key><date>2022-12-20T17:53:31Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2022-06-22T22:33:09Z</date>
+			<key>Normalization</key><integer>4786</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BDE8F734ED8C00B8</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Black%20Sky%20Giant%20-%20(2021)%20Falling%20Mothership%20-%2002%20Batriders.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>18664</key>
+		<dict>
+			<key>Track ID</key><integer>18664</integer>
+			<key>Name</key><string>Dragon Chaser</string>
+			<key>Artist</key><string>Darko US</string>
+			<key>Album</key><string>Oni</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9744972</integer>
+			<key>Total Time</key><integer>239307</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Date Modified</key><date>2024-06-18T22:33:21Z</date>
+			<key>Date Added</key><date>2025-05-23T00:09:13Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>99</integer>
+			<key>Play Count</key><integer>24</integer>
+			<key>Play Date</key><integer>3781739108</integer>
+			<key>Play Date UTC</key><date>2023-11-02T06:05:08Z</date>
+			<key>Normalization</key><integer>13546</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>64B3F145C7EFBAF7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Darko%20US%20-%20(2022)%20Oni%20-%20Dragon%20Chaser.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>18666</key>
+		<dict>
+			<key>Track ID</key><integer>18666</integer>
+			<key>Name</key><string>Infinite Beauty</string>
+			<key>Artist</key><string>Darko US</string>
+			<key>Album</key><string>Oni</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8101896</integer>
+			<key>Total Time</key><integer>198504</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Date Modified</key><date>2024-06-17T17:42:36Z</date>
+			<key>Date Added</key><date>2025-05-23T00:09:13Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>99</integer>
+			<key>Play Count</key><integer>23</integer>
+			<key>Play Date</key><integer>3781739302</integer>
+			<key>Play Date UTC</key><date>2023-11-02T06:08:22Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2023-03-04T21:19:17Z</date>
+			<key>Normalization</key><integer>6527</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BC87FCC263A44D16</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Darko%20US%20-%20(2022)%20Oni%20-%20Infinite%20Beauty.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>18668</key>
+		<dict>
+			<key>Track ID</key><integer>18668</integer>
+			<key>Name</key><string>Looking Glass</string>
+			<key>Artist</key><string>Darko US</string>
+			<key>Album</key><string>Oni</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6598067</integer>
+			<key>Total Time</key><integer>161097</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Date Modified</key><date>2024-06-18T22:33:30Z</date>
+			<key>Date Added</key><date>2025-05-23T00:09:13Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>99</integer>
+			<key>Play Count</key><integer>41</integer>
+			<key>Play Date</key><integer>3788163590</integer>
+			<key>Play Date UTC</key><date>2024-01-15T13:39:50Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2023-03-06T02:39:17Z</date>
+			<key>Normalization</key><integer>11843</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F5AB4C22022B1A07</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Darko%20US%20-%20(2022)%20Oni%20-%20Looking%20Glass.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>18670</key>
+		<dict>
+			<key>Track ID</key><integer>18670</integer>
+			<key>Name</key><string>Begin</string>
+			<key>Artist</key><string>Darko US</string>
+			<key>Album</key><string>Oni</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2837462</integer>
+			<key>Total Time</key><integer>67552</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Date Modified</key><date>2024-06-18T22:33:23Z</date>
+			<key>Date Added</key><date>2025-05-23T00:09:13Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>99</integer>
+			<key>Play Count</key><integer>27</integer>
+			<key>Play Date</key><integer>3781737521</integer>
+			<key>Play Date UTC</key><date>2023-11-02T05:38:41Z</date>
+			<key>Normalization</key><integer>6913</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F93AC90EA2830138</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Darko%20US%20-%20(2022)%20Oni%20-%20Begin.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>18672</key>
+		<dict>
+			<key>Track ID</key><integer>18672</integer>
+			<key>Name</key><string>Oni</string>
+			<key>Artist</key><string>Darko US</string>
+			<key>Album</key><string>Oni</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5742931</integer>
+			<key>Total Time</key><integer>139755</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Date Modified</key><date>2022-10-06T20:50:27Z</date>
+			<key>Date Added</key><date>2025-05-23T00:09:14Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>100</integer>
+			<key>Play Count</key><integer>23</integer>
+			<key>Play Date</key><integer>3788163725</integer>
+			<key>Play Date UTC</key><date>2024-01-15T13:42:05Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2023-09-11T00:25:22Z</date>
+			<key>Normalization</key><integer>3924</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>094E206C7F9884C2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Darko%20US%20-%20(2022)%20Oni%20-%20Oni.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>Mmnts, Interestelar</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>70968</integer>
+			<key>Playlist Persistent ID</key><string>788F23260F8F5E6B</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>4618</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2690</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13480</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3758</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11042</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11046</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16324</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3800</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13302</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17660</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12748</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4600</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18476</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18478</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18670</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18668</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18664</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18666</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18672</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

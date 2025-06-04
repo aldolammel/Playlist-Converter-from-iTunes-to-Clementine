@@ -1,7 +1,8 @@
 """
-Playlist Converter: iTunes to Clementine edition
+Playlist Converter: from iTunes to Clementine
 Author: @aldolammel
-Last update: Jun, 4th 2025
+Public repository: https://github.com/aldolammel/Playlist-Converter-from-iTunes-to-Clementine
+How to use and changelog: README.md
 """
 
 import xml.etree.ElementTree as ET

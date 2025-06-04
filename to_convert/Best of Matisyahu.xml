@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2025-06-04T13:05:48Z</date>
+	<key>Application Version</key><string>12.13.7.1</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/E:/Users/aldol/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>187AD5E35C5E82C1</string>
+	<key>Tracks</key>
+	<dict>
+		<key>13088</key>
+		<dict>
+			<key>Track ID</key><integer>13088</integer>
+			<key>Name</key><string>Chop 'em Down</string>
+			<key>Artist</key><string>Matisyahu</string>
+			<key>Album</key><string>Shake Off the Dust... ARISE</string>
+			<key>Genre</key><string>Reggae</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6736232</integer>
+			<key>Total Time</key><integer>346096</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2021-09-03T17:29:17Z</date>
+			<key>Date Added</key><date>2025-05-23T00:04:10Z</date>
+			<key>Bit Rate</key><integer>153</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3728470595</integer>
+			<key>Play Date UTC</key><date>2022-02-23T17:16:35Z</date>
+			<key>Normalization</key><integer>2602</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C697CD0B90762632</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Matisyahu%20-%20(2004)%20Shake%20Off%20The%20Dust%20Arisetzama%20-%20Chop%20em%20down.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>13092</key>
+		<dict>
+			<key>Track ID</key><integer>13092</integer>
+			<key>Name</key><string>Exaltation</string>
+			<key>Artist</key><string>Matisyahu</string>
+			<key>Album</key><string>Shake Off the Dust... ARISE</string>
+			<key>Genre</key><string>Reggae</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5731689</integer>
+			<key>Total Time</key><integer>304169</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2021-09-03T17:29:17Z</date>
+			<key>Date Added</key><date>2025-05-23T00:04:10Z</date>
+			<key>Bit Rate</key><integer>148</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3728470896</integer>
+			<key>Play Date UTC</key><date>2022-02-23T17:21:36Z</date>
+			<key>Normalization</key><integer>2020</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>911AF404C59EE9C5</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Matisyahu%20-%20(2004)%20Shake%20Off%20The%20Dust%20Arisetzama%20-%20Exaltation.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>13100</key>
+		<dict>
+			<key>Track ID</key><integer>13100</integer>
+			<key>Name</key><string>King Without A Crown</string>
+			<key>Artist</key><string>Matisyahu</string>
+			<key>Album</key><string>Shake Off the Dust... ARISE</string>
+			<key>Genre</key><string>Reggae</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5967672</integer>
+			<key>Total Time</key><integer>319529</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2021-09-03T17:29:31Z</date>
+			<key>Date Added</key><date>2025-05-23T00:04:11Z</date>
+			<key>Bit Rate</key><integer>147</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3728470251</integer>
+			<key>Play Date UTC</key><date>2022-02-23T17:10:51Z</date>
+			<key>Normalization</key><integer>2840</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>576DB643549DEC4D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Matisyahu%20-%20(2004)%20Shake%20Off%20The%20Dust%20Arisetzama%20-%20King%20without%20a%20crown.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>13108</key>
+		<dict>
+			<key>Track ID</key><integer>13108</integer>
+			<key>Name</key><string>Warrior</string>
+			<key>Artist</key><string>Matisyahu</string>
+			<key>Album</key><string>Shake Off the Dust... ARISE</string>
+			<key>Genre</key><string>Reggae</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8361906</integer>
+			<key>Total Time</key><integer>443506</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2021-09-03T17:29:39Z</date>
+			<key>Date Added</key><date>2025-05-23T00:04:11Z</date>
+			<key>Bit Rate</key><integer>149</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3728469260</integer>
+			<key>Play Date UTC</key><date>2022-02-23T16:54:20Z</date>
+			<key>Normalization</key><integer>1656</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6AFF06C7D29984E4</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Matisyahu%20-%20(2004)%20Shake%20Off%20The%20Dust%20Arisetzama%20-%20Warrior.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>13136</key>
+		<dict>
+			<key>Track ID</key><integer>13136</integer>
+			<key>Name</key><string>Smash lies</string>
+			<key>Artist</key><string>Matisyahu</string>
+			<key>Album</key><string>Light</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>6927429</integer>
+			<key>Total Time</key><integer>205200</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2024-07-04T16:22:25Z</date>
+			<key>Date Added</key><date>2025-05-23T00:04:12Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3728469934</integer>
+			<key>Play Date UTC</key><date>2022-02-23T17:05:34Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2021-08-02T16:42:32Z</date>
+			<key>Normalization</key><integer>6992</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F28B7D0310765297</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Matisyahu%20-%20(2009)%20Light%20-%2001%20Faixa%2001.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>13146</key>
+		<dict>
+			<key>Track ID</key><integer>13146</integer>
+			<key>Name</key><string>I will be light</string>
+			<key>Artist</key><string>Matisyahu</string>
+			<key>Album</key><string>Light</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>7126450</integer>
+			<key>Total Time</key><integer>215826</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2021-09-03T17:30:27Z</date>
+			<key>Date Added</key><date>2025-05-23T00:04:13Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3728469732</integer>
+			<key>Play Date UTC</key><date>2022-02-23T17:02:12Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2023-05-16T19:41:58Z</date>
+			<key>Normalization</key><integer>3050</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C3892E36A7D91EE4</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Matisyahu%20-%20(2009)%20Light%20-%2006%20Faixa%2006.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>13152</key>
+		<dict>
+			<key>Track ID</key><integer>13152</integer>
+			<key>Name</key><string>Motivate</string>
+			<key>Artist</key><string>Matisyahu</string>
+			<key>Album</key><string>Light</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>8615864</integer>
+			<key>Total Time</key><integer>261133</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2021-09-03T17:30:40Z</date>
+			<key>Date Added</key><date>2025-05-23T00:04:13Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3728469519</integer>
+			<key>Play Date UTC</key><date>2022-02-23T16:58:39Z</date>
+			<key>Normalization</key><integer>6655</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4872A278D8574FA9</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Matisyahu%20-%20(2009)%20Light%20-%2009%20Faixa%2009.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>Best of: Matisyahu</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>63573</integer>
+			<key>Playlist Persistent ID</key><string>A26697EBAF005300</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>13136</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13100</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13108</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13152</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13146</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13088</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13092</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,895 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2025-06-04T13:10:10Z</date>
+	<key>Application Version</key><string>12.13.7.1</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/E:/Users/aldol/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>187AD5E35C5E82C1</string>
+	<key>Tracks</key>
+	<dict>
+		<key>16076</key>
+		<dict>
+			<key>Track ID</key><integer>16076</integer>
+			<key>Name</key><string>Crawl</string>
+			<key>Artist</key><string>Staind</string>
+			<key>Album Artist</key><string>Staind</string>
+			<key>Album</key><string>Dysfunction</string>
+			<key>Genre</key><string>Nu Metal/Alternative Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10916524</integer>
+			<key>Total Time</key><integer>269061</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2023-08-25T16:50:21Z</date>
+			<key>Date Added</key><date>2025-05-23T00:06:57Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>100</integer>
+			<key>Comments</key><string>https://bzk.one/</string>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3747476499</integer>
+			<key>Play Date UTC</key><date>2022-10-01T16:41:39Z</date>
+			<key>Normalization</key><integer>4915</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C658EE281D77C70A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Staind%20-%20(1999)%20Dysfunction%20-%20Crawl.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>16078</key>
+		<dict>
+			<key>Track ID</key><integer>16078</integer>
+			<key>Name</key><string>Excess Baggage</string>
+			<key>Artist</key><string>Staind</string>
+			<key>Album Artist</key><string>Staind</string>
+			<key>Album</key><string>Dysfunction</string>
+			<key>Genre</key><string>Nu Metal/Alternative Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11277359</integer>
+			<key>Total Time</key><integer>278073</integer>
+			<key>Start Time</key><integer>48000</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2023-08-25T16:50:21Z</date>
+			<key>Date Added</key><date>2025-05-23T00:06:57Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>100</integer>
+			<key>Comments</key><string>https://bzk.one/</string>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3747477559</integer>
+			<key>Play Date UTC</key><date>2022-10-01T16:59:19Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2022-10-01T14:23:22Z</date>
+			<key>Normalization</key><integer>893</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B8DA8571E9C8E621</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Staind%20-%20(1999)%20Dysfunction%20-%20Excess%20Baggage.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>16080</key>
+		<dict>
+			<key>Track ID</key><integer>16080</integer>
+			<key>Name</key><string>Home</string>
+			<key>Artist</key><string>Staind</string>
+			<key>Album Artist</key><string>Staind</string>
+			<key>Album</key><string>Dysfunction</string>
+			<key>Genre</key><string>Nu Metal/Alternative Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9953524</integer>
+			<key>Total Time</key><integer>244976</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2023-08-25T16:50:21Z</date>
+			<key>Date Added</key><date>2025-05-23T00:06:57Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>100</integer>
+			<key>Comments</key><string>https://bzk.one/</string>
+			<key>Play Count</key><integer>14</integer>
+			<key>Play Date</key><integer>3747476234</integer>
+			<key>Play Date UTC</key><date>2022-10-01T16:37:14Z</date>
+			<key>Normalization</key><integer>5148</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>79FD66B853C70796</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Staind%20-%20(1999)%20Dysfunction%20-%20Home.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>16082</key>
+		<dict>
+			<key>Track ID</key><integer>16082</integer>
+			<key>Name</key><string>Just Go</string>
+			<key>Artist</key><string>Staind</string>
+			<key>Album Artist</key><string>Staind</string>
+			<key>Album</key><string>Dysfunction</string>
+			<key>Genre</key><string>Nu Metal/Alternative Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11757516</integer>
+			<key>Total Time</key><integer>290063</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2023-08-25T16:50:20Z</date>
+			<key>Date Added</key><date>2025-05-23T00:06:58Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>100</integer>
+			<key>Comments</key><string>https://bzk.one/</string>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3747476784</integer>
+			<key>Play Date UTC</key><date>2022-10-01T16:46:24Z</date>
+			<key>Normalization</key><integer>5457</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>86AEAAEE74075A96</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Staind%20-%20(1999)%20Dysfunction%20-%20Just%20Go.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>16084</key>
+		<dict>
+			<key>Track ID</key><integer>16084</integer>
+			<key>Name</key><string>Me</string>
+			<key>Artist</key><string>Staind</string>
+			<key>Album Artist</key><string>Staind</string>
+			<key>Album</key><string>Dysfunction</string>
+			<key>Genre</key><string>Nu Metal/Alternative Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11197282</integer>
+			<key>Total Time</key><integer>276062</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2023-08-25T16:50:24Z</date>
+			<key>Date Added</key><date>2025-05-23T00:06:58Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>100</integer>
+			<key>Comments</key><string>https://bzk.one/</string>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3747477333</integer>
+			<key>Play Date UTC</key><date>2022-10-01T16:55:33Z</date>
+			<key>Normalization</key><integer>4097</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>29E78B08453F37E0</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Staind%20-%20(1999)%20Dysfunction%20-%20Me.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>16086</key>
+		<dict>
+			<key>Track ID</key><integer>16086</integer>
+			<key>Name</key><string>Mudshovel</string>
+			<key>Artist</key><string>Staind</string>
+			<key>Album Artist</key><string>Staind</string>
+			<key>Album</key><string>Dysfunction</string>
+			<key>Genre</key><string>Nu Metal/Alternative Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11441118</integer>
+			<key>Total Time</key><integer>282148</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2023-08-25T16:50:24Z</date>
+			<key>Date Added</key><date>2025-05-23T00:06:58Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>100</integer>
+			<key>Comments</key><string>https://bzk.one/</string>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3747477062</integer>
+			<key>Play Date UTC</key><date>2022-10-01T16:51:02Z</date>
+			<key>Normalization</key><integer>5973</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8172A93E0D05B4A1</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Staind%20-%20(1999)%20Dysfunction%20-%20Mudshovel.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>16088</key>
+		<dict>
+			<key>Track ID</key><integer>16088</integer>
+			<key>Name</key><string>Raw</string>
+			<key>Artist</key><string>Staind</string>
+			<key>Album Artist</key><string>Staind</string>
+			<key>Album</key><string>Dysfunction</string>
+			<key>Genre</key><string>Nu Metal/Alternative Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10117155</integer>
+			<key>Total Time</key><integer>249077</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2023-08-25T16:50:21Z</date>
+			<key>Date Added</key><date>2025-05-23T00:06:58Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>100</integer>
+			<key>Comments</key><string>https://bzk.one/</string>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3747475994</integer>
+			<key>Play Date UTC</key><date>2022-10-01T16:33:14Z</date>
+			<key>Normalization</key><integer>4990</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>43FCEAC1F3940DCE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Staind%20-%20(1999)%20Dysfunction%20-%20Raw.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>16092</key>
+		<dict>
+			<key>Track ID</key><integer>16092</integer>
+			<key>Name</key><string>Suffocate</string>
+			<key>Artist</key><string>Staind</string>
+			<key>Album Artist</key><string>Staind</string>
+			<key>Album</key><string>Dysfunction</string>
+			<key>Genre</key><string>Nu Metal/Alternative Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7997491</integer>
+			<key>Total Time</key><integer>196075</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2023-08-25T16:50:18Z</date>
+			<key>Date Added</key><date>2025-05-23T00:06:58Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>100</integer>
+			<key>Comments</key><string>https://bzk.one/</string>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3747475749</integer>
+			<key>Play Date UTC</key><date>2022-10-01T16:29:09Z</date>
+			<key>Normalization</key><integer>5687</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BE0FE6A6BC18C800</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Staind%20-%20(1999)%20Dysfunction%20-%20Suffocate.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>16094</key>
+		<dict>
+			<key>Track ID</key><integer>16094</integer>
+			<key>Name</key><string>Can't Believe</string>
+			<key>Artist</key><string>Staind</string>
+			<key>Album Artist</key><string>Staind</string>
+			<key>Album</key><string>Break The Cycle</string>
+			<key>Genre</key><string>Nu Metal/Alternative Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6934545</integer>
+			<key>Total Time</key><integer>167993</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2023-08-25T16:51:29Z</date>
+			<key>Date Added</key><date>2025-05-23T00:06:58Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>103</integer>
+			<key>Comments</key><string>https://bzk.one/</string>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3779028351</integer>
+			<key>Play Date UTC</key><date>2023-10-01T21:05:51Z</date>
+			<key>Normalization</key><integer>11021</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>376AD319425C025B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Staind%20-%20(2001)%20Break%20The%20Cycle%20-%20Can't%20Believe.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>16098</key>
+		<dict>
+			<key>Track ID</key><integer>16098</integer>
+			<key>Name</key><string>Epiphany</string>
+			<key>Artist</key><string>Staind</string>
+			<key>Album Artist</key><string>Staind</string>
+			<key>Album</key><string>Break The Cycle</string>
+			<key>Genre</key><string>Nu Metal/Alternative Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10463968</integer>
+			<key>Total Time</key><integer>256208</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2023-08-25T16:51:32Z</date>
+			<key>Date Added</key><date>2025-05-23T00:06:58Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>103</integer>
+			<key>Comments</key><string>https://bzk.one/</string>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3767117493</integer>
+			<key>Play Date UTC</key><date>2023-05-17T00:31:33Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2020-06-30T08:16:23Z</date>
+			<key>Normalization</key><integer>1807</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>1366ECF1E53F25D6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Staind%20-%20(2001)%20Break%20The%20Cycle%20-%20Epiphany.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>16100</key>
+		<dict>
+			<key>Track ID</key><integer>16100</integer>
+			<key>Name</key><string>Fade</string>
+			<key>Artist</key><string>Staind</string>
+			<key>Album Artist</key><string>Staind</string>
+			<key>Album</key><string>Break The Cycle</string>
+			<key>Genre</key><string>Nu Metal/Alternative Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9922325</integer>
+			<key>Total Time</key><integer>242677</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2023-08-25T16:51:33Z</date>
+			<key>Date Added</key><date>2025-05-23T00:06:58Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>103</integer>
+			<key>Comments</key><string>https://bzk.one/</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3747474845</integer>
+			<key>Play Date UTC</key><date>2022-10-01T16:14:05Z</date>
+			<key>Normalization</key><integer>10053</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>573A09D06C303881</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Staind%20-%20(2001)%20Break%20The%20Cycle%20-%20Fade.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>16102</key>
+		<dict>
+			<key>Track ID</key><integer>16102</integer>
+			<key>Name</key><string>For You</string>
+			<key>Artist</key><string>Staind</string>
+			<key>Album Artist</key><string>Staind</string>
+			<key>Album</key><string>Break The Cycle</string>
+			<key>Genre</key><string>Nu Metal/Alternative Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8466461</integer>
+			<key>Total Time</key><integer>206262</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2025-01-26T01:22:22Z</date>
+			<key>Date Added</key><date>2025-05-23T00:06:59Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>100</integer>
+			<key>Comments</key><string>https://bzk.one/</string>
+			<key>Play Count</key><integer>29</integer>
+			<key>Play Date</key><integer>3747478682</integer>
+			<key>Play Date UTC</key><date>2022-10-01T17:18:02Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2021-08-24T19:54:53Z</date>
+			<key>Normalization</key><integer>14285</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3485C9A3E1855458</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Staind%20-%20(2001)%20Break%20The%20Cycle%20-%20For%20You.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>16106</key>
+		<dict>
+			<key>Track ID</key><integer>16106</integer>
+			<key>Name</key><string>It's Been Awhile</string>
+			<key>Artist</key><string>Staind</string>
+			<key>Album Artist</key><string>Staind</string>
+			<key>Album</key><string>Break The Cycle</string>
+			<key>Genre</key><string>Nu Metal/Alternative Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10807776</integer>
+			<key>Total Time</key><integer>264777</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2023-08-25T16:51:31Z</date>
+			<key>Date Added</key><date>2025-05-23T00:06:59Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>103</integer>
+			<key>Comments</key><string>https://bzk.one/</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3779025851</integer>
+			<key>Play Date UTC</key><date>2023-10-01T20:24:11Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2021-11-19T16:09:29Z</date>
+			<key>Normalization</key><integer>8584</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8D3BEF09D42E3B99</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Staind%20-%20(2001)%20Break%20The%20Cycle%20-%20It's%20Been%20Awhile.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>16110</key>
+		<dict>
+			<key>Track ID</key><integer>16110</integer>
+			<key>Name</key><string>Outside</string>
+			<key>Artist</key><string>Staind</string>
+			<key>Album Artist</key><string>Staind</string>
+			<key>Album</key><string>Break The Cycle</string>
+			<key>Genre</key><string>Nu Metal/Alternative Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11944269</integer>
+			<key>Total Time</key><integer>293198</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2023-08-25T16:51:33Z</date>
+			<key>Date Added</key><date>2025-05-23T00:06:59Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>103</integer>
+			<key>Comments</key><string>https://bzk.one/</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3747474405</integer>
+			<key>Play Date UTC</key><date>2022-10-01T16:06:45Z</date>
+			<key>Normalization</key><integer>5733</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>805B5B0732DF9CAE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Staind%20-%20(2001)%20Break%20The%20Cycle%20-%20Outside.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>16112</key>
+		<dict>
+			<key>Track ID</key><integer>16112</integer>
+			<key>Name</key><string>Pressure</string>
+			<key>Artist</key><string>Staind</string>
+			<key>Album Artist</key><string>Staind</string>
+			<key>Album</key><string>Break The Cycle</string>
+			<key>Genre</key><string>Nu Metal/Alternative Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8326185</integer>
+			<key>Total Time</key><integer>202762</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2023-08-25T16:51:30Z</date>
+			<key>Date Added</key><date>2025-05-23T00:06:59Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>103</integer>
+			<key>Comments</key><string>https://bzk.one/</string>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3779027961</integer>
+			<key>Play Date UTC</key><date>2023-10-01T20:59:21Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2023-05-16T19:42:13Z</date>
+			<key>Normalization</key><integer>13030</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E165F22B936A8254</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Staind%20-%20(2001)%20Break%20The%20Cycle%20-%20Pressure.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>16114</key>
+		<dict>
+			<key>Track ID</key><integer>16114</integer>
+			<key>Name</key><string>Suffer</string>
+			<key>Artist</key><string>Staind</string>
+			<key>Album Artist</key><string>Staind</string>
+			<key>Album</key><string>Break The Cycle</string>
+			<key>Genre</key><string>Nu Metal/Alternative Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9755230</integer>
+			<key>Total Time</key><integer>238471</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2023-08-25T16:51:30Z</date>
+			<key>Date Added</key><date>2025-05-23T00:06:59Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>103</integer>
+			<key>Comments</key><string>https://bzk.one/</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3747478476</integer>
+			<key>Play Date UTC</key><date>2022-10-01T17:14:36Z</date>
+			<key>Normalization</key><integer>13949</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>EB9762051193908D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Staind%20-%20(2001)%20Break%20The%20Cycle%20-%20Suffer.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>16126</key>
+		<dict>
+			<key>Track ID</key><integer>16126</integer>
+			<key>Name</key><string>Falling Down</string>
+			<key>Artist</key><string>Staind</string>
+			<key>Album Artist</key><string>Staind</string>
+			<key>Album</key><string>14 Shades Of Grey</string>
+			<key>Genre</key><string>Nu Metal/Alternative Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9477008</integer>
+			<key>Total Time</key><integer>235520</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2023-08-25T16:53:20Z</date>
+			<key>Date Added</key><date>2025-05-23T00:07:00Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>97</integer>
+			<key>Comments</key><string>https://bzk.one/</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3747475558</integer>
+			<key>Play Date UTC</key><date>2022-10-01T16:25:58Z</date>
+			<key>Normalization</key><integer>12931</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>67CD4786ED83CB5F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Staind%20-%20(2003)%2014%20Shades%20Of%20Grey%20-%20Falling%20Down.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>16128</key>
+		<dict>
+			<key>Track ID</key><integer>16128</integer>
+			<key>Name</key><string>Fill Me Up</string>
+			<key>Artist</key><string>Staind</string>
+			<key>Album Artist</key><string>Staind</string>
+			<key>Album</key><string>14 Shades Of Grey</string>
+			<key>Genre</key><string>Nu Metal/Alternative Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10633450</integer>
+			<key>Total Time</key><integer>264463</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2023-08-25T16:53:20Z</date>
+			<key>Date Added</key><date>2025-05-23T00:07:00Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>97</integer>
+			<key>Comments</key><string>https://bzk.one/</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3747475327</integer>
+			<key>Play Date UTC</key><date>2022-10-01T16:22:07Z</date>
+			<key>Normalization</key><integer>11388</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>968F99E331721290</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Staind%20-%20(2003)%2014%20Shades%20Of%20Grey%20-%20Fill%20Me%20Up.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>16146</key>
+		<dict>
+			<key>Track ID</key><integer>16146</integer>
+			<key>Name</key><string>Yesterday</string>
+			<key>Artist</key><string>Staind</string>
+			<key>Album Artist</key><string>Staind</string>
+			<key>Album</key><string>14 Shades Of Grey</string>
+			<key>Genre</key><string>Nu Metal/Alternative Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9126032</integer>
+			<key>Total Time</key><integer>226742</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>14</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2023-08-25T16:53:16Z</date>
+			<key>Date Added</key><date>2025-05-23T00:07:01Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>97</integer>
+			<key>Comments</key><string>https://bzk.one/</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3747475067</integer>
+			<key>Play Date UTC</key><date>2022-10-01T16:17:47Z</date>
+			<key>Normalization</key><integer>10863</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>669CDC3D1360278A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Staind%20-%20(2003)%2014%20Shades%20Of%20Grey%20-%20Yesterday.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>16158</key>
+		<dict>
+			<key>Track ID</key><integer>16158</integer>
+			<key>Name</key><string>King of All Excuses</string>
+			<key>Artist</key><string>Staind</string>
+			<key>Album Artist</key><string>Staind</string>
+			<key>Album</key><string>Chapter V</string>
+			<key>Genre</key><string>Nu Metal/Alternative Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9488135</integer>
+			<key>Total Time</key><integer>219924</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2023-08-25T16:52:21Z</date>
+			<key>Date Added</key><date>2025-05-23T00:07:02Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>106</integer>
+			<key>Comments</key><string>https://bzk.one/</string>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3779024878</integer>
+			<key>Play Date UTC</key><date>2023-10-01T20:07:58Z</date>
+			<key>Normalization</key><integer>15527</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5190D7C841208201</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Staind%20-%20(2005)%20Chapter%20V%20-%20King%20of%20All%20Excuses.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>19382</key>
+		<dict>
+			<key>Track ID</key><integer>19382</integer>
+			<key>Name</key><string>Was Any Of It Real?</string>
+			<key>Artist</key><string>Staind</string>
+			<key>Album Artist</key><string>Staind</string>
+			<key>Composer</key><string>Aaron Lewis</string>
+			<key>Album</key><string>Confessions Of The Fallen</string>
+			<key>Work</key><string>P.M.E.D.I.A</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>19077331</integer>
+			<key>Total Time</key><integer>173949</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>Date Modified</key><date>2025-05-24T17:04:30Z</date>
+			<key>Date Added</key><date>2025-05-24T16:32:20Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>95</integer>
+			<key>Comments</key><string>PMEDIA</string>
+			<key>Normalization</key><integer>9133</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2D2FCBAAA55308CD</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Staind%20-%20(2023)%20Confessions%20Of%20The%20Fallen%20-%2002.%20Was%20Any%20Of%20It%20Real_.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>19384</key>
+		<dict>
+			<key>Track ID</key><integer>19384</integer>
+			<key>Name</key><string>In This Condition</string>
+			<key>Artist</key><string>Staind</string>
+			<key>Album Artist</key><string>Staind</string>
+			<key>Composer</key><string>Aaron Lewis</string>
+			<key>Album</key><string>Confessions Of The Fallen</string>
+			<key>Work</key><string>P.M.E.D.I.A</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>20602876</integer>
+			<key>Total Time</key><integer>212088</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>Date Modified</key><date>2025-05-24T17:04:30Z</date>
+			<key>Date Added</key><date>2025-05-24T16:32:20Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>95</integer>
+			<key>Comments</key><string>PMEDIA</string>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2025-05-24T17:05:54Z</date>
+			<key>Normalization</key><integer>9111</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>ADB11A407C7E67BC</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Staind%20-%20(2023)%20Confessions%20Of%20The%20Fallen%20-%2003.%20In%20This%20Condition.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>19414</key>
+		<dict>
+			<key>Track ID</key><integer>19414</integer>
+			<key>Name</key><string>Better Days</string>
+			<key>Artist</key><string>Staind</string>
+			<key>Album Artist</key><string>Staind</string>
+			<key>Composer</key><string>Aaron Lewis</string>
+			<key>Album</key><string>Confessions Of The Fallen</string>
+			<key>Work</key><string>P.M.E.D.I.A</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>21263233</integer>
+			<key>Total Time</key><integer>228597</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>Date Modified</key><date>2025-05-24T17:04:30Z</date>
+			<key>Date Added</key><date>2025-05-24T16:32:20Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>95</integer>
+			<key>Comments</key><string>PMEDIA</string>
+			<key>Normalization</key><integer>7279</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BDE98BA307577E72</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Staind%20-%20(2023)%20Confessions%20Of%20The%20Fallen%20-%2008.%20Better%20Days.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>19416</key>
+		<dict>
+			<key>Track ID</key><integer>19416</integer>
+			<key>Name</key><string>Lowest In Me</string>
+			<key>Artist</key><string>Staind</string>
+			<key>Album Artist</key><string>Staind</string>
+			<key>Composer</key><string>Aaron Lewis</string>
+			<key>Album</key><string>Confessions Of The Fallen</string>
+			<key>Work</key><string>P.M.E.D.I.A</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>19722110</integer>
+			<key>Total Time</key><integer>190014</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>Date Modified</key><date>2025-05-24T17:04:29Z</date>
+			<key>Date Added</key><date>2025-05-24T16:32:20Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>95</integer>
+			<key>Comments</key><string>PMEDIA</string>
+			<key>Normalization</key><integer>12770</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>00C4A6918C2FC9B7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Staind%20-%20(2023)%20Confessions%20Of%20The%20Fallen%20-%2001.%20Lowest%20In%20Me.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>Best of: Staind</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>63689</integer>
+			<key>Playlist Persistent ID</key><string>A42023840CC86A89</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>16092</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16088</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16080</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16076</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16082</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16086</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16084</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16078</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16106</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16094</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16098</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16114</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16102</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16110</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16112</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16100</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16146</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16128</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16126</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16158</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19416</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19382</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19384</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19414</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2025-06-04T13:16:03Z</date>
+	<key>Application Version</key><string>12.13.7.1</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/E:/Users/aldol/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>187AD5E35C5E82C1</string>
+	<key>Tracks</key>
+	<dict>
+		<key>18998</key>
+		<dict>
+			<key>Track ID</key><integer>18998</integer>
+			<key>Name</key><string>Christmas in L.A</string>
+			<key>Artist</key><string>Vulfpeck </string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7671685</integer>
+			<key>Total Time</key><integer>183984</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2024-01-15T11:52:44Z</date>
+			<key>Date Added</key><date>2025-05-23T00:09:30Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Volume Adjustment</key><integer>111</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3788157264</integer>
+			<key>Play Date UTC</key><date>2024-01-15T11:54:24Z</date>
+			<key>Normalization</key><integer>2967</integer>
+			<key>Persistent ID</key><string>25B6A08ADD7DAB95</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Vulfpeck%20-%20Christmas%20in%20L.A.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>Mnmts, Xmas</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>72469</integer>
+			<key>Playlist Persistent ID</key><string>83DC16269DDCE769</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>18998</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

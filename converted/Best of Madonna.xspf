@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+    <trackList>
+        <track>
+            <title>Four Minutes (com Justin Timberlake)</title>
+            <creator>Madonna</creator>
+            <duration>244767</duration>
+            <location>U:\Shared\Music\Madona - Four Minutes (Feat. Justin Timberlake &amp; Timberland).mp3</location>
+        </track>
+        <track>
+            <title>Frozen</title>
+            <creator>Madonna</creator>
+            <album>Ray of Light</album>
+            <duration>372558</duration>
+            <trackNum>9</trackNum>
+            <location>U:\Shared\Music\Madonna - (1998) Rain of Light - Frozen.mp3</location>
+        </track>
+        <track>
+            <title>Skin</title>
+            <creator>Madonna</creator>
+            <album>Ray of Light</album>
+            <duration>382119</duration>
+            <trackNum>5</trackNum>
+            <location>U:\Shared\Music\Madonna - (1998) Rain of Light - Skin.mp3</location>
+        </track>
+        <track>
+            <title>The Power Of Good-bye</title>
+            <creator>Madonna</creator>
+            <album>Ray of Light</album>
+            <duration>252342</duration>
+            <trackNum>10</trackNum>
+            <location>U:\Shared\Music\Madonna - (1998) Rain of Light - The Power Of Good-bye.mp3</location>
+        </track>
+        <track>
+            <title>Get Together</title>
+            <creator>Madonna</creator>
+            <album>Confessions On A Dance Floor</album>
+            <duration>328933</duration>
+            <location>U:\Shared\Music\Madonna - (2005) Confessions On A Dancefloor - Get Together.mp3</location>
+        </track>
+        <track>
+            <title>Live to Tell</title>
+            <creator>Madonna</creator>
+            <album>True Blue</album>
+            <duration>345048</duration>
+            <location>U:\Shared\Music\Madonna - (1986) True Blue  - Live to Tell.mp3</location>
+        </track>
+    </trackList>
+</playlist>

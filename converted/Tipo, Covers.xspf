@@ -1,0 +1,660 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+    <trackList>
+        <track>
+            <title>Love Song (The Cure Cover)</title>
+            <creator>311</creator>
+            <duration>208796</duration>
+            <trackNum>2</trackNum>
+            <location>U:\Shared\Music\311 - Love Song.mp3</location>
+        </track>
+        <track>
+            <title>Nutshell (Alice in Chains cover)</title>
+            <creator>Adema</creator>
+            <album>Insomniacs Dream</album>
+            <duration>268251</duration>
+            <trackNum>3</trackNum>
+            <location>U:\Shared\Music\Adema - (2002) Insomniacs Dream - Nutshell.mp3</location>
+        </track>
+        <track>
+            <title>Change (Deftones cover)</title>
+            <creator>Adrio</creator>
+            <album>Coletânea</album>
+            <duration>68884</duration>
+            <location>U:\Shared\Music\Adrio - Change (Deftones cover).mp3</location>
+        </track>
+        <track>
+            <title>Smooth Criminal </title>
+            <creator>Alien Ant Farm</creator>
+            <album>American Pie 2 Soundtrack</album>
+            <duration>209266</duration>
+            <location>U:\Shared\Music\Alien Ant Farm - Smooth Criminal.mp3</location>
+        </track>
+        <track>
+            <title>Ligia (Ao vivo, Tom Jobim cover)</title>
+            <creator>Anna Setton</creator>
+            <duration>113684</duration>
+            <location>U:\Shared\Music\Anna Setton - Ligia (Ao vivo, Tom Jobim cover).mp3</location>
+        </track>
+        <track>
+            <title>Coffee Mug (Descendents Cover)</title>
+            <creator>As I Lay Dying</creator>
+            <album>Decas</album>
+            <duration>40333</duration>
+            <trackNum>7</trackNum>
+            <location>U:\Shared\Music\As I Lay Dying - (2011) Decas - Coffee Mug (Descendents Cover).mp3</location>
+        </track>
+        <track>
+            <title>Electric Eye (Judas Priest Cover)</title>
+            <creator>As I Lay Dying</creator>
+            <album>Decas</album>
+            <duration>226063</duration>
+            <trackNum>6</trackNum>
+            <location>U:\Shared\Music\As I Lay Dying - (2011) Decas - Electric Eye (Judas Priest Cover).mp3</location>
+        </track>
+        <track>
+            <title>Hellion (Judas Priest Cover)</title>
+            <creator>As I Lay Dying</creator>
+            <album>Decas</album>
+            <duration>44408</duration>
+            <trackNum>5</trackNum>
+            <location>U:\Shared\Music\As I Lay Dying - (2011) Decas - Hellion (Judas Priest Cover).mp3</location>
+        </track>
+        <track>
+            <title>War Ensemble (Slayer Cover)</title>
+            <creator>As I Lay Dying</creator>
+            <album>Decas</album>
+            <duration>290612</duration>
+            <trackNum>4</trackNum>
+            <location>U:\Shared\Music\As I Lay Dying - (2011) Decas - War Ensemble (Slayer Cover).mp3</location>
+        </track>
+        <track>
+            <title>Justify My Love (Madonna cover)</title>
+            <creator>Ashanti</creator>
+            <album>The Fast And The Furious Sound</album>
+            <duration>337397</duration>
+            <trackNum>17</trackNum>
+            <location>U:\Shared\Music\Ashanti - Justify My Love.mp3</location>
+        </track>
+        <track>
+            <title>California Waiting (cover Kings of Leon)</title>
+            <creator>Banda do adriano dos anjos</creator>
+            <duration>204329</duration>
+            <location>U:\Shared\Music\Banda do Adriano dos Anjos - (2011) - California Records.mp3</location>
+        </track>
+        <track>
+            <title>Hey Dude</title>
+            <creator>Beatallica</creator>
+            <album>Beatallica</album>
+            <duration>460146</duration>
+            <trackNum>6</trackNum>
+            <location>U:\Shared\Music\Beatallica - Hey Dude.mp3</location>
+        </track>
+        <track>
+            <title>Among The Living (originally by Anthrax)</title>
+            <creator>Caliban</creator>
+            <album>I Am Nemesis</album>
+            <duration>348238</duration>
+            <trackNum>7</trackNum>
+            <location>U:\Shared\Music\Caliban - (2012) I Am Nemesis - Among The Living (originally by Anthrax).mp3</location>
+        </track>
+        <track>
+            <title>Blinded By Fear (originally by At The Gates)</title>
+            <creator>Caliban</creator>
+            <album>I Am Nemesis</album>
+            <duration>154540</duration>
+            <trackNum>5</trackNum>
+            <location>U:\Shared\Music\Caliban - (2012) I Am Nemesis - Blinded By Fear (originally by At The Gates).mp3</location>
+        </track>
+        <track>
+            <title>Die Die My Darling (originally by Misfits)</title>
+            <creator>Caliban</creator>
+            <album>I Am Nemesis</album>
+            <duration>225227</duration>
+            <trackNum>4</trackNum>
+            <location>U:\Shared\Music\Caliban - (2012) I Am Nemesis - Die Die My Darling (originally by Misfits).mp3</location>
+        </track>
+        <track>
+            <title>Feasting On The Blood Of The Insane (originally by Six Feet Under)</title>
+            <creator>Caliban</creator>
+            <album>I Am Nemesis</album>
+            <duration>272352</duration>
+            <trackNum>3</trackNum>
+            <location>U:\Shared\Music\Caliban - (2012) I Am Nemesis - Feasting On The Blood Of The Insane (originally by Six Feet Under).mp3</location>
+        </track>
+        <track>
+            <title>High Hopes (originally by Pink Floyd)</title>
+            <creator>Caliban</creator>
+            <album>I Am Nemesis</album>
+            <duration>395650</duration>
+            <trackNum>6</trackNum>
+            <location>U:\Shared\Music\Caliban - (2012) I Am Nemesis - High Hopes (originally by Pink Floyd).mp3</location>
+        </track>
+        <track>
+            <title>Shout At The Devil (originally by Motley Crue)</title>
+            <creator>Caliban</creator>
+            <album>I Am Nemesis</album>
+            <duration>216346</duration>
+            <trackNum>1</trackNum>
+            <location>U:\Shared\Music\Caliban - (2012) I Am Nemesis - Shout At The Devil (originally by Motley Crue).mp3</location>
+        </track>
+        <track>
+            <title>Sonne (originally by Rammstein)</title>
+            <creator>Caliban</creator>
+            <album>I Am Nemesis</album>
+            <duration>227082</duration>
+            <trackNum>2</trackNum>
+            <location>U:\Shared\Music\Caliban - (2012) I Am Nemesis - Sonne (originally by Rammstein).mp3</location>
+        </track>
+        <track>
+            <title>Pra não dizer que não falei das flores</title>
+            <creator>Charlie Brown Jr.</creator>
+            <album>Imunidade Musical</album>
+            <duration>327549</duration>
+            <trackNum>10</trackNum>
+            <location>U:\Shared\Music\Charlie Brown Jr. - (2005) Imunidade Musical - Pra não dizer que não falei das flores.mp3</location>
+        </track>
+        <track>
+            <title>It's No Good (Depeche Mode cover)</title>
+            <creator>Chevelle</creator>
+            <album>Wonder What's Next</album>
+            <duration>239307</duration>
+            <trackNum>15</trackNum>
+            <location>U:\Shared\Music\Chevelle - It's no good (Depeche Mode cover).mp3</location>
+        </track>
+        <track>
+            <title>Aces High (Iron Maiden Cover)</title>
+            <creator>Children Of Bodom</creator>
+            <duration>269035</duration>
+            <location>U:\Shared\Music\Children Of Bodom - Aces High (Iron Maiden Cover).mp3</location>
+        </track>
+        <track>
+            <title>Fascination Street (The Cure cover)</title>
+            <creator>Chimaira</creator>
+            <album>Pass Out of Existence</album>
+            <duration>242128</duration>
+            <trackNum>16</trackNum>
+            <location>U:\Shared\Music\Chimaira - (2001) Pass Out of Existence - Fascination Street.mp3</location>
+        </track>
+        <track>
+            <title>Fascination Street (The Cure cover)</title>
+            <creator>Chimaira</creator>
+            <album>Reasoning The Impossible</album>
+            <duration>292320</duration>
+            <trackNum>3</trackNum>
+            <location>U:\Shared\Music\Chimaira - (2004) Reasoning The Impossible - Fascination Street.mp3</location>
+        </track>
+        <track>
+            <title>Fascination Street - Demo (The Cure cover)</title>
+            <creator>Chimaira</creator>
+            <album>Darkness Inside</album>
+            <duration>242160</duration>
+            <trackNum>18</trackNum>
+            <location>U:\Shared\Music\Chimaira - (2006) Darkness inside - Fascination Street.mp3</location>
+        </track>
+        <track>
+            <title>Slaughtered (Pantera Cover)</title>
+            <creator>Chimaira</creator>
+            <duration>241684</duration>
+            <trackNum>1</trackNum>
+            <location>U:\Shared\Music\Chimaira - Slaughtered (Pantera Cover).mp3</location>
+        </track>
+        <track>
+            <title>Roof Is On Fire</title>
+            <creator>Coal Chamber</creator>
+            <duration>214987</duration>
+            <location>U:\Shared\Music\Coal Chamber - Roof is on Fire.mp3</location>
+        </track>
+        <track>
+            <title>Black Metal (Venon cover)</title>
+            <creator>Cradle of Filth</creator>
+            <duration>207438</duration>
+            <location>U:\Shared\Music\Cradle of Filth - Black Metal.mp3</location>
+        </track>
+        <track>
+            <title>Hallowed By The Name</title>
+            <creator>Cradle of Filth</creator>
+            <duration>430889</duration>
+            <location>U:\Shared\Music\Cradle of Filth - Hallowed be thy name (Iron Maiden cover).mp3</location>
+        </track>
+        <track>
+            <title>Painkiller (Judas Priest cover)</title>
+            <creator>Death</creator>
+            <album>The Sound of Perseverance</album>
+            <duration>362527</duration>
+            <trackNum>9</trackNum>
+            <location>U:\Shared\Music\Death - (xxxx) Sound of Perseverance - Painkiller.mp3</location>
+        </track>
+        <track>
+            <title>No Ordinary Love (Sade cover)</title>
+            <creator>Deftones</creator>
+            <album>B-Sides &amp; Rarities</album>
+            <duration>333505</duration>
+            <location>U:\Shared\Music\Deftones - No Ordinary Love.mp3</location>
+        </track>
+        <track>
+            <title>Say It Ain't So (Weezer cover ao vivo)</title>
+            <creator>Deftones</creator>
+            <duration>264359</duration>
+            <location>U:\Shared\Music\Deftones - Say it Ain't So (live).mp3</location>
+        </track>
+        <track>
+            <title>The Chauffeur (Duran Duran cover)</title>
+            <creator>Deftones</creator>
+            <album>B-Sides &amp; Rarities</album>
+            <duration>322037</duration>
+            <trackNum>13</trackNum>
+            <location>U:\Shared\Music\Deftones - The Chauffeur (Duran Duran cover).mp3</location>
+        </track>
+        <track>
+            <title> To have and to hold (Depeche Mode cover)</title>
+            <creator>Deftones</creator>
+            <duration>173374</duration>
+            <trackNum>32</trackNum>
+            <location>U:\Shared\Music\Deftones - To have and to hold (Depeche mode cover).mp3</location>
+        </track>
+        <track>
+            <title>A Thousand Miles (Christina Perri cover)</title>
+            <creator>Dream On Dreamer</creator>
+            <album>Heartbound</album>
+            <duration>255216</duration>
+            <trackNum>12</trackNum>
+            <location>U:\Shared\Music\Dream on dreamer - (2012) Heartbound - A thousand miles.mp3</location>
+        </track>
+        <track>
+            <title>Duke Nukem Theme (Wild guitars)</title>
+            <creator>Duke Nukem</creator>
+            <duration>223488</duration>
+            <location>U:\Shared\Music\Duke Nukem - Theme (wild guitars).mp3</location>
+        </track>
+        <track>
+            <title>Torniquet (Soul Embraced cover)</title>
+            <creator>Evanescence</creator>
+            <album>Fallen</album>
+            <duration>278125</duration>
+            <trackNum>6</trackNum>
+            <location>U:\Shared\Music\Evanescence - (2004) - Torniquet.mp3</location>
+        </track>
+        <track>
+            <title>Cars</title>
+            <creator>Fear Factory</creator>
+            <album>Obsolete</album>
+            <duration>220421</duration>
+            <trackNum>11</trackNum>
+            <location>U:\Shared\Music\Fear Factory - (1999) Obsolete - Cars.Mp3</location>
+        </track>
+        <track>
+            <title>Walking in my Shoes (Depeche Mode cover)</title>
+            <creator>Finger Eleven</creator>
+            <duration>239124</duration>
+            <location>U:\Shared\Music\Finger Eleven - Walking In My Shoes.mp3</location>
+        </track>
+        <track>
+            <title>Baker Street (Bonus song)</title>
+            <creator>Foo Fighters</creator>
+            <album>The Colour And The Shape</album>
+            <duration>339670</duration>
+            <location>U:\Shared\Music\Foo Fighters - (1997) The colour and the shape - BONUS - Baker Street.mp3</location>
+        </track>
+        <track>
+            <title>Heroes (David Bowie cover)</title>
+            <creator>The Wallflowers</creator>
+            <album>Godzilla The Album</album>
+            <duration>236408</duration>
+            <location>U:\Shared\Music\Godzilla - (1998) The album - The Wallflowers - Heroes.mp3</location>
+        </track>
+        <track>
+            <title>Firework (Katy Perry cover)</title>
+            <creator>Hopes Die Last</creator>
+            <album>Trust No One</album>
+            <duration>234396</duration>
+            <trackNum>9</trackNum>
+            <location>U:\Shared\Music\Hopes Die Last - (2012) Trust No One - Firework.mp3</location>
+        </track>
+        <track>
+            <title>Hallowed Be Thy Name</title>
+            <creator>Iced Earth</creator>
+            <album>The Dark Saga</album>
+            <duration>428277</duration>
+            <trackNum>11</trackNum>
+            <location>U:\Shared\Music\Iced Earth - (1996) The Dark Saga - Hallowed By Thy Name (Iron Maiden Cover).mp3</location>
+        </track>
+        <track>
+            <title>Bullet With Butterfly Wings</title>
+            <creator>Ill Niño</creator>
+            <album>Dead New World</album>
+            <duration>267546</duration>
+            <trackNum>11</trackNum>
+            <location>U:\Shared\Music\Ill Niño - (2010) Dead New World - Bullet With Butterfly Wings.mp3</location>
+        </track>
+        <track>
+            <title>Land Of Confusion (Genesis cover)</title>
+            <creator>In Flames</creator>
+            <album>Outras músicas</album>
+            <duration>199235</duration>
+            <trackNum>11</trackNum>
+            <location>U:\Shared\Music\In Flames - Land Of Confusion (Genesis Cover).mp3</location>
+        </track>
+        <track>
+            <title>Powerslave (Pat Benedict Orchestra version)</title>
+            <creator>Desconhecido</creator>
+            <album>Powerslaves: An Elektro Tribute To Iron Maiden</album>
+            <duration>375170</duration>
+            <trackNum>14</trackNum>
+            <location>U:\Shared\Music\Iron Maiden - (2003) An Elektro Tribute To Iron Maiden - Powerslave (Pat benedict orchestra versi.mp3</location>
+        </track>
+        <track>
+            <title>Aces High (Iron Maiden cover)</title>
+            <creator>Hammerfall</creator>
+            <duration>264280</duration>
+            <location>U:\Shared\Music\Iron Maiden - Aces High (Cover desconhecido).mp3</location>
+        </track>
+        <track>
+            <title>Fear Of The Dark (Cover desconhecido)</title>
+            <creator>Desconhecido</creator>
+            <album>Iron Maiden Covers</album>
+            <duration>344032</duration>
+            <location>U:\Shared\Music\Iron Maiden - Fear of The Dark (Cover desconhecido).mp3</location>
+        </track>
+        <track>
+            <title>Flight Of Icarus (Cover desconhecido)</title>
+            <creator>Desconhecido</creator>
+            <album>Iron Maiden Covers</album>
+            <duration>251036</duration>
+            <trackNum>7</trackNum>
+            <location>U:\Shared\Music\Iron Maiden - Flight Of Icarus (Cover desconhecido).mp3</location>
+        </track>
+        <track>
+            <title>Powerslave (Cover desconhecido)</title>
+            <creator>Desconhecido</creator>
+            <album>Iron Maiden Covers</album>
+            <duration>354168</duration>
+            <trackNum>32</trackNum>
+            <location>U:\Shared\Music\Iron Maiden - Powerslave (Cover desconhecido).mp3</location>
+        </track>
+        <track>
+            <title>Brave New World</title>
+            <creator>Desconhecido</creator>
+            <album>The Piano Tribute To Iron Maiden</album>
+            <duration>304065</duration>
+            <trackNum>5</trackNum>
+            <location>U:\Shared\Music\Iron Maiden - The Piano Tribute - Brave New World.mp3</location>
+        </track>
+        <track>
+            <title>Wasted Years (Cover desconhecido)</title>
+            <creator>Desconhecido</creator>
+            <album>Iron Maiden Covers</album>
+            <duration>300016</duration>
+            <location>U:\Shared\Music\Iron Maiden - Wasted Years (Cover desconhecido).mp3</location>
+        </track>
+        <track>
+            <title>High tide or low Tide (Bob Marley cover)</title>
+            <creator>Jack Johnson</creator>
+            <album>Last Call with Carson Daly 6/28/03</album>
+            <duration>338076</duration>
+            <location>U:\Shared\Music\Jack Johnson - High Tide Or Low Tide (com Ben Harper).mp3</location>
+        </track>
+        <track>
+            <title>Hurt (Nine Inch Nails Cover)</title>
+            <creator>Johnny Cash</creator>
+            <album>American IV: The Man Comes Around</album>
+            <duration>218592</duration>
+            <trackNum>2</trackNum>
+            <location>U:\Shared\Music\Johnny Cash - (2002) The Man Comes Around - Hurt.mp3</location>
+        </track>
+        <track>
+            <title>In My Life (Beatles cover)</title>
+            <creator>Johnny Cash</creator>
+            <album>American IV: The Man Comes Around</album>
+            <duration>177998</duration>
+            <trackNum>8</trackNum>
+            <location>U:\Shared\Music\Johnny Cash - (2002) The Man Comes Around - In My Life.mp3</location>
+        </track>
+        <track>
+            <title>We'll Meet Again (Vera Lynn cover)</title>
+            <creator>Johnny Cash</creator>
+            <album>American IV: The Man Comes Around</album>
+            <duration>178677</duration>
+            <trackNum>15</trackNum>
+            <location>U:\Shared\Music\Johnny Cash - (2002) The Man Comes Around - We'll Meet Again.mp3</location>
+        </track>
+        <track>
+            <title>Under the milky way (The Church cover / Acústico e Ao vivo)</title>
+            <creator>Josh Pyke</creator>
+            <album>Ao Vivo na Powerhouse em Brisbane</album>
+            <duration>292179</duration>
+            <location>U:\Shared\Music\Josh Pyke - Under the milky way (The Church cover - Acústico e Ao vivo).mp3</location>
+        </track>
+        <track>
+            <title>Holy Diver (Dio Cover)</title>
+            <creator>Killswitch Engage</creator>
+            <album>High Voltage</album>
+            <duration>245472</duration>
+            <trackNum>4</trackNum>
+            <location>U:\Shared\Music\Killswitch Engage - Holy Diver (Dio Cover).mp3</location>
+        </track>
+        <track>
+            <title>One (Metallica Cover)</title>
+            <creator>Korn</creator>
+            <album>Take A Look In The Mirror</album>
+            <duration>863921</duration>
+            <trackNum>14</trackNum>
+            <location>U:\Shared\Music\Korn - (2003) Take a look in the mirror - One (Metallica cover, ao vivo).mp3</location>
+        </track>
+        <track>
+            <title>When Will This End</title>
+            <creator>Korn</creator>
+            <album>Take A Look In The Mirror</album>
+            <duration>863921</duration>
+            <trackNum>13</trackNum>
+            <location>U:\Shared\Music\Korn - (2003) Take a look in the mirror - When Will This End.mp3</location>
+        </track>
+        <track>
+            <title>Freak on a leash (remix)</title>
+            <creator>Korn</creator>
+            <duration>235990</duration>
+            <location>U:\Shared\Music\Korn - Freak On A Leash (Techno Remix).mp3</location>
+        </track>
+        <track>
+            <title>Enjoy The Silence (Depeche Mode cover)</title>
+            <creator>Lacuna Coil</creator>
+            <album>Karmacode</album>
+            <duration>245629</duration>
+            <trackNum>13</trackNum>
+            <location>U:\Shared\Music\Lacuna Coil - (2006) Karmacode - Enjoy the Silence (Depeche Mode Cover).mp3</location>
+        </track>
+        <track>
+            <title>In The End (Mellen Gi &amp; Tommee Profitt Remix)</title>
+            <creator>Linkin Park</creator>
+            <duration>214230</duration>
+            <location>U:\Shared\Music\Linkin Park - In The End (Mellen Gi &amp; Tommee Profitt Remix).mp3</location>
+        </track>
+        <track>
+            <title>Bitter Sweet Symphony (Live At Maida Vale Studios, London / 2017)</title>
+            <creator>London Grammar</creator>
+            <album>Truth Is A Beautiful Thing (Deluxe Edition)</album>
+            <duration>233586</duration>
+            <trackNum>18</trackNum>
+            <location>U:\Shared\Music\London Grammar - (2017) Truth Is a Beautiful Thing (Deluxe) - Bitter Sweet Symphony (Live At Maida Vale Studios, London  2017).mp3</location>
+        </track>
+        <track>
+            <title>Wicked Game (live)</title>
+            <creator>London Grammar</creator>
+            <duration>189466</duration>
+            <location>U:\Shared\Music\London Grammar - Wicked Game (live).mp3</location>
+        </track>
+        <track>
+            <title>La vie en rose (cover de Edith Piaf)</title>
+            <creator>Louis Armstrong</creator>
+            <duration>205217</duration>
+            <location>U:\Shared\Music\Louis Armstrong - La vie en rose (cover de Edith Piaf).mp3</location>
+        </track>
+        <track>
+            <title>Sweet Dreams (Marilyn Manson cover) (Gregori Klosman Remix)</title>
+            <creator>Avicii</creator>
+            <album>Best Of House 2012</album>
+            <duration>290795</duration>
+            <location>U:\Shared\Music\Massivedrum - (2011) Best of House 2012 - Avicii - Sweet Dreams (Gregori Klosman Remix).mp3</location>
+        </track>
+        <track>
+            <title>Wild Boys (Duran Duran Cover)</title>
+            <creator>Mnemic</creator>
+            <album>The Audio Injected Soul</album>
+            <duration>299389</duration>
+            <trackNum>10</trackNum>
+            <location>U:\Shared\Music\Mnemic - (2004) The Audio Injected Soul - Wild Boys (duran duran cover).mp3</location>
+        </track>
+        <track>
+            <title>The Trooper (Iron Maiden cover)</title>
+            <creator>Motörhead</creator>
+            <album>An All Star Salute To Iron Maiden</album>
+            <duration>196127</duration>
+            <trackNum>6</trackNum>
+            <location>U:\Shared\Music\Motorhead - (2005) An All Star Salute To Iron Maiden - The Trooper.mp3</location>
+        </track>
+        <track>
+            <title>R.A.M.O.N.E.S.</title>
+            <creator>Motörhead</creator>
+            <album>1916</album>
+            <duration>86021</duration>
+            <trackNum>9</trackNum>
+            <location>U:\Shared\Music\Motörhead - (1991) 1916 - R.A.M.O.N.E.S.mp3</location>
+        </track>
+        <track>
+            <title>God Save the Queen (Sex Pistols cover)</title>
+            <creator>Motörhead</creator>
+            <album>We Are Motörhead</album>
+            <duration>199915</duration>
+            <trackNum>4</trackNum>
+            <location>U:\Shared\Music\Motörhead - (2000) We Are Motörhead - God Save the Queen.mp3</location>
+        </track>
+        <track>
+            <title>Crazy (Seal cover)</title>
+            <creator>Mushroomhead</creator>
+            <album>XIII</album>
+            <duration>251271</duration>
+            <location>U:\Shared\Music\Mushroomhead - Crazy (Cover Seal).mp3</location>
+        </track>
+        <track>
+            <title>Torn (Ednaswap cover)</title>
+            <creator>Natalie Imbruglia</creator>
+            <album>Torn</album>
+            <duration>247875</duration>
+            <location>U:\Shared\Music\Natalie Imbruglia - Torn.mp3</location>
+        </track>
+        <track>
+            <title>Stuck On You (Failure cover)</title>
+            <creator>Paramore</creator>
+            <album>The Summer Tic EP</album>
+            <duration>267311</duration>
+            <trackNum>3</trackNum>
+            <location>U:\Shared\Music\Paramore - Stuck on you.mp3</location>
+        </track>
+        <track>
+            <title>2 Minutes To Midnight (Iron Maiden cover)</title>
+            <creator>Primal Fear</creator>
+            <duration>361430</duration>
+            <location>U:\Shared\Music\Primal Fear - 2 minutes to midnight (Iron Maiden cover).mp3</location>
+        </track>
+        <track>
+            <title>We Will Rock You/Smoke on the Water</title>
+            <creator>Killers/Paul Di'Anno</creator>
+            <album>South American Assault: Live</album>
+            <duration>392646</duration>
+            <trackNum>12</trackNum>
+            <location>U:\Shared\Music\Queen &amp; Deep Purple Cover - Iron Maiden - We Will Rock You-Smoke On The Water [Live].mp3</location>
+        </track>
+        <track>
+            <title>Recomeço (Acústico versão do Cooper)</title>
+            <creator>Remadores do Último Porão</creator>
+            <album>Pro Desespero do Inferno</album>
+            <duration>212871</duration>
+            <location>U:\Shared\Music\Remadores do Último Porão - Recomeço (Acústico versão do Cooper).mp3</location>
+        </track>
+        <track>
+            <title>Pornstar Champion</title>
+            <creator>Scum of the Earth</creator>
+            <album>Blah Blah Blah Love Songs For The New Millenium</album>
+            <duration>237374</duration>
+            <trackNum>7</trackNum>
+            <location>U:\Shared\Music\Scum Of The Earth - Pornstarchampion.mp3</location>
+        </track>
+        <track>
+            <title>Love Like Blood (Killing Joke cover)</title>
+            <creator>Sybreed</creator>
+            <album>The Pulse Of Awakening</album>
+            <duration>283245</duration>
+            <trackNum>10</trackNum>
+            <location>U:\Shared\Music\Sybreed - (2009) The Pulse Of Awakening - Love Like Blood ((Killing Joke cover).mp3</location>
+        </track>
+        <track>
+            <title>Enjoy The Silence</title>
+            <creator>Trevor Something</creator>
+            <album>Trevor Something Does Not Exist</album>
+            <duration>289776</duration>
+            <trackNum>16</trackNum>
+            <location>U:\Shared\Music\Trevor Something - (2014) Trevor Something Does Not Exist - 16 Enjoy The Silence.mp3</location>
+        </track>
+        <track>
+            <title>Change (Deftones cover)</title>
+            <creator>Alicia Widar</creator>
+            <duration>266893</duration>
+            <location>U:\Shared\Music\Alicia Widar - (2021) - Change (Deftones cover).mp3</location>
+        </track>
+        <track>
+            <title>Live forever (Oasis cover)</title>
+            <creator>Alicia Widar</creator>
+            <duration>174785</duration>
+            <location>U:\Shared\Music\Alicia Widar - (2020) - Live forever (Oasis cover).mp3</location>
+        </track>
+        <track>
+            <title>Meiga e Abusada (Anitta cover) [Lo-fi remix]</title>
+            <creator>Laura Schadeck</creator>
+            <duration>3676708</duration>
+            <location>U:\Shared\Music\Laura Schadeck - Meiga e Abusada (Anitta cover - Lo-fi remix).mp3</location>
+        </track>
+        <track>
+            <title>1979 (cover by Swedish Gabzito in 2019 on Youtube)</title>
+            <creator>Smashing Pumpkins</creator>
+            <duration>262920</duration>
+            <location>U:\Shared\Music\Smashing Pumpkins - 1979 (cover by Swedish Gabzito in 2019 on Youtube).mp3</location>
+        </track>
+        <track>
+            <title>Zombie (The Cranberries cover)</title>
+            <creator>Alicia Widar</creator>
+            <duration>216764</duration>
+            <location>U:\Shared\Music\Alicia Widar - (2019) - Zombie (The Cranberries cover).mp3</location>
+        </track>
+        <track>
+            <title>1979 (Smashing Pumpkins cover)</title>
+            <creator>Alicia Widar</creator>
+            <duration>235128</duration>
+            <location>U:\Shared\Music\Alicia Widar - (2021) - 1979 (Smashing Pumpkins cover).mp3</location>
+        </track>
+        <track>
+            <title>Stuck on You (Failure cover)</title>
+            <creator>Alicia Widar</creator>
+            <duration>251544</duration>
+            <location>U:\Shared\Music\Alicia Widar - (2021) - Stuck on You - (Failure cover).mp3</location>
+        </track>
+        <track>
+            <title>Tomorrow (Silverchair cover)</title>
+            <creator>Alicia Widar</creator>
+            <duration>198608</duration>
+            <location>U:\Shared\Music\Alicia Widar - (2018) - Tomorrow (Silverchair cover).mp3</location>
+        </track>
+        <track>
+            <title>Fake Plastic Trees (Radiohead Cover)</title>
+            <creator>Gabzito</creator>
+            <duration>271704</duration>
+            <location>U:\Shared\Music\Radiohead - Fake Plastic Trees (Covered by youtubeUser GabzitoMusic).mp3</location>
+        </track>
+        <track>
+            <title>Dead Embryonic Cells (Sepultura Cover)</title>
+            <creator>God Syndrome</creator>
+            <album>From Russia</album>
+            <duration>298318</duration>
+            <location>U:\Shared\Music\God Syndrome - (2013) - Dead Embryonic Cells (Sepultura Cover).mp3</location>
+        </track>
+    </trackList>
+</playlist>

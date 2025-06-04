@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2025-06-04T13:04:56Z</date>
+	<key>Application Version</key><string>12.13.7.1</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/E:/Users/aldol/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>187AD5E35C5E82C1</string>
+	<key>Tracks</key>
+	<dict>
+		<key>11822</key>
+		<dict>
+			<key>Track ID</key><integer>11822</integer>
+			<key>Name</key><string>Swamped</string>
+			<key>Artist</key><string>Lacuna Coil</string>
+			<key>Album</key><string>Comalies</string>
+			<key>Genre</key><string>New Metal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5990441</integer>
+			<key>Total Time</key><integer>240457</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2021-09-03T16:24:28Z</date>
+			<key>Date Added</key><date>2025-05-23T00:03:07Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3773045975</integer>
+			<key>Play Date UTC</key><date>2023-07-24T15:19:35Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2022-09-08T22:09:58Z</date>
+			<key>Normalization</key><integer>9301</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>10F5E84F6BA63B13</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Lacuna%20Coil%20-%20(2002)%20Comalies%20-%20Swamped.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>11824</key>
+		<dict>
+			<key>Track ID</key><integer>11824</integer>
+			<key>Name</key><string>Tight Rope</string>
+			<key>Artist</key><string>Lacuna Coil</string>
+			<key>Album</key><string>Comalies</string>
+			<key>Genre</key><string>New Metal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6344648</integer>
+			<key>Total Time</key><integer>255242</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2021-09-03T16:24:33Z</date>
+			<key>Date Added</key><date>2025-05-23T00:03:07Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>177</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3773046342</integer>
+			<key>Play Date UTC</key><date>2023-07-24T15:25:42Z</date>
+			<key>Normalization</key><integer>11150</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5E237F761E51A320</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Lacuna%20Coil%20-%20(2002)%20Comalies%20-%20Tight%20Rope.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>11838</key>
+		<dict>
+			<key>Track ID</key><integer>11838</integer>
+			<key>Name</key><string>Humane</string>
+			<key>Artist</key><string>Lacuna Coil</string>
+			<key>Album</key><string>Comalies</string>
+			<key>Genre</key><string>Gothic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6289406</integer>
+			<key>Total Time</key><integer>252943</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2021-09-03T16:24:53Z</date>
+			<key>Date Added</key><date>2025-05-23T00:03:08Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Bleeding Edge Ripping Crew</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3773047248</integer>
+			<key>Play Date UTC</key><date>2023-07-24T15:40:48Z</date>
+			<key>Normalization</key><integer>11858</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D75AD7277BCBBD39</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Lacuna%20Coil%20-%20Comalies%20-%20Humane.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>11846</key>
+		<dict>
+			<key>Track ID</key><integer>11846</integer>
+			<key>Name</key><string>My Wings</string>
+			<key>Artist</key><string>Lacuna Coil</string>
+			<key>Album</key><string>In a Reverie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3804823</integer>
+			<key>Total Time</key><integer>225436</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2021-09-03T16:25:00Z</date>
+			<key>Date Added</key><date>2025-05-23T00:03:08Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>
+</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3691323724</integer>
+			<key>Play Date UTC</key><date>2020-12-20T17:42:04Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2022-09-08T22:11:14Z</date>
+			<key>Normalization</key><integer>4619</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BECD4FDF69E858F5</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Lacuna%20Coil%20-%20In%20a%20Reverie%20-%20My%20Wings.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>18618</key>
+		<dict>
+			<key>Track ID</key><integer>18618</integer>
+			<key>Name</key><string>Reckless</string>
+			<key>Artist</key><string>Lacuna Coil</string>
+			<key>Album</key><string>Black Anima</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7663967</integer>
+			<key>Total Time</key><integer>185234</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>Date Modified</key><date>2022-09-07T14:10:31Z</date>
+			<key>Date Added</key><date>2025-05-23T00:09:11Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>144</integer>
+			<key>Play Count</key><integer>23</integer>
+			<key>Play Date</key><integer>3788163906</integer>
+			<key>Play Date UTC</key><date>2024-01-15T13:45:06Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2023-08-25T15:44:33Z</date>
+			<key>Normalization</key><integer>12910</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8D0F4179841DB8BE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Lacuna%20Coil%20-%20(2019)%20Black%20Anima%20-%20Reckless.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>18654</key>
+		<dict>
+			<key>Track ID</key><integer>18654</integer>
+			<key>Name</key><string>Swamped XX</string>
+			<key>Artist</key><string>Lacuna Coil</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9802590</integer>
+			<key>Total Time</key><integer>229355</integer>
+			<key>Year</key><integer>2022</integer>
+			<key>Date Modified</key><date>2022-09-25T04:49:29Z</date>
+			<key>Date Added</key><date>2025-05-23T00:09:13Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>103</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3747394328</integer>
+			<key>Play Date UTC</key><date>2022-09-30T17:52:08Z</date>
+			<key>Normalization</key><integer>10085</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A0D74A5B946A2C7B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Lacuna%20Coil%20-%20Swamped%20XX.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>Best of: Lacuna Coil</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>63489</integer>
+			<key>Playlist Persistent ID</key><string>FDBE945036D75186</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>11846</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11822</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11824</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11838</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18618</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18654</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

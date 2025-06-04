@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+    <trackList>
+        <track>
+            <title>Bitch Don't Kill My Vibe</title>
+            <creator>Kendrick Lamar</creator>
+            <duration>310987</duration>
+            <location>U:\Shared\Music\Kendrick Lamar - (2013) - Bitch Don't Kill My Vibe.mp3</location>
+        </track>
+        <track>
+            <title>Swimming Pools (Drank) [prod. by T-Minus]</title>
+            <creator>Kendrick Lamar</creator>
+            <duration>221283</duration>
+            <location>U:\Shared\Music\Kendrick Lamar - (2015) - Swimming Pools (Drank) [prod. by T-Minus].mp3</location>
+        </track>
+        <track>
+            <title>ELEMENT.</title>
+            <creator>Kendrick Lamar</creator>
+            <album>DAMN.</album>
+            <duration>208796</duration>
+            <trackNum>4</trackNum>
+            <location>U:\Shared\Music\Kendrick Lamar - (2017) DAMN - ELEMENT..mp3</location>
+        </track>
+        <track>
+            <title>FEEL.</title>
+            <creator>Kendrick Lamar</creator>
+            <album>DAMN.</album>
+            <duration>214883</duration>
+            <trackNum>5</trackNum>
+            <location>U:\Shared\Music\Kendrick Lamar - (2017) DAMN - FEEL..mp3</location>
+        </track>
+        <track>
+            <title>GOD.</title>
+            <creator>Kendrick Lamar</creator>
+            <album>DAMN.</album>
+            <duration>248894</duration>
+            <trackNum>13</trackNum>
+            <location>U:\Shared\Music\Kendrick Lamar - (2017) DAMN - GOD..mp3</location>
+        </track>
+        <track>
+            <title>HUMBLE.</title>
+            <creator>Kendrick Lamar</creator>
+            <album>DAMN.</album>
+            <duration>177057</duration>
+            <trackNum>8</trackNum>
+            <location>U:\Shared\Music\Kendrick Lamar - (2017) DAMN - HUMBLE..mp3</location>
+        </track>
+        <track>
+            <title>Mad City</title>
+            <creator>Kendrick Lamar</creator>
+            <duration>154775</duration>
+            <location>U:\Shared\Music\Kendrick Lamar - Mad City.mp3</location>
+        </track>
+        <track>
+            <title>Money Trees</title>
+            <creator>Kendrick Lamar</creator>
+            <duration>395728</duration>
+            <location>U:\Shared\Music\Kendrick Lamar - Money Trees.mp3</location>
+        </track>
+        <track>
+            <title>These Walls (ft. Bilal, Anna Wise, Thundercat)</title>
+            <creator>Kendrick Lamar</creator>
+            <album>To Pimp A Butterfly</album>
+            <duration>301035</duration>
+            <trackNum>5</trackNum>
+            <location>U:\Shared\Music\Kendrick Lamar -(2015) To Pimp a Butterfly - These Walls.mp3</location>
+        </track>
+        <track>
+            <title>A.D.H.D</title>
+            <creator>Kendrick Lamar</creator>
+            <duration>215640</duration>
+            <location>U:\Shared\Music\Kendrick Lamar - 2011 - A.D.H.D.mp3</location>
+        </track>
+    </trackList>
+</playlist>

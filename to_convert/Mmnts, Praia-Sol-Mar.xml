@@ -1,0 +1,2446 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2025-06-04T13:13:57Z</date>
+	<key>Application Version</key><string>12.13.7.1</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/E:/Users/aldol/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>187AD5E35C5E82C1</string>
+	<key>Tracks</key>
+	<dict>
+		<key>2678</key>
+		<dict>
+			<key>Track ID</key><integer>2678</integer>
+			<key>Name</key><string>Sleepwalking</string>
+			<key>Artist</key><string>The Chain Gang of 1974</string>
+			<key>Album Artist</key><string>GTA V</string>
+			<key>Album</key><string>The Music of Grand Theft Auto V, Vol. 1: Original Music</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>8096088</integer>
+			<key>Total Time</key><integer>218693</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>18</integer>
+			<key>Track Count</key><integer>18</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2025-01-26T01:22:03Z</date>
+			<key>Date Added</key><date>2025-05-22T23:54:46Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>119</integer>
+			<key>Play Count</key><integer>30</integer>
+			<key>Play Date</key><integer>3774711835</integer>
+			<key>Play Date UTC</key><date>2023-08-12T22:03:55Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2023-05-16T19:43:47Z</date>
+			<key>Release Date</key><date>2013-09-24T07:00:00Z</date>
+			<key>Normalization</key><integer>5988</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Music of Grand Theft Auto V, Vol. 1: Original Music</string>
+			<key>Sort Artist</key><string>Chain Gang of 1974</string>
+			<key>Persistent ID</key><string>0F442049822063A5</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/18.%20The%20Chain%20Gang%20of%201974%20-%20Sleepwalking.m4a</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>2752</key>
+		<dict>
+			<key>Track ID</key><integer>2752</integer>
+			<key>Name</key><string>Love Song (The Cure Cover)</string>
+			<key>Artist</key><string>311</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5686417</integer>
+			<key>Total Time</key><integer>208796</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2021-09-03T01:00:01Z</date>
+			<key>Date Added</key><date>2025-05-22T23:54:50Z</date>
+			<key>Bit Rate</key><integer>217</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>50 First Dates soundtrack</string>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3774667774</integer>
+			<key>Play Date UTC</key><date>2023-08-12T09:49:34Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2021-08-02T16:33:45Z</date>
+			<key>Normalization</key><integer>3157</integer>
+			<key>Sort Name</key><string>Love Song (The Cure Cover)</string>
+			<key>Persistent ID</key><string>A855F014EEF16D47</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/311%20-%20Love%20Song.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>2796</key>
+		<dict>
+			<key>Track ID</key><integer>2796</integer>
+			<key>Name</key><string>Song for the Fisherman (Interlude)</string>
+			<key>Artist</key><string>36 Crazyfists</string>
+			<key>Composer</key><string>Brock Lindow/Steve Holt/Thomas Noonan</string>
+			<key>Album</key><string>A Snow Capped Romance</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2142237</integer>
+			<key>Total Time</key><integer>86595</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2023-08-23T17:38:54Z</date>
+			<key>Date Added</key><date>2025-05-22T23:54:52Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>106</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3776259386</integer>
+			<key>Play Date UTC</key><date>2023-08-30T19:56:26Z</date>
+			<key>Normalization</key><integer>1259</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Snow Capped Romance</string>
+			<key>Persistent ID</key><string>3C155B06E94D9E01</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/36%20Crazyfists%20-%20(2004)%20A%20Snow%20Capped%20Romance%20-%20Song%20for%20the%20Fisherman%20(Interlude).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>2954</key>
+		<dict>
+			<key>Track ID</key><integer>2954</integer>
+			<key>Name</key><string>Ayo Technology</string>
+			<key>Artist</key><string>50 Cent</string>
+			<key>Album</key><string>Curtis</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6630765</integer>
+			<key>Total Time</key><integer>273632</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>BPM</key><integer>140</integer>
+			<key>Date Modified</key><date>2024-07-04T16:22:19Z</date>
+			<key>Date Added</key><date>2025-05-22T23:55:00Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>99</integer>
+			<key>Play Count</key><integer>18</integer>
+			<key>Play Date</key><integer>3766760502</integer>
+			<key>Play Date UTC</key><date>2023-05-12T21:21:42Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2023-08-11T16:25:15Z</date>
+			<key>Normalization</key><integer>5082</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>DF02AFBC5FA2BFFA</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/50%20Cent%20-%20Ayo%20Technology.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>3100</key>
+		<dict>
+			<key>Track ID</key><integer>3100</integer>
+			<key>Name</key><string>Rock N Roll Dream</string>
+			<key>Artist</key><string>ACDC</string>
+			<key>Album</key><string>Black Ice</string>
+			<key>Genre</key><string>Heavy Metal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11474814</integer>
+			<key>Total Time</key><integer>280999</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2025-01-26T01:22:04Z</date>
+			<key>Date Added</key><date>2025-05-22T23:55:07Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>99</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3746003214</integer>
+			<key>Play Date UTC</key><date>2022-09-14T15:26:54Z</date>
+			<key>Normalization</key><integer>6792</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>AB998A838FCEBCF0</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/AC-DC%20-%20(2008)%20Black%20Ice%20-%20Rock%20N%20Roll%20Dream.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>3824</key>
+		<dict>
+			<key>Track ID</key><integer>3824</integer>
+			<key>Name</key><string>Closer</string>
+			<key>Artist</key><string>Susana Ft. Omnia &#38; The Blizzard</string>
+			<key>Album Artist</key><string>Armin Van Buuren</string>
+			<key>Album</key><string>A State Of Trance 2010</string>
+			<key>Genre</key><string>Trance</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>14346054</integer>
+			<key>Total Time</key><integer>354847</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2024-06-18T22:33:47Z</date>
+			<key>Date Added</key><date>2025-05-22T23:55:49Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>100</integer>
+			<key>Play Count</key><integer>19</integer>
+			<key>Play Date</key><integer>3767869035</integer>
+			<key>Play Date UTC</key><date>2023-05-25T17:17:15Z</date>
+			<key>Normalization</key><integer>2336</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>State Of Trance 2010</string>
+			<key>Persistent ID</key><string>4E799A89CD7A5BB2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Armin%20Van%20Buuren%20-%20(2010)%20A%20State%20Of%20Trance%20-%20Closer.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>3828</key>
+		<dict>
+			<key>Track ID</key><integer>3828</integer>
+			<key>Name</key><string>Cut And Run</string>
+			<key>Artist</key><string>Beat Service Ft. Emma Lock</string>
+			<key>Album Artist</key><string>Armin Van Buuren</string>
+			<key>Album</key><string>A State Of Trance 2010</string>
+			<key>Genre</key><string>Trance</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>13829037</integer>
+			<key>Total Time</key><integer>341890</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2024-06-18T22:33:35Z</date>
+			<key>Date Added</key><date>2025-05-22T23:55:49Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>100</integer>
+			<key>Play Count</key><integer>13</integer>
+			<key>Play Date</key><integer>3767868685</integer>
+			<key>Play Date UTC</key><date>2023-05-25T17:11:25Z</date>
+			<key>Loved</key><true/>
+			<key>Normalization</key><integer>3133</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>State Of Trance 2010</string>
+			<key>Persistent ID</key><string>EFC18B5778BF2198</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Armin%20Van%20Buuren%20-%20(2010)%20A%20State%20Of%20Trance%20-%20Cut%20And%20Run.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>3870</key>
+		<dict>
+			<key>Track ID</key><integer>3870</integer>
+			<key>Name</key><string>Who We Are</string>
+			<key>Artist</key><string>Luigi Lusini</string>
+			<key>Album Artist</key><string>Armin Van Buuren</string>
+			<key>Album</key><string>A State Of Trance 2010</string>
+			<key>Genre</key><string>Trance</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>14321749</integer>
+			<key>Total Time</key><integer>354507</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>2</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2021-09-03T01:23:31Z</date>
+			<key>Date Added</key><date>2025-05-22T23:55:51Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3712267476</integer>
+			<key>Play Date UTC</key><date>2021-08-20T04:24:36Z</date>
+			<key>Normalization</key><integer>2795</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>State Of Trance 2010</string>
+			<key>Persistent ID</key><string>F40B5AD94F7CA8F0</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Armin%20Van%20Buuren%20-%20(2010)%20A%20State%20Of%20Trance%20-%20Who%20We%20Are.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>4268</key>
+		<dict>
+			<key>Track ID</key><integer>4268</integer>
+			<key>Name</key><string>California Waiting (cover Kings of Leon)</string>
+			<key>Artist</key><string>Banda do adriano dos anjos</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3279613</integer>
+			<key>Total Time</key><integer>204329</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2021-09-03T01:34:59Z</date>
+			<key>Date Added</key><date>2025-05-22T23:56:15Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2022-12-19T15:54:24Z</date>
+			<key>Normalization</key><integer>5160</integer>
+			<key>Persistent ID</key><string>39C34FE09D2CCD8A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Banda%20do%20Adriano%20dos%20Anjos%20-%20(2011)%20-%20California%20Records.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>4320</key>
+		<dict>
+			<key>Track ID</key><integer>4320</integer>
+			<key>Name</key><string>Beyond The Sunset</string>
+			<key>Artist</key><string>Café Del Mar</string>
+			<key>Album Artist</key><string>Café Del Mar</string>
+			<key>Album</key><string>Volumen Nueve</string>
+			<key>Genre</key><string>Lounge</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8954245</integer>
+			<key>Total Time</key><integer>345417</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2021-09-03T01:36:11Z</date>
+			<key>Date Added</key><date>2025-05-22T23:56:18Z</date>
+			<key>Bit Rate</key><integer>201</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>102</integer>
+			<key>Play Count</key><integer>10</integer>
+			<key>Play Date</key><integer>3738988112</integer>
+			<key>Play Date UTC</key><date>2022-06-25T10:48:32Z</date>
+			<key>Normalization</key><integer>1044</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>CCFD117454BE12AC</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Beyond%20The%20Sunset.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>4974</key>
+		<dict>
+			<key>Track ID</key><integer>4974</integer>
+			<key>Name</key><string>Locked Out of Heaven</string>
+			<key>Artist</key><string>Bruno Mars</string>
+			<key>Album</key><string>Locked Out of Heaven (Single)</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9443573</integer>
+			<key>Total Time</key><integer>233560</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2021-09-03T01:53:22Z</date>
+			<key>Date Added</key><date>2025-05-22T23:57:03Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>7117</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0434FA150E05BC8F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Bruno%20Mars%20-%20(2012)%20Single%20-%20Locked%20Out%20of%20Heaven.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>5196</key>
+		<dict>
+			<key>Track ID</key><integer>5196</integer>
+			<key>Name</key><string>The Cure (sunshine mix)</string>
+			<key>Artist</key><string>Miro</string>
+			<key>Album Artist</key><string>Café Del Mar</string>
+			<key>Album</key><string>Volumen Nueve</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7894208</integer>
+			<key>Total Time</key><integer>334576</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2024-07-12T23:21:43Z</date>
+			<key>Date Added</key><date>2025-05-22T23:57:14Z</date>
+			<key>Bit Rate</key><integer>183</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>97</integer>
+			<key>Play Count</key><integer>35</integer>
+			<key>Play Date</key><integer>3770544067</integer>
+			<key>Play Date UTC</key><date>2023-06-25T16:21:07Z</date>
+			<key>Normalization</key><integer>1339</integer>
+			<key>Compilation</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>Cure (sunshine mix)</string>
+			<key>Persistent ID</key><string>47AFBEEDF93871F8</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Caf%C3%A9%20del%20mar%20-%20(2002)%20Volumen%20Nueve%20-%20The%20Cure%20(sunshine%20mix).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>5388</key>
+		<dict>
+			<key>Track ID</key><integer>5388</integer>
+			<key>Name</key><string>How Deep Is Your Love (feat. Disciples)</string>
+			<key>Artist</key><string>Calvin Harris</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3416095</integer>
+			<key>Total Time</key><integer>212845</integer>
+			<key>Year</key><integer>2015</integer>
+			<key>Date Modified</key><date>2024-05-31T19:28:17Z</date>
+			<key>Date Added</key><date>2025-05-22T23:57:24Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>99</integer>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3739433930</integer>
+			<key>Play Date UTC</key><date>2022-06-30T14:38:50Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2021-05-27T01:17:03Z</date>
+			<key>Normalization</key><integer>4399</integer>
+			<key>Sort Artist</key><string>Calvin Harris</string>
+			<key>Sort Name</key><string>How Deep Is Your Love (feat. Disciples)</string>
+			<key>Persistent ID</key><string>856E9CEC577CAA0F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Calvin%20Harris%20&#38;%20Disciples%20-%202015%20-%20How%20Deep%20Is%20Your%20Love.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>5390</key>
+		<dict>
+			<key>Track ID</key><integer>5390</integer>
+			<key>Name</key><string>Sweet Nothing (com Florence Welch [Original Mix])</string>
+			<key>Artist</key><string>Calvin Harris</string>
+			<key>Album</key><string>18 Mouths</string>
+			<key>Genre</key><string>Dance</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11118530</integer>
+			<key>Total Time</key><integer>212636</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>BPM</key><integer>128</integer>
+			<key>Date Modified</key><date>2021-09-03T02:09:37Z</date>
+			<key>Date Added</key><date>2025-05-22T23:57:24Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3712263742</integer>
+			<key>Play Date UTC</key><date>2021-08-20T03:22:22Z</date>
+			<key>Normalization</key><integer>3564</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E6C84FF60CB74F24</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Calvin%20Harris%20-%2018%20months%20-%20Sweet%20Nothing%20(com%20Florence%20Welch).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>5392</key>
+		<dict>
+			<key>Track ID</key><integer>5392</integer>
+			<key>Name</key><string>Feel So Close</string>
+			<key>Artist</key><string>Calvin Harris</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8712480</integer>
+			<key>Total Time</key><integer>217808</integer>
+			<key>Date Modified</key><date>2021-09-03T02:09:41Z</date>
+			<key>Date Added</key><date>2025-05-22T23:57:24Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>254</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2023-10-02T00:06:14Z</date>
+			<key>Normalization</key><integer>549</integer>
+			<key>Persistent ID</key><string>A80C41446A54D4CD</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Calvin%20Harris%20-%20Feel%20So%20Close.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>5570</key>
+		<dict>
+			<key>Track ID</key><integer>5570</integer>
+			<key>Name</key><string>Escalas Tropicais</string>
+			<key>Artist</key><string>Charlie Brown Jr.</string>
+			<key>Album</key><string>Transpiração Contínua Prolongada</string>
+			<key>Genre</key><string>Brazilian Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3282940</integer>
+			<key>Total Time</key><integer>128626</integer>
+			<key>Track Number</key><integer>15</integer>
+			<key>Year</key><integer>1997</integer>
+			<key>Date Modified</key><date>2024-02-08T17:33:14Z</date>
+			<key>Date Added</key><date>2025-05-22T23:57:35Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>103</integer>
+			<key>Normalization</key><integer>10106</integer>
+			<key>Artwork Count</key><integer>2</integer>
+			<key>Persistent ID</key><string>CF695861EA06EA4A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Charlie%20Brown%20Jr.%20-%20(1997)%20Transpira%C3%A7%C3%A3o%20Cont%C3%ADnua%20Prolongada%20-%20Escalas%20Tropicais.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>5572</key>
+		<dict>
+			<key>Track ID</key><integer>5572</integer>
+			<key>Name</key><string>Falar, Falar</string>
+			<key>Artist</key><string>Charlie Brown Jr.</string>
+			<key>Album</key><string>Transpiração Contínua Prolongada</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4212680</integer>
+			<key>Total Time</key><integer>167366</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Year</key><integer>1997</integer>
+			<key>Date Modified</key><date>2024-02-08T17:33:09Z</date>
+			<key>Date Added</key><date>2025-05-22T23:57:35Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>103</integer>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3726258964</integer>
+			<key>Play Date UTC</key><date>2022-01-29T01:56:04Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2021-12-03T20:51:00Z</date>
+			<key>Loved</key><true/>
+			<key>Normalization</key><integer>6842</integer>
+			<key>Artwork Count</key><integer>2</integer>
+			<key>Persistent ID</key><string>7E384EE258A7EC45</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Charlie%20Brown%20Jr.%20-%20(1997)%20Transpira%C3%A7%C3%A3o%20Cont%C3%ADnua%20Prolongada%20-%20Falar,%20Falar.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>5574</key>
+		<dict>
+			<key>Track ID</key><integer>5574</integer>
+			<key>Name</key><string>Festa</string>
+			<key>Artist</key><string>Charlie Brown Jr.</string>
+			<key>Album</key><string>Transpiração Contínua Prolongada</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4317992</integer>
+			<key>Total Time</key><integer>171755</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Year</key><integer>1997</integer>
+			<key>Date Modified</key><date>2024-05-31T19:28:25Z</date>
+			<key>Date Added</key><date>2025-05-22T23:57:35Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2022-05-17T20:05:28Z</date>
+			<key>Normalization</key><integer>5961</integer>
+			<key>Artwork Count</key><integer>2</integer>
+			<key>Persistent ID</key><string>73333016066FBA93</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Charlie%20Brown%20Jr.%20-%20(1997)%20Transpira%C3%A7%C3%A3o%20Cont%C3%ADnua%20Prolongada%20-%20Festa.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>5594</key>
+		<dict>
+			<key>Track ID</key><integer>5594</integer>
+			<key>Name</key><string>Tudo Que Ela Gosta De Escutar</string>
+			<key>Artist</key><string>Charlie Brown Jr.</string>
+			<key>Album</key><string>Transpiração Contínua Prolongada</string>
+			<key>Genre</key><string>Brazilian Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4422739</integer>
+			<key>Total Time</key><integer>176117</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>1997</integer>
+			<key>Date Modified</key><date>2024-02-08T17:33:09Z</date>
+			<key>Date Added</key><date>2025-05-22T23:57:36Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>103</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3712326557</integer>
+			<key>Play Date UTC</key><date>2021-08-20T20:49:17Z</date>
+			<key>Normalization</key><integer>6659</integer>
+			<key>Artwork Count</key><integer>2</integer>
+			<key>Persistent ID</key><string>3A63C26E31F36A85</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Charlie%20Brown%20Jr.%20-%20(1997)%20Transpira%C3%A7%C3%A3o%20Cont%C3%ADnua%20Prolongada%20-%20Tudo%20Que%20Ela%20Gosta%20De%20Escutar.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>5600</key>
+		<dict>
+			<key>Track ID</key><integer>5600</integer>
+			<key>Name</key><string>A grande volta</string>
+			<key>Artist</key><string>Charlie Brown Jr.</string>
+			<key>Album</key><string>Preço Curto Prazo Longo</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2281728</integer>
+			<key>Total Time</key><integer>139232</integer>
+			<key>Track Number</key><integer>18</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2024-02-08T17:33:00Z</date>
+			<key>Date Added</key><date>2025-05-22T23:57:37Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>99</integer>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3747486974</integer>
+			<key>Play Date UTC</key><date>2022-10-01T19:36:14Z</date>
+			<key>Normalization</key><integer>7151</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>grande volta</string>
+			<key>Persistent ID</key><string>B000A3AE12FBAAC7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Charlie%20Brown%20Jr.%20-%20(1999)%20Pre%C3%A7o%20Curto%20Prazo%20Longo%20-%20A%20grande%20volta.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>5626</key>
+		<dict>
+			<key>Track ID</key><integer>5626</integer>
+			<key>Name</key><string>Mantenha a dúvida</string>
+			<key>Artist</key><string>Charlie Brown Jr.</string>
+			<key>Album</key><string>Preço Curto Prazo Longo</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2977589</integer>
+			<key>Total Time</key><integer>184058</integer>
+			<key>Track Number</key><integer>14</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2025-01-26T01:21:59Z</date>
+			<key>Date Added</key><date>2025-05-22T23:57:38Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>99</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3723155285</integer>
+			<key>Play Date UTC</key><date>2021-12-24T03:48:05Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2021-07-08T02:08:11Z</date>
+			<key>Normalization</key><integer>8765</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0807BF92CC53697F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Charlie%20Brown%20Jr.%20-%20(1999)%20Pre%C3%A7o%20Curto%20Prazo%20Longo%20-%20Mantenha%20a%20D%C3%BAvida.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>5642</key>
+		<dict>
+			<key>Track ID</key><integer>5642</integer>
+			<key>Name</key><string>Zóio de Lula</string>
+			<key>Artist</key><string>Charlie Brown Jr.</string>
+			<key>Album</key><string>Preço Curto Prazo Longo</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4018241</integer>
+			<key>Total Time</key><integer>249103</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2024-02-08T17:33:07Z</date>
+			<key>Date Added</key><date>2025-05-22T23:57:38Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>99</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3725388998</integer>
+			<key>Play Date UTC</key><date>2022-01-19T00:16:38Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2021-09-16T20:40:35Z</date>
+			<key>Normalization</key><integer>5092</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>12FFA792F498E64B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Charlie%20Brown%20Jr.%20-%20(1999)%20Pre%C3%A7o%20Curto%20Prazo%20Longo%20-%20Z%C3%B3io%20de%20Lula.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>5656</key>
+		<dict>
+			<key>Track ID</key><integer>5656</integer>
+			<key>Name</key><string>Não É Sério</string>
+			<key>Artist</key><string>Charlie Brown Jr.</string>
+			<key>Album</key><string>Nadando Com Os Tubarões</string>
+			<key>Genre</key><string>Brazilian Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4676259</integer>
+			<key>Total Time</key><integer>291395</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2021-09-03T02:15:34Z</date>
+			<key>Date Added</key><date>2025-05-22T23:57:39Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3726256360</integer>
+			<key>Play Date UTC</key><date>2022-01-29T01:12:40Z</date>
+			<key>Normalization</key><integer>4973</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2159644B19DDE829</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Charlie%20Brown%20Jr.%20-%20(2000)%20Nadando%20com%20os%20tubar%C3%B5es%20-%20N%C3%A3o%20%C3%89%20S%C3%A9rio.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>5678</key>
+		<dict>
+			<key>Track ID</key><integer>5678</integer>
+			<key>Name</key><string>Como Tudo Deve Ser</string>
+			<key>Artist</key><string>Charlie Brown Jr.</string>
+			<key>Album</key><string>100% Charlie Brown Jr. - Abalando A Sua Fábrica</string>
+			<key>Genre</key><string>Brazilian Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4390015</integer>
+			<key>Total Time</key><integer>272457</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2021-09-03T02:16:00Z</date>
+			<key>Date Added</key><date>2025-05-22T23:57:40Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>27</integer>
+			<key>Play Date</key><integer>3776947727</integer>
+			<key>Play Date UTC</key><date>2023-09-07T19:08:47Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2021-08-01T17:45:31Z</date>
+			<key>Normalization</key><integer>1572</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8E2A5345740E0715</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Charlie%20Brown%20Jr.%20-%20(2001)%20100%25%20CHarlie%20Brown%20Jr.%20-%20Como%20Tudo%20Deve%20Ser.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>5722</key>
+		<dict>
+			<key>Track ID</key><integer>5722</integer>
+			<key>Name</key><string>Só Por Uma Noite</string>
+			<key>Artist</key><string>Charlie Brown Jr.</string>
+			<key>Album</key><string>Bocas Ordinárias</string>
+			<key>Genre</key><string>Brazilian Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4896810</integer>
+			<key>Total Time</key><integer>203650</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2025-01-26T01:22:11Z</date>
+			<key>Date Added</key><date>2025-05-22T23:57:42Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>100</integer>
+			<key>Play Count</key><integer>16</integer>
+			<key>Play Date</key><integer>3768158270</integer>
+			<key>Play Date UTC</key><date>2023-05-29T01:37:50Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2021-11-13T13:36:25Z</date>
+			<key>Normalization</key><integer>9715</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8A90B9E438482FE7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Charlie%20Brown%20Jr.%20-%20(2002)%20Bocas%20ordin%C3%A1rias%20-%20S%C3%B3%20Por%20Uma%20Noite.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>5770</key>
+		<dict>
+			<key>Track ID</key><integer>5770</integer>
+			<key>Name</key><string>I Feel So Good Today</string>
+			<key>Artist</key><string>Charlie Brown Jr.</string>
+			<key>Composer</key><string>Charlie Brown Jr.</string>
+			<key>Album</key><string>Imunidade Musical</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4051301</integer>
+			<key>Total Time</key><integer>248842</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Track Count</key><integer>23</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2021-09-03T02:17:49Z</date>
+			<key>Date Added</key><date>2025-05-22T23:57:44Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>1796</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E39774C76FE9611C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Charlie%20Brown%20Jr.%20-%20(2005)%20Imunidade%20Musical%20-%20I%20feel%20so%20good%20today.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>5806</key>
+		<dict>
+			<key>Track ID</key><integer>5806</integer>
+			<key>Name</key><string>Cafe Fundation (Instrumental)</string>
+			<key>Artist</key><string>Charlie Brown Jr.</string>
+			<key>Album</key><string>Ritmo, Ritual e Responsa</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>1401877</integer>
+			<key>Total Time</key><integer>83408</integer>
+			<key>Track Number</key><integer>21</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2021-09-03T02:18:20Z</date>
+			<key>Date Added</key><date>2025-05-22T23:57:46Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3709808863</integer>
+			<key>Play Date UTC</key><date>2021-07-22T17:27:43Z</date>
+			<key>Normalization</key><integer>1134</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4DC427A2E37B298C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Charlie%20Brown%20Jr.%20-%20(2007)%20Ritmo,%20Ritual%20E%20Responsa%20-%20Cafe%20Fundation%20(Instrumental)%20.MP3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>5818</key>
+		<dict>
+			<key>Track ID</key><integer>5818</integer>
+			<key>Name</key><string>Não Viva em Vão</string>
+			<key>Artist</key><string>Charlie Brown Jr.</string>
+			<key>Album</key><string>Ritmo, Ritual e Responsa</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3823226</integer>
+			<key>Total Time</key><integer>234553</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2025-01-26T01:22:10Z</date>
+			<key>Date Added</key><date>2025-05-22T23:57:46Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3712330002</integer>
+			<key>Play Date UTC</key><date>2021-08-20T21:46:42Z</date>
+			<key>Normalization</key><integer>4922</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>597A28F261CD7EE8</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Charlie%20Brown%20Jr.%20-%20(2007)%20Ritmo,%20Ritual%20E%20Responsa%20-%20N%C3%A3o%20Viva%20Em%20V%C3%A3o.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>5822</key>
+		<dict>
+			<key>Track ID</key><integer>5822</integer>
+			<key>Name</key><string>O Universo a Nosso Favor</string>
+			<key>Artist</key><string>Charlie Brown Jr.</string>
+			<key>Album</key><string>Ritmo, Ritual e Responsa</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6367054</integer>
+			<key>Total Time</key><integer>262478</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2021-09-03T02:18:36Z</date>
+			<key>Date Added</key><date>2025-05-22T23:57:46Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string> 00000000 00000210 00000924 0000000000B094CC 00000000 00600BC2 00000000 00000000 00000000 00000000 00000000 00000000</string>
+			<key>Normalization</key><integer>6758</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5C19ADD13344AE81</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Charlie%20Brown%20Jr.%20-%20(2007)%20Ritmo,%20Ritual%20E%20Responsa%20-%20O%20Universo%20a%20Nosso%20Favor.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>5836</key>
+		<dict>
+			<key>Track ID</key><integer>5836</integer>
+			<key>Name</key><string>Skateboard Amor Eterno (c/ Sacramento MC's)</string>
+			<key>Artist</key><string>Charlie Brown Jr.</string>
+			<key>Album</key><string>Ritmo, Ritual e Responsa</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3816175</integer>
+			<key>Total Time</key><integer>234292</integer>
+			<key>Track Number</key><integer>20</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2024-05-31T19:28:13Z</date>
+			<key>Date Added</key><date>2025-05-22T23:57:47Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>100</integer>
+			<key>Normalization</key><integer>8840</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>34813A39C0F1CC4E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Charlie%20Brown%20Jr.%20-%20(2007)%20Ritmo,%20Ritual%20E%20Responsa%20-%20Skateboard%20Amor%20Eterno%20Feat.%20Sacramento%20MC's.MP3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>5898</key>
+		<dict>
+			<key>Track ID</key><integer>5898</integer>
+			<key>Name</key><string>Sundown</string>
+			<key>Artist</key><string>Charlie Simpson</string>
+			<key>Composer</key><string>Charlie Simpson</string>
+			<key>Album</key><string>Young Pilgrim</string>
+			<key>Genre</key><string>Indie rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8706400</integer>
+			<key>Total Time</key><integer>212871</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2021-09-03T02:20:26Z</date>
+			<key>Date Added</key><date>2025-05-22T23:57:50Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>{Old-Pirate}</string>
+			<key>Normalization</key><integer>1422</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0FA23E1E6EE563D6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Charlie%20Simpson%20-%20(2011)%20Young%20Pilgrim%20-%20Sundown.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>5942</key>
+		<dict>
+			<key>Track ID</key><integer>5942</integer>
+			<key>Name</key><string>Letter From A Thief</string>
+			<key>Artist</key><string>Chevelle</string>
+			<key>Album</key><string>Sci-Fi Crimes</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8360054</integer>
+			<key>Total Time</key><integer>207098</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2024-02-08T17:33:44Z</date>
+			<key>Date Added</key><date>2025-05-22T23:57:52Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>100</integer>
+			<key>Play Count</key><integer>12</integer>
+			<key>Play Date</key><integer>3723247404</integer>
+			<key>Play Date UTC</key><date>2021-12-25T05:23:24Z</date>
+			<key>Skip Count</key><integer>6</integer>
+			<key>Skip Date</key><date>2021-12-25T05:11:05Z</date>
+			<key>Normalization</key><integer>6480</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>85357C3D3330C1F0</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Chevelle%20-%20(2009)%20Sci-Fi%20Crimes%20-%20Letter%20From%20A%20Thief.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>5978</key>
+		<dict>
+			<key>Track ID</key><integer>5978</integer>
+			<key>Name</key><string>Feels Like Summer</string>
+			<key>Artist</key><string>Childish Gambino</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6860942</integer>
+			<key>Total Time</key><integer>285779</integer>
+			<key>Date Modified</key><date>2019-10-26T18:48:04Z</date>
+			<key>Date Added</key><date>2025-05-22T23:57:54Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>32</integer>
+			<key>Play Date</key><integer>3783176152</integer>
+			<key>Play Date UTC</key><date>2023-11-18T20:15:52Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2022-05-08T00:30:20Z</date>
+			<key>Normalization</key><integer>2919</integer>
+			<key>Persistent ID</key><string>DFD25B163315A49E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Childish%20Gambino%20-%20Feels%20Like%20Summer%20(Official%20Music%20Video).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>6880</key>
+		<dict>
+			<key>Track ID</key><integer>6880</integer>
+			<key>Name</key><string>Feel You</string>
+			<key>Artist</key><string>Crumbland</string>
+			<key>Album</key><string>Should i tell you?</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5798514</integer>
+			<key>Total Time</key><integer>240404</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2024-05-31T18:59:52Z</date>
+			<key>Date Added</key><date>2025-05-22T23:58:49Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>103</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3684826004</integer>
+			<key>Play Date UTC</key><date>2020-10-06T13:46:44Z</date>
+			<key>Normalization</key><integer>9407</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BAFEAD78CAF519F2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Crumbland%20-%20(2007)%20Should%20I%20Tell%20You%20-%20feel_you.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>7118</key>
+		<dict>
+			<key>Track ID</key><integer>7118</integer>
+			<key>Name</key><string>I Remember</string>
+			<key>Artist</key><string>Deadmau5</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>23818002</integer>
+			<key>Total Time</key><integer>593658</integer>
+			<key>BPM</key><integer>128</integer>
+			<key>Date Modified</key><date>2021-09-03T13:48:55Z</date>
+			<key>Date Added</key><date>2025-05-22T23:59:02Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3739433126</integer>
+			<key>Play Date UTC</key><date>2022-06-30T14:25:26Z</date>
+			<key>Normalization</key><integer>3495</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>DDCBEC2821341F7E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Deadmau5%20-%20I%20Remember%20(com%20Kaskade).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>7760</key>
+		<dict>
+			<key>Track ID</key><integer>7760</integer>
+			<key>Name</key><string>Going Wrong (Armin Van Buuren Remixed)</string>
+			<key>Artist</key><string>André Sarate</string>
+			<key>Genre</key><string>Electro House</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10249708</integer>
+			<key>Total Time</key><integer>320208</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2021-09-03T14:14:29Z</date>
+			<key>Date Added</key><date>2025-05-22T23:59:34Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>3847</integer>
+			<key>Persistent ID</key><string>B0CAEC42CD191DDD</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Dj%20Andr%C3%A9%20Sarate%20-%20Going%20Wrong%20(Armin%20Van%20Buuren%20Remixed).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8052</key>
+		<dict>
+			<key>Track ID</key><integer>8052</integer>
+			<key>Name</key><string>Falling in Love Again</string>
+			<key>Artist</key><string>Eagle Eye Cherry</string>
+			<key>Album</key><string>The Best of</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4662610</integer>
+			<key>Total Time</key><integer>212088</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Date Modified</key><date>2021-09-03T14:23:37Z</date>
+			<key>Date Added</key><date>2025-05-22T23:59:48Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2020-10-05T18:14:22Z</date>
+			<key>Normalization</key><integer>2080</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Best of</string>
+			<key>Persistent ID</key><string>E93DE393F509720F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Eagle%20Eye%20Cherry%20-%20The%20Best%20of%20-%20Falling%20in%20Love%20Again.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>10878</key>
+		<dict>
+			<key>Track ID</key><integer>10878</integer>
+			<key>Name</key><string>Flake</string>
+			<key>Artist</key><string>Jack Johnson</string>
+			<key>Album</key><string>no title</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4497207</integer>
+			<key>Total Time</key><integer>280790</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2021-09-03T15:58:58Z</date>
+			<key>Date Added</key><date>2025-05-23T00:02:22Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3739644764</integer>
+			<key>Play Date UTC</key><date>2022-07-03T01:12:44Z</date>
+			<key>Normalization</key><integer>1594</integer>
+			<key>Persistent ID</key><string>72AF66742A1A9DAE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Jack%20Johnson%20-%2005%20-%20Flake.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>11054</key>
+		<dict>
+			<key>Track ID</key><integer>11054</integer>
+			<key>Name</key><string>Your Body Is a Wonderland</string>
+			<key>Artist</key><string>John Mayer</string>
+			<key>Album</key><string>Room for Squares</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6043927</integer>
+			<key>Total Time</key><integer>248189</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2021-09-03T16:03:22Z</date>
+			<key>Date Added</key><date>2025-05-23T00:02:29Z</date>
+			<key>Bit Rate</key><integer>194</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>1259</integer>
+			<key>Persistent ID</key><string>3F521FA69D4DF7B4</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/John%20Mayer%20-%20Your%20Body%20Is%20a%20Wonderland.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>11056</key>
+		<dict>
+			<key>Track ID</key><integer>11056</integer>
+			<key>Name</key><string>Bigger Than My Body</string>
+			<key>Artist</key><string>John Mayer</string>
+			<key>Album Artist</key><string>John Mayer</string>
+			<key>Composer</key><string>John Mayer</string>
+			<key>Album</key><string>Heavier Things</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5365062</integer>
+			<key>Total Time</key><integer>268016</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2021-09-03T16:03:25Z</date>
+			<key>Date Added</key><date>2025-05-23T00:02:30Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2021-07-02T00:30:32Z</date>
+			<key>Normalization</key><integer>8377</integer>
+			<key>Persistent ID</key><string>830DD17F9D8F7A5F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/John%20Mayer-%20Bigger%20than%20my%20body.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>11058</key>
+		<dict>
+			<key>Track ID</key><integer>11058</integer>
+			<key>Name</key><string>Love Me Again</string>
+			<key>Artist</key><string>John Newman</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3772883</integer>
+			<key>Total Time</key><integer>235154</integer>
+			<key>Date Modified</key><date>2021-09-03T16:03:26Z</date>
+			<key>Date Added</key><date>2025-05-23T00:02:30Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2021-08-25T01:04:21Z</date>
+			<key>Normalization</key><integer>6308</integer>
+			<key>Persistent ID</key><string>7CC61052D26EB614</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/John%20Newman%20-%20Love%20Me%20Again.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>11092</key>
+		<dict>
+			<key>Track ID</key><integer>11092</integer>
+			<key>Name</key><string>Make You Happy (Acústico Ao Vivo)</string>
+			<key>Artist</key><string>Josh Pyke</string>
+			<key>Album</key><string>Ao Vivo na Powerhouse em Brisbane</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2687823</integer>
+			<key>Total Time</key><integer>167340</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2021-09-03T16:04:21Z</date>
+			<key>Date Added</key><date>2025-05-23T00:02:31Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>932</integer>
+			<key>Persistent ID</key><string>C3A2234CA42AF8E1</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Josh%20Pyke%20-%20Make%20You%20Happy%20(Ac%C3%BAstico%20Ao%20Vivo).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>11382</key>
+		<dict>
+			<key>Track ID</key><integer>11382</integer>
+			<key>Name</key><string>Undressed (Oliver Nelson Remix)</string>
+			<key>Artist</key><string>Kim Cesarion</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4758422</integer>
+			<key>Total Time</key><integer>296751</integer>
+			<key>Date Modified</key><date>2024-05-31T19:28:19Z</date>
+			<key>Date Added</key><date>2025-05-23T00:02:45Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>99</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3723198932</integer>
+			<key>Play Date UTC</key><date>2021-12-24T15:55:32Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2022-09-14T03:56:14Z</date>
+			<key>Normalization</key><integer>1614</integer>
+			<key>Sort Artist</key><string>Kim Cesarion</string>
+			<key>Sort Name</key><string>Undressed (Oliver Nelson Remix)</string>
+			<key>Persistent ID</key><string>E71F1DBC9595406E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Kim%20Cesarion%20-%20Undressed%20(Oliver%20Nelson%20Remix).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>11424</key>
+		<dict>
+			<key>Track ID</key><integer>11424</integer>
+			<key>Name</key><string>California Waiting</string>
+			<key>Artist</key><string>Kings of Leon</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8466917</integer>
+			<key>Total Time</key><integer>211670</integer>
+			<key>Date Modified</key><date>2021-09-03T16:12:05Z</date>
+			<key>Date Added</key><date>2025-05-23T00:02:47Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>9984</integer>
+			<key>Persistent ID</key><string>3F0DA9B2B1FE4A19</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Kings%20of%20Leon%20-%20California%20Waiting.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>12188</key>
+		<dict>
+			<key>Track ID</key><integer>12188</integer>
+			<key>Name</key><string>Fly Away</string>
+			<key>Artist</key><string>Lenny Kravitz</string>
+			<key>Album</key><string>Greatest Hits</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5450980</integer>
+			<key>Total Time</key><integer>221936</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2021-09-03T16:32:49Z</date>
+			<key>Date Added</key><date>2025-05-23T00:03:23Z</date>
+			<key>Bit Rate</key><integer>194</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>http://bubanee.blogspot.com/</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3739645646</integer>
+			<key>Play Date UTC</key><date>2022-07-03T01:27:26Z</date>
+			<key>Normalization</key><integer>6216</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4575F953E1AB8F77</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Lenny%20Kravitz%20-%20Greatest%20Hits%20-%20Fly%20Away%20.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>12440</key>
+		<dict>
+			<key>Track ID</key><integer>12440</integer>
+			<key>Name</key><string>My dsmbr Mickey P. Feat Kelli Ali</string>
+			<key>Artist</key><string>Linkin Park</string>
+			<key>Album</key><string>Reanimation</string>
+			<key>Genre</key><string>Crossover</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6353785</integer>
+			<key>Total Time</key><integer>257645</integer>
+			<key>Track Number</key><integer>15</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2021-09-03T16:40:56Z</date>
+			<key>Date Added</key><date>2025-05-23T00:03:37Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Club DV8 Mp3's              </string>
+			<key>Normalization</key><integer>2194</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4821AC35119B5B1E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Linkin%20Park%20-%20Reanimation%20-%2015%20-%20My%20Dsmbr%20Mickey%20P.%20Feat%20Kelli%20Ali.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>13040</key>
+		<dict>
+			<key>Track ID</key><integer>13040</integer>
+			<key>Name</key><string>Pressure (Alesso Remix)</string>
+			<key>Artist</key><string>Nadia Ali, Starkillers &#38; Alex Kenji</string>
+			<key>Album Artist</key><string>Massivedrum</string>
+			<key>Album</key><string>Best Of House 2012</string>
+			<key>Genre</key><string>House</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9431132</integer>
+			<key>Total Time</key><integer>225071</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2021-09-03T17:27:53Z</date>
+			<key>Date Added</key><date>2025-05-23T00:04:07Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3685016479</integer>
+			<key>Play Date UTC</key><date>2020-10-08T18:41:19Z</date>
+			<key>Normalization</key><integer>6885</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0CA154958CE563D9</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Massivedrum%20-%20(2011)%20Best%20of%20House%202012%20-%20Nadia%20Ali,%20Starkillers%20&#38;%20Alex%20Kenji%20-%20Pressure%20(Alesso%20Remix).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>13084</key>
+		<dict>
+			<key>Track ID</key><integer>13084</integer>
+			<key>Name</key><string>Aish Tamid</string>
+			<key>Artist</key><string>Matisyahu</string>
+			<key>Album</key><string>Shake Off the Dust... ARISE</string>
+			<key>Genre</key><string>Reggae</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7673681</integer>
+			<key>Total Time</key><integer>408267</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2021-09-03T17:29:04Z</date>
+			<key>Date Added</key><date>2025-05-23T00:04:10Z</date>
+			<key>Bit Rate</key><integer>148</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>2100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>9E7BFA796943A1A8</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Matisyahu%20-%20(2004)%20Shake%20Off%20The%20Dust%20Arisetzama%20-%20Aish%20tamid.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>13086</key>
+		<dict>
+			<key>Track ID</key><integer>13086</integer>
+			<key>Name</key><string>Candle</string>
+			<key>Artist</key><string>Matisyahu</string>
+			<key>Album</key><string>Shake Off the Dust... ARISE</string>
+			<key>Genre</key><string>Reggae</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8876911</integer>
+			<key>Total Time</key><integer>382458</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2021-09-03T17:29:11Z</date>
+			<key>Date Added</key><date>2025-05-23T00:04:10Z</date>
+			<key>Bit Rate</key><integer>184</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>1713</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>09DC2701EF292126</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Matisyahu%20-%20(2004)%20Shake%20Off%20The%20Dust%20Arisetzama%20-%20Candle.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>13088</key>
+		<dict>
+			<key>Track ID</key><integer>13088</integer>
+			<key>Name</key><string>Chop 'em Down</string>
+			<key>Artist</key><string>Matisyahu</string>
+			<key>Album</key><string>Shake Off the Dust... ARISE</string>
+			<key>Genre</key><string>Reggae</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6736232</integer>
+			<key>Total Time</key><integer>346096</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2021-09-03T17:29:17Z</date>
+			<key>Date Added</key><date>2025-05-23T00:04:10Z</date>
+			<key>Bit Rate</key><integer>153</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3728470595</integer>
+			<key>Play Date UTC</key><date>2022-02-23T17:16:35Z</date>
+			<key>Normalization</key><integer>2602</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C697CD0B90762632</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Matisyahu%20-%20(2004)%20Shake%20Off%20The%20Dust%20Arisetzama%20-%20Chop%20em%20down.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>13092</key>
+		<dict>
+			<key>Track ID</key><integer>13092</integer>
+			<key>Name</key><string>Exaltation</string>
+			<key>Artist</key><string>Matisyahu</string>
+			<key>Album</key><string>Shake Off the Dust... ARISE</string>
+			<key>Genre</key><string>Reggae</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5731689</integer>
+			<key>Total Time</key><integer>304169</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2021-09-03T17:29:17Z</date>
+			<key>Date Added</key><date>2025-05-23T00:04:10Z</date>
+			<key>Bit Rate</key><integer>148</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3728470896</integer>
+			<key>Play Date UTC</key><date>2022-02-23T17:21:36Z</date>
+			<key>Normalization</key><integer>2020</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>911AF404C59EE9C5</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Matisyahu%20-%20(2004)%20Shake%20Off%20The%20Dust%20Arisetzama%20-%20Exaltation.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>13100</key>
+		<dict>
+			<key>Track ID</key><integer>13100</integer>
+			<key>Name</key><string>King Without A Crown</string>
+			<key>Artist</key><string>Matisyahu</string>
+			<key>Album</key><string>Shake Off the Dust... ARISE</string>
+			<key>Genre</key><string>Reggae</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5967672</integer>
+			<key>Total Time</key><integer>319529</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2021-09-03T17:29:31Z</date>
+			<key>Date Added</key><date>2025-05-23T00:04:11Z</date>
+			<key>Bit Rate</key><integer>147</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3728470251</integer>
+			<key>Play Date UTC</key><date>2022-02-23T17:10:51Z</date>
+			<key>Normalization</key><integer>2840</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>576DB643549DEC4D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Matisyahu%20-%20(2004)%20Shake%20Off%20The%20Dust%20Arisetzama%20-%20King%20without%20a%20crown.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>13104</key>
+		<dict>
+			<key>Track ID</key><integer>13104</integer>
+			<key>Name</key><string>Refuge</string>
+			<key>Artist</key><string>Matisyahu</string>
+			<key>Album</key><string>Shake Off the Dust... ARISE</string>
+			<key>Genre</key><string>Reggae</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4689338</integer>
+			<key>Total Time</key><integer>208222</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2021-09-03T17:29:34Z</date>
+			<key>Date Added</key><date>2025-05-23T00:04:11Z</date>
+			<key>Bit Rate</key><integer>177</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>1417</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8D8A1BB52A9C0EEE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Matisyahu%20-%20(2004)%20Shake%20Off%20The%20Dust%20Arisetzama%20-%20Refuge.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>13108</key>
+		<dict>
+			<key>Track ID</key><integer>13108</integer>
+			<key>Name</key><string>Warrior</string>
+			<key>Artist</key><string>Matisyahu</string>
+			<key>Album</key><string>Shake Off the Dust... ARISE</string>
+			<key>Genre</key><string>Reggae</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8361906</integer>
+			<key>Total Time</key><integer>443506</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2021-09-03T17:29:39Z</date>
+			<key>Date Added</key><date>2025-05-23T00:04:11Z</date>
+			<key>Bit Rate</key><integer>149</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3728469260</integer>
+			<key>Play Date UTC</key><date>2022-02-23T16:54:20Z</date>
+			<key>Normalization</key><integer>1656</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6AFF06C7D29984E4</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Matisyahu%20-%20(2004)%20Shake%20Off%20The%20Dust%20Arisetzama%20-%20Warrior.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>13112</key>
+		<dict>
+			<key>Track ID</key><integer>13112</integer>
+			<key>Name</key><string>Dispatch The Troops</string>
+			<key>Artist</key><string>Matisyahu</string>
+			<key>Album Artist</key><string>Matisyahu</string>
+			<key>Composer</key><string>Aaron Dugan/Daniel Eisenberg/Jonah David/Josh Wener/Matisyahu Miller</string>
+			<key>Album</key><string>Youth</string>
+			<key>Genre</key><string>Reggae</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6772113</integer>
+			<key>Total Time</key><integer>245498</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2024-07-04T16:22:21Z</date>
+			<key>Date Added</key><date>2025-05-23T00:04:11Z</date>
+			<key>Bit Rate</key><integer>220</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>100</integer>
+			<key>Normalization</key><integer>4506</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4EB939CB28DD6CCF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Matisyahu%20-%20(2006)%20Youth%20-%20Dispatch%20the%20troops.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>13114</key>
+		<dict>
+			<key>Track ID</key><integer>13114</integer>
+			<key>Name</key><string>Fire Of Heaven/Altar Of Earth</string>
+			<key>Artist</key><string>Matisyahu</string>
+			<key>Album Artist</key><string>Matisyahu</string>
+			<key>Composer</key><string>Josh Wener/Matisyahu Miller</string>
+			<key>Album</key><string>Youth</string>
+			<key>Genre</key><string>Reggae</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6366723</integer>
+			<key>Total Time</key><integer>239020</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2021-09-03T17:29:45Z</date>
+			<key>Date Added</key><date>2025-05-23T00:04:11Z</date>
+			<key>Bit Rate</key><integer>212</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>4983</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8BA7F6A90B51F153</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Matisyahu%20-%20(2006)%20Youth%20-%20Fire%20of%20heaven%20-%20Altar%20of%20Earth.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>13118</key>
+		<dict>
+			<key>Track ID</key><integer>13118</integer>
+			<key>Name</key><string>Jerusalem</string>
+			<key>Artist</key><string>Matisyahu</string>
+			<key>Album Artist</key><string>Matisyahu</string>
+			<key>Composer</key><string>Ivan Corraliza/Jimmy Douglass/Matisyahu Miller</string>
+			<key>Album</key><string>Youth</string>
+			<key>Genre</key><string>Reggae</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5769062</integer>
+			<key>Total Time</key><integer>240300</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2021-09-03T17:29:52Z</date>
+			<key>Date Added</key><date>2025-05-23T00:04:12Z</date>
+			<key>Bit Rate</key><integer>191</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>3182</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6D7A6DEEF692BC8D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Matisyahu%20-%20(2006)%20Youth%20-%20Jerusalem.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>13120</key>
+		<dict>
+			<key>Track ID</key><integer>13120</integer>
+			<key>Name</key><string>King Without A Crown</string>
+			<key>Artist</key><string>Matisyahu</string>
+			<key>Album Artist</key><string>Matisyahu</string>
+			<key>Composer</key><string>Josh Wener/Matisyahu Miller</string>
+			<key>Album</key><string>Youth</string>
+			<key>Genre</key><string>Reggae</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5967115</integer>
+			<key>Total Time</key><integer>222432</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2021-09-03T17:29:52Z</date>
+			<key>Date Added</key><date>2025-05-23T00:04:12Z</date>
+			<key>Bit Rate</key><integer>214</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3708774436</integer>
+			<key>Play Date UTC</key><date>2021-07-10T18:07:16Z</date>
+			<key>Normalization</key><integer>4199</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A88947EE6453F523</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Matisyahu%20-%20(2006)%20Youth%20-%20King%20without%20a%20crown.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>13126</key>
+		<dict>
+			<key>Track ID</key><integer>13126</integer>
+			<key>Name</key><string>Time Of Your Song</string>
+			<key>Artist</key><string>Matisyahu</string>
+			<key>Album Artist</key><string>Matisyahu</string>
+			<key>Composer</key><string>Ivan Corraliza/Jimmy Douglass/Matisyahu Miller</string>
+			<key>Album</key><string>Youth</string>
+			<key>Genre</key><string>Reggae</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6311089</integer>
+			<key>Total Time</key><integer>267102</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2021-09-03T17:29:57Z</date>
+			<key>Date Added</key><date>2025-05-23T00:04:12Z</date>
+			<key>Bit Rate</key><integer>188</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>2824</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F42CD7CD11485DE6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Matisyahu%20-%20(2006)%20Youth%20-%20Time%20of%20your%20song.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>13134</key>
+		<dict>
+			<key>Track ID</key><integer>13134</integer>
+			<key>Name</key><string>Youth</string>
+			<key>Artist</key><string>Matisyahu</string>
+			<key>Album Artist</key><string>Matisyahu</string>
+			<key>Composer</key><string>Josh Wener/Matisyahu Miller</string>
+			<key>Album</key><string>Youth</string>
+			<key>Genre</key><string>Reggae</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6676413</integer>
+			<key>Total Time</key><integer>258795</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2021-09-03T17:30:12Z</date>
+			<key>Date Added</key><date>2025-05-23T00:04:12Z</date>
+			<key>Bit Rate</key><integer>205</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>5748</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>85DA38290491EBE8</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Matisyahu%20-%20(2006)%20Youth%20-%20Youth.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>13560</key>
+		<dict>
+			<key>Track ID</key><integer>13560</integer>
+			<key>Name</key><string>No Cigar</string>
+			<key>Artist</key><string>Millencolin</string>
+			<key>Album</key><string>Pennybridge Pioneers</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2622354</integer>
+			<key>Total Time</key><integer>162925</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Date Modified</key><date>2021-09-03T17:45:39Z</date>
+			<key>Date Added</key><date>2025-05-23T00:04:34Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3685018598</integer>
+			<key>Play Date UTC</key><date>2020-10-08T19:16:38Z</date>
+			<key>Normalization</key><integer>7780</integer>
+			<key>Persistent ID</key><string>8375EA9659932DA2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Millencolin%20-%20Pennybridge%20Pioneers%20-%20No%20Cigar.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>14198</key>
+		<dict>
+			<key>Track ID</key><integer>14198</integer>
+			<key>Name</key><string>Just To Get High</string>
+			<key>Artist</key><string>Nickelback</string>
+			<key>Album</key><string>Dark Horse</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3947961</integer>
+			<key>Total Time</key><integer>242259</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2025-01-26T01:22:17Z</date>
+			<key>Date Added</key><date>2025-05-23T00:05:07Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3719650154</integer>
+			<key>Play Date UTC</key><date>2021-11-13T14:09:14Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2022-03-23T20:47:41Z</date>
+			<key>Normalization</key><integer>8931</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>449464B294C917B7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Nickelback%20-%20(2008)%20Dark%20Horse%20-%20Just%20To%20Get%20High.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>14552</key>
+		<dict>
+			<key>Track ID</key><integer>14552</integer>
+			<key>Name</key><string>Interlude: Moving On</string>
+			<key>Artist</key><string>Paramore</string>
+			<key>Album Artist</key><string>Paramore</string>
+			<key>Album</key><string>Paramore</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3712525</integer>
+			<key>Total Time</key><integer>90226</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2021-09-03T18:15:13Z</date>
+			<key>Date Added</key><date>2025-05-23T00:05:30Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>1560</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>4D0C2B6CA8C6D099</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Paramore%20-%20(2013)%20Paramore%20-%20Interlude%20Moving%20On.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15386</key>
+		<dict>
+			<key>Track ID</key><integer>15386</integer>
+			<key>Name</key><string>High (feat. Apache)</string>
+			<key>Artist</key><string>Rawayana</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6882920</integer>
+			<key>Total Time</key><integer>286354</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2024-07-12T23:21:54Z</date>
+			<key>Date Added</key><date>2025-05-23T00:06:22Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>96</integer>
+			<key>Play Count</key><integer>14</integer>
+			<key>Play Date</key><integer>3766095952</integer>
+			<key>Play Date UTC</key><date>2023-05-05T04:45:52Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2021-12-25T04:56:46Z</date>
+			<key>Normalization</key><integer>2607</integer>
+			<key>Persistent ID</key><string>C2B794697552C781</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Rawayana%20-%20HIGH%20feat.%20Apache.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15518</key>
+		<dict>
+			<key>Track ID</key><integer>15518</integer>
+			<key>Name</key><string>Dani California</string>
+			<key>Artist</key><string>Red Hot Chili Peppers</string>
+			<key>Album</key><string>Stadium Arcadium (Proper Retail)</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8004405</integer>
+			<key>Total Time</key><integer>282279</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2021-09-03T18:40:45Z</date>
+			<key>Date Added</key><date>2025-05-23T00:06:28Z</date>
+			<key>Bit Rate</key><integer>226</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>13094</integer>
+			<key>Persistent ID</key><string>BB0D2E45C599427A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Red%20Hot%20Chili%20Peppers%20-%20Dani%20California.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15540</key>
+		<dict>
+			<key>Track ID</key><integer>15540</integer>
+			<key>Name</key><string>She's Only 18</string>
+			<key>Artist</key><string>Red Hot Chili Peppers</string>
+			<key>Album</key><string>Stadium Arcadium (Proper Retail)</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5664768</integer>
+			<key>Total Time</key><integer>205453</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2021-09-03T18:41:11Z</date>
+			<key>Date Added</key><date>2025-05-23T00:06:29Z</date>
+			<key>Bit Rate</key><integer>220</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string> </string>
+			<key>Normalization</key><integer>9957</integer>
+			<key>Persistent ID</key><string>B4F74F92CBCAD153</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Red%20Hot%20Chili%20Peppers%20-%20She's%20Only%2018.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15550</key>
+		<dict>
+			<key>Track ID</key><integer>15550</integer>
+			<key>Name</key><string>Tell Your Friends</string>
+			<key>Artist</key><string>Regan Perry</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3038564</integer>
+			<key>Total Time</key><integer>189231</integer>
+			<key>Date Modified</key><date>2021-09-03T18:41:21Z</date>
+			<key>Date Added</key><date>2025-05-23T00:06:30Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>1650</integer>
+			<key>Persistent ID</key><string>A5192F9DF60C4318</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Regan%20Perry%20-%20Tell%20Your%20Friends.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>17146</key>
+		<dict>
+			<key>Track ID</key><integer>17146</integer>
+			<key>Name</key><string>You Get What You Give</string>
+			<key>Artist</key><string>New Radicals</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7265986</integer>
+			<key>Total Time</key><integer>302315</integer>
+			<key>Date Modified</key><date>2021-09-03T18:04:48Z</date>
+			<key>Date Added</key><date>2025-05-23T00:07:57Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3746217483</integer>
+			<key>Play Date UTC</key><date>2022-09-17T02:58:03Z</date>
+			<key>Normalization</key><integer>9619</integer>
+			<key>Persistent ID</key><string>1C413171579A3139</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/New%20Radicals%20-%20You%20Get%20What%20You%20Give.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>17150</key>
+		<dict>
+			<key>Track ID</key><integer>17150</integer>
+			<key>Name</key><string>Medicine (Acoustic)</string>
+			<key>Artist</key><string>Bring Me The Horizon</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5420907</integer>
+			<key>Total Time</key><integer>225436</integer>
+			<key>Date Modified</key><date>2025-05-27T00:13:57Z</date>
+			<key>Date Added</key><date>2025-05-23T00:07:57Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>95</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3747397638</integer>
+			<key>Play Date UTC</key><date>2022-09-30T18:47:18Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2025-05-27T00:14:04Z</date>
+			<key>Normalization</key><integer>830</integer>
+			<key>Persistent ID</key><string>E29BB3552C202B29</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Bring%20Me%20The%20Horizon%20-%20Medicine%20(Live).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>17468</key>
+		<dict>
+			<key>Track ID</key><integer>17468</integer>
+			<key>Name</key><string>Born In Babylon</string>
+			<key>Artist</key><string>SOJA</string>
+			<key>Album Artist</key><string>SOJA</string>
+			<key>Album</key><string>Born In Babylon</string>
+			<key>Genre</key><string>Reggae</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5657789</integer>
+			<key>Total Time</key><integer>278386</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2021-09-03T18:52:03Z</date>
+			<key>Date Added</key><date>2025-05-23T00:08:14Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string> 00000000 00000210 00000750 0000000000BB4B20 00000000 0054E4A7 00000000 00000000 00000000 00000000 00000000 00000000</string>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3772440714</integer>
+			<key>Play Date UTC</key><date>2023-07-17T15:11:54Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2023-07-17T14:34:23Z</date>
+			<key>Normalization</key><integer>2200</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5C6061036FB7BE84</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/SOJA%20-%20(2009)%20Born%20In%20Babylon%20-%20Born%20In%20Babylon.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>17484</key>
+		<dict>
+			<key>Track ID</key><integer>17484</integer>
+			<key>Name</key><string>Rest of My Life (Bonus Track)</string>
+			<key>Artist</key><string>SOJA</string>
+			<key>Album Artist</key><string>SOJA</string>
+			<key>Album</key><string>Born In Babylon</string>
+			<key>Genre</key><string>Reggae</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6478474</integer>
+			<key>Total Time</key><integer>319216</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>15</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2021-09-03T18:52:26Z</date>
+			<key>Date Added</key><date>2025-05-23T00:08:15Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string> 00000000 00000210 000007C8 0000000000D6C428 00000000 00615A73 00000000 00000000 00000000 00000000 00000000 00000000</string>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3772440436</integer>
+			<key>Play Date UTC</key><date>2023-07-17T15:07:16Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2022-05-26T20:59:58Z</date>
+			<key>Normalization</key><integer>1890</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0676F85DB0B4A669</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/SOJA%20-%20(2009)%20Born%20In%20Babylon%20-%20Rest%20of%20My%20Life%20(Bonus%20Track).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>17486</key>
+		<dict>
+			<key>Track ID</key><integer>17486</integer>
+			<key>Name</key><string>Summer Breeze</string>
+			<key>Artist</key><string>SOJA</string>
+			<key>Album Artist</key><string>SOJA</string>
+			<key>Album</key><string>Born In Babylon</string>
+			<key>Genre</key><string>Reggae</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6314114</integer>
+			<key>Total Time</key><integer>311040</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>15</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2021-09-03T18:52:32Z</date>
+			<key>Date Added</key><date>2025-05-23T00:08:15Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string> 00000000 00000210 00000740 0000000000D14430 00000000 005EDBAC 00000000 00000000 00000000 00000000 00000000 00000000</string>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3772439037</integer>
+			<key>Play Date UTC</key><date>2023-07-17T14:43:57Z</date>
+			<key>Normalization</key><integer>2857</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>40DFAE6126030249</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/SOJA%20-%20(2009)%20Born%20In%20Babylon%20-%20Summer%20Breeze.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>17712</key>
+		<dict>
+			<key>Track ID</key><integer>17712</integer>
+			<key>Name</key><string>Good Morning</string>
+			<key>Artist</key><string>Elijah Nang</string>
+			<key>Album</key><string>Travel EP</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5590833</integer>
+			<key>Total Time</key><integer>232515</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2024-07-12T23:21:58Z</date>
+			<key>Date Added</key><date>2025-05-23T00:08:26Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>96</integer>
+			<key>Play Count</key><integer>14</integer>
+			<key>Play Date</key><integer>3783263728</integer>
+			<key>Play Date UTC</key><date>2023-11-19T20:35:28Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2023-03-17T00:44:25Z</date>
+			<key>Normalization</key><integer>1259</integer>
+			<key>Persistent ID</key><string>0D4BFD2000957E2A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Elijah%20Nang%20-%20(2016)%20Travel%20EP%20-%20Good%20Morning.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>17748</key>
+		<dict>
+			<key>Track ID</key><integer>17748</integer>
+			<key>Name</key><string>Underseas Glow</string>
+			<key>Artist</key><string>Karmawin</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5235097</integer>
+			<key>Total Time</key><integer>214099</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2024-07-12T23:22:04Z</date>
+			<key>Date Added</key><date>2025-05-23T00:08:27Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>96</integer>
+			<key>Play Count</key><integer>23</integer>
+			<key>Play Date</key><integer>3784359844</integer>
+			<key>Play Date UTC</key><date>2023-12-02T13:04:04Z</date>
+			<key>Normalization</key><integer>1250</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>406EA6C2FB66D308</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Karmawin%20-%20(2020)%20-%20Underseas%20Glow.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>18206</key>
+		<dict>
+			<key>Track ID</key><integer>18206</integer>
+			<key>Name</key><string>Iridescent</string>
+			<key>Artist</key><string>Forhill</string>
+			<key>Album</key><string>2021</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7889551</integer>
+			<key>Total Time</key><integer>193697</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Modified</key><date>2024-07-12T23:22:06Z</date>
+			<key>Date Added</key><date>2025-05-23T00:08:50Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>97</integer>
+			<key>Comments</key><string>Visit https://forhill.bandcamp.com</string>
+			<key>Play Count</key><integer>25</integer>
+			<key>Play Date</key><integer>3784360571</integer>
+			<key>Play Date UTC</key><date>2023-12-02T13:16:11Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2021-10-27T16:51:53Z</date>
+			<key>Normalization</key><integer>2068</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>29F58B87CCADF658</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Forhill%20-%202021%20-%20Iridescent.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>18232</key>
+		<dict>
+			<key>Track ID</key><integer>18232</integer>
+			<key>Name</key><string>Polyplex (feat Flitz&#38;Suppe)</string>
+			<key>Artist</key><string>Philanthrope</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2837391</integer>
+			<key>Total Time</key><integer>176692</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2024-07-12T23:21:58Z</date>
+			<key>Date Added</key><date>2025-05-23T00:08:51Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>97</integer>
+			<key>Play Count</key><integer>22</integer>
+			<key>Play Date</key><integer>3783263295</integer>
+			<key>Play Date UTC</key><date>2023-11-19T20:28:15Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2023-07-25T23:04:32Z</date>
+			<key>Normalization</key><integer>1652</integer>
+			<key>Persistent ID</key><string>291ADD05E64E892C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Philanthrope%20-%202018%20-%20Polyplex%20(feat%20Flitz&#38;Suppe).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>18234</key>
+		<dict>
+			<key>Track ID</key><integer>18234</integer>
+			<key>Name</key><string>Losin U</string>
+			<key>Artist</key><string>DJ Maybe</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11843290</integer>
+			<key>Total Time</key><integer>295824</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2024-06-18T22:33:46Z</date>
+			<key>Date Added</key><date>2025-05-23T00:08:52Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Volume Adjustment</key><integer>99</integer>
+			<key>Play Count</key><integer>15</integer>
+			<key>Play Date</key><integer>3773052030</integer>
+			<key>Play Date UTC</key><date>2023-07-24T17:00:30Z</date>
+			<key>Normalization</key><integer>5728</integer>
+			<key>Persistent ID</key><string>D971A9FFD8043A06</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/DJ%20Maybe%20-%20Losin%20U.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>18322</key>
+		<dict>
+			<key>Track ID</key><integer>18322</integer>
+			<key>Name</key><string>Going South</string>
+			<key>Artist</key><string>Blumen</string>
+			<key>Album</key><string>La Hague EP</string>
+			<key>Genre</key><string>Lo Fi</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2484766</integer>
+			<key>Total Time</key><integer>150230</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2024-07-12T23:22:13Z</date>
+			<key>Date Added</key><date>2025-05-23T00:08:57Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>96</integer>
+			<key>Play Count</key><integer>35</integer>
+			<key>Play Date</key><integer>3766101428</integer>
+			<key>Play Date UTC</key><date>2023-05-05T06:17:08Z</date>
+			<key>Normalization</key><integer>1187</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>1EFB76CC6F1BB029</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Blumen%20-%20(2020)%20La%20Hague%20-%20Going%20South.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>18546</key>
+		<dict>
+			<key>Track ID</key><integer>18546</integer>
+			<key>Name</key><string>O Sol</string>
+			<key>Artist</key><string>Vitor Kley</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8738365</integer>
+			<key>Total Time</key><integer>210504</integer>
+			<key>Year</key><integer>2018</integer>
+			<key>Date Modified</key><date>2025-05-24T16:13:17Z</date>
+			<key>Date Added</key><date>2025-05-23T00:09:07Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Volume Adjustment</key><integer>101</integer>
+			<key>Play Count</key><integer>19</integer>
+			<key>Play Date</key><integer>3774708968</integer>
+			<key>Play Date UTC</key><date>2023-08-12T21:16:08Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2023-03-23T17:41:18Z</date>
+			<key>Normalization</key><integer>7352</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C802C614D582D479</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Vitor%20Kley%20-%202018%20-%20O%20Sol.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>18608</key>
+		<dict>
+			<key>Track ID</key><integer>18608</integer>
+			<key>Name</key><string>The Glass and Bead Game</string>
+			<key>Artist</key><string>Thievery Corporation</string>
+			<key>Album</key><string>Sounds from the Thievery Hi-Fi</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>15263765</integer>
+			<key>Total Time</key><integer>372819</integer>
+			<key>Year</key><integer>1996</integer>
+			<key>Date Modified</key><date>2024-07-12T23:22:18Z</date>
+			<key>Date Added</key><date>2025-05-23T00:09:10Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>96</integer>
+			<key>Play Count</key><integer>18</integer>
+			<key>Play Date</key><integer>3766105787</integer>
+			<key>Play Date UTC</key><date>2023-05-05T07:29:47Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2022-09-07T14:34:41Z</date>
+			<key>Normalization</key><integer>1244</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>Glass and Bead Game</string>
+			<key>Persistent ID</key><string>7345CB41292D9F50</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Thievery%20Corporation%20-%20(1996)%20Sounds%20from%20the%20Thievery%20Hi-Fi%20-%20The%20Glass%20and%20Bead%20Game.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>19096</key>
+		<dict>
+			<key>Track ID</key><integer>19096</integer>
+			<key>Name</key><string>Venger (James Kent)</string>
+			<key>Artist</key><string>A. Yarmak</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10918798</integer>
+			<key>Total Time</key><integer>272712</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>Date Modified</key><date>2025-01-26T01:22:28Z</date>
+			<key>Date Added</key><date>2025-05-23T00:09:38Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Volume Adjustment</key><integer>99</integer>
+			<key>Play Count</key><integer>15</integer>
+			<key>Play Date</key><integer>3792820424</integer>
+			<key>Play Date UTC</key><date>2024-03-09T12:13:44Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2024-02-26T14:07:24Z</date>
+			<key>Normalization</key><integer>10177</integer>
+			<key>Persistent ID</key><string>6BB8546F1830F164</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/A.%20Yarmak%20-%202019%20-%20Venger%20(James%20Kent).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>Mmnts, Praia-Sol-Mar</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>71123</integer>
+			<key>Playlist Persistent ID</key><string>2D950A6507A7A570</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>3100</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4268</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4974</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5196</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5392</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5594</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5572</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5574</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5570</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5626</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5600</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5642</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5678</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5722</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5770</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5818</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5822</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5836</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5806</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5942</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6880</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7118</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10878</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11054</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11056</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11092</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11424</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12188</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12440</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13104</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13108</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13100</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13092</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13088</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13086</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13084</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13114</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13134</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13126</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13112</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13118</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13120</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13560</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14198</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15518</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15540</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2796</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2954</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2752</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>2678</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14552</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3824</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3870</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3828</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5390</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11058</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15550</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5656</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5898</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5388</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8052</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4320</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5978</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15386</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17150</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17146</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11382</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17484</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17486</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17712</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17748</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17468</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18232</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18234</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18206</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18322</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18546</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18608</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7760</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13040</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19096</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

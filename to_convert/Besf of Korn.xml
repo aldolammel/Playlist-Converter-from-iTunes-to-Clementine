@@ -1,0 +1,1435 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2025-06-04T12:58:09Z</date>
+	<key>Application Version</key><string>12.13.7.1</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/E:/Users/aldol/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>187AD5E35C5E82C1</string>
+	<key>Tracks</key>
+	<dict>
+		<key>11506</key>
+		<dict>
+			<key>Track ID</key><integer>11506</integer>
+			<key>Name</key><string>Blind</string>
+			<key>Artist</key><string>Korn</string>
+			<key>Album</key><string>Korn</string>
+			<key>Genre</key><string>New Metal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11852714</integer>
+			<key>Total Time</key><integer>259578</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1994</integer>
+			<key>Date Modified</key><date>2021-09-03T16:13:59Z</date>
+			<key>Date Added</key><date>2025-05-23T00:02:51Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3778066906</integer>
+			<key>Play Date UTC</key><date>2023-09-20T18:01:46Z</date>
+			<key>Normalization</key><integer>3453</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F43B6F2B034AC8C8</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Korn%20-%20(1994)%20Korn%20-%20Blind.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>11508</key>
+		<dict>
+			<key>Track ID</key><integer>11508</integer>
+			<key>Name</key><string>Clown</string>
+			<key>Artist</key><string>Korn</string>
+			<key>Album</key><string>Korn</string>
+			<key>Genre</key><string>New Metal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>12558020</integer>
+			<key>Total Time</key><integer>277211</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1994</integer>
+			<key>Date Modified</key><date>2021-09-03T16:14:04Z</date>
+			<key>Date Added</key><date>2025-05-23T00:02:51Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3778063631</integer>
+			<key>Play Date UTC</key><date>2023-09-20T17:07:11Z</date>
+			<key>Normalization</key><integer>5077</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C71B0492C87B7769</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Korn%20-%20(1994)%20Korn%20-%20Clown.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>11514</key>
+		<dict>
+			<key>Track ID</key><integer>11514</integer>
+			<key>Name</key><string>Faget</string>
+			<key>Artist</key><string>Korn</string>
+			<key>Album</key><string>Korn</string>
+			<key>Genre</key><string>New Metal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>15469106</integer>
+			<key>Total Time</key><integer>349988</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1994</integer>
+			<key>Date Modified</key><date>2021-09-03T16:14:18Z</date>
+			<key>Date Added</key><date>2025-05-23T00:02:51Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3757006045</integer>
+			<key>Play Date UTC</key><date>2023-01-19T22:47:25Z</date>
+			<key>Normalization</key><integer>3896</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>13019FB643F8FE50</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Korn%20-%20(1994)%20Korn%20-%20Faget.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>11526</key>
+		<dict>
+			<key>Track ID</key><integer>11526</integer>
+			<key>Name</key><string>Shoots And Ladders</string>
+			<key>Artist</key><string>Korn</string>
+			<key>Album</key><string>Korn</string>
+			<key>Genre</key><string>New Metal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>14388694</integer>
+			<key>Total Time</key><integer>322977</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1994</integer>
+			<key>Date Modified</key><date>2024-03-29T14:04:05Z</date>
+			<key>Date Added</key><date>2025-05-23T00:02:52Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3778066371</integer>
+			<key>Play Date UTC</key><date>2023-09-20T17:52:51Z</date>
+			<key>Normalization</key><integer>2634</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0A5B6DA1A2D9A459</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Korn%20-%20(1994)%20Korn%20-%20Shoots%20And%20Ladders.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>11528</key>
+		<dict>
+			<key>Track ID</key><integer>11528</integer>
+			<key>Name</key><string>A.D.I.D.A.S.</string>
+			<key>Artist</key><string>Korn</string>
+			<key>Album</key><string>Life Is Peachy</string>
+			<key>Genre</key><string>New Metal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3414706</integer>
+			<key>Total Time</key><integer>152790</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Year</key><integer>1996</integer>
+			<key>Date Modified</key><date>2021-09-03T16:14:41Z</date>
+			<key>Date Added</key><date>2025-05-23T00:02:52Z</date>
+			<key>Bit Rate</key><integer>159</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3778065847</integer>
+			<key>Play Date UTC</key><date>2023-09-20T17:44:07Z</date>
+			<key>Normalization</key><integer>4987</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>7CAC00326F404294</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Korn%20-%20(1996)%20Life%20Is%20Peachy%20-%20A.D.I.D.A.S..mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>11530</key>
+		<dict>
+			<key>Track ID</key><integer>11530</integer>
+			<key>Name</key><string>ASS ITCH</string>
+			<key>Artist</key><string>Korn</string>
+			<key>Album</key><string>Life Is Peachy</string>
+			<key>Genre</key><string>Blues</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4917033</integer>
+			<key>Total Time</key><integer>219402</integer>
+			<key>Year</key><integer>1996</integer>
+			<key>Date Modified</key><date>2021-09-03T16:14:43Z</date>
+			<key>Date Added</key><date>2025-05-23T00:02:52Z</date>
+			<key>Bit Rate</key><integer>179</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3778062896</integer>
+			<key>Play Date UTC</key><date>2023-09-20T16:54:56Z</date>
+			<key>Normalization</key><integer>3664</integer>
+			<key>Persistent ID</key><string>70AD8A6D386EA1A6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Korn%20-%20(1996)%20Life%20Is%20Peachy%20-%20ASS%20ITCH.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>11534</key>
+		<dict>
+			<key>Track ID</key><integer>11534</integer>
+			<key>Name</key><string>Good God</string>
+			<key>Artist</key><string>Korn</string>
+			<key>Album</key><string>Life Is Peachy</string>
+			<key>Genre</key><string>New Metal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4664075</integer>
+			<key>Total Time</key><integer>201221</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>1996</integer>
+			<key>Date Modified</key><date>2021-09-03T16:14:49Z</date>
+			<key>Date Added</key><date>2025-05-23T00:02:52Z</date>
+			<key>Bit Rate</key><integer>171</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3740510378</integer>
+			<key>Play Date UTC</key><date>2022-07-13T01:39:38Z</date>
+			<key>Normalization</key><integer>3799</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C9D4656E732BEA41</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Korn%20-%20(1996)%20Life%20Is%20Peachy%20-%20GOOD%20GOD.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>11546</key>
+		<dict>
+			<key>Track ID</key><integer>11546</integer>
+			<key>Name</key><string>NO PLACE TO HIDE</string>
+			<key>Artist</key><string>Korn</string>
+			<key>Album</key><string>Life Is Peachy</string>
+			<key>Genre</key><string>New Metal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4714964</integer>
+			<key>Total Time</key><integer>211696</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Year</key><integer>1996</integer>
+			<key>Date Modified</key><date>2021-09-03T16:15:10Z</date>
+			<key>Date Added</key><date>2025-05-23T00:02:53Z</date>
+			<key>Bit Rate</key><integer>164</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3757006252</integer>
+			<key>Play Date UTC</key><date>2023-01-19T22:50:52Z</date>
+			<key>Normalization</key><integer>3717</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2F8E024865F92F15</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Korn%20-%20(1996)%20Life%20Is%20Peachy%20-%20NO%20PLACE%20TO%20HIDE.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>11560</key>
+		<dict>
+			<key>Track ID</key><integer>11560</integer>
+			<key>Name</key><string>Beg For Me</string>
+			<key>Artist</key><string>Korn</string>
+			<key>Album</key><string>Issues</string>
+			<key>Genre</key><string>New Metal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4742666</integer>
+			<key>Total Time</key><integer>233926</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2021-09-03T16:15:32Z</date>
+			<key>Date Added</key><date>2025-05-23T00:02:53Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3778067826</integer>
+			<key>Play Date UTC</key><date>2023-09-20T18:17:06Z</date>
+			<key>Normalization</key><integer>4160</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6C665F85E734FEBE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Korn%20-%20(1999)%20Issues%20-%20Beg%20For%20Me.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>11566</key>
+		<dict>
+			<key>Track ID</key><integer>11566</integer>
+			<key>Name</key><string>Dirty</string>
+			<key>Artist</key><string>Korn</string>
+			<key>Album</key><string>Issues</string>
+			<key>Genre</key><string>New Metal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9511581</integer>
+			<key>Total Time</key><integer>472372</integer>
+			<key>Stop Time</key><integer>225000</integer>
+			<key>Track Number</key><integer>16</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2021-09-03T16:15:45Z</date>
+			<key>Date Added</key><date>2025-05-23T00:02:54Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3776947166</integer>
+			<key>Play Date UTC</key><date>2023-09-07T18:59:26Z</date>
+			<key>Normalization</key><integer>2384</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>AFA49878F0FD7DCA</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Korn%20-%20(1999)%20Issues%20-%20Dirty.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>11568</key>
+		<dict>
+			<key>Track ID</key><integer>11568</integer>
+			<key>Name</key><string>Falling Away From Me</string>
+			<key>Artist</key><string>Korn</string>
+			<key>Album</key><string>Issues</string>
+			<key>Genre</key><string>New Metal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5478796</integer>
+			<key>Total Time</key><integer>270733</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2021-09-03T16:15:46Z</date>
+			<key>Date Added</key><date>2025-05-23T00:02:54Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3778067388</integer>
+			<key>Play Date UTC</key><date>2023-09-20T18:09:48Z</date>
+			<key>Normalization</key><integer>4676</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C80207F80C71FBB2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Korn%20-%20(1999)%20Issues%20-%20Falling%20Away%20From%20Me.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>11574</key>
+		<dict>
+			<key>Track ID</key><integer>11574</integer>
+			<key>Name</key><string>Let's Get This Party Started</string>
+			<key>Artist</key><string>Korn</string>
+			<key>Album</key><string>Issues</string>
+			<key>Genre</key><string>New Metal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4490324</integer>
+			<key>Total Time</key><integer>221309</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2021-09-03T16:15:56Z</date>
+			<key>Date Added</key><date>2025-05-23T00:02:54Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3778062481</integer>
+			<key>Play Date UTC</key><date>2023-09-20T16:48:01Z</date>
+			<key>Normalization</key><integer>5573</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>9329B5EE8C0FEBDF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Korn%20-%20(1999)%20Issues%20-%20Let's%20Get%20This%20Party%20Started.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>11576</key>
+		<dict>
+			<key>Track ID</key><integer>11576</integer>
+			<key>Name</key><string>Make Me Bad</string>
+			<key>Artist</key><string>Korn</string>
+			<key>Album</key><string>Issues</string>
+			<key>Genre</key><string>New Metal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4774535</integer>
+			<key>Total Time</key><integer>235520</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2021-09-03T16:15:58Z</date>
+			<key>Date Added</key><date>2025-05-23T00:02:54Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3778061547</integer>
+			<key>Play Date UTC</key><date>2023-09-20T16:32:27Z</date>
+			<key>Normalization</key><integer>4959</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>CE038FC073BD405A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Korn%20-%20(1999)%20Issues%20-%20Make%20Me%20Bad.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>11580</key>
+		<dict>
+			<key>Track ID</key><integer>11580</integer>
+			<key>Name</key><string>Somebody Someone</string>
+			<key>Artist</key><string>Korn</string>
+			<key>Album</key><string>Issues</string>
+			<key>Genre</key><string>New Metal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4614144</integer>
+			<key>Total Time</key><integer>227500</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2021-09-03T16:16:07Z</date>
+			<key>Date Added</key><date>2025-05-23T00:02:54Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3740510181</integer>
+			<key>Play Date UTC</key><date>2022-07-13T01:36:21Z</date>
+			<key>Normalization</key><integer>3867</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8D746C1566BBE5C6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Korn%20-%20(1999)%20Issues%20-%20Somebody%20Someone.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>11582</key>
+		<dict>
+			<key>Track ID</key><integer>11582</integer>
+			<key>Name</key><string>Trash</string>
+			<key>Artist</key><string>Korn</string>
+			<key>Album</key><string>Issues</string>
+			<key>Genre</key><string>New Metal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4207678</integer>
+			<key>Total Time</key><integer>207177</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2021-09-03T16:16:10Z</date>
+			<key>Date Added</key><date>2025-05-23T00:02:54Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3757005445</integer>
+			<key>Play Date UTC</key><date>2023-01-19T22:37:25Z</date>
+			<key>Normalization</key><integer>6150</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8B30F2D2A13A5D41</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Korn%20-%20(1999)%20Issues%20-%20Trash.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>11584</key>
+		<dict>
+			<key>Track ID</key><integer>11584</integer>
+			<key>Name</key><string>Wake Up</string>
+			<key>Artist</key><string>Korn</string>
+			<key>Album</key><string>Issues</string>
+			<key>Genre</key><string>New Metal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5022698</integer>
+			<key>Total Time</key><integer>247928</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>1999</integer>
+			<key>Date Modified</key><date>2021-09-03T16:16:13Z</date>
+			<key>Date Added</key><date>2025-05-23T00:02:54Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3778068069</integer>
+			<key>Play Date UTC</key><date>2023-09-20T18:21:09Z</date>
+			<key>Normalization</key><integer>4893</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>9BF53B6B03A1ADDD</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Korn%20-%20(1999)%20Issues%20-%20Wake%20Up.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>11588</key>
+		<dict>
+			<key>Track ID</key><integer>11588</integer>
+			<key>Name</key><string>Alone I Break</string>
+			<key>Artist</key><string>Korn</string>
+			<key>Album Artist</key><string>Korn</string>
+			<key>Composer</key><string>Korn</string>
+			<key>Album</key><string>Untouchables</string>
+			<key>Genre</key><string>New Metal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5667911</integer>
+			<key>Total Time</key><integer>258220</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2021-09-03T16:16:22Z</date>
+			<key>Date Added</key><date>2025-05-23T00:02:55Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>  </string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3778064956</integer>
+			<key>Play Date UTC</key><date>2023-09-20T17:29:16Z</date>
+			<key>Normalization</key><integer>5475</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8A0E383BD317B7EC</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Korn%20-%20(2002)%20Untouchables%20-%20Alone%20I%20Break.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>11592</key>
+		<dict>
+			<key>Track ID</key><integer>11592</integer>
+			<key>Name</key><string>Blame</string>
+			<key>Artist</key><string>Korn</string>
+			<key>Album Artist</key><string>Korn</string>
+			<key>Composer</key><string>Korn</string>
+			<key>Album</key><string>Untouchables</string>
+			<key>Genre</key><string>New Metal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5234053</integer>
+			<key>Total Time</key><integer>231105</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2021-09-03T16:16:28Z</date>
+			<key>Date Added</key><date>2025-05-23T00:02:55Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>  </string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3740507929</integer>
+			<key>Play Date UTC</key><date>2022-07-13T00:58:49Z</date>
+			<key>Normalization</key><integer>9079</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0F9AED685A81EB5F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Korn%20-%20(2002)%20Untouchables%20-%20Blame.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>11602</key>
+		<dict>
+			<key>Track ID</key><integer>11602</integer>
+			<key>Name</key><string>Here To Stay</string>
+			<key>Artist</key><string>Korn</string>
+			<key>Album Artist</key><string>Korn</string>
+			<key>Composer</key><string>Korn</string>
+			<key>Album</key><string>Untouchables</string>
+			<key>Genre</key><string>New Metal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5932477</integer>
+			<key>Total Time</key><integer>274755</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2021-09-03T16:16:48Z</date>
+			<key>Date Added</key><date>2025-05-23T00:02:55Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>  </string>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3778068339</integer>
+			<key>Play Date UTC</key><date>2023-09-20T18:25:39Z</date>
+			<key>Normalization</key><integer>7214</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>9F367DE441A722C1</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Korn%20-%20(2002)%20Untouchables%20-%20Here%20to%20Stay.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>11604</key>
+		<dict>
+			<key>Track ID</key><integer>11604</integer>
+			<key>Name</key><string>Hollow Life</string>
+			<key>Artist</key><string>Korn</string>
+			<key>Album Artist</key><string>Korn</string>
+			<key>Composer</key><string>Korn</string>
+			<key>Album</key><string>Untouchables</string>
+			<key>Genre</key><string>New Metal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5525399</integer>
+			<key>Total Time</key><integer>249312</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>2002</integer>
+			<key>Date Modified</key><date>2021-09-03T16:16:52Z</date>
+			<key>Date Added</key><date>2025-05-23T00:02:55Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>  </string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3778062055</integer>
+			<key>Play Date UTC</key><date>2023-09-20T16:40:55Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2021-12-06T03:55:46Z</date>
+			<key>Normalization</key><integer>6674</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0A85EF439C38BD53</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Korn%20-%20(2002)%20Untouchables%20-%20Hollow%20Life.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>11622</key>
+		<dict>
+			<key>Track ID</key><integer>11622</integer>
+			<key>Name</key><string>Counting On Me</string>
+			<key>Artist</key><string>Korn</string>
+			<key>Album</key><string>Take A Look In The Mirror</string>
+			<key>Genre</key><string>New Metal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7014956</integer>
+			<key>Total Time</key><integer>289488</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2021-09-03T16:17:29Z</date>
+			<key>Date Added</key><date>2025-05-23T00:02:56Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3747299659</integer>
+			<key>Play Date UTC</key><date>2022-09-29T15:34:19Z</date>
+			<key>Normalization</key><integer>7576</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>13A9BC367ECA82DB</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Korn%20-%20(2003)%20Take%20a%20look%20in%20the%20mirror%20-%20Counting%20On%20Me.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>11626</key>
+		<dict>
+			<key>Track ID</key><integer>11626</integer>
+			<key>Name</key><string>Did My Time</string>
+			<key>Artist</key><string>Korn</string>
+			<key>Album</key><string>Take A Look In The Mirror</string>
+			<key>Genre</key><string>New Metal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5933225</integer>
+			<key>Total Time</key><integer>243983</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2021-09-03T16:17:43Z</date>
+			<key>Date Added</key><date>2025-05-23T00:02:57Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3778065196</integer>
+			<key>Play Date UTC</key><date>2023-09-20T17:33:16Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2021-12-06T03:56:03Z</date>
+			<key>Normalization</key><integer>8462</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>431104DB13683BC6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Korn%20-%20(2003)%20Take%20a%20look%20in%20the%20mirror%20-%20Did%20My%20Time.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>11628</key>
+		<dict>
+			<key>Track ID</key><integer>11628</integer>
+			<key>Name</key><string>Everything I've Known</string>
+			<key>Artist</key><string>Korn</string>
+			<key>Album</key><string>Take A Look In The Mirror</string>
+			<key>Genre</key><string>New Metal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5228359</integer>
+			<key>Total Time</key><integer>214935</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2021-09-03T16:17:43Z</date>
+			<key>Date Added</key><date>2025-05-23T00:02:57Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3778063842</integer>
+			<key>Play Date UTC</key><date>2023-09-20T17:10:42Z</date>
+			<key>Normalization</key><integer>7230</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E40983465C40A2C4</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Korn%20-%20(2003)%20Take%20a%20look%20in%20the%20mirror%20-%20Everything%20I've%20Known.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>11630</key>
+		<dict>
+			<key>Track ID</key><integer>11630</integer>
+			<key>Name</key><string>Here It Comes Again</string>
+			<key>Artist</key><string>Korn</string>
+			<key>Album</key><string>Take A Look In The Mirror</string>
+			<key>Genre</key><string>New Metal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5203943</integer>
+			<key>Total Time</key><integer>213916</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2021-09-03T16:17:46Z</date>
+			<key>Date Added</key><date>2025-05-23T00:02:57Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3778062265</integer>
+			<key>Play Date UTC</key><date>2023-09-20T16:44:25Z</date>
+			<key>Normalization</key><integer>7600</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0D8865697C1595E7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Korn%20-%20(2003)%20Take%20a%20look%20in%20the%20mirror%20-%20Here%20It%20Comes%20Again.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>11632</key>
+		<dict>
+			<key>Track ID</key><integer>11632</integer>
+			<key>Name</key><string>I'm Done</string>
+			<key>Artist</key><string>Korn</string>
+			<key>Album</key><string>Take A Look In The Mirror</string>
+			<key>Genre</key><string>New Metal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4949777</integer>
+			<key>Total Time</key><integer>203311</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2021-09-03T16:17:53Z</date>
+			<key>Date Added</key><date>2025-05-23T00:02:57Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>8395</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>9D39F22867DAB1A5</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Korn%20-%20(2003)%20Take%20a%20look%20in%20the%20mirror%20-%20I'm%20Done.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>11640</key>
+		<dict>
+			<key>Track ID</key><integer>11640</integer>
+			<key>Name</key><string>Right Now</string>
+			<key>Artist</key><string>Korn</string>
+			<key>Album</key><string>Take A Look In The Mirror</string>
+			<key>Genre</key><string>New Metal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4630108</integer>
+			<key>Total Time</key><integer>189962</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2021-09-03T16:18:10Z</date>
+			<key>Date Added</key><date>2025-05-23T00:02:58Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3740516527</integer>
+			<key>Play Date UTC</key><date>2022-07-13T03:22:07Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2021-11-19T16:25:19Z</date>
+			<key>Normalization</key><integer>10494</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>974DAC036D687C25</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Korn%20-%20(2003)%20Take%20a%20look%20in%20the%20mirror%20-%20Right%20Now.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>11644</key>
+		<dict>
+			<key>Track ID</key><integer>11644</integer>
+			<key>Name</key><string>Y'all Want a Single</string>
+			<key>Artist</key><string>Korn</string>
+			<key>Album</key><string>Take A Look In The Mirror</string>
+			<key>Genre</key><string>New Metal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4815198</integer>
+			<key>Total Time</key><integer>197694</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2021-09-03T16:18:23Z</date>
+			<key>Date Added</key><date>2025-05-23T00:02:58Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3778064035</integer>
+			<key>Play Date UTC</key><date>2023-09-20T17:13:55Z</date>
+			<key>Normalization</key><integer>8340</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F4C6DE40551D95E9</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Korn%20-%20(2003)%20Take%20a%20look%20in%20the%20mirror%20-%20Y'all%20Want%20a%20Single.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>11666</key>
+		<dict>
+			<key>Track ID</key><integer>11666</integer>
+			<key>Name</key><string>Hold on</string>
+			<key>Artist</key><string>Korn</string>
+			<key>Album</key><string>Untitled</string>
+			<key>Genre</key><string>New Metal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5136767</integer>
+			<key>Total Time</key><integer>185573</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2021-09-03T16:19:04Z</date>
+			<key>Date Added</key><date>2025-05-23T00:02:59Z</date>
+			<key>Bit Rate</key><integer>217</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3778064703</integer>
+			<key>Play Date UTC</key><date>2023-09-20T17:25:03Z</date>
+			<key>Normalization</key><integer>10462</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C7D0CA98C1F5D135</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Korn%20-%20(2007)%20Untitled%20-%20hold_on.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>11688</key>
+		<dict>
+			<key>Track ID</key><integer>11688</integer>
+			<key>Name</key><string>Love &#38; Meth</string>
+			<key>Artist</key><string>Korn</string>
+			<key>Album</key><string>The Paradigm Shift</string>
+			<key>Genre</key><string>New Metal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10073626</integer>
+			<key>Total Time</key><integer>243173</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2021-09-03T16:19:51Z</date>
+			<key>Date Added</key><date>2025-05-23T00:03:00Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3740515711</integer>
+			<key>Play Date UTC</key><date>2022-07-13T03:08:31Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2020-11-23T01:38:13Z</date>
+			<key>Normalization</key><integer>7172</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Paradigm Shift</string>
+			<key>Persistent ID</key><string>B4587D480D09239D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Korn%20-%20(2013)%20The%20Paradigm%20Shift%20-%20Love%20&#38;%20Meth.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>11712</key>
+		<dict>
+			<key>Track ID</key><integer>11712</integer>
+			<key>Name</key><string>Hater (Real Studio Version)</string>
+			<key>Artist</key><string>Korn</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3776155</integer>
+			<key>Total Time</key><integer>235363</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2021-09-03T16:20:47Z</date>
+			<key>Date Added</key><date>2025-05-23T00:03:02Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3778063127</integer>
+			<key>Play Date UTC</key><date>2023-09-20T16:58:47Z</date>
+			<key>Normalization</key><integer>5575</integer>
+			<key>Persistent ID</key><string>EB7ED2F49FDD9FF2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Korn%20-%20(2014)%20-%20Hater%20(Real%20Studio%20Version).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>11718</key>
+		<dict>
+			<key>Track ID</key><integer>11718</integer>
+			<key>Name</key><string>Black Is The Soul</string>
+			<key>Artist</key><string>Korn</string>
+			<key>Composer</key><string>Korn</string>
+			<key>Album</key><string>The Serenity of Suffering</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9705310</integer>
+			<key>Total Time</key><integer>241214</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2021-09-03T16:21:04Z</date>
+			<key>Date Added</key><date>2025-05-23T00:03:02Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3778064522</integer>
+			<key>Play Date UTC</key><date>2023-09-20T17:22:02Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2023-09-11T02:55:55Z</date>
+			<key>Normalization</key><integer>10800</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Serenity of Suffering</string>
+			<key>Persistent ID</key><string>B2FF2D5BC8ACB71D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Korn%20-%20(2016)%20The%20Serenity%20of%20Suffering%20-%20Black%20Is%20The%20Soul.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>11724</key>
+		<dict>
+			<key>Track ID</key><integer>11724</integer>
+			<key>Name</key><string>Everything Falls Apart</string>
+			<key>Artist</key><string>Korn</string>
+			<key>Composer</key><string>Korn</string>
+			<key>Album</key><string>The Serenity of Suffering</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10342703</integer>
+			<key>Total Time</key><integer>257149</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2021-09-03T16:21:18Z</date>
+			<key>Date Added</key><date>2025-05-23T00:03:02Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3778065448</integer>
+			<key>Play Date UTC</key><date>2023-09-20T17:37:28Z</date>
+			<key>Normalization</key><integer>9502</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Serenity of Suffering</string>
+			<key>Persistent ID</key><string>F04FC1AE233E73E5</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Korn%20-%20(2016)%20The%20Serenity%20of%20Suffering%20-%20Everything%20Falls%20Apart.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>11732</key>
+		<dict>
+			<key>Track ID</key><integer>11732</integer>
+			<key>Name</key><string>Rotting In Vain</string>
+			<key>Artist</key><string>Korn</string>
+			<key>Composer</key><string>Korn</string>
+			<key>Album</key><string>The Serenity of Suffering</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8578908</integer>
+			<key>Total Time</key><integer>213054</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2021-09-03T16:21:37Z</date>
+			<key>Date Added</key><date>2025-05-23T00:03:02Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3778067597</integer>
+			<key>Play Date UTC</key><date>2023-09-20T18:13:17Z</date>
+			<key>Normalization</key><integer>8509</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Serenity of Suffering</string>
+			<key>Persistent ID</key><string>E7BD09EF43128620</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Korn%20-%20(2016)%20The%20Serenity%20of%20Suffering%20-%20Rotting%20In%20Vain.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>11738</key>
+		<dict>
+			<key>Track ID</key><integer>11738</integer>
+			<key>Name</key><string>When You're Not There</string>
+			<key>Artist</key><string>Korn</string>
+			<key>Composer</key><string>Korn</string>
+			<key>Album</key><string>The Serenity of Suffering</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8248727</integer>
+			<key>Total Time</key><integer>204800</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2021-09-03T16:21:45Z</date>
+			<key>Date Added</key><date>2025-05-23T00:03:03Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3778062681</integer>
+			<key>Play Date UTC</key><date>2023-09-20T16:51:21Z</date>
+			<key>Normalization</key><integer>9699</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Serenity of Suffering</string>
+			<key>Persistent ID</key><string>33F3C49B9FFD3A54</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Korn%20-%20(2016)%20The%20Serenity%20of%20Suffering%20-%20When%20You're%20Not%20There.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>11740</key>
+		<dict>
+			<key>Track ID</key><integer>11740</integer>
+			<key>Name</key><string>You'll Never Find Me</string>
+			<key>Artist</key><string>Korn</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5306176</integer>
+			<key>Total Time</key><integer>220656</integer>
+			<key>Year</key><integer>2019</integer>
+			<key>Date Modified</key><date>2021-09-03T16:21:48Z</date>
+			<key>Date Added</key><date>2025-05-23T00:03:03Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3778067122</integer>
+			<key>Play Date UTC</key><date>2023-09-20T18:05:22Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2021-12-06T03:53:21Z</date>
+			<key>Normalization</key><integer>6973</integer>
+			<key>Persistent ID</key><string>4D4AF4B5A8E9ECA5</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Korn%20-%20(2019)%20-%20You'll%20Never%20Find%20Me.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>11742</key>
+		<dict>
+			<key>Track ID</key><integer>11742</integer>
+			<key>Name</key><string>Blind (Live)</string>
+			<key>Artist</key><string>Korn</string>
+			<key>Album</key><string>Outras músicas</string>
+			<key>Genre</key><string>New Metal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3850519</integer>
+			<key>Total Time</key><integer>239986</integer>
+			<key>Date Modified</key><date>2021-09-03T16:21:48Z</date>
+			<key>Date Added</key><date>2025-05-23T00:03:03Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3778065698</integer>
+			<key>Play Date UTC</key><date>2023-09-20T17:41:38Z</date>
+			<key>Normalization</key><integer>6239</integer>
+			<key>Persistent ID</key><string>02987A08EC1B08F1</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Korn%20-%20Blind%20(ao%20vivo).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>11746</key>
+		<dict>
+			<key>Track ID</key><integer>11746</integer>
+			<key>Name</key><string>Dead Bodies Everywhere</string>
+			<key>Artist</key><string>Korn</string>
+			<key>Album</key><string>Follow the Leader</string>
+			<key>Genre</key><string>New Metal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5806741</integer>
+			<key>Total Time</key><integer>284943</integer>
+			<key>Year</key><integer>1998</integer>
+			<key>Date Modified</key><date>2021-09-03T16:22:02Z</date>
+			<key>Date Added</key><date>2025-05-23T00:03:03Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3778066651</integer>
+			<key>Play Date UTC</key><date>2023-09-20T17:57:31Z</date>
+			<key>Normalization</key><integer>3680</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>CF48A9DB626BB97A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Korn%20-%20Follow%20the%20Leader%20-%20B.B.K.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>11750</key>
+		<dict>
+			<key>Track ID</key><integer>11750</integer>
+			<key>Name</key><string>Childrem of the korn (com Ice Cube)</string>
+			<key>Artist</key><string>Korn</string>
+			<key>Album</key><string>Follow the Leader</string>
+			<key>Genre</key><string>New Metal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4754543</integer>
+			<key>Total Time</key><integer>232333</integer>
+			<key>Year</key><integer>1998</integer>
+			<key>Date Modified</key><date>2024-07-04T16:22:50Z</date>
+			<key>Date Added</key><date>2025-05-23T00:03:03Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3747296925</integer>
+			<key>Play Date UTC</key><date>2022-09-29T14:48:45Z</date>
+			<key>Normalization</key><integer>5330</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8E8DD686DDBC86F8</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Korn%20-%20Follow%20the%20Leader%20-%20Childrem%20of%20the%20Korn.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>11752</key>
+		<dict>
+			<key>Track ID</key><integer>11752</integer>
+			<key>Name</key><string>B.B.K.</string>
+			<key>Artist</key><string>Korn</string>
+			<key>Album</key><string>Follow the Leader</string>
+			<key>Genre</key><string>New Metal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4836522</integer>
+			<key>Total Time</key><integer>236434</integer>
+			<key>Year</key><integer>1998</integer>
+			<key>Date Modified</key><date>2021-09-03T16:22:10Z</date>
+			<key>Date Added</key><date>2025-05-23T00:03:03Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3778063359</integer>
+			<key>Play Date UTC</key><date>2023-09-20T17:02:39Z</date>
+			<key>Normalization</key><integer>6476</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>36549D5C0ABB13DB</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Korn%20-%20Follow%20the%20Leader%20-%20dfsdf.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>11754</key>
+		<dict>
+			<key>Track ID</key><integer>11754</integer>
+			<key>Name</key><string>Freak on a Leash</string>
+			<key>Artist</key><string>Korn</string>
+			<key>Album</key><string>Follow the Leader</string>
+			<key>Genre</key><string>New Metal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4184438</integer>
+			<key>Total Time</key><integer>255373</integer>
+			<key>Year</key><integer>1998</integer>
+			<key>Date Modified</key><date>2021-09-03T16:22:14Z</date>
+			<key>Date Added</key><date>2025-05-23T00:03:04Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3778064285</integer>
+			<key>Play Date UTC</key><date>2023-09-20T17:18:05Z</date>
+			<key>Normalization</key><integer>4867</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B27BA0DF32BB95A0</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Korn%20-%20Follow%20the%20Leader%20-%20Freak%20On%20A%20Leash.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>11756</key>
+		<dict>
+			<key>Track ID</key><integer>11756</integer>
+			<key>Name</key><string>Got The Life</string>
+			<key>Artist</key><string>Korn</string>
+			<key>Album</key><string>Follow the Leader</string>
+			<key>Genre</key><string>New Metal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6781066</integer>
+			<key>Total Time</key><integer>228519</integer>
+			<key>Year</key><integer>1998</integer>
+			<key>Date Modified</key><date>2021-09-03T16:22:15Z</date>
+			<key>Date Added</key><date>2025-05-23T00:03:04Z</date>
+			<key>Bit Rate</key><integer>233</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3740513513</integer>
+			<key>Play Date UTC</key><date>2022-07-13T02:31:53Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2023-09-11T02:55:51Z</date>
+			<key>Normalization</key><integer>5803</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C60DE60532529281</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Korn%20-%20Follow%20the%20Leader%20-%20Got%20the%20Life.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>11758</key>
+		<dict>
+			<key>Track ID</key><integer>11758</integer>
+			<key>Name</key><string>It's on</string>
+			<key>Artist</key><string>Korn</string>
+			<key>Album</key><string>Follow the Leader</string>
+			<key>Genre</key><string>New Metal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5483909</integer>
+			<key>Total Time</key><integer>268800</integer>
+			<key>Year</key><integer>1998</integer>
+			<key>Date Modified</key><date>2021-09-03T16:22:18Z</date>
+			<key>Date Added</key><date>2025-05-23T00:03:04Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>14</integer>
+			<key>Play Date</key><integer>3783275865</integer>
+			<key>Play Date UTC</key><date>2023-11-19T23:57:45Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2023-05-31T14:19:12Z</date>
+			<key>Normalization</key><integer>4426</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D40FEA74A3CCAA50</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Korn%20-%20Follow%20the%20Leader%20-%20It's%20On.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>11762</key>
+		<dict>
+			<key>Track ID</key><integer>11762</integer>
+			<key>Name</key><string>Pretty</string>
+			<key>Artist</key><string>Korn</string>
+			<key>Album</key><string>Follow the Leader</string>
+			<key>Genre</key><string>New Metal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5150511</integer>
+			<key>Total Time</key><integer>252133</integer>
+			<key>Year</key><integer>1998</integer>
+			<key>Date Modified</key><date>2024-05-31T19:25:42Z</date>
+			<key>Date Added</key><date>2025-05-23T00:03:04Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>100</integer>
+			<key>Play Count</key><integer>18</integer>
+			<key>Play Date</key><integer>3776951925</integer>
+			<key>Play Date UTC</key><date>2023-09-07T20:18:45Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2023-05-10T15:51:51Z</date>
+			<key>Normalization</key><integer>4459</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>9A59D2566453DF85</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Korn%20-%20Follow%20the%20Leader%20-%20Pretty.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>11766</key>
+		<dict>
+			<key>Track ID</key><integer>11766</integer>
+			<key>Name</key><string>Seed</string>
+			<key>Artist</key><string>Korn</string>
+			<key>Album</key><string>Follow the Leader</string>
+			<key>Genre</key><string>New Metal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5250854</integer>
+			<key>Total Time</key><integer>257149</integer>
+			<key>Year</key><integer>1998</integer>
+			<key>Date Modified</key><date>2021-09-03T16:22:34Z</date>
+			<key>Date Added</key><date>2025-05-23T00:03:04Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3757005242</integer>
+			<key>Play Date UTC</key><date>2023-01-19T22:34:02Z</date>
+			<key>Normalization</key><integer>5049</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>91C198E38A9F643B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Korn%20-%20Follow%20the%20Leader%20-%20Seed.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>18522</key>
+		<dict>
+			<key>Track ID</key><integer>18522</integer>
+			<key>Name</key><string>Forgotten</string>
+			<key>Artist</key><string>Korn </string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8436833</integer>
+			<key>Total Time</key><integer>210912</integer>
+			<key>Date Modified</key><date>2022-02-16T23:21:48Z</date>
+			<key>Date Added</key><date>2025-05-23T00:09:05Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>235</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3778066053</integer>
+			<key>Play Date UTC</key><date>2023-09-20T17:47:33Z</date>
+			<key>Normalization</key><integer>12467</integer>
+			<key>Persistent ID</key><string>F00559105A510290</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Korn%20-%20Forgotten.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>Besf of: Korn</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>63052</integer>
+			<key>Playlist Persistent ID</key><string>007F249B88A5B4CE</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>11688</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11568</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11582</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11560</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11576</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11584</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11574</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11566</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11506</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11508</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11534</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11528</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11530</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11546</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11742</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11640</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11622</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11626</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11628</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11632</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11644</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11592</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11604</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11712</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11740</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11580</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11752</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11750</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11746</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11754</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11756</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11762</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11758</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11732</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11718</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11724</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11738</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11514</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11526</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11666</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11630</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11602</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11766</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11588</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18522</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

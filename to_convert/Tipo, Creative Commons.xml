@@ -1,0 +1,520 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2025-06-04T13:16:54Z</date>
+	<key>Application Version</key><string>12.13.7.1</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/E:/Users/aldol/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>187AD5E35C5E82C1</string>
+	<key>Tracks</key>
+	<dict>
+		<key>3050</key>
+		<dict>
+			<key>Track ID</key><integer>3050</integer>
+			<key>Name</key><string>Viajante</string>
+			<key>Artist</key><string>A. Lammel</string>
+			<key>Album</key><string>Longe de casa</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8685086</integer>
+			<key>Total Time</key><integer>216868</integer>
+			<key>Date Modified</key><date>2021-09-03T01:03:57Z</date>
+			<key>Date Added</key><date>2025-05-22T23:55:04Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>2014</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3770656974</integer>
+			<key>Play Date UTC</key><date>2023-06-26T23:42:54Z</date>
+			<key>Skip Count</key><integer>7</integer>
+			<key>Skip Date</key><date>2024-02-26T12:17:43Z</date>
+			<key>Normalization</key><integer>605</integer>
+			<key>Persistent ID</key><string>F40DEF85ECEB561A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/A.%20Lammel%20-%20(2014)%20Viajante.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>3312</key>
+		<dict>
+			<key>Track ID</key><integer>3312</integer>
+			<key>Name</key><string>Chill Love</string>
+			<key>Artist</key><string>AISU</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2895055</integer>
+			<key>Total Time</key><integer>174628</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2021-09-03T01:10:05Z</date>
+			<key>Date Added</key><date>2025-05-22T23:55:17Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Soundcloud - Creative Commons</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3709800931</integer>
+			<key>Play Date UTC</key><date>2021-07-22T15:15:31Z</date>
+			<key>Normalization</key><integer>1259</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A566F3589AC0CC4B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Aisu%20-%20Chill%20Love.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>6752</key>
+		<dict>
+			<key>Track ID</key><integer>6752</integer>
+			<key>Name</key><string>Life (Instrumental)</string>
+			<key>Artist</key><string>J Dilla</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4488927</integer>
+			<key>Total Time</key><integer>280163</integer>
+			<key>Date Modified</key><date>2021-09-03T02:44:52Z</date>
+			<key>Date Added</key><date>2025-05-22T23:58:43Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>10</integer>
+			<key>Play Date</key><integer>3721564388</integer>
+			<key>Play Date UTC</key><date>2021-12-05T17:53:08Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2020-07-03T11:46:25Z</date>
+			<key>Normalization</key><integer>1162</integer>
+			<key>Sort Artist</key><string>J Dilla</string>
+			<key>Sort Name</key><string>Life (Instrumental)</string>
+			<key>Persistent ID</key><string>738CD2BE6126C2FD</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Creative%20Commons%20-%20J%20Dilla%20-%20Life%20(Instrumental).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>6760</key>
+		<dict>
+			<key>Track ID</key><integer>6760</integer>
+			<key>Name</key><string>Venice Beach</string>
+			<key>Artist</key><string>Topher Mohr and Alex Elena</string>
+			<key>Genre</key><string>Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7085331</integer>
+			<key>Total Time</key><integer>176976</integer>
+			<key>Date Modified</key><date>2021-09-03T02:45:06Z</date>
+			<key>Date Added</key><date>2025-05-22T23:58:43Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Normalization</key><integer>1953</integer>
+			<key>Sort Artist</key><string>Topher Mohr and Alex Elena</string>
+			<key>Sort Name</key><string>Venice Beach</string>
+			<key>Persistent ID</key><string>D1EE9040D8EE7684</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Creative%20Commons%20-%20Venice_Beach.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>6902</key>
+		<dict>
+			<key>Track ID</key><integer>6902</integer>
+			<key>Name</key><string>Desfaz</string>
+			<key>Artist</key><string>Avenue</string>
+			<key>Album</key><string>CURA (Nunca lançado)</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>12527956</integer>
+			<key>Total Time</key><integer>227787</integer>
+			<key>Year</key><integer>2011</integer>
+			<key>Date Modified</key><date>2021-09-03T02:49:12Z</date>
+			<key>Date Added</key><date>2025-05-22T23:58:50Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2025-05-25T15:05:12Z</date>
+			<key>Normalization</key><integer>5865</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>CURA (Nunca lançado)</string>
+			<key>Sort Artist</key><string>Avenue</string>
+			<key>Persistent ID</key><string>D519464C3E7CE397</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Cura%20-%20Desfaz.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>6912</key>
+		<dict>
+			<key>Track ID</key><integer>6912</integer>
+			<key>Name</key><string>Me Prendo em Silencio</string>
+			<key>Artist</key><string>Avenue</string>
+			<key>Album</key><string>CURA (Nunca lançado)</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5739309</integer>
+			<key>Total Time</key><integer>239072</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2021-09-03T02:49:32Z</date>
+			<key>Date Added</key><date>2025-05-22T23:58:51Z</date>
+			<key>Bit Rate</key><integer>191</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>3380</integer>
+			<key>Sort Album</key><string>CURA (Nunca lançado)</string>
+			<key>Sort Artist</key><string>Avenue</string>
+			<key>Persistent ID</key><string>28CC8F795F127E08</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Cura%20-%20Me%20Prendo%20em%20Silencio2.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>9892</key>
+		<dict>
+			<key>Track ID</key><integer>9892</integer>
+			<key>Name</key><string>Icefall (Remastered)</string>
+			<key>Artist</key><string>Marc Hönninger </string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>14289893</integer>
+			<key>Total Time</key><integer>356989</integer>
+			<key>Date Modified</key><date>2021-09-03T15:28:21Z</date>
+			<key>Date Added</key><date>2025-05-23T00:01:23Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3704120728</integer>
+			<key>Play Date UTC</key><date>2021-05-17T21:25:28Z</date>
+			<key>Normalization</key><integer>2149</integer>
+			<key>Persistent ID</key><string>57822A31B3961AC0</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Icefall%20Remastered.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>11866</key>
+		<dict>
+			<key>Track ID</key><integer>11866</integer>
+			<key>Name</key><string>5 Min Call</string>
+			<key>Artist</key><string>LAKEY INSPIRED</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10174224</integer>
+			<key>Total Time</key><integer>170422</integer>
+			<key>Date Modified</key><date>2021-09-03T16:25:27Z</date>
+			<key>Date Added</key><date>2025-05-23T00:03:09Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3783243575</integer>
+			<key>Play Date UTC</key><date>2023-11-19T14:59:35Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2024-02-08T11:36:02Z</date>
+			<key>Normalization</key><integer>2020</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8D4FE54E368F3CEC</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Lakey%20Inspired%20-%205%20Min%20Call.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>11868</key>
+		<dict>
+			<key>Track ID</key><integer>11868</integer>
+			<key>Name</key><string>Alone</string>
+			<key>Artist</key><string>LAKEY INSPIRED</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4903317</integer>
+			<key>Total Time</key><integer>201064</integer>
+			<key>Date Modified</key><date>2021-09-03T16:25:29Z</date>
+			<key>Date Added</key><date>2025-05-23T00:03:09Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3716039071</integer>
+			<key>Play Date UTC</key><date>2021-10-02T20:04:31Z</date>
+			<key>Normalization</key><integer>1497</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>LAKEY INSPIRED</string>
+			<key>Sort Name</key><string>Alone</string>
+			<key>Persistent ID</key><string>97EFEA3C51396C13</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Lakey%20Inspired%20-%20Alone.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>11870</key>
+		<dict>
+			<key>Track ID</key><integer>11870</integer>
+			<key>Name</key><string>Chill Day</string>
+			<key>Artist</key><string>LAKEY INSPIRED</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10735413</integer>
+			<key>Total Time</key><integer>186070</integer>
+			<key>Date Modified</key><date>2021-09-03T16:25:34Z</date>
+			<key>Date Added</key><date>2025-05-23T00:03:09Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3762416053</integer>
+			<key>Play Date UTC</key><date>2023-03-23T14:34:13Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2021-10-01T10:13:54Z</date>
+			<key>Normalization</key><integer>1403</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>LAKEY INSPIRED</string>
+			<key>Persistent ID</key><string>55E6996C273C9FBD</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Lakey%20Inspired%20-%20Chill%20Day.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>11874</key>
+		<dict>
+			<key>Track ID</key><integer>11874</integer>
+			<key>Name</key><string>Island</string>
+			<key>Artist</key><string>LAKEY INSPIRED</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3808703</integer>
+			<key>Total Time</key><integer>151222</integer>
+			<key>Date Modified</key><date>2021-09-03T16:25:39Z</date>
+			<key>Date Added</key><date>2025-05-23T00:03:10Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3762416200</integer>
+			<key>Play Date UTC</key><date>2023-03-23T14:36:40Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2023-05-03T17:52:00Z</date>
+			<key>Normalization</key><integer>1437</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>917C13838975F99D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Lakey%20Inspired%20-%20Island.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>11878</key>
+		<dict>
+			<key>Track ID</key><integer>11878</integer>
+			<key>Name</key><string>Signal</string>
+			<key>Artist</key><string>LAKEY INSPIRED</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3132022</integer>
+			<key>Total Time</key><integer>195108</integer>
+			<key>Date Modified</key><date>2021-09-03T16:25:49Z</date>
+			<key>Date Added</key><date>2025-05-23T00:03:10Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3790230293</integer>
+			<key>Play Date UTC</key><date>2024-02-08T11:44:53Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2024-02-02T22:57:13Z</date>
+			<key>Normalization</key><integer>1681</integer>
+			<key>Persistent ID</key><string>3FF91EBB223B5542</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/LAKEY%20INSPIRED%20-%20Signal.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>11880</key>
+		<dict>
+			<key>Track ID</key><integer>11880</integer>
+			<key>Name</key><string>Street Dreams</string>
+			<key>Artist</key><string>LAKEY INSPIRED</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6563464</integer>
+			<key>Total Time</key><integer>180871</integer>
+			<key>Date Modified</key><date>2021-09-03T16:25:50Z</date>
+			<key>Date Added</key><date>2025-05-23T00:03:10Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3762416376</integer>
+			<key>Play Date UTC</key><date>2023-03-23T14:39:36Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2021-10-05T18:35:39Z</date>
+			<key>Normalization</key><integer>1890</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>1211460BBD1E851F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Lakey%20Inspired%20-%20Street%20Dreams.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>12898</key>
+		<dict>
+			<key>Track ID</key><integer>12898</integer>
+			<key>Name</key><string>War Is Hell (Old School Rap Beat)</string>
+			<key>Artist</key><string>Mariont</string>
+			<key>Genre</key><string>Instrumental</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5844895</integer>
+			<key>Total Time</key><integer>243304</integer>
+			<key>Date Modified</key><date>2021-09-03T17:22:13Z</date>
+			<key>Date Added</key><date>2025-05-23T00:04:00Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>1259</integer>
+			<key>Persistent ID</key><string>31EB97B8EC0126D4</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Mariont%20-%20(%2329)WarIsHell.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>13302</key>
+		<dict>
+			<key>Track ID</key><integer>13302</integer>
+			<key>Name</key><string>Impro 2016l4l2</string>
+			<key>Artist</key><string>Metome</string>
+			<key>Kind</key><string>WAV audio file</string>
+			<key>Size</key><integer>45158444</integer>
+			<key>Total Time</key><integer>256000</integer>
+			<key>Date Modified</key><date>2017-05-30T08:51:28Z</date>
+			<key>Date Added</key><date>2025-05-23T00:04:21Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3707489174</integer>
+			<key>Play Date UTC</key><date>2021-06-25T21:06:14Z</date>
+			<key>Normalization</key><integer>1404</integer>
+			<key>Persistent ID</key><string>4B4DF0E32CAD77C2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Metome%20-%20Impro%202016l4l2%20(creative%20commons).wav</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>13696</key>
+		<dict>
+			<key>Track ID</key><integer>13696</integer>
+			<key>Name</key><string>MuchLess</string>
+			<key>Artist</key><string>GrimeLab</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>1111379</integer>
+			<key>Total Time</key><integer>69328</integer>
+			<key>Date Modified</key><date>2021-09-03T17:49:08Z</date>
+			<key>Date Added</key><date>2025-05-23T00:04:42Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>SoundCloud Creative Commons</string>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2024-02-02T22:56:28Z</date>
+			<key>Normalization</key><integer>2025</integer>
+			<key>Persistent ID</key><string>261A66356007BB2E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/MuchLess.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15390</key>
+		<dict>
+			<key>Track ID</key><integer>15390</integer>
+			<key>Name</key><string>Base LoFi para a canção Cheia De Manias (JDutra)</string>
+			<key>Artist</key><string>Raça Negra</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6933889</integer>
+			<key>Total Time</key><integer>173087</integer>
+			<key>Date Modified</key><date>2024-07-12T23:22:07Z</date>
+			<key>Date Added</key><date>2025-05-23T00:06:22Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>97</integer>
+			<key>Play Count</key><integer>26</integer>
+			<key>Play Date</key><integer>3766096295</integer>
+			<key>Play Date UTC</key><date>2023-05-05T04:51:35Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2020-10-27T15:46:17Z</date>
+			<key>Normalization</key><integer>132</integer>
+			<key>Persistent ID</key><string>BD1F57CC59F6E6D4</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Ra%C3%A7a%20Negra%20-%20Cheia%20de%20Manias%20(lofi%20remix%20by%20Jo%C3%A3o%20Dutra%20-%20jdutra%20-%20no%20voices).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>18080</key>
+		<dict>
+			<key>Track ID</key><integer>18080</integer>
+			<key>Name</key><string>Much Higher (no copyright - no restriction to use)</string>
+			<key>Artist</key><string>Causmic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6914969</integer>
+			<key>Total Time</key><integer>171168</integer>
+			<key>Year</key><integer>2020</integer>
+			<key>Date Modified</key><date>2021-06-13T03:22:22Z</date>
+			<key>Date Added</key><date>2025-05-23T00:08:44Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Volume Adjustment</key><integer>255</integer>
+			<key>Play Count</key><integer>441</integer>
+			<key>Play Date</key><integer>3783185979</integer>
+			<key>Play Date UTC</key><date>2023-11-18T22:59:39Z</date>
+			<key>Skip Count</key><integer>10</integer>
+			<key>Skip Date</key><date>2025-05-26T23:34:16Z</date>
+			<key>Normalization</key><integer>1368</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>CFCAE1B9CFE17F93</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Causmic%20-%20(2020)%20Much%20Higher%20(no%20copyright%20-%20no%20restriction%20to%20use).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>Tipo, Creative Commons</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>72716</integer>
+			<key>Playlist Persistent ID</key><string>BCD7A110EC47BE84</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>11870</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11874</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11880</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11866</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6752</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6760</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6902</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6912</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3312</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13696</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11868</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12898</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9892</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3050</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15390</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13302</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18080</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11878</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+    <trackList>
+        <track>
+            <title>A Little Lie</title>
+            <creator>Dave Gahan</creator>
+            <album>Hourglass</album>
+            <duration>295053</duration>
+            <trackNum>9</trackNum>
+            <location>U:\Shared\Music\Dave Gahan - (2007) Hourglass - Little lie.mp3</location>
+        </track>
+        <track>
+            <title>Saw Something</title>
+            <creator>Dave Gahan</creator>
+            <album>Hourglass</album>
+            <duration>316290</duration>
+            <trackNum>1</trackNum>
+            <location>U:\Shared\Music\Dave Gahan - (2007) Hourglass - Saw Something.mp3</location>
+        </track>
+        <track>
+            <title>In Your Room</title>
+            <creator>Depeche Mode</creator>
+            <album>Songs Of Faith And Devotion</album>
+            <duration>387892</duration>
+            <trackNum>6</trackNum>
+            <location>U:\Shared\Music\Depeche Mode - (1993) Songs Of Faith And Devotion - In Your Room.mp3</location>
+        </track>
+        <track>
+            <title>Rush</title>
+            <creator>Depeche Mode</creator>
+            <album>Songs Of Faith And Devotion</album>
+            <duration>278674</duration>
+            <trackNum>8</trackNum>
+            <location>U:\Shared\Music\Depeche Mode - (1993) Songs Of Faith And Devotion - Rush.mp3</location>
+        </track>
+        <track>
+            <title>Walking In My Shoes</title>
+            <creator>Depeche Mode</creator>
+            <album>Songs Of Faith And Devotion</album>
+            <duration>336143</duration>
+            <trackNum>2</trackNum>
+            <location>U:\Shared\Music\Depeche Mode - (1993) Songs Of Faith And Devotion - Walking In My Shoes.mp3</location>
+        </track>
+        <track>
+            <title>Home</title>
+            <creator>Depeche Mode</creator>
+            <album>Ultra</album>
+            <duration>343954</duration>
+            <trackNum>3</trackNum>
+            <location>U:\Shared\Music\Depeche Mode - (1997) Ultra - Home.mp3</location>
+        </track>
+        <track>
+            <title>It's No Good</title>
+            <creator>Depeche Mode</creator>
+            <album>Ultra</album>
+            <duration>359392</duration>
+            <trackNum>4</trackNum>
+            <location>U:\Shared\Music\Depeche Mode - (1997) Ultra - It's No Good.mp3</location>
+        </track>
+        <track>
+            <title>Useless</title>
+            <creator>Depeche Mode</creator>
+            <album>Ultra</album>
+            <duration>313312</duration>
+            <trackNum>6</trackNum>
+            <location>U:\Shared\Music\Depeche Mode - (1997) Ultra - Useless.mp3</location>
+        </track>
+        <track>
+            <title>Stripped (Remastered)</title>
+            <creator>Depeche Mode</creator>
+            <duration>223294</duration>
+            <location>U:\Shared\Music\Depeche Mode - Stripped (Remastered).mp3</location>
+        </track>
+        <track>
+            <title>Personal Jesus</title>
+            <creator>Depeche Mode</creator>
+            <album>Essentials</album>
+            <duration>294844</duration>
+            <trackNum>2</trackNum>
+            <location>U:\Shared\Music\Depeche Mode – (2018) Essentials - Personal Jesus.mp3</location>
+        </track>
+        <track>
+            <title>Policy of Truth</title>
+            <creator>Depeche Mode</creator>
+            <album>Essentials</album>
+            <duration>294060</duration>
+            <trackNum>18</trackNum>
+            <location>U:\Shared\Music\Depeche Mode – (2018) Essentials - Policy of Truth.mp3</location>
+        </track>
+        <track>
+            <title>Precious</title>
+            <creator>Depeche Mode</creator>
+            <album>Essentials</album>
+            <duration>248346</duration>
+            <trackNum>11</trackNum>
+            <location>U:\Shared\Music\Depeche Mode – (2018) Essentials - Precious.mp3</location>
+        </track>
+        <track>
+            <title>Enjoy the Silence</title>
+            <creator>Depeche Mode</creator>
+            <album>Essentials</album>
+            <duration>255164</duration>
+            <trackNum>1</trackNum>
+            <location>U:\Shared\Music\Depeche Mode – (2018) Essentials - Enjoy the Silence.mp3</location>
+        </track>
+    </trackList>
+</playlist>

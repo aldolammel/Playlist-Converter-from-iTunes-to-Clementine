@@ -1,0 +1,672 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2025-06-04T13:12:54Z</date>
+	<key>Application Version</key><string>12.13.7.1</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/E:/Users/aldol/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>187AD5E35C5E82C1</string>
+	<key>Tracks</key>
+	<dict>
+		<key>3332</key>
+		<dict>
+			<key>Track ID</key><integer>3332</integer>
+			<key>Name</key><string>Forest</string>
+			<key>Artist</key><string>Silent Hill</string>
+			<key>Composer</key><string>Akira Yamaoka</string>
+			<key>Album</key><string>Silent Hill 2</string>
+			<key>Genre</key><string>Game</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2544025</integer>
+			<key>Total Time</key><integer>103653</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2024-03-29T14:03:40Z</date>
+			<key>Date Added</key><date>2025-05-22T23:55:18Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>100</integer>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3776949435</integer>
+			<key>Play Date UTC</key><date>2023-09-07T19:37:15Z</date>
+			<key>Normalization</key><integer>1259</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BC4DDD89ABEE95E5</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Akira%20Yamaoka%20-%20(2001)%20Silent%20Hill%202%20-%20forest.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>3658</key>
+		<dict>
+			<key>Track ID</key><integer>3658</integer>
+			<key>Name</key><string>Guardians Of Asgaard</string>
+			<key>Artist</key><string>Amon Amarth</string>
+			<key>Album</key><string>Twilight Of The Thunder God</string>
+			<key>Genre</key><string>Death Metal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8047054</integer>
+			<key>Total Time</key><integer>263209</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2021-09-03T01:16:07Z</date>
+			<key>Date Added</key><date>2025-05-22T23:55:39Z</date>
+			<key>Bit Rate</key><integer>241</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3685380791</integer>
+			<key>Play Date UTC</key><date>2020-10-12T23:53:11Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2020-10-11T17:30:28Z</date>
+			<key>Normalization</key><integer>9522</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5B66C14EB636E78E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Amon%20Amarth%20-%20(2008)%20Twilight%20Of%20The%20Thunder%20God%20-%20guardians_of_asgaard.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>3664</key>
+		<dict>
+			<key>Track ID</key><integer>3664</integer>
+			<key>Name</key><string>Tattered Banners And Bloody Flags</string>
+			<key>Artist</key><string>Amon Amarth</string>
+			<key>Album</key><string>Twilight Of The Thunder God</string>
+			<key>Genre</key><string>Death Metal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8531230</integer>
+			<key>Total Time</key><integer>270106</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2021-09-03T01:16:15Z</date>
+			<key>Date Added</key><date>2025-05-22T23:55:39Z</date>
+			<key>Bit Rate</key><integer>249</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3685381061</integer>
+			<key>Play Date UTC</key><date>2020-10-12T23:57:41Z</date>
+			<key>Normalization</key><integer>9046</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>934533CADDE5D3E4</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Amon%20Amarth%20-%20(2008)%20Twilight%20Of%20The%20Thunder%20God%20-%20tattered_banners_and_bloody_flags.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>3668</key>
+		<dict>
+			<key>Track ID</key><integer>3668</integer>
+			<key>Name</key><string>Twilight Of The Thunder God</string>
+			<key>Artist</key><string>Amon Amarth</string>
+			<key>Album</key><string>Twilight Of The Thunder God</string>
+			<key>Genre</key><string>Death Metal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7839678</integer>
+			<key>Total Time</key><integer>248790</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2021-09-03T01:16:14Z</date>
+			<key>Date Added</key><date>2025-05-22T23:55:39Z</date>
+			<key>Bit Rate</key><integer>248</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3685380528</integer>
+			<key>Play Date UTC</key><date>2020-10-12T23:48:48Z</date>
+			<key>Normalization</key><integer>9628</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>CB81D14A128A99B7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Amon%20Amarth%20-%20(2008)%20Twilight%20Of%20The%20Thunder%20God%20-%20twilight_of_the_thunder_god.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>7594</key>
+		<dict>
+			<key>Track ID</key><integer>7594</integer>
+			<key>Name</key><string>Hybrid Stigmata - The Apostasy</string>
+			<key>Artist</key><string>Dimmu Borgir</string>
+			<key>Album Artist</key><string>Dimmu Borgir</string>
+			<key>Composer</key><string>Erkekjetter Silenoz/Mustis/Shgrath</string>
+			<key>Album</key><string>Puritanical Euphoric Misanthropia</string>
+			<key>Genre</key><string>Black Metal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>17125391</integer>
+			<key>Total Time</key><integer>417697</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>2001</integer>
+			<key>Date Modified</key><date>2024-07-12T15:14:14Z</date>
+			<key>Date Added</key><date>2025-05-22T23:59:26Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>103</integer>
+			<key>Comments</key><string> 00004349 00004D31 000135E8 000180B1 00007916 0005D46D 00008000 00008000 000021EC 000021EC</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3685379321</integer>
+			<key>Play Date UTC</key><date>2020-10-12T23:28:41Z</date>
+			<key>Normalization</key><integer>19759</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0F5D188DFEA3122F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Dimmu%20Borgir%20-%20(2001)%20Puritanical%20Euphoric%20Misanthropia%20-%20Hybrid%20Stigmata%20The%20Apostasy.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>7612</key>
+		<dict>
+			<key>Track ID</key><integer>7612</integer>
+			<key>Name</key><string>Blood Hunger Doctrine</string>
+			<key>Artist</key><string>Dimmu Borgir</string>
+			<key>Composer</key><string>Dimmu Borgir/Erkekjetter Silenoz/Mustis/Shagrath</string>
+			<key>Album</key><string>Death Cult Armageddon</string>
+			<key>Genre</key><string>Black Metal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11338488</integer>
+			<key>Total Time</key><integer>279614</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2024-07-12T15:05:40Z</date>
+			<key>Date Added</key><date>2025-05-22T23:59:27Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>103</integer>
+			<key>Comments</key><string> 000021E0 000029EC 0000A4FB 0000955D 0000CFCC 0002616E 00008000 00008000 0000EA31 0000859A</string>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3685379927</integer>
+			<key>Play Date UTC</key><date>2020-10-12T23:38:47Z</date>
+			<key>Normalization</key><integer>10734</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BF405B23F7744711</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Dimmu%20Borgir%20-%20(2003)%20Death%20Cult%20Armageddon%20-%20Blood%20Hunger%20Doctrine.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>7624</key>
+		<dict>
+			<key>Track ID</key><integer>7624</integer>
+			<key>Name</key><string>Progenies of the Great Apocalypse</string>
+			<key>Artist</key><string>Dimmu Borgir</string>
+			<key>Composer</key><string>Dimmu Borgir/Erkekjetter Silenoz/Mustis</string>
+			<key>Album</key><string>Death Cult Armageddon</string>
+			<key>Genre</key><string>Black Metal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>12869267</integer>
+			<key>Total Time</key><integer>317884</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2024-07-12T15:05:42Z</date>
+			<key>Date Added</key><date>2025-05-22T23:59:27Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>103</integer>
+			<key>Comments</key><string> 00002581 00002F4F 0000A152 0000AC82 00013C30 000127C8 00008000 00008000 000091F0 000002CF</string>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3685379647</integer>
+			<key>Play Date UTC</key><date>2020-10-12T23:34:07Z</date>
+			<key>Normalization</key><integer>12109</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D3A1837F20224621</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Dimmu%20Borgir%20-%20(2003)%20Death%20Cult%20Armageddon%20-%20Progenies%20of%20The%20Great%20Apocalypse.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>7630</key>
+		<dict>
+			<key>Track ID</key><integer>7630</integer>
+			<key>Name</key><string>Sorgens Kammer - Del II</string>
+			<key>Artist</key><string>Dimmu Borgir</string>
+			<key>Album</key><string>Stormblast</string>
+			<key>Genre</key><string>Black Metal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8504642</integer>
+			<key>Total Time</key><integer>352026</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2024-07-12T14:52:13Z</date>
+			<key>Date Added</key><date>2025-05-22T23:59:28Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>96</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3685380279</integer>
+			<key>Play Date UTC</key><date>2020-10-12T23:44:39Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2020-10-14T17:19:48Z</date>
+			<key>Normalization</key><integer>12714</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>7317501D4353BC06</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Dimmu%20Borgir%20-%20Sorgens%20Kammer%20-%20Del%20II.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>7792</key>
+		<dict>
+			<key>Track ID</key><integer>7792</integer>
+			<key>Name</key><string>For Whom the Bell Tolls</string>
+			<key>Artist</key><string>Steve Baker &#38; Carmen Dave</string>
+			<key>Album Artist</key><string>Donnie Darko</string>
+			<key>Album</key><string>Donnie Darko: Soundtrack &#38; Score</string>
+			<key>Genre</key><string>Soundtrack</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4876709</integer>
+			<key>Total Time</key><integer>192888</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2021-09-03T14:15:05Z</date>
+			<key>Date Added</key><date>2025-05-22T23:59:36Z</date>
+			<key>Bit Rate</key><integer>199</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3713261062</integer>
+			<key>Play Date UTC</key><date>2021-08-31T16:24:22Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2021-05-17T19:52:47Z</date>
+			<key>Normalization</key><integer>935</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>029F3CFA2E70B153</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Donnie%20Darko%20-%20(2002)%20Soundtrack%20&#38;%20Score%20-%20For%20Whom%20the%20Bell%20Tolls%20(Steve%20Baker%20&#38;%20Carmen%20Dave).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8212</key>
+		<dict>
+			<key>Track ID</key><integer>8212</integer>
+			<key>Name</key><string>Aidu</string>
+			<key>Artist</key><string>Eluveitie</string>
+			<key>Album Artist</key><string>Eluveitie</string>
+			<key>Composer</key><string>Eluveitie</string>
+			<key>Album</key><string>Spirit</string>
+			<key>Genre</key><string>Celtic Folk Metal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7981784</integer>
+			<key>Total Time</key><integer>190152</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2021-09-03T14:27:54Z</date>
+			<key>Date Added</key><date>2025-05-22T23:59:56Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3685381251</integer>
+			<key>Play Date UTC</key><date>2020-10-13T00:00:51Z</date>
+			<key>Normalization</key><integer>1913</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>672AAA99A127BDB7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Eluveitie%20-%20(2006)%20Spirit%20-%20Aidu.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>8232</key>
+		<dict>
+			<key>Track ID</key><integer>8232</integer>
+			<key>Name</key><string>Your Gaulish War</string>
+			<key>Artist</key><string>Eluveitie</string>
+			<key>Album Artist</key><string>Eluveitie</string>
+			<key>Composer</key><string>Eluveitie</string>
+			<key>Album</key><string>Spirit</string>
+			<key>Genre</key><string>Celtic Folk Metal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>12817332</integer>
+			<key>Total Time</key><integer>311040</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2021-09-03T14:28:51Z</date>
+			<key>Date Added</key><date>2025-05-22T23:59:57Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3685377417</integer>
+			<key>Play Date UTC</key><date>2020-10-12T22:56:57Z</date>
+			<key>Normalization</key><integer>9674</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>50520B3E3C4795AA</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Eluveitie%20-%20(2006)%20Spirit%20-%20Your%20Gaulish%20War.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>9400</key>
+		<dict>
+			<key>Track ID</key><integer>9400</integer>
+			<key>Name</key><string>Mouth Of Kala</string>
+			<key>Artist</key><string>Gojira</string>
+			<key>Album</key><string>L'enfant sauvage (Special Edition)</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>14124737</integer>
+			<key>Total Time</key><integer>351425</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2021-09-03T15:13:46Z</date>
+			<key>Date Added</key><date>2025-05-23T00:00:55Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Roadrunner Records. 2012</string>
+			<key>Play Count</key><integer>12</integer>
+			<key>Play Date</key><integer>3746021337</integer>
+			<key>Play Date UTC</key><date>2022-09-14T20:28:57Z</date>
+			<key>Normalization</key><integer>6947</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>28B4AEECFFB8508C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Gojira%20-%20(2012)%20L'enfant%20Sauvage%20-%20Mouth%20Of%20Kala.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>10840</key>
+		<dict>
+			<key>Track ID</key><integer>10840</integer>
+			<key>Name</key><string>(2000) Brave New World - The Nomad (Instrumental Part Only)</string>
+			<key>Artist</key><string>Iron Maiden</string>
+			<key>Album</key><string>Trechos Fodas</string>
+			<key>Genre</key><string>Heavy Metal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7822093</integer>
+			<key>Total Time</key><integer>195291</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Date Modified</key><date>2023-08-25T16:19:19Z</date>
+			<key>Date Added</key><date>2025-05-23T00:02:20Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>103</integer>
+			<key>Play Count</key><integer>10</integer>
+			<key>Play Date</key><integer>3713259934</integer>
+			<key>Play Date UTC</key><date>2021-08-31T16:05:34Z</date>
+			<key>Normalization</key><integer>3303</integer>
+			<key>Persistent ID</key><string>1725ECA617D036FE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Iron%20Maiden%20-%20Trechos%20Fodas%20-%20(2000)%20Brave%20New%20World%20-%20The%20Nomad%20(instrumental%20part%20only).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>11122</key>
+		<dict>
+			<key>Track ID</key><integer>11122</integer>
+			<key>Name</key><string>March Of Mephisto (c/ Sagrif do Dimmu Borgir)</string>
+			<key>Artist</key><string>Kamelot</string>
+			<key>Album</key><string>The Black Halo</string>
+			<key>Genre</key><string>Heavy Metal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8781447</integer>
+			<key>Total Time</key><integer>329038</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2021-09-03T16:05:02Z</date>
+			<key>Date Added</key><date>2025-05-23T00:02:33Z</date>
+			<key>Bit Rate</key><integer>213</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3685378843</integer>
+			<key>Play Date UTC</key><date>2020-10-12T23:20:43Z</date>
+			<key>Normalization</key><integer>5040</integer>
+			<key>Sort Album</key><string>Black Halo</string>
+			<key>Persistent ID</key><string>FCF9C4BD1097A4F8</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Kamelot%20-%20(2005)%20The%20Black%20Halo%20-%20March%20of%20mephisto.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>11158</key>
+		<dict>
+			<key>Track ID</key><integer>11158</integer>
+			<key>Name</key><string>Solitaire</string>
+			<key>Artist</key><string>Kamelot</string>
+			<key>Album</key><string>Ghost Opera</string>
+			<key>Genre</key><string>137</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>1347556</integer>
+			<key>Total Time</key><integer>60212</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2021-09-03T16:05:56Z</date>
+			<key>Date Added</key><date>2025-05-23T00:02:34Z</date>
+			<key>Bit Rate</key><integer>168</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>QTXMp3!</string>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3704115795</integer>
+			<key>Play Date UTC</key><date>2021-05-17T20:03:15Z</date>
+			<key>Normalization</key><integer>581</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>411A8E8BA1A1C869</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Kamelot%20-%20(2007)%20Ghost%20Opera%20-%20Solitaire.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>12878</key>
+		<dict>
+			<key>Track ID</key><integer>12878</integer>
+			<key>Name</key><string>Spirit Horse Of The Cherokee</string>
+			<key>Artist</key><string>Manowar</string>
+			<key>Album</key><string>The Triumph Of Steel</string>
+			<key>Genre</key><string>Heavy Metal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>13154560</integer>
+			<key>Total Time</key><integer>362161</integer>
+			<key>Start Time</key><integer>91000</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>1992</integer>
+			<key>Date Modified</key><date>2021-09-03T17:20:30Z</date>
+			<key>Date Added</key><date>2025-05-23T00:03:59Z</date>
+			<key>Bit Rate</key><integer>261</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Este álbum o Pitt me emprestou em 1999 ou 2000. O baterista deste álbum gravou somente este álbum a pedido do batera original porque estava com problemas na família. Baita batera. </string>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2020-11-21T18:48:38Z</date>
+			<key>Normalization</key><integer>1880</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Triumph Of Steel</string>
+			<key>Persistent ID</key><string>43513746C212ABB9</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Manowar%20-%20(1992)%20The%20Triumph%20of%20Steel%20-%20Spirit%20Horse%20Of%20The%20Cherokee.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>14228</key>
+		<dict>
+			<key>Track ID</key><integer>14228</integer>
+			<key>Name</key><string>Ocean Soul</string>
+			<key>Artist</key><string>Nightwish</string>
+			<key>Composer</key><string>Toumas Horopainen</string>
+			<key>Album</key><string>Century Child</string>
+			<key>Genre</key><string>Heavy Metal Melódico</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4516502</integer>
+			<key>Total Time</key><integer>254302</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Date Modified</key><date>2024-07-17T21:01:55Z</date>
+			<key>Date Added</key><date>2025-05-23T00:05:09Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>100</integer>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3773054750</integer>
+			<key>Play Date UTC</key><date>2023-07-24T17:45:50Z</date>
+			<key>Normalization</key><integer>3196</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>95C7CEC5FA04D3A9</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Nightwish%20-%20Ocean%20Soul.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>18512</key>
+		<dict>
+			<key>Track ID</key><integer>18512</integer>
+			<key>Name</key><string>Saturnus</string>
+			<key>Artist</key><string>Hate</string>
+			<key>Album</key><string>Rugia</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5416584</integer>
+			<key>Total Time</key><integer>270312</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Modified</key><date>2022-01-10T14:26:51Z</date>
+			<key>Date Added</key><date>2025-05-23T00:09:05Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Volume Adjustment</key><integer>117</integer>
+			<key>Play Count</key><integer>32</integer>
+			<key>Play Date</key><integer>3747651169</integer>
+			<key>Play Date UTC</key><date>2022-10-03T17:12:49Z</date>
+			<key>Skip Count</key><integer>4</integer>
+			<key>Skip Date</key><date>2023-03-23T17:41:40Z</date>
+			<key>Normalization</key><integer>9365</integer>
+			<key>Persistent ID</key><string>6F6468E2584E7C32</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Hate%20-%20(2021)%20Rugia%20-%20Saturnus.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>18994</key>
+		<dict>
+			<key>Track ID</key><integer>18994</integer>
+			<key>Name</key><string>Arsenal of War</string>
+			<key>Artist</key><string>Frozen Soul</string>
+			<key>Album</key><string>Glacial Domination</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11125974</integer>
+			<key>Total Time</key><integer>272712</integer>
+			<key>Start Time</key><integer>14000</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>Date Modified</key><date>2024-04-06T15:18:16Z</date>
+			<key>Date Added</key><date>2025-05-23T00:09:30Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Volume Adjustment</key><integer>99</integer>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2024-01-07T21:44:15Z</date>
+			<key>Normalization</key><integer>3788</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E1BBBC7417794C1E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Frozen%20Soul%20-%20(2023)%20Glacial%20Domination%20-%20Arsenal%20of%20War.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>19002</key>
+		<dict>
+			<key>Track ID</key><integer>19002</integer>
+			<key>Name</key><string>Scourge of the Offspring</string>
+			<key>Artist</key><string>Cattle Decapitation</string>
+			<key>Composer</key><string>Travis Ryan</string>
+			<key>Album</key><string>Terrasite</string>
+			<key>Work</key><string>PMEDIA</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11022547</integer>
+			<key>Total Time</key><integer>272117</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>2023</integer>
+			<key>Date Modified</key><date>2025-05-24T17:17:18Z</date>
+			<key>Date Added</key><date>2025-05-23T00:09:30Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>100</integer>
+			<key>Play Count</key><integer>12</integer>
+			<key>Play Date</key><integer>3792824793</integer>
+			<key>Play Date UTC</key><date>2024-03-09T13:26:33Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2025-05-24T17:17:30Z</date>
+			<key>Normalization</key><integer>10103</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>34E219A09D5FAE7D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Cattle%20Decapitation%20-%20(2023)%20Terrasite%20-%20Scourge%20of%20the%20Offspring.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>Mmnts, Epic Terra Media</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>70811</integer>
+			<key>Playlist Persistent ID</key><string>E1DB6D474C286A02</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>11122</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11158</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7594</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7624</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7612</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7630</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3668</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3658</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3664</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8212</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>8232</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3332</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7792</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9400</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>10840</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>14228</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12878</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18512</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>18994</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>19002</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

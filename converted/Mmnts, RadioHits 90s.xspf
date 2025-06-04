@@ -1,0 +1,546 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+    <trackList>
+        <track>
+            <title>Would?</title>
+            <creator>Alice in Chains</creator>
+            <album>Dirt</album>
+            <duration>207255</duration>
+            <location>U:\Shared\Music\Alice In Chains - (1992) Dirt - Would.mp3</location>
+        </track>
+        <track>
+            <title>Sabotage</title>
+            <creator>Beastie Boys</creator>
+            <duration>181786</duration>
+            <location>U:\Shared\Music\Beastie Boys - Sabotage.mp3</location>
+        </track>
+        <track>
+            <title>Song 2</title>
+            <creator>Blur</creator>
+            <album>Blur</album>
+            <duration>121469</duration>
+            <trackNum>32</trackNum>
+            <location>U:\Shared\Music\blur - 1997 - Song 2.mp3</location>
+        </track>
+        <track>
+            <title>O Mundo</title>
+            <creator>Capital Inicial</creator>
+            <album>Acústico MTV</album>
+            <duration>253753</duration>
+            <trackNum>2</trackNum>
+            <location>U:\Shared\Music\Capital Inicial - (2000) Acústico MTV - O Mundo.mp3</location>
+        </track>
+        <track>
+            <title>Black Metallic</title>
+            <creator>Catherine Wheel</creator>
+            <album>Ferment</album>
+            <duration>438883</duration>
+            <location>U:\Shared\Music\Catherine Wheel - Black Metallic.mp3</location>
+        </track>
+        <track>
+            <title>Proibida Pra Mim (Grazon)</title>
+            <creator>Charlie Brown Jr.</creator>
+            <album>Transpiração Contínua Prolongada</album>
+            <duration>167993</duration>
+            <trackNum>10</trackNum>
+            <location>U:\Shared\Music\Charlie Brown Jr. - (1997) Transpiração Contínua Prolongada - Proibida Pra Mim (Grazon).mp3</location>
+        </track>
+        <track>
+            <title>Zóio de Lula</title>
+            <creator>Charlie Brown Jr.</creator>
+            <album>Preço Curto Prazo Longo</album>
+            <duration>249103</duration>
+            <location>U:\Shared\Music\Charlie Brown Jr. - (1999) Preço Curto Prazo Longo - Zóio de Lula.mp3</location>
+        </track>
+        <track>
+            <title>Mr. Jones</title>
+            <creator>Counting Crows</creator>
+            <duration>271333</duration>
+            <location>U:\Shared\Music\Counting Crows - Mr. Jones.mp3</location>
+        </track>
+        <track>
+            <title>Linger</title>
+            <creator>The Cranberries</creator>
+            <album>Everybody Else Is Doing It, So Why Can't We</album>
+            <duration>274912</duration>
+            <trackNum>7</trackNum>
+            <location>U:\Shared\Music\Cranberries - (1993) Everybody Else Is Doing It So Why Cant We - Linger.mp3</location>
+        </track>
+        <track>
+            <title>Butterfly</title>
+            <creator>Crazy Town</creator>
+            <album>The Gift of Game</album>
+            <duration>214099</duration>
+            <trackNum>6</trackNum>
+            <location>U:\Shared\Music\Crazy Town - (1999) The Gift of Game - Butterfly.mp3</location>
+        </track>
+        <track>
+            <title>With Arms Wide Open</title>
+            <creator>Creed</creator>
+            <album>Human Clay</album>
+            <duration>274782</duration>
+            <trackNum>8</trackNum>
+            <location>U:\Shared\Music\Creed - (1999) Human Clay - With Arms Wide Open.mp3</location>
+        </track>
+        <track>
+            <title>Walking In My Shoes</title>
+            <creator>Depeche Mode</creator>
+            <album>Songs Of Faith And Devotion</album>
+            <duration>336143</duration>
+            <trackNum>2</trackNum>
+            <location>U:\Shared\Music\Depeche Mode - (1993) Songs Of Faith And Devotion - Walking In My Shoes.mp3</location>
+        </track>
+        <track>
+            <title>It's No Good</title>
+            <creator>Depeche Mode</creator>
+            <album>Ultra</album>
+            <duration>359392</duration>
+            <trackNum>4</trackNum>
+            <location>U:\Shared\Music\Depeche Mode - (1997) Ultra - It's No Good.mp3</location>
+        </track>
+        <track>
+            <title>Here With Me</title>
+            <creator>Dido</creator>
+            <album>No Angel</album>
+            <duration>291343</duration>
+            <location>U:\Shared\Music\Dido - Here With Me.mp3</location>
+        </track>
+        <track>
+            <title>Save Tonight</title>
+            <creator>Eagle Eye Cherry</creator>
+            <album>The Best of</album>
+            <duration>242128</duration>
+            <trackNum>1</trackNum>
+            <location>U:\Shared\Music\Eagle Eye Cherry - The Best of - Save Tonight.mp3</location>
+        </track>
+        <track>
+            <title>Cars</title>
+            <creator>Fear Factory</creator>
+            <album>Obsolete</album>
+            <duration>220421</duration>
+            <trackNum>11</trackNum>
+            <location>U:\Shared\Music\Fear Factory - (1999) Obsolete - Cars.Mp3</location>
+        </track>
+        <track>
+            <title>Everlong</title>
+            <creator>Foo Fighters</creator>
+            <album>The Colour And The Shape</album>
+            <duration>250723</duration>
+            <trackNum>11</trackNum>
+            <location>U:\Shared\Music\Foo Fighters - (1997) The colour and the shape - Everlong.mp3</location>
+        </track>
+        <track>
+            <title>My Hero</title>
+            <creator>Foo Fighters</creator>
+            <album>The Colour And The Shape</album>
+            <duration>260048</duration>
+            <trackNum>7</trackNum>
+            <location>U:\Shared\Music\Foo Fighters - (1997) The colour and the shape - My Hero.mp3</location>
+        </track>
+        <track>
+            <title>Learn To Fly</title>
+            <creator>Foo Fighters</creator>
+            <album>There Is Nothing Left To Lose</album>
+            <duration>235337</duration>
+            <trackNum>3</trackNum>
+            <location>U:\Shared\Music\Foo Fighters - (1999) There is nothing left to lose - Learn To Fly.mp3</location>
+        </track>
+        <track>
+            <title>Special</title>
+            <creator>Garbage</creator>
+            <album>Version 2.0</album>
+            <duration>223791</duration>
+            <trackNum>5</trackNum>
+            <location>U:\Shared\Music\Garbage - Special.mp3</location>
+        </track>
+        <track>
+            <title>Heroes (David Bowie cover)</title>
+            <creator>The Wallflowers</creator>
+            <album>Godzilla The Album</album>
+            <duration>236408</duration>
+            <location>U:\Shared\Music\Godzilla - (1998) The album - The Wallflowers - Heroes.mp3</location>
+        </track>
+        <track>
+            <title>Iris</title>
+            <creator>Goo Goo Dools</creator>
+            <duration>292466</duration>
+            <location>U:\Shared\Music\Goo Goo Dools - Iris.mp3</location>
+        </track>
+        <track>
+            <title>Basket Case</title>
+            <creator>Green Day</creator>
+            <album>Dookie</album>
+            <duration>183248</duration>
+            <trackNum>7</trackNum>
+            <location>U:\Shared\Music\Green Day - (1994) Dookie - Basket Case.mp3</location>
+        </track>
+        <track>
+            <title>When I Come Around</title>
+            <creator>Green Day</creator>
+            <album>Dookie</album>
+            <duration>178233</duration>
+            <trackNum>10</trackNum>
+            <location>U:\Shared\Music\Green Day - (1994) Dookie - When I Come Around.mp3</location>
+        </track>
+        <track>
+            <title>Don't Cry</title>
+            <creator>Guns N' Roses</creator>
+            <album>Use Your Illusion I</album>
+            <duration>284786</duration>
+            <trackNum>4</trackNum>
+            <location>U:\Shared\Music\Guns N Roses - (1991) Use your illusion I - Don't Cry.mp3</location>
+        </track>
+        <track>
+            <title>November Rain</title>
+            <creator>Guns N' Roses</creator>
+            <album>Use Your Illusion I</album>
+            <duration>537443</duration>
+            <trackNum>10</trackNum>
+            <location>U:\Shared\Music\Guns N Roses - (1991) Use your illusion I - November Rain.mp3</location>
+        </track>
+        <track>
+            <title>You Could Be Mine</title>
+            <creator>Guns N' Roses</creator>
+            <album>Use Your Illusion II</album>
+            <duration>343640</duration>
+            <trackNum>12</trackNum>
+            <location>U:\Shared\Music\Guns N Roses - (1991) Use your illusion II - You Could Be Mine.mp3</location>
+        </track>
+        <track>
+            <title>Fear Of The Dark</title>
+            <creator>Iron Maiden</creator>
+            <album>Fear of the dark</album>
+            <duration>436950</duration>
+            <location>U:\Shared\Music\Iron Maiden - (1992) Fear of the dark - Fear Of The Dark.mp3</location>
+        </track>
+        <track>
+            <title>Flake</title>
+            <creator>Jack Johnson</creator>
+            <album>no title</album>
+            <duration>280790</duration>
+            <location>U:\Shared\Music\Jack Johnson - 05 - Flake.mp3</location>
+        </track>
+        <track>
+            <title>Space Cowboy</title>
+            <creator>Jamiroquai</creator>
+            <album>The Return Of The Space Cowbo</album>
+            <duration>385645</duration>
+            <trackNum>1</trackNum>
+            <location>U:\Shared\Music\Jamiroquai - Space Cowboy.mp3</location>
+        </track>
+        <track>
+            <title>Last Goodbye</title>
+            <creator>Jeff Buckley</creator>
+            <album>Grace</album>
+            <duration>275408</duration>
+            <location>U:\Shared\Music\Jeff Buckley - Last Goodbye.mp3</location>
+        </track>
+        <track>
+            <title>Just Another Day</title>
+            <creator>Jon Secada</creator>
+            <album>Jon Secada</album>
+            <duration>327392</duration>
+            <trackNum>1</trackNum>
+            <location>U:\Shared\Music\Jon Secada - Just Another Day.mp3</location>
+        </track>
+        <track>
+            <title>Again</title>
+            <creator>Lenny Kravitz</creator>
+            <album>Greatest Hits</album>
+            <duration>228597</duration>
+            <trackNum>4</trackNum>
+            <location>U:\Shared\Music\Lenny Kravitz - Greatest Hits - Again .mp3</location>
+        </track>
+        <track>
+            <title>American Woman</title>
+            <creator>Lenny Kravitz</creator>
+            <album>Greatest Hits</album>
+            <duration>261616</duration>
+            <trackNum>8</trackNum>
+            <location>U:\Shared\Music\Lenny Kravitz - Greatest Hits - American Woman .mp3</location>
+        </track>
+        <track>
+            <title>Fly Away</title>
+            <creator>Lenny Kravitz</creator>
+            <album>Greatest Hits</album>
+            <duration>221936</duration>
+            <trackNum>2</trackNum>
+            <location>U:\Shared\Music\Lenny Kravitz - Greatest Hits - Fly Away .mp3</location>
+        </track>
+        <track>
+            <title>Crawling</title>
+            <creator>Linkin Park</creator>
+            <album>Hybrid Theory</album>
+            <duration>211121</duration>
+            <trackNum>5</trackNum>
+            <location>U:\Shared\Music\Linkin Park - (2000) Hybrid Theory - Pista Audio 05.mp3</location>
+        </track>
+        <track>
+            <title>In the end</title>
+            <creator>Linkin Park</creator>
+            <album>Hybrid Theory</album>
+            <duration>218409</duration>
+            <trackNum>8</trackNum>
+            <location>U:\Shared\Music\Linkin Park - (2000) Hybrid Theory - Pista Audio 08.mp3</location>
+        </track>
+        <track>
+            <title>Lakini's Juice</title>
+            <creator>Live</creator>
+            <album>Secret Samadhi</album>
+            <duration>299266</duration>
+            <trackNum>2</trackNum>
+            <location>U:\Shared\Music\Live - (1997) Secret Samadhi - Lakini's Juice.m4a</location>
+        </track>
+        <track>
+            <title>Meltdown</title>
+            <creator>Live</creator>
+            <album>The Distance to Here</album>
+            <duration>235128</duration>
+            <trackNum>10</trackNum>
+            <location>U:\Shared\Music\Live - (1999) The Distance to Here - Meltdown.mp3</location>
+        </track>
+        <track>
+            <title>Frozen</title>
+            <creator>Madonna</creator>
+            <album>Ray of Light</album>
+            <duration>372558</duration>
+            <trackNum>9</trackNum>
+            <location>U:\Shared\Music\Madonna - (1998) Rain of Light - Frozen.mp3</location>
+        </track>
+        <track>
+            <title>Ray of Light</title>
+            <creator>Madonna</creator>
+            <album>Ray of Light</album>
+            <duration>320757</duration>
+            <trackNum>3</trackNum>
+            <location>U:\Shared\Music\Madonna - (1998) Rain of Light - Rain of Light.mp3</location>
+        </track>
+        <track>
+            <title>Return of the Mack</title>
+            <creator>Mark Morrison</creator>
+            <album>De Maxx Long Player 27</album>
+            <duration>441626</duration>
+            <location>U:\Shared\Music\Mark Morrison - Return of the Mack.mp3</location>
+        </track>
+        <track>
+            <title>Angel</title>
+            <creator>Massive Attack</creator>
+            <album>Snatch - Soundtrack</album>
+            <duration>227134</duration>
+            <trackNum>19</trackNum>
+            <location>U:\Shared\Music\Massive Attack - Angel.mp3</location>
+        </track>
+        <track>
+            <title>Black and white (com L.T.B. &amp; Slash)</title>
+            <creator>Michael Jackson</creator>
+            <album>Dangerous</album>
+            <duration>255973</duration>
+            <location>U:\Shared\Music\Michael Jackson - (1991) Doangerous - Black and white.mp3</location>
+        </track>
+        <track>
+            <title>Over My Shoulder</title>
+            <creator>Mike and the Mechanics</creator>
+            <album>Beggar on a Beach of Gold</album>
+            <duration>212009</duration>
+            <location>U:\Shared\Music\Mike &amp; The Mechanics - Over my shoulder.mp3</location>
+        </track>
+        <track>
+            <title>Porcelain</title>
+            <creator>Moby</creator>
+            <album>Play</album>
+            <duration>241136</duration>
+            <trackNum>3</trackNum>
+            <location>U:\Shared\Music\Moby - Porcelain.mp3</location>
+        </track>
+        <track>
+            <title>Fun For Me</title>
+            <creator>Moloko</creator>
+            <duration>228048</duration>
+            <location>U:\Shared\Music\Moloco - Fun for me.mp3</location>
+        </track>
+        <track>
+            <title>Torn (Ednaswap cover)</title>
+            <creator>Natalie Imbruglia</creator>
+            <album>Torn</album>
+            <duration>247875</duration>
+            <location>U:\Shared\Music\Natalie Imbruglia - Torn.mp3</location>
+        </track>
+        <track>
+            <title>Restless</title>
+            <creator>New Order</creator>
+            <duration>265665</duration>
+            <location>U:\Shared\Music\New Order - Restless.mp3</location>
+        </track>
+        <track>
+            <title>Alive</title>
+            <creator>Pearl Jam</creator>
+            <album>Ten</album>
+            <duration>341211</duration>
+            <trackNum>3</trackNum>
+            <location>U:\Shared\Music\Pearl Jam - (1991) Ten - Alive.mp3</location>
+        </track>
+        <track>
+            <title>Black</title>
+            <creator>Pearl Jam</creator>
+            <album>Ten</album>
+            <duration>342543</duration>
+            <trackNum>5</trackNum>
+            <location>U:\Shared\Music\Pearl Jam - (1991) Ten - Black.mp3</location>
+        </track>
+        <track>
+            <title>Jeremy</title>
+            <creator>Pearl Jam</creator>
+            <album>Ten</album>
+            <duration>318275</duration>
+            <trackNum>6</trackNum>
+            <location>U:\Shared\Music\Pearl Jam - (1991) Ten - Jeremy.mp3</location>
+        </track>
+        <track>
+            <title>Alive</title>
+            <creator>Pearl Jam</creator>
+            <album>MTV Unplugged</album>
+            <duration>340872</duration>
+            <trackNum>3</trackNum>
+            <location>U:\Shared\Music\Pearl Jam - (1992) MTV Unplugged - Alive.mp3</location>
+        </track>
+        <track>
+            <title>Glory-box</title>
+            <creator>Portishead</creator>
+            <duration>215353</duration>
+            <location>U:\Shared\Music\Portishead - Glory box.mp3</location>
+        </track>
+        <track>
+            <title>Creep</title>
+            <creator>Radiohead</creator>
+            <album>Pablo Honey</album>
+            <duration>235937</duration>
+            <trackNum>2</trackNum>
+            <location>U:\Shared\Music\Radiohead - Creep.mp3</location>
+        </track>
+        <track>
+            <title>Puteiro em João Pessoa</title>
+            <creator>Raimundos</creator>
+            <album>Cesta Básica</album>
+            <duration>195474</duration>
+            <trackNum>6</trackNum>
+            <location>U:\Shared\Music\Raimundos - (1996) Cesta Básica - Puteiro em João Pessoa.mp3</location>
+        </track>
+        <track>
+            <title>Nariz De Doze</title>
+            <creator>Raimundos</creator>
+            <album>Lapadas do Povo</album>
+            <duration>180950</duration>
+            <trackNum>11</trackNum>
+            <location>U:\Shared\Music\Raimundos - (1997) Lapadas do Povo - Nariz de Doze.mp3</location>
+        </track>
+        <track>
+            <title>Pequena Raimunda</title>
+            <creator>Raimundos</creator>
+            <album>Lapadas do Povo</album>
+            <duration>146468</duration>
+            <trackNum>12</trackNum>
+            <location>U:\Shared\Music\Raimundos - (1997) Lapadas do Povo - Pequena Raimunda (Ramona) (Ramones Cover).mp3</location>
+        </track>
+        <track>
+            <title>Crazy</title>
+            <creator>Seal</creator>
+            <album>Seal (U.S. Version)</album>
+            <duration>267520</duration>
+            <trackNum>3</trackNum>
+            <location>U:\Shared\Music\Seal - Crazy.mp3</location>
+        </track>
+        <track>
+            <title>Velhas fotos</title>
+            <creator>Tequila Baby</creator>
+            <album>Sangue, Ouro e Polvora</album>
+            <duration>223791</duration>
+            <trackNum>8</trackNum>
+            <location>U:\Shared\Music\Tequila Baby - (1999) Sangue, Ouro e Polvora - Velhas fotos.mp3</location>
+        </track>
+        <track>
+            <title>Painted on My Heart</title>
+            <creator>The Cult</creator>
+            <duration>267911</duration>
+            <trackNum>1</trackNum>
+            <location>U:\Shared\Music\The Cult - Painted on My Heart.mp3</location>
+        </track>
+        <track>
+            <title>You Get What You Give</title>
+            <creator>New Radicals</creator>
+            <duration>302315</duration>
+            <location>U:\Shared\Music\New Radicals - You Get What You Give.mp3</location>
+        </track>
+        <track>
+            <title>O astronauta de Mármore</title>
+            <creator>Nenhum de Nós</creator>
+            <album>Cardume</album>
+            <duration>194063</duration>
+            <location>U:\Shared\Music\Nenhum de nós - (1989) Cardume - O astronauta de Mármore.mp3</location>
+        </track>
+        <track>
+            <title>Fake Plastic Trees (Radiohead Cover)</title>
+            <creator>Gabzito</creator>
+            <duration>271704</duration>
+            <location>U:\Shared\Music\Radiohead - Fake Plastic Trees (Covered by youtubeUser GabzitoMusic).mp3</location>
+        </track>
+        <track>
+            <title>Fake Plastic Trees</title>
+            <creator>Radiohead</creator>
+            <duration>291072</duration>
+            <location>U:\Shared\Music\Radiohead - Fake Plastic Trees.mp3</location>
+        </track>
+        <track>
+            <title>7 seconds (feat. Neneh Cherry)</title>
+            <creator>Youssou N'Dour</creator>
+            <album>The Guide (Wommat)</album>
+            <duration>308062</duration>
+            <location>U:\Shared\Music\Youssou N'Dour - (1994) - 7 seconds (feat. Neneh Cherry).mp3</location>
+        </track>
+        <track>
+            <title>Wonderwall</title>
+            <creator>Oasis</creator>
+            <duration>258821</duration>
+            <location>U:\Shared\Music\Oasis - 1995 - xxxxxxxxxxxx - Wonderwall.mp3</location>
+        </track>
+        <track>
+            <title>Champagne Supernova</title>
+            <creator>Oasis</creator>
+            <duration>449384</duration>
+            <location>U:\Shared\Music\Oasis - Champagne Supernova.mp3</location>
+        </track>
+        <track>
+            <title>No Ordinary Love</title>
+            <creator>Sade</creator>
+            <album>Love Deluxe (Remastered)</album>
+            <duration>442096</duration>
+            <location>U:\Shared\Music\Sade - (1992) Love Deluxe (Remastered) - No Ordinary Love.mp3</location>
+        </track>
+        <track>
+            <title>Cherish the Day</title>
+            <creator>Sade</creator>
+            <album>Love Deluxe (Remastered)</album>
+            <duration>333662</duration>
+            <location>U:\Shared\Music\Sade - (1992) Love Deluxe (Remastered) - Cherish the Day.mp3</location>
+        </track>
+        <track>
+            <title>Don't Go Away (Remastered)</title>
+            <creator>Oasis</creator>
+            <album>Be Here Now</album>
+            <duration>288696</duration>
+            <location>U:\Shared\Music\Oasis - (1997) Be Here Now - Don't Go Away.mp3</location>
+        </track>
+        <track>
+            <title>Love Reaction</title>
+            <creator>Leo Mancini</creator>
+            <duration>215640</duration>
+            <location>U:\Shared\Music\Leo Mancini - (2017) - Love Reaction.mp3</location>
+        </track>
+        <track>
+            <title>Right Here Waiting</title>
+            <creator>Richard Marx</creator>
+            <album>Internacional</album>
+            <duration>272712</duration>
+            <location>U:\Shared\Music\Novela Top Model - (1990) - Richard Marx - 1989 - Right Here Waiting.mp3</location>
+        </track>
+    </trackList>
+</playlist>

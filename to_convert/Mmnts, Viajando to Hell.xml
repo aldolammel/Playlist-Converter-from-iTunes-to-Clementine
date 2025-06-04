@@ -1,0 +1,642 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2025-06-04T13:15:02Z</date>
+	<key>Application Version</key><string>12.13.7.1</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/E:/Users/aldol/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>187AD5E35C5E82C1</string>
+	<key>Tracks</key>
+	<dict>
+		<key>3070</key>
+		<dict>
+			<key>Track ID</key><integer>3070</integer>
+			<key>Name</key><string>Back in Black</string>
+			<key>Artist</key><string>ACDC</string>
+			<key>Album</key><string>Back in Black</string>
+			<key>Genre</key><string>Hard Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7507535</integer>
+			<key>Total Time</key><integer>255346</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>1980</integer>
+			<key>Date Modified</key><date>2021-09-03T01:04:25Z</date>
+			<key>Date Added</key><date>2025-05-22T23:55:05Z</date>
+			<key>Bit Rate</key><integer>230</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>8085</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8BCFC1016DD18529</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/AC-DC%20-%20(1980)%20Back%20in%20Black%20-%20Back%20in%20black.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>3088</key>
+		<dict>
+			<key>Track ID</key><integer>3088</integer>
+			<key>Name</key><string>You Shook Me All Night Long</string>
+			<key>Artist</key><string>ACDC</string>
+			<key>Album</key><string>Back in Black</string>
+			<key>Genre</key><string>Hard Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6203149</integer>
+			<key>Total Time</key><integer>210259</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>1980</integer>
+			<key>Date Modified</key><date>2021-09-03T01:05:00Z</date>
+			<key>Date Added</key><date>2025-05-22T23:55:06Z</date>
+			<key>Bit Rate</key><integer>230</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3685271639</integer>
+			<key>Play Date UTC</key><date>2020-10-11T17:33:59Z</date>
+			<key>Normalization</key><integer>8410</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>17B582B4CB385D04</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/AC-DC%20-%20(1980)%20Back%20in%20Black%20-%20You%20shook%20me%20all%20night%20long.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>3094</key>
+		<dict>
+			<key>Track ID</key><integer>3094</integer>
+			<key>Name</key><string>Black Ice</string>
+			<key>Artist</key><string>ACDC</string>
+			<key>Album</key><string>Black Ice</string>
+			<key>Genre</key><string>Heavy Metal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8443557</integer>
+			<key>Total Time</key><integer>205217</integer>
+			<key>Track Number</key><integer>15</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2021-09-03T01:05:14Z</date>
+			<key>Date Added</key><date>2025-05-22T23:55:06Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3714239408</integer>
+			<key>Play Date UTC</key><date>2021-09-12T00:10:08Z</date>
+			<key>Normalization</key><integer>9447</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0E491AA6885699EB</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/AC-DC%20-%20(2008)%20Black%20Ice%20-%20Black%20Ice.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>3100</key>
+		<dict>
+			<key>Track ID</key><integer>3100</integer>
+			<key>Name</key><string>Rock N Roll Dream</string>
+			<key>Artist</key><string>ACDC</string>
+			<key>Album</key><string>Black Ice</string>
+			<key>Genre</key><string>Heavy Metal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11474814</integer>
+			<key>Total Time</key><integer>280999</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2025-01-26T01:22:04Z</date>
+			<key>Date Added</key><date>2025-05-22T23:55:07Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>99</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3746003214</integer>
+			<key>Play Date UTC</key><date>2022-09-14T15:26:54Z</date>
+			<key>Normalization</key><integer>6792</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>AB998A838FCEBCF0</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/AC-DC%20-%20(2008)%20Black%20Ice%20-%20Rock%20N%20Roll%20Dream.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>4140</key>
+		<dict>
+			<key>Track ID</key><integer>4140</integer>
+			<key>Name</key><string>Be Yourself</string>
+			<key>Artist</key><string>Audioslave</string>
+			<key>Album Artist</key><string>Audioslave</string>
+			<key>Composer</key><string>Audioslave/Chris Cornell</string>
+			<key>Album</key><string>Out Of Exile</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7509485</integer>
+			<key>Total Time</key><integer>279457</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2025-01-26T01:22:12Z</date>
+			<key>Date Added</key><date>2025-05-22T23:56:07Z</date>
+			<key>Bit Rate</key><integer>214</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>100</integer>
+			<key>Comments</key><string> 00001CB0 0000224C 00006B1A 00006A12 000303F1 0002E30B 00008000 00008000 000108A2 000134D4</string>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3742440064</integer>
+			<key>Play Date UTC</key><date>2022-08-04T09:41:04Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2023-03-29T11:32:47Z</date>
+			<key>Normalization</key><integer>9189</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>27B0D6D72CCC4C0A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Audioslave%20-%20(2005)%20Out%20Of%20Exile%20-%20be_yourself.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>4154</key>
+		<dict>
+			<key>Track ID</key><integer>4154</integer>
+			<key>Name</key><string>Out Of Exile</string>
+			<key>Artist</key><string>Audioslave</string>
+			<key>Album Artist</key><string>Audioslave</string>
+			<key>Composer</key><string>Audioslave/Chris Cornell</string>
+			<key>Album</key><string>Out Of Exile</string>
+			<key>Genre</key><string>Alternative</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8744042</integer>
+			<key>Total Time</key><integer>291239</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2025-01-26T01:22:13Z</date>
+			<key>Date Added</key><date>2025-05-22T23:56:08Z</date>
+			<key>Bit Rate</key><integer>239</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>100</integer>
+			<key>Comments</key><string> 00001F26 00001F99 00007B6C 000070E4 0002DFA0 0003C55D 00007E51 00007D34 00028F47 00032FFA</string>
+			<key>Play Count</key><integer>13</integer>
+			<key>Play Date</key><integer>3774661076</integer>
+			<key>Play Date UTC</key><date>2023-08-12T07:57:56Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2022-09-17T14:12:02Z</date>
+			<key>Normalization</key><integer>8992</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BB5A84B4A53E3376</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Audioslave%20-%20(2005)%20Out%20Of%20Exile%20-%20out_of_exile.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>5500</key>
+		<dict>
+			<key>Track ID</key><integer>5500</integer>
+			<key>Name</key><string>Black Star</string>
+			<key>Artist</key><string>Carcass</string>
+			<key>Album</key><string>Swansong</string>
+			<key>Genre</key><string>Melodic Death Metal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9809519</integer>
+			<key>Total Time</key><integer>208666</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>13</integer>
+			<key>Year</key><integer>1996</integer>
+			<key>Date Modified</key><date>2023-08-25T15:41:22Z</date>
+			<key>Date Added</key><date>2025-05-22T23:57:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>100</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3775812215</integer>
+			<key>Play Date UTC</key><date>2023-08-25T15:43:35Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2021-07-10T13:57:28Z</date>
+			<key>Normalization</key><integer>13395</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>55D831302B63F862</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Carcass%20-%20(1996)%20Swansong%20-%20Black%20Star.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>7152</key>
+		<dict>
+			<key>Track ID</key><integer>7152</integer>
+			<key>Name</key><string>Highway Star</string>
+			<key>Artist</key><string>Deep Purple</string>
+			<key>Genre</key><string>Rock &#38; Roll</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5913556</integer>
+			<key>Total Time</key><integer>368953</integer>
+			<key>Date Modified</key><date>2024-05-31T19:20:50Z</date>
+			<key>Date Added</key><date>2025-05-22T23:59:04Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>97</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3712665634</integer>
+			<key>Play Date UTC</key><date>2021-08-24T19:00:34Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2021-05-26T22:56:17Z</date>
+			<key>Normalization</key><integer>1612</integer>
+			<key>Persistent ID</key><string>DF3933E96F779432</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Deep%20Purple%20-%20Highway%20Star.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>7842</key>
+		<dict>
+			<key>Track ID</key><integer>7842</integer>
+			<key>Name</key><string>Riders On The Storm</string>
+			<key>Artist</key><string>The Doors</string>
+			<key>Album</key><string>The Best Of</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6911764</integer>
+			<key>Total Time</key><integer>431020</integer>
+			<key>Year</key><integer>1985</integer>
+			<key>Date Modified</key><date>2024-05-31T19:25:34Z</date>
+			<key>Date Added</key><date>2025-05-22T23:59:38Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3721940564</integer>
+			<key>Play Date UTC</key><date>2021-12-10T02:22:44Z</date>
+			<key>Normalization</key><integer>659</integer>
+			<key>Sort Album</key><string>Best Of</string>
+			<key>Sort Artist</key><string>Doors</string>
+			<key>Persistent ID</key><string>DD69E6F031AF2B6A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Doors%20-%20Riders%20on%20the%20Storm.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>9142</key>
+		<dict>
+			<key>Track ID</key><integer>9142</integer>
+			<key>Name</key><string>Blueprint</string>
+			<key>Artist</key><string>Fugazi</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5599651</integer>
+			<key>Total Time</key><integer>233142</integer>
+			<key>Date Modified</key><date>2021-09-03T14:54:24Z</date>
+			<key>Date Added</key><date>2025-05-23T00:00:39Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>121</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3685273924</integer>
+			<key>Play Date UTC</key><date>2020-10-11T18:12:04Z</date>
+			<key>Normalization</key><integer>3899</integer>
+			<key>Persistent ID</key><string>A628C12A86F07496</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Fugazi%20-%20Blueprint.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>9198</key>
+		<dict>
+			<key>Track ID</key><integer>9198</integer>
+			<key>Name</key><string>Bad To The Bone</string>
+			<key>Artist</key><string>George Thorogood</string>
+			<key>Genre</key><string>Rock &#38; Roll</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4726142</integer>
+			<key>Total Time</key><integer>294739</integer>
+			<key>Date Modified</key><date>2021-09-03T15:07:31Z</date>
+			<key>Date Added</key><date>2025-05-23T00:00:42Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2021-08-02T16:20:56Z</date>
+			<key>Normalization</key><integer>4654</integer>
+			<key>Persistent ID</key><string>3C45BE577A678C9B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/George%20Thorogood%20-%20Bad%20To%20The%20Bone.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>9896</key>
+		<dict>
+			<key>Track ID</key><integer>9896</integer>
+			<key>Name</key><string>Gimme Danger (com The Stooges)</string>
+			<key>Artist</key><string>Iggy Pop</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3346066</integer>
+			<key>Total Time</key><integer>208483</integer>
+			<key>Date Modified</key><date>2021-09-03T15:28:18Z</date>
+			<key>Date Added</key><date>2025-05-23T00:01:23Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3685272817</integer>
+			<key>Play Date UTC</key><date>2020-10-11T17:53:37Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2020-09-28T16:45:22Z</date>
+			<key>Normalization</key><integer>17377</integer>
+			<key>Persistent ID</key><string>B246AAA885450801</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Iggy%20Pop%20-%20Gimme%20Danger%20(com%20The%20Stooges).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>11264</key>
+		<dict>
+			<key>Track ID</key><integer>11264</integer>
+			<key>Name</key><string>Melting Of My Marrow</string>
+			<key>Artist</key><string>Killer Be Killed</string>
+			<key>Album</key><string>Killer Be Killed</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11245774</integer>
+			<key>Total Time</key><integer>278700</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2021-09-03T16:07:11Z</date>
+			<key>Date Added</key><date>2025-05-23T00:02:40Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3714029583</integer>
+			<key>Play Date UTC</key><date>2021-09-09T13:53:03Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2021-08-13T19:39:58Z</date>
+			<key>Normalization</key><integer>8842</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>052AD4533BF7F677</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Killer%20Be%20Killed%20-%20(2014)%20Killer%20Be%20Killed%20-%20Melting%20Of%20My%20Marrow.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>12130</key>
+		<dict>
+			<key>Track ID</key><integer>12130</integer>
+			<key>Name</key><string>Rock and Roll</string>
+			<key>Artist</key><string>Led Zeppelin</string>
+			<key>Album</key><string>Greatest hits</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6785377</integer>
+			<key>Total Time</key><integer>221152</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>1971</integer>
+			<key>Date Modified</key><date>2025-01-26T01:22:19Z</date>
+			<key>Date Added</key><date>2025-05-23T00:03:20Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3719650891</integer>
+			<key>Play Date UTC</key><date>2021-11-13T14:21:31Z</date>
+			<key>Normalization</key><integer>3996</integer>
+			<key>Artwork Count</key><integer>2</integer>
+			<key>Persistent ID</key><string>EA044028DBF85685</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Led%20Zeppelin%20-%20(XXXX)%20Greatest%20hits%20-%20Rock%20and%20Roll.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>12136</key>
+		<dict>
+			<key>Track ID</key><integer>12136</integer>
+			<key>Name</key><string>Stairway to Heaven</string>
+			<key>Artist</key><string>Led Zeppelin</string>
+			<key>Album</key><string>Greatest hits</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>13073599</integer>
+			<key>Total Time</key><integer>483160</integer>
+			<key>Track Number</key><integer>15</integer>
+			<key>Year</key><integer>2008</integer>
+			<key>Date Modified</key><date>2021-09-03T16:31:28Z</date>
+			<key>Date Added</key><date>2025-05-23T00:03:21Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>208</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3746971063</integer>
+			<key>Play Date UTC</key><date>2022-09-25T20:17:43Z</date>
+			<key>Normalization</key><integer>3526</integer>
+			<key>Artwork Count</key><integer>2</integer>
+			<key>Persistent ID</key><string>3B9E6EF6D23FF878</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Led%20Zeppelin%20-%20(XXXX)%20Greatest%20hits%20-%20Stairway%20to%20Heaven.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>12714</key>
+		<dict>
+			<key>Track ID</key><integer>12714</integer>
+			<key>Name</key><string>One More Time</string>
+			<key>Artist</key><string>Lynyrd Skynyrd</string>
+			<key>Composer</key><string>Gary Rossington/Ronnie Van Zant</string>
+			<key>Album</key><string>Street Survivors</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7538287</integer>
+			<key>Total Time</key><integer>303647</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>8</integer>
+			<key>Year</key><integer>1977</integer>
+			<key>Date Modified</key><date>2021-09-03T16:47:47Z</date>
+			<key>Date Added</key><date>2025-05-23T00:03:50Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>255</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3705097527</integer>
+			<key>Play Date UTC</key><date>2021-05-29T04:45:27Z</date>
+			<key>Normalization</key><integer>715</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>19B0874C52A677DC</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Lynyrd%20Skynyrd%20-%20(1977)%20Street%20Survivors%20-%20One%20More%20Time.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>13668</key>
+		<dict>
+			<key>Track ID</key><integer>13668</integer>
+			<key>Name</key><string>Going to Brazil</string>
+			<key>Artist</key><string>Motörhead</string>
+			<key>Album Artist</key><string>Motörhead</string>
+			<key>Composer</key><string>"Philthy Animal" Taylor; Lemmy; Michael Burston; Phil Campbell</string>
+			<key>Album</key><string>1916</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2408580</integer>
+			<key>Total Time</key><integer>150569</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>1991</integer>
+			<key>Date Modified</key><date>2021-09-03T17:48:34Z</date>
+			<key>Date Added</key><date>2025-05-23T00:04:40Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>6813</integer>
+			<key>Persistent ID</key><string>F5C49C4220EADEDE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Mot%C3%B6rhead%20-%20(1991)%201916%20-%20Going%20to%20Brazil.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>13672</key>
+		<dict>
+			<key>Track ID</key><integer>13672</integer>
+			<key>Name</key><string>Sacrifice</string>
+			<key>Artist</key><string>Motörhead</string>
+			<key>Album Artist</key><string>Motörhead</string>
+			<key>Composer</key><string>Lemmy/Michael Burston/Mikkey Dee/Philip Anthony Campbell</string>
+			<key>Album</key><string>Sacrifice</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>3104458</integer>
+			<key>Total Time</key><integer>193724</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>1995</integer>
+			<key>Date Modified</key><date>2021-09-03T17:48:36Z</date>
+			<key>Date Added</key><date>2025-05-23T00:04:40Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>255</integer>
+			<key>Normalization</key><integer>5203</integer>
+			<key>Persistent ID</key><string>92E3F8C1A1B83E6D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Mot%C3%B6rhead%20-%20(1995)%20Sacrifice%20-%20Sacrifice.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>15988</key>
+		<dict>
+			<key>Track ID</key><integer>15988</integer>
+			<key>Name</key><string>Superunknown</string>
+			<key>Artist</key><string>Soundgarden</string>
+			<key>Album</key><string>Superunknown</string>
+			<key>Genre</key><string>Alternative\Rock</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7379321</integer>
+			<key>Total Time</key><integer>306442</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>1994</integer>
+			<key>Date Modified</key><date>2020-02-05T18:35:34Z</date>
+			<key>Date Added</key><date>2025-05-23T00:06:53Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>255</integer>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3746221265</integer>
+			<key>Play Date UTC</key><date>2022-09-17T04:01:05Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2022-05-08T13:47:01Z</date>
+			<key>Normalization</key><integer>2200</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8ADA56639E4F46F6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Soundgarden%20-%20(1994)%20Superunknown%20-%20Superunknown.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>17496</key>
+		<dict>
+			<key>Track ID</key><integer>17496</integer>
+			<key>Name</key><string>Chronic Slaughter</string>
+			<key>Artist</key><string>Slaughter To Prevail</string>
+			<key>Album</key><string>Misery Sermon</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7586770</integer>
+			<key>Total Time</key><integer>296594</integer>
+			<key>Year</key><integer>2017</integer>
+			<key>Date Modified</key><date>2021-09-03T18:51:20Z</date>
+			<key>Date Added</key><date>2025-05-23T00:08:15Z</date>
+			<key>Bit Rate</key><integer>192</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>147</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3714032804</integer>
+			<key>Play Date UTC</key><date>2021-09-09T14:46:44Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2022-09-07T14:46:36Z</date>
+			<key>Normalization</key><integer>12524</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3C0F4B1D22092A6A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Slaughter%20To%20Prevail%20-%20(2017)%20Misery%20Sermon%20-%20Chronic%20Slaughter.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>Mmnts, Viajando to Hell</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>72176</integer>
+			<key>Playlist Persistent ID</key><string>9D976224AAEDC077</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>3070</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13668</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7842</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12130</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>7152</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9198</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3088</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3094</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3100</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12136</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9896</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4154</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4140</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>12714</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9142</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>11264</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17496</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>5500</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>15988</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>13672</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

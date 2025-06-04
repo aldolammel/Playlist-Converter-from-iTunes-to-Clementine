@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+    <trackList>
+        <track>
+            <title>O Mundo</title>
+            <creator>Capital Inicial</creator>
+            <album>Acústico MTV</album>
+            <duration>253753</duration>
+            <trackNum>2</trackNum>
+            <location>U:\Shared\Music\Capital Inicial - (2000) Acústico MTV - O Mundo.mp3</location>
+        </track>
+        <track>
+            <title>Mantenha a dúvida</title>
+            <creator>Charlie Brown Jr.</creator>
+            <album>Preço Curto Prazo Longo</album>
+            <duration>184058</duration>
+            <trackNum>14</trackNum>
+            <location>U:\Shared\Music\Charlie Brown Jr. - (1999) Preço Curto Prazo Longo - Mantenha a Dúvida.mp3</location>
+        </track>
+        <track>
+            <title>O Sol</title>
+            <creator>Vitor Kley</creator>
+            <duration>210504</duration>
+            <location>U:\Shared\Music\Vitor Kley - 2018 - O Sol.mp3</location>
+        </track>
+    </trackList>
+</playlist>

@@ -1,0 +1,540 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2025-06-04T13:10:27Z</date>
+	<key>Application Version</key><string>12.13.7.1</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/E:/Users/aldol/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>187AD5E35C5E82C1</string>
+	<key>Tracks</key>
+	<dict>
+		<key>16318</key>
+		<dict>
+			<key>Track ID</key><integer>16318</integer>
+			<key>Name</key><string>Bioactive</string>
+			<key>Artist</key><string>Sybreed</string>
+			<key>Album</key><string>Slave Design</string>
+			<key>Genre</key><string>Death Wave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>15779926</integer>
+			<key>Total Time</key><integer>384720</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2024-11-23T23:46:41Z</date>
+			<key>Date Added</key><date>2025-05-23T00:07:11Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Volume Adjustment</key><integer>106</integer>
+			<key>Play Count</key><integer>11</integer>
+			<key>Play Date</key><integer>3740597951</integer>
+			<key>Play Date UTC</key><date>2022-07-14T01:59:11Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2020-09-29T17:12:56Z</date>
+			<key>Normalization</key><integer>11357</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E49A45A4590BB46B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Sybreed%20-%20(2004)%20Slave%20Design%20-%20Bioactive.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>16324</key>
+		<dict>
+			<key>Track ID</key><integer>16324</integer>
+			<key>Name</key><string>Decoy</string>
+			<key>Artist</key><string>Sybreed</string>
+			<key>Album</key><string>Slave Design</string>
+			<key>Genre</key><string>Death Wave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>12679118</integer>
+			<key>Total Time</key><integer>307200</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2024-11-23T23:46:45Z</date>
+			<key>Date Added</key><date>2025-05-23T00:07:12Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Volume Adjustment</key><integer>100</integer>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3707486762</integer>
+			<key>Play Date UTC</key><date>2021-06-25T20:26:02Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2021-09-22T19:32:38Z</date>
+			<key>Normalization</key><integer>13975</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>EBFE99AB9D3A0C3F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Sybreed%20-%20(2004)%20Slave%20Design%20-%20Decoy.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>16328</key>
+		<dict>
+			<key>Track ID</key><integer>16328</integer>
+			<key>Name</key><string>Next Day Will Never Come</string>
+			<key>Artist</key><string>Sybreed</string>
+			<key>Album</key><string>Slave Design</string>
+			<key>Genre</key><string>Death Wave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>13367174</integer>
+			<key>Total Time</key><integer>324360</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2024-11-23T23:46:50Z</date>
+			<key>Date Added</key><date>2025-05-23T00:07:12Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Volume Adjustment</key><integer>106</integer>
+			<key>Play Count</key><integer>20</integer>
+			<key>Play Date</key><integer>3766763759</integer>
+			<key>Play Date UTC</key><date>2023-05-12T22:15:59Z</date>
+			<key>Skip Count</key><integer>3</integer>
+			<key>Skip Date</key><date>2021-05-06T05:17:34Z</date>
+			<key>Normalization</key><integer>14461</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>87CBF0BC8FC9BCDF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Sybreed%20-%20(2004)%20Slave%20Design%20-%20Next%20Day%20Will%20Never%20Come.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>16332</key>
+		<dict>
+			<key>Track ID</key><integer>16332</integer>
+			<key>Name</key><string>ReEvolution</string>
+			<key>Artist</key><string>Sybreed</string>
+			<key>Album</key><string>Slave Design</string>
+			<key>Genre</key><string>Death Wave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10148570</integer>
+			<key>Total Time</key><integer>243936</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2024-11-23T23:46:41Z</date>
+			<key>Date Added</key><date>2025-05-23T00:07:12Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Volume Adjustment</key><integer>106</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3684241292</integer>
+			<key>Play Date UTC</key><date>2020-09-29T19:21:32Z</date>
+			<key>Normalization</key><integer>12630</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3B2EA996EE01B54F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Sybreed%20-%20(2004)%20Slave%20Design%20-%20ReEvolution.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>16344</key>
+		<dict>
+			<key>Track ID</key><integer>16344</integer>
+			<key>Name</key><string>Ego Bypass Generator</string>
+			<key>Artist</key><string>Sybreed</string>
+			<key>Album Artist</key><string>Sybreed</string>
+			<key>Album</key><string>Antares</string>
+			<key>Work</key><string>Switzerland, Geneva</string>
+			<key>Genre</key><string>Death Wave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>12080360</integer>
+			<key>Total Time</key><integer>295784</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>BPM</key><integer>105</integer>
+			<key>Date Modified</key><date>2024-11-23T23:45:09Z</date>
+			<key>Date Added</key><date>2025-05-23T00:07:13Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>106</integer>
+			<key>Comments</key><string>                            </string>
+			<key>Normalization</key><integer>10090</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>14F06947D4341F58</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Sybreed%20-%20(2007)%20Antares%20-%20Ego%20Bypass%20Generator.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>16352</key>
+		<dict>
+			<key>Track ID</key><integer>16352</integer>
+			<key>Name</key><string>Ex-Inferis</string>
+			<key>Artist</key><string>Sybreed</string>
+			<key>Album Artist</key><string>Sybreed</string>
+			<key>Album</key><string>Antares</string>
+			<key>Work</key><string>Switzerland, Geneva</string>
+			<key>Genre</key><string>Death Wave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5221629</integer>
+			<key>Total Time</key><integer>124316</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>BPM</key><integer>90</integer>
+			<key>Date Modified</key><date>2024-11-23T23:45:10Z</date>
+			<key>Date Added</key><date>2025-05-23T00:07:13Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>106</integer>
+			<key>Comments</key><string>                            </string>
+			<key>Normalization</key><integer>3940</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>1E00825874BDCDC5</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Sybreed%20-%20(2007)%20Antares%20-%20Ex-Inferis.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>16354</key>
+		<dict>
+			<key>Track ID</key><integer>16354</integer>
+			<key>Name</key><string>Isolate</string>
+			<key>Artist</key><string>Sybreed</string>
+			<key>Album Artist</key><string>Sybreed</string>
+			<key>Album</key><string>Antares</string>
+			<key>Work</key><string>Switzerland, Geneva</string>
+			<key>Genre</key><string>Death Wave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>12935061</integer>
+			<key>Total Time</key><integer>317152</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>BPM</key><integer>150</integer>
+			<key>Date Modified</key><date>2024-11-23T23:45:13Z</date>
+			<key>Date Added</key><date>2025-05-23T00:07:13Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>106</integer>
+			<key>Comments</key><string>                            </string>
+			<key>Normalization</key><integer>7518</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F469C01EAC2705E2</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Sybreed%20-%20(2007)%20Antares%20-%20Isolate.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>16364</key>
+		<dict>
+			<key>Track ID</key><integer>16364</integer>
+			<key>Name</key><string>Revive My Wounds</string>
+			<key>Artist</key><string>Sybreed</string>
+			<key>Album Artist</key><string>Sybreed</string>
+			<key>Album</key><string>Antares</string>
+			<key>Work</key><string>Switzerland, Geneva</string>
+			<key>Genre</key><string>Death Wave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10740793</integer>
+			<key>Total Time</key><integer>262295</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>BPM</key><integer>105</integer>
+			<key>Date Modified</key><date>2024-11-23T23:45:12Z</date>
+			<key>Date Added</key><date>2025-05-23T00:07:14Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>106</integer>
+			<key>Comments</key><string>                            </string>
+			<key>Normalization</key><integer>10698</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>0EC260CF25FAB85E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Sybreed%20-%20(2007)%20Antares%20-%20Revive%20My%20Wounds.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>16370</key>
+		<dict>
+			<key>Track ID</key><integer>16370</integer>
+			<key>Name</key><string>A.E.O.N.</string>
+			<key>Artist</key><string>Sybreed</string>
+			<key>Album Artist</key><string>Sybreed</string>
+			<key>Album</key><string>The Pulse Of Awakening</string>
+			<key>Genre</key><string>Death Wave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9674054</integer>
+			<key>Total Time</key><integer>301531</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2024-01-29T20:24:28Z</date>
+			<key>Date Added</key><date>2025-05-23T00:07:14Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>106</integer>
+			<key>Comments</key><string>Tagged by cracked version of Tag&#38;Rename http://www.softpointer.com/tr.htm</string>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2024-01-29T20:32:09Z</date>
+			<key>Normalization</key><integer>8425</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Pulse Of Awakening</string>
+			<key>Persistent ID</key><string>342DF8F7B18FA6DE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Sybreed%20-%20(2009)%20The%20Pulse%20Of%20Awakening%20-%20A.E.O.N..mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>16378</key>
+		<dict>
+			<key>Track ID</key><integer>16378</integer>
+			<key>Name</key><string>From Zero To Nothing</string>
+			<key>Artist</key><string>Sybreed</string>
+			<key>Album Artist</key><string>Sybreed</string>
+			<key>Album</key><string>The Pulse Of Awakening</string>
+			<key>Genre</key><string>Death Wave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>18974725</integer>
+			<key>Total Time</key><integer>130377</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2024-01-29T20:24:20Z</date>
+			<key>Date Added</key><date>2025-05-23T00:07:14Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>106</integer>
+			<key>Comments</key><string>Tagged by cracked version of Tag&#38;Rename http://www.softpointer.com/tr.htm</string>
+			<key>Normalization</key><integer>6536</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Pulse Of Awakening</string>
+			<key>Persistent ID</key><string>3555B9257295AE3C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Sybreed%20-%20(2009)%20The%20Pulse%20Of%20Awakening%20-%20From%20Zero%20To%20Nothing.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>16388</key>
+		<dict>
+			<key>Track ID</key><integer>16388</integer>
+			<key>Name</key><string>Love Like Blood (Killing Joke cover)</string>
+			<key>Artist</key><string>Sybreed</string>
+			<key>Album Artist</key><string>Sybreed</string>
+			<key>Album</key><string>The Pulse Of Awakening</string>
+			<key>Genre</key><string>Death Wave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9089116</integer>
+			<key>Total Time</key><integer>283245</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2024-01-29T20:24:29Z</date>
+			<key>Date Added</key><date>2025-05-23T00:07:15Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>106</integer>
+			<key>Normalization</key><integer>8350</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Pulse Of Awakening</string>
+			<key>Persistent ID</key><string>EAF0DE61B3B53EB5</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Sybreed%20-%20(2009)%20The%20Pulse%20Of%20Awakening%20-%20Love%20Like%20Blood%20((Killing%20Joke%20cover).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>16394</key>
+		<dict>
+			<key>Track ID</key><integer>16394</integer>
+			<key>Name</key><string>Nomenklatura</string>
+			<key>Artist</key><string>Sybreed</string>
+			<key>Album Artist</key><string>Sybreed</string>
+			<key>Album</key><string>The Pulse Of Awakening</string>
+			<key>Genre</key><string>Death Wave</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9115776</integer>
+			<key>Total Time</key><integer>284160</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2024-01-29T20:24:13Z</date>
+			<key>Date Added</key><date>2025-05-23T00:07:15Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>106</integer>
+			<key>Comments</key><string>Tagged by cracked version of Tag&#38;Rename http://www.softpointer.com/tr.htm</string>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2022-09-14T04:25:54Z</date>
+			<key>Normalization</key><integer>7525</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Pulse Of Awakening</string>
+			<key>Persistent ID</key><string>0B0D4FFA8AD89BB7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Sybreed%20-%20(2009)%20The%20Pulse%20Of%20Awakening%20-%20Nomenklatura.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>16400</key>
+		<dict>
+			<key>Track ID</key><integer>16400</integer>
+			<key>Name</key><string>Destruction And Bliss</string>
+			<key>Artist</key><string>Sybreed</string>
+			<key>Album</key><string>God Is An Automaton</string>
+			<key>Genre</key><string>Industrial Metal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>23652806</integer>
+			<key>Total Time</key><integer>584698</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2024-01-29T20:32:17Z</date>
+			<key>Date Added</key><date>2025-05-23T00:07:16Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>106</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2024-01-29T20:49:17Z</date>
+			<key>Normalization</key><integer>5550</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3625C9C650897D81</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Sybreed%20-%20(2012)%20God%20Is%20An%20Automaton%20-%20Destruction%20And%20Bliss.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>16402</key>
+		<dict>
+			<key>Track ID</key><integer>16402</integer>
+			<key>Name</key><string>Downfall Inc</string>
+			<key>Artist</key><string>Sybreed</string>
+			<key>Album</key><string>God Is An Automaton</string>
+			<key>Genre</key><string>Industrial Metal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>12305195</integer>
+			<key>Total Time</key><integer>301008</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2024-01-29T20:32:13Z</date>
+			<key>Date Added</key><date>2025-05-23T00:07:16Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>106</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3712270952</integer>
+			<key>Play Date UTC</key><date>2021-08-20T05:22:32Z</date>
+			<key>Normalization</key><integer>7133</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C40AE451191CCDAD</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Sybreed%20-%20(2012)%20God%20Is%20An%20Automaton%20-%20Downfall%20Inc.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>16404</key>
+		<dict>
+			<key>Track ID</key><integer>16404</integer>
+			<key>Name</key><string>God Is An Automaton</string>
+			<key>Artist</key><string>Sybreed</string>
+			<key>Album</key><string>God Is An Automaton</string>
+			<key>Genre</key><string>Industrial Metal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>14652050</integer>
+			<key>Total Time</key><integer>359680</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2024-04-06T15:18:31Z</date>
+			<key>Date Added</key><date>2025-05-23T00:07:16Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>100</integer>
+			<key>Play Count</key><integer>14</integer>
+			<key>Play Date</key><integer>3792820971</integer>
+			<key>Play Date UTC</key><date>2024-03-09T12:22:51Z</date>
+			<key>Normalization</key><integer>6669</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A757999FE7156EC5</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Sybreed%20-%20(2012)%20God%20Is%20An%20Automaton%20-%20God%20Is%20An%20Automaton.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>16416</key>
+		<dict>
+			<key>Track ID</key><integer>16416</integer>
+			<key>Name</key><string>The Line Of Least Resistance</string>
+			<key>Artist</key><string>Sybreed</string>
+			<key>Album</key><string>God Is An Automaton</string>
+			<key>Genre</key><string>Industrial Metal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11161064</integer>
+			<key>Total Time</key><integer>272404</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2024-01-29T20:32:10Z</date>
+			<key>Date Added</key><date>2025-05-23T00:07:16Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Volume Adjustment</key><integer>106</integer>
+			<key>Normalization</key><integer>6942</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Name</key><string>Line Of Least Resistance</string>
+			<key>Persistent ID</key><string>5ECF18D525A0951B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Sybreed%20-%20(2012)%20God%20Is%20An%20Automaton%20-%20The%20Line%20Of%20Least%20Resistance.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>Best of: Sybreed</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>63732</integer>
+			<key>Playlist Persistent ID</key><string>0289811EDF9884E7</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>16324</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16344</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16364</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16354</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16332</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16378</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16388</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16370</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16328</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16394</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16352</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16318</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16402</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16400</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16404</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>16416</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

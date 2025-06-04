@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+    <trackList>
+        <track>
+            <title>Heavenly</title>
+            <creator>Adventures</creator>
+            <album>Supersonic Home</album>
+            <duration>216320</duration>
+            <trackNum>2</trackNum>
+            <location>U:\Shared\Music\Adventures - (2015) Supersonic Home - Heavenly.mp3</location>
+        </track>
+        <track>
+            <title>Bleeding In The Blur</title>
+            <creator>Code Orange</creator>
+            <album>Forever</album>
+            <duration>244767</duration>
+            <trackNum>4</trackNum>
+            <location>U:\Shared\Music\Code Orange - (2017) Forever - Bleeding In The Blur.mp3</location>
+        </track>
+        <track>
+            <title>Forever</title>
+            <creator>Code Orange</creator>
+            <album>Forever</album>
+            <duration>188003</duration>
+            <trackNum>1</trackNum>
+            <location>U:\Shared\Music\Code Orange - (2017) Forever - Forever.mp3</location>
+        </track>
+        <track>
+            <title>Only One Way</title>
+            <creator>Code Orange</creator>
+            <album>Adult Swim Singles</album>
+            <duration>283115</duration>
+            <location>U:\Shared\Music\Code Orange - (2018) Adult Swim Singles - Only One Way.mp3</location>
+        </track>
+        <track>
+            <title>Swallowing The Rabbit Whole</title>
+            <creator>Code Orange</creator>
+            <album>Underneath</album>
+            <duration>303699</duration>
+            <location>U:\Shared\Music\Code Orange - (2020) Underneath - Swallowing The Rabbit Whole.mp3</location>
+        </track>
+        <track>
+            <title>Underneath</title>
+            <creator>Code Orange</creator>
+            <album>Underneath</album>
+            <duration>281808</duration>
+            <location>U:\Shared\Music\Code Orange - (2020) Underneath - Underneath.mp3</location>
+        </track>
+        <track>
+            <title>Who I Am</title>
+            <creator>Code Orange</creator>
+            <album>Underneath</album>
+            <duration>226481</duration>
+            <location>U:\Shared\Music\Code Orange - (2020) Underneath - Who I Am.mp3</location>
+        </track>
+    </trackList>
+</playlist>

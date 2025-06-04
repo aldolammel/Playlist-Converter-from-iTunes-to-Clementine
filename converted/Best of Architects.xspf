@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+    <trackList>
+        <track>
+            <title>C.A.N.C.E.R</title>
+            <creator>Architects</creator>
+            <album>Lost Forever // Lost Together (Deluxe Edition)</album>
+            <duration>262191</duration>
+            <trackNum>7</trackNum>
+            <location>U:\Shared\Music\Architects - (2015) Lost Forever Lost Together - C.A.N.C.E.R.mp3</location>
+        </track>
+        <track>
+            <title>Castles In The Air</title>
+            <creator>Architects</creator>
+            <album>Lost Forever // Lost Together (Deluxe Edition)</album>
+            <duration>225593</duration>
+            <trackNum>9</trackNum>
+            <location>U:\Shared\Music\Architects - (2015) Lost Forever Lost Together - Castles In The Air.mp3</location>
+        </track>
+        <track>
+            <title>Naysayer</title>
+            <creator>Architects</creator>
+            <album>Lost Forever // Lost Together (Deluxe Edition)</album>
+            <duration>208326</duration>
+            <trackNum>2</trackNum>
+            <location>U:\Shared\Music\Architects - (2015) Lost Forever Lost Together - Naysayer.mp3</location>
+        </track>
+        <track>
+            <title>A Match Made In Heaven</title>
+            <creator>Architects</creator>
+            <album>All Our Gods Have Abandoned Us</album>
+            <duration>228075</duration>
+            <trackNum>7</trackNum>
+            <location>U:\Shared\Music\Architects - (2016) All Our Gods Have Abandoned Us - A Match Made In Heaven.mp3</location>
+        </track>
+        <track>
+            <title>Gravity</title>
+            <creator>Architects</creator>
+            <album>All Our Gods Have Abandoned Us</album>
+            <duration>198164</duration>
+            <trackNum>8</trackNum>
+            <location>U:\Shared\Music\Architects - (2016) All Our Gods Have Abandoned Us - Gravity.mp3</location>
+        </track>
+        <track>
+            <title>Doomsday</title>
+            <creator>Architects</creator>
+            <album>Holy Hell</album>
+            <duration>248946</duration>
+            <trackNum>10</trackNum>
+            <location>U:\Shared\Music\Architects - (2018) Holy Hell - Doomsday.mp3</location>
+        </track>
+        <track>
+            <title>Dying To Heal</title>
+            <creator>Architects</creator>
+            <album>Holy Hell</album>
+            <duration>230896</duration>
+            <trackNum>8</trackNum>
+            <location>U:\Shared\Music\Architects - (2018) Holy Hell - Dying To Heal.mp3</location>
+        </track>
+        <track>
+            <title>Royal Beggars</title>
+            <creator>Architects</creator>
+            <album>Holy Hell</album>
+            <duration>241658</duration>
+            <trackNum>6</trackNum>
+            <location>U:\Shared\Music\Architects - (2018) Holy Hell - Royal Beggars.mp3</location>
+        </track>
+        <track>
+            <title>Animals</title>
+            <creator>Architects</creator>
+            <album>For Those That Wish To Exist</album>
+            <duration>244296</duration>
+            <location>U:\Shared\Music\Architects - (2021) For Those That Wish To Exist - Animals.mp3</location>
+        </track>
+    </trackList>
+</playlist>

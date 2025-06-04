@@ -1,0 +1,974 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+    <trackList>
+        <track>
+            <title>L490</title>
+            <creator>30 Seconds To Mars</creator>
+            <album>This Is War</album>
+            <duration>266527</duration>
+            <trackNum>12</trackNum>
+            <location>U:\Shared\Music\30 Seconds To Mars - (2009) This is war - L490.mp3</location>
+        </track>
+        <track>
+            <title>Song for the Fisherman (Interlude)</title>
+            <creator>36 Crazyfists</creator>
+            <album>A Snow Capped Romance</album>
+            <duration>86595</duration>
+            <trackNum>6</trackNum>
+            <location>U:\Shared\Music\36 Crazyfists - (2004) A Snow Capped Romance - Song for the Fisherman (Interlude).mp3</location>
+        </track>
+        <track>
+            <title>Long Road To The Late Nights</title>
+            <creator>36 Crazyfists</creator>
+            <album>Collisions And Castaways</album>
+            <duration>106971</duration>
+            <trackNum>6</trackNum>
+            <location>U:\Shared\Music\36 Crazyfists - (2010) Collisions and Castaways - Long Road To The Late Nights.mp3</location>
+        </track>
+        <track>
+            <title>Crimes</title>
+            <creator>A Perfect Circle</creator>
+            <album>Thirteenth Step</album>
+            <duration>154992</duration>
+            <trackNum>8</trackNum>
+            <location>U:\Shared\Music\A Perfect Circle - (2003) Thirteenth Step - Crimes.mp3</location>
+        </track>
+        <track>
+            <title>Reminiscense</title>
+            <creator>Air Raid</creator>
+            <album>Night Of The Axe</album>
+            <duration>109348</duration>
+            <trackNum>8</trackNum>
+            <location>U:\Shared\Music\Air Raid - (2012) Night of the axe - Reminiscense.mp3</location>
+        </track>
+        <track>
+            <title>Chill Love</title>
+            <creator>AISU</creator>
+            <duration>174628</duration>
+            <location>U:\Shared\Music\Aisu - Chill Love.mp3</location>
+        </track>
+        <track>
+            <title>Forest</title>
+            <creator>Silent Hill</creator>
+            <album>Silent Hill 2</album>
+            <duration>103653</duration>
+            <trackNum>3</trackNum>
+            <location>U:\Shared\Music\Akira Yamaoka - (2001) Silent Hill 2 - forest.mp3</location>
+        </track>
+        <track>
+            <title>The Day of Night</title>
+            <creator>Silent Hill</creator>
+            <album>Silent Hill 2</album>
+            <duration>97436</duration>
+            <trackNum>13</trackNum>
+            <location>U:\Shared\Music\Akira Yamaoka - (2001) Silent Hill 2 - the_day_of_night.mp3</location>
+        </track>
+        <track>
+            <title>True</title>
+            <creator>Silent Hill</creator>
+            <album>Silent Hill 2</album>
+            <duration>186984</duration>
+            <trackNum>24</trackNum>
+            <location>U:\Shared\Music\Akira Yamaoka - (2001) Silent Hill 2 - true.mp3</location>
+        </track>
+        <track>
+            <title>The Ghoul Next Door (ft. Kendall Miles)</title>
+            <creator>Alex</creator>
+            <duration>138762</duration>
+            <location>U:\Shared\Music\ALEX &amp; Kendall Miles - The Ghoul Next Door.mp3</location>
+        </track>
+        <track>
+            <title>Calculating Loneliness</title>
+            <creator>All That Remains</creator>
+            <album>A War You Cannot Win</album>
+            <duration>159634</duration>
+            <trackNum>11</trackNum>
+            <location>U:\Shared\Music\All That Remains - (2012) A War You Cannot Win - Calculating Loneliness.mp3</location>
+        </track>
+        <track>
+            <title>Interlúdio</title>
+            <creator>Aurora Rules</creator>
+            <album>A Sombra do Presente</album>
+            <duration>137168</duration>
+            <location>U:\Shared\Music\Aurora Rules - (2012) A Sombra Do Presente - Interlúdio.mp3</location>
+        </track>
+        <track>
+            <title>Collapse</title>
+            <creator>Boards Of Canada</creator>
+            <album>Tomorrow's Harvest</album>
+            <duration>169874</duration>
+            <trackNum>9</trackNum>
+            <location>U:\Shared\Music\Boards Of Canada - (2013) Tomorrows Harvest - Collapse.mp3</location>
+        </track>
+        <track>
+            <title>Gemini</title>
+            <creator>Boards Of Canada</creator>
+            <album>Tomorrow's Harvest</album>
+            <duration>177266</duration>
+            <trackNum>1</trackNum>
+            <location>U:\Shared\Music\Boards Of Canada - (2013) Tomorrows Harvest - Gemini.mp3</location>
+        </track>
+        <track>
+            <title>New Seeds</title>
+            <creator>Boards Of Canada</creator>
+            <album>Tomorrow's Harvest</album>
+            <duration>339226</duration>
+            <trackNum>15</trackNum>
+            <location>U:\Shared\Music\Boards Of Canada - (2013) Tomorrows Harvest - New Seeds.mp3</location>
+        </track>
+        <track>
+            <title>Semena Mertvykh</title>
+            <creator>Boards Of Canada</creator>
+            <album>Tomorrow's Harvest</album>
+            <duration>212192</duration>
+            <trackNum>17</trackNum>
+            <location>U:\Shared\Music\Boards Of Canada - (2013) Tomorrows Harvest - Semena Mertvykh.mp3</location>
+        </track>
+        <track>
+            <title>Sundown</title>
+            <creator>Boards Of Canada</creator>
+            <album>Tomorrow's Harvest</album>
+            <duration>136228</duration>
+            <trackNum>14</trackNum>
+            <location>U:\Shared\Music\Boards Of Canada - (2013) Tomorrows Harvest - Sundown.mp3</location>
+        </track>
+        <track>
+            <title>Telepath</title>
+            <creator>Boards Of Canada</creator>
+            <album>Tomorrow's Harvest</album>
+            <duration>92865</duration>
+            <trackNum>5</trackNum>
+            <location>U:\Shared\Music\Boards Of Canada - (2013) Tomorrows Harvest - Telepath.mp3</location>
+        </track>
+        <track>
+            <title>Transmisiones Ferox</title>
+            <creator>Boards Of Canada</creator>
+            <album>Tomorrow's Harvest</album>
+            <duration>138240</duration>
+            <trackNum>7</trackNum>
+            <location>U:\Shared\Music\Boards Of Canada - (2013) Tomorrows Harvest - Transmisiones Ferox.mp3</location>
+        </track>
+        <track>
+            <title>White Cyclosa</title>
+            <creator>Boards Of Canada</creator>
+            <album>Tomorrow's Harvest</album>
+            <duration>193175</duration>
+            <trackNum>3</trackNum>
+            <location>U:\Shared\Music\Boards Of Canada - (2013) Tomorrows Harvest - White Cyclosa.mp3</location>
+        </track>
+        <track>
+            <title>Outro</title>
+            <creator>Breaking Benjamin</creator>
+            <album>Phobia</album>
+            <duration>129933</duration>
+            <trackNum>13</trackNum>
+            <location>U:\Shared\Music\Breaking Benjamin - (2006) Phobia - outro.mp3</location>
+        </track>
+        <track>
+            <title>Any Other Name</title>
+            <creator>Café Del Mar</creator>
+            <album>Volumen Ocho</album>
+            <duration>247928</duration>
+            <trackNum>2</trackNum>
+            <location>U:\Shared\Music\Café del mar - (2001) Volumen Ocho - Any Other Name.mp3</location>
+        </track>
+        <track>
+            <title>Criando Anticorpos</title>
+            <creator>Charlie Brown Jr.</creator>
+            <album>Imunidade Musical</album>
+            <duration>53681</duration>
+            <trackNum>22</trackNum>
+            <location>U:\Shared\Music\Charlie Brown Jr. - (2005) Imunidade Musical - Criando anticorpos.mp3</location>
+        </track>
+        <track>
+            <title>Buscando Um Novo Rumo (Instrumental)</title>
+            <creator>Charlie Brown Jr.</creator>
+            <album>Ritmo, Ritual e Responsa</album>
+            <duration>161567</duration>
+            <trackNum>16</trackNum>
+            <location>U:\Shared\Music\Charlie Brown Jr. - (2007) Ritmo, Ritual E Responsa - Buscando Um Novo Rumo (Instrumental).MP3</location>
+        </track>
+        <track>
+            <title>Cafe Fundation (Instrumental)</title>
+            <creator>Charlie Brown Jr.</creator>
+            <album>Ritmo, Ritual e Responsa</album>
+            <duration>83408</duration>
+            <trackNum>21</trackNum>
+            <location>U:\Shared\Music\Charlie Brown Jr. - (2007) Ritmo, Ritual E Responsa - Cafe Fundation (Instrumental) .MP3</location>
+        </track>
+        <track>
+            <title>Liberdade É Tudo (Instrumental)</title>
+            <creator>Charlie Brown Jr.</creator>
+            <album>Ritmo, Ritual e Responsa</album>
+            <duration>103549</duration>
+            <trackNum>7</trackNum>
+            <location>U:\Shared\Music\Charlie Brown Jr. - (2007) Ritmo, Ritual E Responsa - Liberdade É Tudo (Instrumental).MP3</location>
+        </track>
+        <track>
+            <title>Abeo</title>
+            <creator>Chimaira</creator>
+            <album>Pass Out of Existence</album>
+            <duration>104489</duration>
+            <trackNum>6</trackNum>
+            <location>U:\Shared\Music\Chimaira - (2001) Pass Out of Existence - Abeo.mp3</location>
+        </track>
+        <track>
+            <title>The Heart of It All</title>
+            <creator>Chimaira</creator>
+            <album>The Infection</album>
+            <duration>892081</duration>
+            <trackNum>10</trackNum>
+            <location>U:\Shared\Music\Chimaira - (2009) The Infection - The Heart of It All.mp3</location>
+        </track>
+        <track>
+            <title>Stoma</title>
+            <creator>Chimaira</creator>
+            <album>The Age of Hell</album>
+            <duration>88608</duration>
+            <trackNum>8</trackNum>
+            <location>U:\Shared\Music\Chimaira - (2011) The Age of Hell - Stoma.mp3</location>
+        </track>
+        <track>
+            <title>After The Chase</title>
+            <creator>Cliff Martinez</creator>
+            <album>Drive</album>
+            <duration>325590</duration>
+            <trackNum>13</trackNum>
+            <location>U:\Shared\Music\Cliff Martinez - (2012) Drive Soundtrack - After The Chase.mp3</location>
+        </track>
+        <track>
+            <title>On the Beach</title>
+            <creator>Cliff Martinez</creator>
+            <album>Drive</album>
+            <duration>395467</duration>
+            <trackNum>18</trackNum>
+            <location>U:\Shared\Music\Cliff Martinez - (2012) Drive Soundtrack - On the Beach.mp3</location>
+        </track>
+        <track>
+            <title>Where's the Deluxe Version?</title>
+            <creator>Cliff Martinez</creator>
+            <album>Drive</album>
+            <duration>332721</duration>
+            <trackNum>11</trackNum>
+            <location>U:\Shared\Music\Cliff Martinez - (2012) Drive Soundtrack - Where's the Deluxe Version.mp3</location>
+        </track>
+        <track>
+            <title>Wrong Floor</title>
+            <creator>Cliff Martinez</creator>
+            <album>Drive</album>
+            <duration>91167</duration>
+            <trackNum>15</trackNum>
+            <location>U:\Shared\Music\Cliff Martinez - (2012) Drive Soundtrack - Wrong Floor.mp3</location>
+        </track>
+        <track>
+            <title>Meet John Constantine</title>
+            <creator>Brian Tyler &amp; Klaus Badelt</creator>
+            <album>Constantine Original Motion Picture Soundtrack</album>
+            <duration>159320</duration>
+            <trackNum>3</trackNum>
+            <location>U:\Shared\Music\Constantine - Meet John Constantine (Soundtrack).mp3</location>
+        </track>
+        <track>
+            <title>Counterweight</title>
+            <creator>Brian Tyler &amp; Klaus Badelt</creator>
+            <album>Constantine Original Motion Picture Soundtrack</album>
+            <duration>167418</duration>
+            <location>U:\Shared\Music\Constantine Soundtrack - Counterweight.mp3</location>
+        </track>
+        <track>
+            <title>Hell Freeway</title>
+            <creator>Brian Tyler &amp; Klaus Badelt</creator>
+            <album>Constantine Original Motion Picture Soundtrack</album>
+            <duration>163186</duration>
+            <location>U:\Shared\Music\Constantine Soundtrack - Hell Freeway.mp3</location>
+        </track>
+        <track>
+            <title>Last Rites</title>
+            <creator>Brian Tyler &amp; Klaus Badelt</creator>
+            <album>Constantine Original Motion Picture Soundtrack</album>
+            <duration>115513</duration>
+            <location>U:\Shared\Music\Constantine Soundtrack - Last Rites.mp3</location>
+        </track>
+        <track>
+            <title>Outro</title>
+            <creator>Crazy Town</creator>
+            <album>The Gift of Game</album>
+            <duration>79255</duration>
+            <trackNum>14</trackNum>
+            <location>U:\Shared\Music\Crazy Town - (1999) The Gift of Game - Outro.mp3</location>
+        </track>
+        <track>
+            <title>Life (Instrumental)</title>
+            <creator>J Dilla</creator>
+            <duration>280163</duration>
+            <location>U:\Shared\Music\Creative Commons - J Dilla - Life (Instrumental).mp3</location>
+        </track>
+        <track>
+            <title>Nocturne</title>
+            <creator>Daft Punk</creator>
+            <album>Tron Legacy Soundtrack</album>
+            <duration>101668</duration>
+            <trackNum>11</trackNum>
+            <location>U:\Shared\Music\Daft Punk - (2010) Tron Legacy - Nocturne.mp3</location>
+        </track>
+        <track>
+            <title>The Game Has Changed</title>
+            <creator>Daft Punk</creator>
+            <album>Tron Legacy Soundtrack</album>
+            <duration>205453</duration>
+            <trackNum>8</trackNum>
+            <location>U:\Shared\Music\Daft Punk - (2010) Tron Legacy - The Game Has Changed.mp3</location>
+        </track>
+        <track>
+            <title>Terra Nocturnus</title>
+            <creator>Darkest Hour</creator>
+            <album>The Human Romance</album>
+            <duration>76512</duration>
+            <trackNum>1</trackNum>
+            <location>U:\Shared\Music\Darkest Hour - (2011) The Human Romance - Terra Nocturnus.mp3</location>
+        </track>
+        <track>
+            <title>Terra Solaris</title>
+            <creator>Darkest Hour</creator>
+            <album>The Human Romance</album>
+            <duration>521404</duration>
+            <trackNum>11</trackNum>
+            <location>U:\Shared\Music\Darkest Hour - (2011) The Human Romance - Terra Solaris.mp3</location>
+        </track>
+        <track>
+            <title>U, u, d, d, l, r, l, r, a, b, selct, start</title>
+            <creator>Deftones</creator>
+            <album>Saturday Night Wrist</album>
+            <duration>252630</duration>
+            <location>U:\Shared\Music\Deftones - (2006) Saturday Night Wrist - U, u, d, d, l, r, l, r, a, b, selct, start.mp3</location>
+        </track>
+        <track>
+            <title>Best of Freeride Downhill (MTB)</title>
+            <creator>Desconhecido</creator>
+            <duration>350720</duration>
+            <location>U:\Shared\Music\Desconhecido - Best of Freeride Downhill - MTB.mp3</location>
+        </track>
+        <track>
+            <title>Nevaeh</title>
+            <creator>Design the Skyline</creator>
+            <album>Nevaeh</album>
+            <duration>206863</duration>
+            <trackNum>10</trackNum>
+            <location>U:\Shared\Music\Design The Skyline - (2011) Nevaeh - Nevaeh.mp3</location>
+        </track>
+        <track>
+            <title>Breakdance in Kabul [Instrumental]</title>
+            <creator>DJ4Kat &amp; L'Artisan</creator>
+            <album>DJ4Kat</album>
+            <duration>145711</duration>
+            <location>U:\Shared\Music\Dj4Kat - Breakdance in Kabul [Instrumental] (com L'Artisan).mp3</location>
+        </track>
+        <track>
+            <title>Ensurance Trap</title>
+            <creator>Michael Andrews</creator>
+            <album>Donnie Darko: Soundtrack &amp; Score</album>
+            <duration>192182</duration>
+            <location>U:\Shared\Music\Donnie Darko - (2002) Soundtrack &amp; Score - Ensurance Trap.mp3</location>
+        </track>
+        <track>
+            <title>For Whom the Bell Tolls</title>
+            <creator>Steve Baker &amp; Carmen Dave</creator>
+            <album>Donnie Darko: Soundtrack &amp; Score</album>
+            <duration>192888</duration>
+            <trackNum>11</trackNum>
+            <location>U:\Shared\Music\Donnie Darko - (2002) Soundtrack &amp; Score - For Whom the Bell Tolls (Steve Baker &amp; Carmen Dave).mp3</location>
+        </track>
+        <track>
+            <title>Manipulated Living</title>
+            <creator>Michael Andrews</creator>
+            <album>Donnie Darko: Soundtrack &amp; Score</album>
+            <duration>128626</duration>
+            <location>U:\Shared\Music\Donnie Darko - (2002) Soundtrack &amp; Score - Manipulated Living.mp3</location>
+        </track>
+        <track>
+            <title>The Tangent Universe</title>
+            <creator>Michael Andrews</creator>
+            <album>Donnie Darko: Soundtrack &amp; Score</album>
+            <duration>110524</duration>
+            <location>U:\Shared\Music\Donnie Darko - (2002) Soundtrack &amp; Score - The Tangent Universe.mp3</location>
+        </track>
+        <track>
+            <title>Theme song</title>
+            <creator>Doom 3</creator>
+            <album>Doom 3</album>
+            <duration>165668</duration>
+            <location>U:\Shared\Music\DooM 3 Theme song.mp3</location>
+        </track>
+        <track>
+            <title>The Darkest Evening Of The Year</title>
+            <creator>Emancipator</creator>
+            <album>Soon It Will Be Cold Enough</album>
+            <duration>139964</duration>
+            <trackNum>14</trackNum>
+            <location>U:\Shared\Music\Emancipator - (2006) Soon It Will Be Cold Enough - the_darkest_evening_of_the_year.mp3</location>
+        </track>
+        <track>
+            <title>Getaways</title>
+            <creator>Ennja</creator>
+            <duration>387944</duration>
+            <location>U:\Shared\Music\Ennja - Getaways.mp3</location>
+        </track>
+        <track>
+            <title>Flugdank</title>
+            <creator>Flughand</creator>
+            <duration>158249</duration>
+            <location>U:\Shared\Music\Flughand - Flugdank.mp3</location>
+        </track>
+        <track>
+            <title>Track 10</title>
+            <creator>Half-life</creator>
+            <album>Half-life 2 Soundtrack</album>
+            <duration>106004</duration>
+            <trackNum>10</trackNum>
+            <location>U:\Shared\Music\Half-life 2 - Soundtrack - track_10.mp3</location>
+        </track>
+        <track>
+            <title>VLVX song21</title>
+            <creator>Half-life</creator>
+            <album>Half-life 2: Episode One</album>
+            <duration>169560</duration>
+            <location>U:\Shared\Music\Half-Life2 EP1 - VLVX_song21.mp3</location>
+        </track>
+        <track>
+            <title>Purity</title>
+            <creator>Hanzel und Gretyl</creator>
+            <duration>336692</duration>
+            <location>U:\Shared\Music\Hanzel und Gretyl - Purity.mp3</location>
+        </track>
+        <track>
+            <title>Atonement</title>
+            <creator>Heaven Shall Burn</creator>
+            <album>Iconoclast</album>
+            <duration>274886</duration>
+            <trackNum>14</trackNum>
+            <location>U:\Shared\Music\Heaven Shall Burn - (2008) Iconoclast - Atonement.mp3</location>
+        </track>
+        <track>
+            <title>Awoken (Intro)</title>
+            <creator>Heaven Shall Burn</creator>
+            <album>Iconoclast</album>
+            <duration>88607</duration>
+            <trackNum>1</trackNum>
+            <location>U:\Shared\Music\Heaven Shall Burn - (2008) Iconoclast - Awoken (Intro).mp3</location>
+        </track>
+        <track>
+            <title>Equinox</title>
+            <creator>Heaven Shall Burn</creator>
+            <album>Iconoclast</album>
+            <duration>189857</duration>
+            <trackNum>13</trackNum>
+            <location>U:\Shared\Music\Heaven Shall Burn - (2008) Iconoclast - Equinox.mp3</location>
+        </track>
+        <track>
+            <title>Intro</title>
+            <creator>Heaven Shall Burn</creator>
+            <album>Invictus</album>
+            <duration>69746</duration>
+            <trackNum>1</trackNum>
+            <location>U:\Shared\Music\Heaven Shall Burn - (2010) Invictus - Intro.mp3</location>
+        </track>
+        <track>
+            <title>Outro</title>
+            <creator>Heaven Shall Burn</creator>
+            <album>Invictus</album>
+            <duration>106240</duration>
+            <trackNum>13</trackNum>
+            <location>U:\Shared\Music\Heaven Shall Burn - (2010) Invictus - Outro.mp3</location>
+        </track>
+        <track>
+            <title>Desire Pearing The Water Of Truth</title>
+            <creator>HeavensDust</creator>
+            <album>Higher Than Heaven, Louder Than God</album>
+            <duration>123559</duration>
+            <trackNum>8</trackNum>
+            <location>U:\Shared\Music\HeavensDust - (2005) Higher Than Heaven, Louder Than God - Desire Pearing The Water Of Truth.mp3</location>
+        </track>
+        <track>
+            <title>Moment of Silence</title>
+            <creator>Heavensdust</creator>
+            <album>To All The Things I've Lost</album>
+            <duration>153573</duration>
+            <trackNum>7</trackNum>
+            <location>U:\Shared\Music\HeavensDust - (2010) To all the things I've lost - MomentofSilence.mp3</location>
+        </track>
+        <track>
+            <title>Ruin</title>
+            <creator>Heavensdust</creator>
+            <album>To All The Things I've Lost</album>
+            <duration>213080</duration>
+            <trackNum>4</trackNum>
+            <location>U:\Shared\Music\HeavensDust - (2010) To all the things I've lost - Ruin.mp3</location>
+        </track>
+        <track>
+            <title>Peter Gun</title>
+            <creator>Henry Mancini</creator>
+            <duration>145528</duration>
+            <location>U:\Shared\Music\Henry Mancini - Peter Gun.mp3</location>
+        </track>
+        <track>
+            <title>Hubori</title>
+            <creator>Hilight Tribe</creator>
+            <duration>421746</duration>
+            <location>U:\Shared\Music\Hilight Tribe - Hubori.mp3</location>
+        </track>
+        <track>
+            <title>The Blue</title>
+            <creator>Hopes Die Last</creator>
+            <album>Trust No One</album>
+            <duration>106135</duration>
+            <trackNum>5</trackNum>
+            <location>U:\Shared\Music\Hopes Die Last - (2012) Trust No One - The Blue.mp3</location>
+        </track>
+        <track>
+            <title>Icefall (Remastered)</title>
+            <creator>Marc Hönninger </creator>
+            <duration>356989</duration>
+            <location>U:\Shared\Music\Icefall Remastered.mp3</location>
+        </track>
+        <track>
+            <title>barely breathing</title>
+            <creator>Ill Niño</creator>
+            <album>One Nation Underground</album>
+            <duration>65802</duration>
+            <trackNum>12</trackNum>
+            <location>U:\Shared\Music\Ill Niño - (2005) One Nation Underground - Barely Breathing.mp3</location>
+        </track>
+        <track>
+            <title>Whoracle</title>
+            <creator>In Flames</creator>
+            <album>Whoracle</album>
+            <duration>163918</duration>
+            <location>U:\Shared\Music\In Flames - (1997) Whoracle - Whoracle.mp3</location>
+        </track>
+        <track>
+            <title>Jester’s Door</title>
+            <creator>In Flames</creator>
+            <album>Sounds Of A Playground Fading</album>
+            <duration>157309</duration>
+            <trackNum>11</trackNum>
+            <location>U:\Shared\Music\In Flames - (2011) Sounds of a Playground Fading - Jester’s Door .mp3</location>
+        </track>
+        <track>
+            <title>(2000) Brave New World - The Nomad (Instrumental Part Only)</title>
+            <creator>Iron Maiden</creator>
+            <album>Trechos Fodas</album>
+            <duration>195291</duration>
+            <trackNum>8</trackNum>
+            <location>U:\Shared\Music\Iron Maiden - Trechos Fodas - (2000) Brave New World - The Nomad (instrumental part only).mp3</location>
+        </track>
+        <track>
+            <title>71.blue kiss</title>
+            <creator>Chuck Loeb</creator>
+            <album>LISTEN</album>
+            <duration>411846</duration>
+            <location>U:\Shared\Music\Jazz Guitar Chuck Loeb - Blue Kiss.mp3</location>
+        </track>
+        <track>
+            <title>Deadweight</title>
+            <creator>JFoBTQ</creator>
+            <duration>355657</duration>
+            <location>U:\Shared\Music\JFoBTQ - (2012) - Deadweight.mp3</location>
+        </track>
+        <track>
+            <title>Bad To The Bone</title>
+            <creator>John Carpenter</creator>
+            <duration>295523</duration>
+            <location>U:\Shared\Music\John Carpenter - Christine - Bad To The Bone.mp3</location>
+        </track>
+        <track>
+            <title>Interlude III: Midnight - Twel</title>
+            <creator>Kamelot</creator>
+            <album>The Black Halo</album>
+            <duration>81345</duration>
+            <trackNum>13</trackNum>
+            <location>U:\Shared\Music\Kamelot - (2005) The Black Halo - Interlude III - Midnight - Twelve tolls for a new day.mp3</location>
+        </track>
+        <track>
+            <title>Solitaire</title>
+            <creator>Kamelot</creator>
+            <album>Ghost Opera</album>
+            <duration>60212</duration>
+            <trackNum>1</trackNum>
+            <location>U:\Shared\Music\Kamelot - (2007) Ghost Opera - Solitaire.mp3</location>
+        </track>
+        <track>
+            <title>Forty Seven</title>
+            <creator>Karma To Burn</creator>
+            <duration>290742</duration>
+            <location>U:\Shared\Music\Karma To Burn - (2011) - Forty Seven.mp3</location>
+        </track>
+        <track>
+            <title>(Interlude)</title>
+            <creator>Killswitch Engage</creator>
+            <album>The End Of Heartache</album>
+            <duration>74997</duration>
+            <trackNum>11</trackNum>
+            <location>U:\Shared\Music\Killswitch Engage - (2004) The End Of Heartache - Interlude II.mp3</location>
+        </track>
+        <track>
+            <title>(Interlude)</title>
+            <creator>Killswitch Engage</creator>
+            <album>The End Of Heartache</album>
+            <duration>75154</duration>
+            <trackNum>3</trackNum>
+            <location>U:\Shared\Music\Killswitch Engage - (2004) The End Of Heartache - Interlude.mp3</location>
+        </track>
+        <track>
+            <title>Immortal</title>
+            <creator>Kittie</creator>
+            <album>Spit</album>
+            <duration>169952</duration>
+            <trackNum>12</trackNum>
+            <location>U:\Shared\Music\Kittie - (1999) Spit - Immortal.mp3</location>
+        </track>
+        <track>
+            <title>Ending</title>
+            <creator>Kiyoshi Yoshida</creator>
+            <album>Pacific Moon Asian Drums</album>
+            <duration>65959</duration>
+            <trackNum>15</trackNum>
+            <location>U:\Shared\Music\Kiyoshi Yoshida - (1999) Pacific Moon Asian Drums - Ending.mp3</location>
+        </track>
+        <track>
+            <title>Forest II</title>
+            <creator>Kiyoshi Yoshida</creator>
+            <album>Pacific Moon Asian Drums</album>
+            <duration>70112</duration>
+            <trackNum>6</trackNum>
+            <location>U:\Shared\Music\Kiyoshi Yoshida - (1999) Pacific Moon Asian Drums - Forest II.mp3</location>
+        </track>
+        <track>
+            <title>Forest III</title>
+            <creator>Kiyoshi Yoshida</creator>
+            <album>Pacific Moon Asian Drums</album>
+            <duration>86987</duration>
+            <trackNum>11</trackNum>
+            <location>U:\Shared\Music\Kiyoshi Yoshida - (1999) Pacific Moon Asian Drums - Forest III.mp3</location>
+        </track>
+        <track>
+            <title>Forest</title>
+            <creator>Kiyoshi Yoshida</creator>
+            <album>Pacific Moon Asian Drums</album>
+            <duration>55797</duration>
+            <trackNum>3</trackNum>
+            <location>U:\Shared\Music\Kiyoshi Yoshida - (1999) Pacific Moon Asian Drums - Forest.mp3</location>
+        </track>
+        <track>
+            <title>Oiuchidaiko</title>
+            <creator>Kiyoshi Yoshida</creator>
+            <album>Pacific Moon Asian Drums</album>
+            <duration>71967</duration>
+            <trackNum>13</trackNum>
+            <location>U:\Shared\Music\Kiyoshi Yoshida - (1999) Pacific Moon Asian Drums - Oiuchidaiko.mp3</location>
+        </track>
+        <track>
+            <title>Frontier</title>
+            <creator>Kiyoshi Yoshida</creator>
+            <album>Warriors</album>
+            <duration>295732</duration>
+            <location>U:\Shared\Music\Kiyoshi Yoshida - (2012) Warriors - Frontier.mp3</location>
+        </track>
+        <track>
+            <title>Kabuto</title>
+            <creator>Kiyoshi Yoshida</creator>
+            <album>Warriors</album>
+            <duration>291056</duration>
+            <location>U:\Shared\Music\Kiyoshi Yoshida - (2012) Warriors - Kabuto.mp3</location>
+        </track>
+        <track>
+            <title>Warriors</title>
+            <creator>Kiyoshi Yoshida</creator>
+            <album>Warriors</album>
+            <duration>237322</duration>
+            <location>U:\Shared\Music\Kiyoshi Yoshida - (2012) Warriors - Warriors.mp3</location>
+        </track>
+        <track>
+            <title>PORNO CREEP</title>
+            <creator>Korn</creator>
+            <album>Life Is Peachy</album>
+            <duration>121077</duration>
+            <location>U:\Shared\Music\Korn - (1996) Life Is Peachy - PORNO CREEP.mp3</location>
+        </track>
+        <track>
+            <title>Trance Awake</title>
+            <creator>Lacuna Coil</creator>
+            <album>Andere Gothic</album>
+            <duration>120215</duration>
+            <location>U:\Shared\Music\Lacuna Coil - Andere Gothic - Trance Awake.mp3</location>
+        </track>
+        <track>
+            <title>A.06</title>
+            <creator>Linkin Park</creator>
+            <album>Underground V2.0</album>
+            <duration>54256</duration>
+            <trackNum>1</trackNum>
+            <location>U:\Shared\Music\Linkin Park - () Underground v2.0 - a.06-apc.mp3</location>
+        </track>
+        <track>
+            <title>Cure for the itch</title>
+            <creator>Linkin Park</creator>
+            <album>Hybrid Theory</album>
+            <duration>159320</duration>
+            <trackNum>11</trackNum>
+            <location>U:\Shared\Music\Linkin Park - (2000) Hybrid Theory - Pista Audio 11.mp3</location>
+        </track>
+        <track>
+            <title>Session</title>
+            <creator>Linkin Park</creator>
+            <album>Meteora</album>
+            <duration>144692</duration>
+            <location>U:\Shared\Music\Linkin Park - (2003) Meteora - Session_-_Abyss.mp3</location>
+        </track>
+        <track>
+            <title>Wisdom, Justice, And Love</title>
+            <creator>Linkin Park</creator>
+            <album>A Thousand Suns</album>
+            <duration>98808</duration>
+            <trackNum>11</trackNum>
+            <location>U:\Shared\Music\Linkin Park - (2010) A thousand suns - Wisdom, Justice, And Love.mp3</location>
+        </track>
+        <track>
+            <title>Opening</title>
+            <creator>Linkin Park</creator>
+            <album>Reanimation</album>
+            <duration>67604</duration>
+            <trackNum>1</trackNum>
+            <location>U:\Shared\Music\Linkin Park - Reanimation - 01 - Opening.mp3</location>
+        </track>
+        <track>
+            <title>Intro</title>
+            <creator>Massivedrum</creator>
+            <album>Best Of House 2012</album>
+            <duration>30040</duration>
+            <location>U:\Shared\Music\Massivedrum - (2011) Best of House 2012 - Intro.mp3</location>
+        </track>
+        <track>
+            <title>Shalom/Saalam</title>
+            <creator>Matisyahu</creator>
+            <album>Youth</album>
+            <duration>66037</duration>
+            <trackNum>9</trackNum>
+            <location>U:\Shared\Music\Matisyahu - (2006) Youth - Shalom-Saalam.mp3</location>
+        </track>
+        <track>
+            <title>Orion (Instramental)</title>
+            <creator>Metallica</creator>
+            <album>The Greatest Hits (não oficial)</album>
+            <duration>507794</duration>
+            <location>U:\Shared\Music\Metallica - The greatest hits - Orion (Instramental).mp3</location>
+        </track>
+        <track>
+            <title>'Round Midnight</title>
+            <creator>Miles Davis</creator>
+            <album>Greatest Hits [Columbia]</album>
+            <duration>357825</duration>
+            <trackNum>7</trackNum>
+            <location>U:\Shared\Music\Miles Davis - Greatest Hits - 'Round Midnight.mp3</location>
+        </track>
+        <track>
+            <title>At Heart</title>
+            <creator>Miss May I</creator>
+            <album>At Heart</album>
+            <duration>48613</duration>
+            <trackNum>1</trackNum>
+            <location>U:\Shared\Music\Miss May I - (2012) At Heart - At Heart.mp3</location>
+        </track>
+        <track>
+            <title>Monolith</title>
+            <creator>Mudvayne</creator>
+            <album>L.D. 50</album>
+            <duration>113266</duration>
+            <location>U:\Shared\Music\Mudvayne - (2000) L.D.50 - Monolith.mp3</location>
+        </track>
+        <track>
+            <title>L.D. 50</title>
+            <creator>Mudvayne</creator>
+            <album>The Beginning Of All Things To End</album>
+            <duration>1035441</duration>
+            <trackNum>11</trackNum>
+            <location>U:\Shared\Music\Mudvayne - (2001) The Beginning Of All Things To End - L.D. 50.mp3</location>
+        </track>
+        <track>
+            <title>Collapse</title>
+            <creator>MuteMath</creator>
+            <album>MuteMath</album>
+            <duration>72594</duration>
+            <trackNum>1</trackNum>
+            <location>U:\Shared\Music\Mutemath - (2006) Mutemath - collapse.mp3</location>
+        </track>
+        <track>
+            <title>Certitude</title>
+            <creator>Neaera</creator>
+            <album>Forging The Eclipse</album>
+            <duration>170788</duration>
+            <trackNum>8</trackNum>
+            <location>U:\Shared\Music\Neaera - (2010) Forging The Eclipse - Certitude.mp3</location>
+        </track>
+        <track>
+            <title>The Forging</title>
+            <creator>Neaera</creator>
+            <album>Forging The Eclipse</album>
+            <duration>60551</duration>
+            <trackNum>1</trackNum>
+            <location>U:\Shared\Music\Neaera - (2010) Forging The Eclipse - The Forging.mp3</location>
+        </track>
+        <track>
+            <title>Je t' Oublierai tous les Jours</title>
+            <creator>Neon</creator>
+            <album>Au Theatre des Sons Imaginaires</album>
+            <duration>358504</duration>
+            <trackNum>8</trackNum>
+            <location>U:\Shared\Music\Neon - Je t' Oublierai tous les Jours.mp3</location>
+        </track>
+        <track>
+            <title>Vertigem</title>
+            <creator>NX Zero</creator>
+            <album>Sete Chaves</album>
+            <duration>39000</duration>
+            <trackNum>1</trackNum>
+            <location>U:\Shared\Music\NX Zero - (2009) Sete Chaves - Vertigem.mp3</location>
+        </track>
+        <track>
+            <title>Pay Phone</title>
+            <creator>Fantom '87</creator>
+            <duration>353462</duration>
+            <location>U:\Shared\Music\Pay Phone.mp3</location>
+        </track>
+        <track>
+            <title>#46</title>
+            <creator>Project46</creator>
+            <album>Doa a Quem Doer</album>
+            <duration>104620</duration>
+            <trackNum>8</trackNum>
+            <location>U:\Shared\Music\Project46 - (2011) Doa a Quem Doer - #46.mp3</location>
+        </track>
+        <track>
+            <title>809072</title>
+            <creator>Project46</creator>
+            <album>Doa a Quem Doer</album>
+            <duration>60656</duration>
+            <trackNum>1</trackNum>
+            <location>U:\Shared\Music\Project46 - (2011) Doa a Quem Doer - 809072.mp3</location>
+        </track>
+        <track>
+            <title>Base LoFi para a canção Cheia De Manias (JDutra)</title>
+            <creator>Raça Negra</creator>
+            <duration>173087</duration>
+            <location>U:\Shared\Music\Raça Negra - Cheia de Manias (lofi remix by João Dutra - jdutra - no voices).mp3</location>
+        </track>
+        <track>
+            <title>Cheia de Manias (lofi remix by João Dutra - jdutra)</title>
+            <creator>Raça Negra</creator>
+            <duration>179121</duration>
+            <location>U:\Shared\Music\Raça Negra - Cheia de Manias (lofi remix by João Dutra - jdutra).mp3</location>
+        </track>
+        <track>
+            <title>Cleansing</title>
+            <creator>Marilyn Manson</creator>
+            <album>Resident Evil</album>
+            <duration>314279</duration>
+            <trackNum>20</trackNum>
+            <location>U:\Shared\Music\Resident Evil - (2002) Music from and Inspired by the Original Motion Picture - Marilyn Manson - Cleansing.mp3</location>
+        </track>
+        <track>
+            <title>Reunion</title>
+            <creator>Marilyn Manson</creator>
+            <album>Resident Evil</album>
+            <duration>167026</duration>
+            <trackNum>19</trackNum>
+            <location>U:\Shared\Music\Resident Evil - (2002) Music from and Inspired by the Original Motion Picture - Marilyn Manson - Reunion.mp3</location>
+        </track>
+        <track>
+            <title>Main Title</title>
+            <creator>Charlie Clouser</creator>
+            <album>Extinction</album>
+            <duration>49449</duration>
+            <trackNum>1</trackNum>
+            <location>U:\Shared\Music\Resident Evil - (2007) Extinction - Charlie Clouser -  Main Title.mp3</location>
+        </track>
+        <track>
+            <title>Convoy</title>
+            <creator>Charlie Clouser</creator>
+            <album>Extinction</album>
+            <duration>43755</duration>
+            <trackNum>19</trackNum>
+            <location>U:\Shared\Music\Resident Evil - (2007) Extinction - Charlie Clouser - Convoy.mp3</location>
+        </track>
+        <track>
+            <title>Laser Tunnels</title>
+            <creator>Charlie Clouser</creator>
+            <album>Extinction</album>
+            <duration>27742</duration>
+            <trackNum>12</trackNum>
+            <location>U:\Shared\Music\Resident Evil - (2007) Extinction - Charlie Clouser - Laser Tunnels.mp3</location>
+        </track>
+        <track>
+            <title>Losing</title>
+            <creator>Charlie Clouser</creator>
+            <album>Extinction</album>
+            <duration>79751</duration>
+            <trackNum>6</trackNum>
+            <location>U:\Shared\Music\Resident Evil - (2007) Extinction - Charlie Clouser - Losing.mp3</location>
+        </track>
+        <track>
+            <title>The Ascent</title>
+            <creator>The Classic Crime</creator>
+            <album>The Silver Cord</album>
+            <duration>114155</duration>
+            <trackNum>11</trackNum>
+            <location>U:\Shared\Music\The Classic Crime - (2008) The Silver Cord - The Ascent.mp3</location>
+        </track>
+        <track>
+            <title>Hunger OST</title>
+            <creator>Hans Zimmer</creator>
+            <album>Black Hawk Down Soundtrack</album>
+            <duration>392176</duration>
+            <location>U:\Shared\Music\Black Hawk Down Soundtrack - Hunger OST.mp3</location>
+        </track>
+        <track>
+            <title>Pug Life (feat Chad Bogus)</title>
+            <creator>Beatslingers</creator>
+            <duration>193410</duration>
+            <location>U:\Shared\Music\Beatslingers - 2014 - Pug Life (Chad Bogus).mp3</location>
+        </track>
+        <track>
+            <title>Textures</title>
+            <creator>Robert Farrugia</creator>
+            <album>Adrift</album>
+            <duration>317701</duration>
+            <trackNum>1</trackNum>
+            <location>U:\Shared\Music\Robert Farrugia - Adrift - 01 Textures.mp3</location>
+        </track>
+        <track>
+            <title>Invisible Medicine (feat Enluv)</title>
+            <creator>Squeeda</creator>
+            <album>Lost World</album>
+            <duration>174602</duration>
+            <location>U:\Shared\Music\Squeeda - (2021) Lost World - Invisible Medicine (feat Enluv).mp3</location>
+        </track>
+        <track>
+            <title>The most evil tone</title>
+            <creator>Manuel Gardner Fernandes</creator>
+            <duration>76486</duration>
+            <location>U:\Shared\Music\Manuel Gardner Fernandes - (2022) The most evil tone.mp3</location>
+        </track>
+        <track>
+            <title>Skies</title>
+            <creator>Manuel Gardner Fernandes</creator>
+            <duration>110968</duration>
+            <location>U:\Shared\Music\Manuel Gardner Fernandes - (2022) - Skies.mp3</location>
+        </track>
+        <track>
+            <title>The Glass and Bead Game</title>
+            <creator>Thievery Corporation</creator>
+            <album>Sounds from the Thievery Hi-Fi</album>
+            <duration>372819</duration>
+            <location>U:\Shared\Music\Thievery Corporation - (1996) Sounds from the Thievery Hi-Fi - The Glass and Bead Game.mp3</location>
+        </track>
+    </trackList>
+</playlist>

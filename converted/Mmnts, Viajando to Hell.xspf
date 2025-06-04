@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+    <trackList>
+        <track>
+            <title>Back in Black</title>
+            <creator>ACDC</creator>
+            <album>Back in Black</album>
+            <duration>255346</duration>
+            <trackNum>6</trackNum>
+            <location>U:\Shared\Music\AC-DC - (1980) Back in Black - Back in black.mp3</location>
+        </track>
+        <track>
+            <title>You Shook Me All Night Long</title>
+            <creator>ACDC</creator>
+            <album>Back in Black</album>
+            <duration>210259</duration>
+            <trackNum>7</trackNum>
+            <location>U:\Shared\Music\AC-DC - (1980) Back in Black - You shook me all night long.mp3</location>
+        </track>
+        <track>
+            <title>Black Ice</title>
+            <creator>ACDC</creator>
+            <album>Black Ice</album>
+            <duration>205217</duration>
+            <trackNum>15</trackNum>
+            <location>U:\Shared\Music\AC-DC - (2008) Black Ice - Black Ice.mp3</location>
+        </track>
+        <track>
+            <title>Rock N Roll Dream</title>
+            <creator>ACDC</creator>
+            <album>Black Ice</album>
+            <duration>280999</duration>
+            <trackNum>13</trackNum>
+            <location>U:\Shared\Music\AC-DC - (2008) Black Ice - Rock N Roll Dream.mp3</location>
+        </track>
+        <track>
+            <title>Be Yourself</title>
+            <creator>Audioslave</creator>
+            <album>Out Of Exile</album>
+            <duration>279457</duration>
+            <trackNum>3</trackNum>
+            <location>U:\Shared\Music\Audioslave - (2005) Out Of Exile - be_yourself.mp3</location>
+        </track>
+        <track>
+            <title>Out Of Exile</title>
+            <creator>Audioslave</creator>
+            <album>Out Of Exile</album>
+            <duration>291239</duration>
+            <trackNum>2</trackNum>
+            <location>U:\Shared\Music\Audioslave - (2005) Out Of Exile - out_of_exile.mp3</location>
+        </track>
+        <track>
+            <title>Black Star</title>
+            <creator>Carcass</creator>
+            <album>Swansong</album>
+            <duration>208666</duration>
+            <trackNum>3</trackNum>
+            <location>U:\Shared\Music\Carcass - (1996) Swansong - Black Star.mp3</location>
+        </track>
+        <track>
+            <title>Highway Star</title>
+            <creator>Deep Purple</creator>
+            <duration>368953</duration>
+            <location>U:\Shared\Music\Deep Purple - Highway Star.mp3</location>
+        </track>
+        <track>
+            <title>Riders On The Storm</title>
+            <creator>The Doors</creator>
+            <album>The Best Of</album>
+            <duration>431020</duration>
+            <location>U:\Shared\Music\Doors - Riders on the Storm.mp3</location>
+        </track>
+        <track>
+            <title>Blueprint</title>
+            <creator>Fugazi</creator>
+            <duration>233142</duration>
+            <location>U:\Shared\Music\Fugazi - Blueprint.mp3</location>
+        </track>
+        <track>
+            <title>Bad To The Bone</title>
+            <creator>George Thorogood</creator>
+            <duration>294739</duration>
+            <location>U:\Shared\Music\George Thorogood - Bad To The Bone.mp3</location>
+        </track>
+        <track>
+            <title>Gimme Danger (com The Stooges)</title>
+            <creator>Iggy Pop</creator>
+            <duration>208483</duration>
+            <location>U:\Shared\Music\Iggy Pop - Gimme Danger (com The Stooges).mp3</location>
+        </track>
+        <track>
+            <title>Melting Of My Marrow</title>
+            <creator>Killer Be Killed</creator>
+            <album>Killer Be Killed</album>
+            <duration>278700</duration>
+            <trackNum>3</trackNum>
+            <location>U:\Shared\Music\Killer Be Killed - (2014) Killer Be Killed - Melting Of My Marrow.mp3</location>
+        </track>
+        <track>
+            <title>Rock and Roll</title>
+            <creator>Led Zeppelin</creator>
+            <album>Greatest hits</album>
+            <duration>221152</duration>
+            <trackNum>5</trackNum>
+            <location>U:\Shared\Music\Led Zeppelin - (XXXX) Greatest hits - Rock and Roll.mp3</location>
+        </track>
+        <track>
+            <title>Stairway to Heaven</title>
+            <creator>Led Zeppelin</creator>
+            <album>Greatest hits</album>
+            <duration>483160</duration>
+            <trackNum>15</trackNum>
+            <location>U:\Shared\Music\Led Zeppelin - (XXXX) Greatest hits - Stairway to Heaven.mp3</location>
+        </track>
+        <track>
+            <title>One More Time</title>
+            <creator>Lynyrd Skynyrd</creator>
+            <album>Street Survivors</album>
+            <duration>303647</duration>
+            <trackNum>3</trackNum>
+            <location>U:\Shared\Music\Lynyrd Skynyrd - (1977) Street Survivors - One More Time.mp3</location>
+        </track>
+        <track>
+            <title>Going to Brazil</title>
+            <creator>Motörhead</creator>
+            <album>1916</album>
+            <duration>150569</duration>
+            <trackNum>4</trackNum>
+            <location>U:\Shared\Music\Motörhead - (1991) 1916 - Going to Brazil.mp3</location>
+        </track>
+        <track>
+            <title>Sacrifice</title>
+            <creator>Motörhead</creator>
+            <album>Sacrifice</album>
+            <duration>193724</duration>
+            <trackNum>1</trackNum>
+            <location>U:\Shared\Music\Motörhead - (1995) Sacrifice - Sacrifice.mp3</location>
+        </track>
+        <track>
+            <title>Superunknown</title>
+            <creator>Soundgarden</creator>
+            <album>Superunknown</album>
+            <duration>306442</duration>
+            <trackNum>5</trackNum>
+            <location>U:\Shared\Music\Soundgarden - (1994) Superunknown - Superunknown.mp3</location>
+        </track>
+        <track>
+            <title>Chronic Slaughter</title>
+            <creator>Slaughter To Prevail</creator>
+            <album>Misery Sermon</album>
+            <duration>296594</duration>
+            <location>U:\Shared\Music\Slaughter To Prevail - (2017) Misery Sermon - Chronic Slaughter.mp3</location>
+        </track>
+    </trackList>
+</playlist>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+    <trackList>
+        <track>
+            <title>Break Stuff</title>
+            <creator>Limp Bizkit</creator>
+            <album>Significant Other</album>
+            <duration>166739</duration>
+            <trackNum>4</trackNum>
+            <location>U:\Shared\Music\Limp Bizkit - (1999) Significant Other - Break Stuff.mp3</location>
+        </track>
+        <track>
+            <title>Nookie</title>
+            <creator>Limp Bizkit</creator>
+            <album>Significant Other</album>
+            <duration>289724</duration>
+            <trackNum>3</trackNum>
+            <location>U:\Shared\Music\Limp Bizkit - (1999) Significant Other - Nookie.mp3</location>
+        </track>
+        <track>
+            <title>Boiler</title>
+            <creator>Limp Bizkit</creator>
+            <album>Chocolate Starfish And The Hot Dog Flavored Water</album>
+            <duration>420336</duration>
+            <trackNum>12</trackNum>
+            <location>U:\Shared\Music\Limp Bizkit - (2000) Chocolate Starfish And The Hot Dog Flavored Water - Boiler.mp3</location>
+        </track>
+        <track>
+            <title>My Generation</title>
+            <creator>Limp Bizkit</creator>
+            <album>Chocolate Starfish And The Hot Dog Flavored Water</album>
+            <duration>221074</duration>
+            <trackNum>3</trackNum>
+            <location>U:\Shared\Music\Limp Bizkit - (2000) Chocolate Starfish And The Hot Dog Flavored Water - My Generation.mp3</location>
+        </track>
+        <track>
+            <title>My Way</title>
+            <creator>Limp Bizkit</creator>
+            <album>Chocolate Starfish And The Hot Dog Flavored Water</album>
+            <duration>273057</duration>
+            <trackNum>5</trackNum>
+            <location>U:\Shared\Music\Limp Bizkit - (2000) Chocolate Starfish And The Hot Dog Flavored Water - My Way.mp3</location>
+        </track>
+        <track>
+            <title>Take A Look Around</title>
+            <creator>Limp Bizkit</creator>
+            <album>Chocolate Starfish And The Hot Dog Flavored Water</album>
+            <duration>321097</duration>
+            <trackNum>10</trackNum>
+            <location>U:\Shared\Music\Limp Bizkit - (2000) Chocolate Starfish And The Hot Dog Flavored Water - Take A Look Around.mp3</location>
+        </track>
+        <track>
+            <title>The One</title>
+            <creator>Limp Bizkit</creator>
+            <album>Chocolate Starfish And The Hot Dog Flavored Water</album>
+            <duration>343379</duration>
+            <trackNum>8</trackNum>
+            <location>U:\Shared\Music\Limp Bizkit - (2000) Chocolate Starfish And The Hot Dog Flavored Water - The One.mp3</location>
+        </track>
+    </trackList>
+</playlist>

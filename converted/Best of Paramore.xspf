@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+    <trackList>
+        <track>
+            <title>All We Know</title>
+            <creator>Paramore</creator>
+            <album>All We Know is Falling</album>
+            <duration>193619</duration>
+            <trackNum>1</trackNum>
+            <location>U:\Shared\Music\Paramore - (2005) All We Know Is Falling - all_we_know.mp3</location>
+        </track>
+        <track>
+            <title>Conspiracy</title>
+            <creator>Paramore</creator>
+            <album>All We Know is Falling</album>
+            <duration>222066</duration>
+            <trackNum>8</trackNum>
+            <location>U:\Shared\Music\Paramore - (2005) All We Know Is Falling - conspiracy.mp3</location>
+        </track>
+        <track>
+            <title>Emergency</title>
+            <creator>Paramore</creator>
+            <album>All We Know is Falling</album>
+            <duration>240091</duration>
+            <trackNum>3</trackNum>
+            <location>U:\Shared\Music\Paramore - (2005) All We Know Is Falling - emergency.mp3</location>
+        </track>
+        <track>
+            <title>Here We Go Again</title>
+            <creator>Paramore</creator>
+            <album>All We Know is Falling</album>
+            <duration>226351</duration>
+            <trackNum>5</trackNum>
+            <location>U:\Shared\Music\Paramore - (2005) All We Know Is Falling - here_we_go_again.mp3</location>
+        </track>
+        <track>
+            <title>crushcrushcrush</title>
+            <creator>Paramore</creator>
+            <album>Riot!</album>
+            <duration>189413</duration>
+            <trackNum>8</trackNum>
+            <location>U:\Shared\Music\Paramore - (2007) Riot - crushcrushcrush.mp3</location>
+        </track>
+        <track>
+            <title>Decode</title>
+            <creator>Paramore</creator>
+            <album>Brand New Eyes</album>
+            <duration>262373</duration>
+            <trackNum>12</trackNum>
+            <location>U:\Shared\Music\Paramore - (2009) Brand New Eye - Decode.mp3</location>
+        </track>
+        <track>
+            <title>The Only Exception</title>
+            <creator>Paramore</creator>
+            <album>Brand New Eyes</album>
+            <duration>267676</duration>
+            <trackNum>6</trackNum>
+            <location>U:\Shared\Music\Paramore - (2009) Brand New Eye - The Only Exception.mp3</location>
+        </track>
+        <track>
+            <title>Turn It Off</title>
+            <creator>Paramore</creator>
+            <album>Brand New Eyes</album>
+            <duration>259735</duration>
+            <trackNum>5</trackNum>
+            <location>U:\Shared\Music\Paramore - (2009) Brand New Eye - Turn If Off.mp3</location>
+        </track>
+        <track>
+            <title>Ain't It Fun</title>
+            <creator>Paramore</creator>
+            <album>Paramore</album>
+            <duration>296515</duration>
+            <trackNum>6</trackNum>
+            <location>U:\Shared\Music\Paramore - (2013) Paramore - Ain't It Fun.mp3</location>
+        </track>
+        <track>
+            <title>Future</title>
+            <creator>Paramore</creator>
+            <album>Paramore</album>
+            <duration>472894</duration>
+            <trackNum>17</trackNum>
+            <location>U:\Shared\Music\Paramore - (2013) Paramore - Future.mp3</location>
+        </track>
+        <track>
+            <title>Part II</title>
+            <creator>Paramore</creator>
+            <album>Paramore</album>
+            <duration>281234</duration>
+            <trackNum>7</trackNum>
+            <location>U:\Shared\Music\Paramore - (2013) Paramore - Part II.mp3</location>
+        </track>
+        <track>
+            <title>Stuck On You (Failure cover)</title>
+            <creator>Paramore</creator>
+            <album>The Summer Tic EP</album>
+            <duration>267311</duration>
+            <trackNum>3</trackNum>
+            <location>U:\Shared\Music\Paramore - Stuck on you.mp3</location>
+        </track>
+        <track>
+            <title>Running Out Of Time</title>
+            <creator>Paramore</creator>
+            <album>This Is Why</album>
+            <duration>192504</duration>
+            <trackNum>3</trackNum>
+            <location>U:\Shared\Music\Paramore - (2023) This is why - 03. Running Out Of Time.mp3</location>
+        </track>
+        <track>
+            <title>C'est Comme Ça</title>
+            <creator>Paramore</creator>
+            <album>This Is Why</album>
+            <duration>149304</duration>
+            <trackNum>4</trackNum>
+            <location>U:\Shared\Music\Paramore - (2023) This is why - 04. C’est Comme Ça.mp3</location>
+        </track>
+    </trackList>
+</playlist>

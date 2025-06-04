@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2025-06-04T13:03:48Z</date>
+	<key>Application Version</key><string>12.13.7.1</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file://localhost/E:/Users/aldol/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>187AD5E35C5E82C1</string>
+	<key>Tracks</key>
+	<dict>
+		<key>9396</key>
+		<dict>
+			<key>Track ID</key><integer>9396</integer>
+			<key>Name</key><string>L'Enfant Sauvage</string>
+			<key>Artist</key><string>Gojira</string>
+			<key>Album</key><string>L'enfant sauvage (Special Edition)</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10379826</integer>
+			<key>Total Time</key><integer>257802</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2021-09-03T15:13:35Z</date>
+			<key>Date Added</key><date>2025-05-23T00:00:55Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Roadrunner Records. 2012</string>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3684327846</integer>
+			<key>Play Date UTC</key><date>2020-09-30T19:24:06Z</date>
+			<key>Normalization</key><integer>7596</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>E21FA0E2CA7D99FE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Gojira%20-%20(2012)%20L'enfant%20Sauvage%20-%20L'Enfant%20Sauvage.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>9398</key>
+		<dict>
+			<key>Track ID</key><integer>9398</integer>
+			<key>Name</key><string>Liquid Fire</string>
+			<key>Artist</key><string>Gojira</string>
+			<key>Album</key><string>L'enfant sauvage (Special Edition)</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10381910</integer>
+			<key>Total Time</key><integer>257854</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2021-09-03T15:13:35Z</date>
+			<key>Date Added</key><date>2025-05-23T00:00:55Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Roadrunner Records. 2012</string>
+			<key>Play Count</key><integer>10</integer>
+			<key>Play Date</key><integer>3746010671</integer>
+			<key>Play Date UTC</key><date>2022-09-14T17:31:11Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2023-05-31T14:23:33Z</date>
+			<key>Normalization</key><integer>8698</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5D4E5EF8C2B8510F</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Gojira%20-%20(2012)%20L'enfant%20Sauvage%20-%20Liquid%20Fire.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>9400</key>
+		<dict>
+			<key>Track ID</key><integer>9400</integer>
+			<key>Name</key><string>Mouth Of Kala</string>
+			<key>Artist</key><string>Gojira</string>
+			<key>Album</key><string>L'enfant sauvage (Special Edition)</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>14124737</integer>
+			<key>Total Time</key><integer>351425</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2021-09-03T15:13:46Z</date>
+			<key>Date Added</key><date>2025-05-23T00:00:55Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Roadrunner Records. 2012</string>
+			<key>Play Count</key><integer>12</integer>
+			<key>Play Date</key><integer>3746021337</integer>
+			<key>Play Date UTC</key><date>2022-09-14T20:28:57Z</date>
+			<key>Normalization</key><integer>6947</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>28B4AEECFFB8508C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Gojira%20-%20(2012)%20L'enfant%20Sauvage%20-%20Mouth%20Of%20Kala.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>9402</key>
+		<dict>
+			<key>Track ID</key><integer>9402</integer>
+			<key>Name</key><string>My last creation</string>
+			<key>Artist</key><string>Gojira</string>
+			<key>Album</key><string>L'enfant sauvage (Special Edition)</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10024499</integer>
+			<key>Total Time</key><integer>249025</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2021-09-03T15:13:50Z</date>
+			<key>Date Added</key><date>2025-05-23T00:00:55Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Roadrunner Records. 2012</string>
+			<key>Play Count</key><integer>9</integer>
+			<key>Play Date</key><integer>3746018774</integer>
+			<key>Play Date UTC</key><date>2022-09-14T19:46:14Z</date>
+			<key>Normalization</key><integer>4707</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F756AFDFCCFB0F4D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Gojira%20-%20(2012)%20L'enfant%20Sauvage%20-%20My%20Last%20Creation%20(Bonus%20Track).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>9416</key>
+		<dict>
+			<key>Track ID</key><integer>9416</integer>
+			<key>Name</key><string>This Emptiness</string>
+			<key>Artist</key><string>Gojira</string>
+			<key>Album</key><string>L'enfant sauvage (Special Edition)</string>
+			<key>Genre</key><string>Metal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9630572</integer>
+			<key>Total Time</key><integer>239177</integer>
+			<key>Track Number</key><integer>13</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2021-09-03T15:14:15Z</date>
+			<key>Date Added</key><date>2025-05-23T00:00:56Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Roadrunner Records. 2012</string>
+			<key>Play Count</key><integer>7</integer>
+			<key>Play Date</key><integer>3684327189</integer>
+			<key>Play Date UTC</key><date>2020-09-30T19:13:09Z</date>
+			<key>Normalization</key><integer>6779</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>8B6E921186E71DB7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Gojira%20-%20(2012)%20L'enfant%20Sauvage%20-%20This%20Emptiness%20(Bonus%20Track).mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>9430</key>
+		<dict>
+			<key>Track ID</key><integer>9430</integer>
+			<key>Name</key><string>Stranded</string>
+			<key>Artist</key><string>Gojira</string>
+			<key>Album</key><string>Magma</string>
+			<key>Genre</key><string>Progressive Death Metal / Groove Metal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11506567</integer>
+			<key>Total Time</key><integer>269609</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>10</integer>
+			<key>Year</key><integer>2016</integer>
+			<key>Date Modified</key><date>2021-09-03T15:15:36Z</date>
+			<key>Date Added</key><date>2025-05-23T00:00:57Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3737715371</integer>
+			<key>Play Date UTC</key><date>2022-06-10T17:16:11Z</date>
+			<key>Normalization</key><integer>6822</integer>
+			<key>Artwork Count</key><integer>2</integer>
+			<key>Persistent ID</key><string>3393B5D0A395F8E7</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Gojira%20-%20(2016)%20Magma%20-%20Stranded.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>9438</key>
+		<dict>
+			<key>Track ID</key><integer>9438</integer>
+			<key>Name</key><string>Flying Whales</string>
+			<key>Artist</key><string>Gojira</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>18598501</integer>
+			<key>Total Time</key><integer>464587</integer>
+			<key>Date Modified</key><date>2021-09-03T15:15:48Z</date>
+			<key>Date Added</key><date>2025-05-23T00:00:57Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3676995787</integer>
+			<key>Play Date UTC</key><date>2020-07-07T22:43:07Z</date>
+			<key>Normalization</key><integer>12267</integer>
+			<key>Persistent ID</key><string>AF3B5F0DC616E217</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Gojira%20-%20Flying%20Whales.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>17216</key>
+		<dict>
+			<key>Track ID</key><integer>17216</integer>
+			<key>Name</key><string>Clone</string>
+			<key>Artist</key><string>Gojira</string>
+			<key>Album</key><string>Terra Incognita</string>
+			<key>Genre</key><string>Progressive Death Metal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>12043786</integer>
+			<key>Total Time</key><integer>298684</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2013-03-11T09:27:30Z</date>
+			<key>Date Added</key><date>2025-05-23T00:08:01Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>TechnicalDeathMetal.org</string>
+			<key>Play Count</key><integer>17</integer>
+			<key>Play Date</key><integer>3691316678</integer>
+			<key>Play Date UTC</key><date>2020-12-20T15:44:38Z</date>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2020-08-05T22:08:10Z</date>
+			<key>Normalization</key><integer>5887</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D4B6AE7974DF73A5</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Gojira%20-%20(2001)%20Terra%20Incognita%20-%20Clone.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>17218</key>
+		<dict>
+			<key>Track ID</key><integer>17218</integer>
+			<key>Name</key><string>Deliverance</string>
+			<key>Artist</key><string>Gojira</string>
+			<key>Album</key><string>Terra Incognita</string>
+			<key>Genre</key><string>Progressive Death Metal</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11883929</integer>
+			<key>Total Time</key><integer>294687</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>17</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2013-03-11T09:27:30Z</date>
+			<key>Date Added</key><date>2025-05-23T00:08:01Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>TechnicalDeathMetal.org</string>
+			<key>Play Count</key><integer>5</integer>
+			<key>Play Date</key><integer>3683634241</integer>
+			<key>Play Date UTC</key><date>2020-09-22T18:44:01Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2020-07-07T23:18:19Z</date>
+			<key>Normalization</key><integer>5568</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>65E6165ED77A8E7A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Gojira%20-%20(2001)%20Terra%20Incognita%20-%20Deliverance.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+		<key>17816</key>
+		<dict>
+			<key>Track ID</key><integer>17816</integer>
+			<key>Name</key><string>Amazonia</string>
+			<key>Artist</key><string>Gojira</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11611929</integer>
+			<key>Total Time</key><integer>290040</integer>
+			<key>Year</key><integer>2021</integer>
+			<key>Date Modified</key><date>2021-04-02T04:47:30Z</date>
+			<key>Date Added</key><date>2025-05-23T00:08:31Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>48000</integer>
+			<key>Volume Adjustment</key><integer>255</integer>
+			<key>Play Count</key><integer>16</integer>
+			<key>Play Date</key><integer>3746002741</integer>
+			<key>Play Date UTC</key><date>2022-09-14T15:19:01Z</date>
+			<key>Skip Count</key><integer>6</integer>
+			<key>Skip Date</key><date>2022-07-30T04:55:36Z</date>
+			<key>Normalization</key><integer>6372</integer>
+			<key>Persistent ID</key><string>49F79C02D75C1A30</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file://localhost/U:/Shared/Music/Gojira%20-%202021%20-%20Amazonia.mp3</string>
+			<key>File Folder Count</key><integer>-1</integer>
+			<key>Library Folder Count</key><integer>-1</integer>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>Best of: Gojira</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>63358</integer>
+			<key>Playlist Persistent ID</key><string>31A337117FD29EBC</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>17216</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9398</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9402</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9416</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9430</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9438</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9396</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>9400</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17218</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>17816</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

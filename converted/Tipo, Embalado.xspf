@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+    <trackList>
+        <track>
+            <title>Time</title>
+            <creator>Angra</creator>
+            <album>Angels Cry</album>
+            <duration>355030</duration>
+            <trackNum>3</trackNum>
+            <location>U:\Shared\Music\Angra - (1995) Angels Cry - Time.mp3</location>
+        </track>
+        <track>
+            <title>Feels Like Summer</title>
+            <creator>Childish Gambino</creator>
+            <duration>285779</duration>
+            <location>U:\Shared\Music\Childish Gambino - Feels Like Summer (Official Music Video).mp3</location>
+        </track>
+        <track>
+            <title>Hello</title>
+            <creator>Evanescence</creator>
+            <album>Fallen</album>
+            <duration>220395</duration>
+            <trackNum>9</trackNum>
+            <location>U:\Shared\Music\Evanescence - (2004) - Hello.mp3</location>
+        </track>
+        <track>
+            <title>Last One Home</title>
+            <creator>Eye Empire</creator>
+            <album>Moment Of Impact</album>
+            <duration>225619</duration>
+            <trackNum>11</trackNum>
+            <location>U:\Shared\Music\Eye Empire - (2010) Moment of Impact - last_one_home.mp3</location>
+        </track>
+        <track>
+            <title>La Mia Storia Tra Le Dita</title>
+            <creator>Gianluca Grignani</creator>
+            <album>Destinazione Paradiso</album>
+            <duration>309106</duration>
+            <location>U:\Shared\Music\Gianluca Grignani - (1994) - La mia storia tra le dita.mp3</location>
+        </track>
+        <track>
+            <title>Mi Historia Entre Tus Dedos</title>
+            <creator>Gianluca Grignani</creator>
+            <duration>306677</duration>
+            <location>U:\Shared\Music\Gianluca Grignani - (1995) - Mi Historia Entre Tus Dedos.mp3</location>
+        </track>
+        <track>
+            <title>Say you wont let go</title>
+            <creator>James Arthur</creator>
+            <duration>210782</duration>
+            <location>U:\Shared\Music\James Arthur - Say you wont let go.mp3</location>
+        </track>
+        <track>
+            <title>Since I've Been Loving You</title>
+            <creator>Led Zeppelin</creator>
+            <album>Greatest hits</album>
+            <duration>442200</duration>
+            <trackNum>4</trackNum>
+            <location>U:\Shared\Music\Led Zeppelin - (XXXX) Greatest hits - Since I've Been Loving You.mp3</location>
+        </track>
+        <track>
+            <title>La Mujer que Bota Fuego</title>
+            <creator>Manuel Medrano</creator>
+            <duration>254249</duration>
+            <location>U:\Shared\Music\Manuel Medrano - 2015 - La Mujer que Bota Fuego.mp3</location>
+        </track>
+        <track>
+            <title>Human Nature</title>
+            <creator>Michael Jackson</creator>
+            <album>Thriller</album>
+            <duration>245864</duration>
+            <trackNum>7</trackNum>
+            <location>U:\Shared\Music\Michael Jackson - (1982) Thriller - Human Nature.mp3</location>
+        </track>
+        <track>
+            <title>Never Gonna Be Alone</title>
+            <creator>Nickelback</creator>
+            <album>Dark Horse</album>
+            <duration>227395</duration>
+            <trackNum>7</trackNum>
+            <location>U:\Shared\Music\Nickelback - (2008) Dark Horse - Never Gonna Be Alone.mp3</location>
+        </track>
+        <track>
+            <title>The Only Exception</title>
+            <creator>Paramore</creator>
+            <album>Brand New Eyes</album>
+            <duration>267676</duration>
+            <trackNum>6</trackNum>
+            <location>U:\Shared\Music\Paramore - (2009) Brand New Eye - The Only Exception.mp3</location>
+        </track>
+        <track>
+            <title>Epiphany</title>
+            <creator>Staind</creator>
+            <album>Break The Cycle</album>
+            <duration>256208</duration>
+            <trackNum>7</trackNum>
+            <location>U:\Shared\Music\Staind - (2001) Break The Cycle - Epiphany.mp3</location>
+        </track>
+        <track>
+            <title>It Must Have Been Love</title>
+            <creator>Roxette</creator>
+            <album>Christmas For The Broken Hearted</album>
+            <duration>284473</duration>
+            <location>U:\Shared\Music\Roxette - (1987) Christmas For The Broken Hearted - It Must Have Been Love.mp3</location>
+        </track>
+        <track>
+            <title>Live forever (Oasis cover)</title>
+            <creator>Alicia Widar</creator>
+            <duration>174785</duration>
+            <location>U:\Shared\Music\Alicia Widar - (2020) - Live forever (Oasis cover).mp3</location>
+        </track>
+        <track>
+            <title>7 seconds (feat. Neneh Cherry)</title>
+            <creator>Youssou N'Dour</creator>
+            <album>The Guide (Wommat)</album>
+            <duration>308062</duration>
+            <location>U:\Shared\Music\Youssou N'Dour - (1994) - 7 seconds (feat. Neneh Cherry).mp3</location>
+        </track>
+        <track>
+            <title>No Ordinary Love</title>
+            <creator>Sade</creator>
+            <album>Love Deluxe (Remastered)</album>
+            <duration>442096</duration>
+            <location>U:\Shared\Music\Sade - (1992) Love Deluxe (Remastered) - No Ordinary Love.mp3</location>
+        </track>
+        <track>
+            <title>Cherish the Day</title>
+            <creator>Sade</creator>
+            <album>Love Deluxe (Remastered)</album>
+            <duration>333662</duration>
+            <location>U:\Shared\Music\Sade - (1992) Love Deluxe (Remastered) - Cherish the Day.mp3</location>
+        </track>
+    </trackList>
+</playlist>
