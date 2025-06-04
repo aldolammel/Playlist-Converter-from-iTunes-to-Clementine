@@ -140,8 +140,12 @@ def main():
             
             # Format and write the output file
             formatted_xml = format_xml(playlist)
-            with open(output_path, 'w', encoding='utf-8') as f:
-                f.write(formatted_xml)
+            # Normalize line endings to LF and remove any extra whitespace
+            formatted_xml = formatted_xml.replace('\r\n', '\n').strip()
+            
+            # Write file in binary mode to preserve line endings
+            with open(output_path, 'wb') as f:
+                f.write(formatted_xml.encode('utf-8'))
             
             print(f"Converted {file} to {output_path}")
 
