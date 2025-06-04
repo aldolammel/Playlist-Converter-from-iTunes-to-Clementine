@@ -111,13 +111,14 @@ def create_xspf_playlist(tracks):
 
 def format_xml(element):
     """Format XML with proper indentation"""
-    rough_string = ET.tostring(element, 'utf-8')
+    # Use utf-8-sig encoding to handle BOM properly
+    rough_string = ET.tostring(element, encoding='utf-8-sig')
     reparsed = minidom.parseString(rough_string)
-    formatted_xml = reparsed.toprettyxml(indent="    ")
+    formatted_xml = reparsed.toprettyxml(indent="    ", encoding='utf-8-sig')
     
-    # Replace default XML declaration with our specific one
+    # Force XML declaration
     xml_declaration = '<?xml version="1.0" encoding="UTF-8"?>\n'
-    formatted_xml = xml_declaration + formatted_xml.split('\n', 1)[1]
+    formatted_xml = xml_declaration + formatted_xml.decode('utf-8-sig').split('\n', 1)[1]
     
     return formatted_xml
 
@@ -145,7 +146,7 @@ def main():
             
             # Write file in binary mode to preserve line endings
             with open(output_path, 'wb') as f:
-                f.write(formatted_xml.encode('utf-8'))
+                f.write(formatted_xml.encode('utf-8-sig'))
             
             print(f"Converted {file} to {output_path}")
 
