@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <playlist xmlns="http://xspf.org/ns/0/" version="1">
     <trackList>
         <track>
@@ -7,19 +7,19 @@
             <album>Back in Black</album>
             <duration>255686</duration>
             <trackNum>5</trackNum>
-            <location>U:\Shared\Music\AC-DC%20-%20(1980)%20Back%20in%20Black%20-%20Let%20me%20put%20my%20love%20into%20you.mp3</location>
+            <location>U:\Shared\Music\AC-DC - (1980) Back in Black - Let me put my love into you.mp3</location>
         </track>
         <track>
             <title>The Ghoul Next Door (ft. Kendall Miles)</title>
             <creator>Alex</creator>
             <duration>138762</duration>
-            <location>U:\Shared\Music\ALEX%20&amp;%20Kendall%20Miles%20-%20The%20Ghoul%20Next%20Door.mp3</location>
+            <location>U:\Shared\Music\ALEX &amp; Kendall Miles - The Ghoul Next Door.mp3</location>
         </track>
         <track>
             <title>Apparition</title>
             <creator>Forhill</creator>
             <duration>280476</duration>
-            <location>U:\Shared\Music\Forhill%20-%20Apparition.mp3</location>
+            <location>U:\Shared\Music\Forhill - Apparition.mp3</location>
         </track>
         <track>
             <title>#46</title>
@@ -27,7 +27,7 @@
             <album>Doa a Quem Doer</album>
             <duration>104620</duration>
             <trackNum>8</trackNum>
-            <location>U:\Shared\Music\Project46%20-%20(2011)%20Doa%20a%20Quem%20Doer%20-%20%2346.mp3</location>
+            <location>U:\Shared\Music\Project46 - (2011) Doa a Quem Doer - %2346.mp3</location>
         </track>
     </trackList>
 </playlist>

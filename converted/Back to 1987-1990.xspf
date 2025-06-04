@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <playlist xmlns="http://xspf.org/ns/0/" version="1">
     <trackList>
         <track>
@@ -7,7 +7,7 @@
             <album>Thriller</album>
             <duration>258011</duration>
             <trackNum>5</trackNum>
-            <location>U:\Shared\Music\Michael%20Jackson%20-%20(1982)%20Thriller%20-%20Beat%20It.mp3</location>
+            <location>U:\Shared\Music\Michael Jackson - (1982) Thriller - Beat It.mp3</location>
         </track>
         <track>
             <title>Billie Jean</title>
@@ -15,7 +15,7 @@
             <album>Thriller</album>
             <duration>294112</duration>
             <trackNum>6</trackNum>
-            <location>U:\Shared\Music\Michael%20Jackson%20-%20(1982)%20Thriller%20-%20Billie%20Jean.mp3</location>
+            <location>U:\Shared\Music\Michael Jackson - (1982) Thriller - Billie Jean.mp3</location>
         </track>
         <track>
             <title>Thriller</title>
@@ -23,7 +23,7 @@
             <album>Thriller</album>
             <duration>357720</duration>
             <trackNum>4</trackNum>
-            <location>U:\Shared\Music\Michael%20Jackson%20-%20(1982)%20Thriller%20-%20Thriller.mp3</location>
+            <location>U:\Shared\Music\Michael Jackson - (1982) Thriller - Thriller.mp3</location>
         </track>
         <track>
             <title>Bad</title>
@@ -31,7 +31,7 @@
             <album>Bad</album>
             <duration>247944</duration>
             <trackNum>1</trackNum>
-            <location>U:\Shared\Music\Michael%20Jackson%20-%20(1987)%20Bad%20-%20Bad.mp3</location>
+            <location>U:\Shared\Music\Michael Jackson - (1987) Bad - Bad.mp3</location>
         </track>
         <track>
             <title>Smooth Criminal</title>
@@ -39,13 +39,13 @@
             <album>Bad</album>
             <duration>257784</duration>
             <trackNum>10</trackNum>
-            <location>U:\Shared\Music\Michael%20Jackson%20-%20(1987)%20Bad%20-%20Smooth%20Criminal.mp3</location>
+            <location>U:\Shared\Music\Michael Jackson - (1987) Bad - Smooth Criminal.mp3</location>
         </track>
         <track>
             <title>Being Boring</title>
             <creator>Pet Shop Boys</creator>
             <duration>290272</duration>
-            <location>U:\Shared\Music\Pet%20Shop%20Boys%20-%20Being%20Boring.mp3</location>
+            <location>U:\Shared\Music\Pet Shop Boys - Being Boring.mp3</location>
         </track>
     </trackList>
 </playlist>

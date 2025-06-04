@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <playlist xmlns="http://xspf.org/ns/0/" version="1">
     <trackList>
         <track>
@@ -7,7 +7,7 @@
             <album>Adema</album>
             <duration>209084</duration>
             <trackNum>9</trackNum>
-            <location>U:\Shared\Music\Adema%20-%20(2001)%20Adema%20-%20Pain%20Inside.mp3</location>
+            <location>U:\Shared\Music\Adema - (2001) Adema - Pain Inside.mp3</location>
         </track>
         <track>
             <title>Right Side of the Bed</title>
@@ -15,7 +15,7 @@
             <album>Right Side of the Bed</album>
             <duration>222511</duration>
             <trackNum>3</trackNum>
-            <location>U:\Shared\Music\Atreyu%20-%20Right%20Side%20of%20the%20Bed.mp3</location>
+            <location>U:\Shared\Music\Atreyu - Right Side of the Bed.mp3</location>
         </track>
         <track>
             <title>Toxic</title>
@@ -23,27 +23,27 @@
             <album>The Gift of Game</album>
             <duration>166608</duration>
             <trackNum>2</trackNum>
-            <location>U:\Shared\Music\Crazy%20Town%20-%20(1999)%20The%20Gift%20of%20Game%20-%20Toxic.mp3</location>
+            <location>U:\Shared\Music\Crazy Town - (1999) The Gift of Game - Toxic.mp3</location>
         </track>
         <track>
             <title>Medicated (b0x cut)</title>
             <creator>Downthesun</creator>
             <album>Downthesun</album>
             <duration>199601</duration>
-            <location>U:\Shared\Music\Downthesun%20-%20Medicated.mp3</location>
+            <location>U:\Shared\Music\Downthesun - Medicated.mp3</location>
         </track>
         <track>
             <title>Adrenaline</title>
             <creator>Gavin Rossdale</creator>
             <duration>255242</duration>
-            <location>U:\Shared\Music\Gavin%20Rossdale%20-%20Adrenaline.mp3</location>
+            <location>U:\Shared\Music\Gavin Rossdale - Adrenaline.mp3</location>
         </track>
         <track>
             <title>Life To Lifeless</title>
             <creator>Killswitch Engage</creator>
             <album>Alive or just breathing</album>
             <duration>169822</duration>
-            <location>U:\Shared\Music\Killswitch%20Engage%20-%20(2002)%20Alive%20or%20just%20breathing%20-%20Life%20To%20Lifeless.mp3</location>
+            <location>U:\Shared\Music\Killswitch Engage - (2002) Alive or just breathing - Life To Lifeless.mp3</location>
         </track>
         <track>
             <title>My Last Serenade</title>
@@ -51,7 +51,7 @@
             <album>Alive or just breathing</album>
             <duration>253805</duration>
             <trackNum>4</trackNum>
-            <location>U:\Shared\Music\Killswitch%20Engage%20-%20(2002)%20Alive%20or%20just%20breathing%20-%20My%20Last%20Serenade.mp3</location>
+            <location>U:\Shared\Music\Killswitch Engage - (2002) Alive or just breathing - My Last Serenade.mp3</location>
         </track>
         <track>
             <title>Counting On Me</title>
@@ -59,7 +59,7 @@
             <album>Take A Look In The Mirror</album>
             <duration>289488</duration>
             <trackNum>3</trackNum>
-            <location>U:\Shared\Music\Korn%20-%20(2003)%20Take%20a%20look%20in%20the%20mirror%20-%20Counting%20On%20Me.mp3</location>
+            <location>U:\Shared\Music\Korn - (2003) Take a look in the mirror - Counting On Me.mp3</location>
         </track>
         <track>
             <title>Did My Time</title>
@@ -67,7 +67,7 @@
             <album>Take A Look In The Mirror</album>
             <duration>243983</duration>
             <trackNum>6</trackNum>
-            <location>U:\Shared\Music\Korn%20-%20(2003)%20Take%20a%20look%20in%20the%20mirror%20-%20Did%20My%20Time.mp3</location>
+            <location>U:\Shared\Music\Korn - (2003) Take a look in the mirror - Did My Time.mp3</location>
         </track>
         <track>
             <title>Everything I've Known</title>
@@ -75,7 +75,7 @@
             <album>Take A Look In The Mirror</album>
             <duration>214935</duration>
             <trackNum>7</trackNum>
-            <location>U:\Shared\Music\Korn%20-%20(2003)%20Take%20a%20look%20in%20the%20mirror%20-%20Everything%20I've%20Known.mp3</location>
+            <location>U:\Shared\Music\Korn - (2003) Take a look in the mirror - Everything I've Known.mp3</location>
         </track>
         <track>
             <title>Here It Comes Again</title>
@@ -83,7 +83,7 @@
             <album>Take A Look In The Mirror</album>
             <duration>213916</duration>
             <trackNum>4</trackNum>
-            <location>U:\Shared\Music\Korn%20-%20(2003)%20Take%20a%20look%20in%20the%20mirror%20-%20Here%20It%20Comes%20Again.mp3</location>
+            <location>U:\Shared\Music\Korn - (2003) Take a look in the mirror - Here It Comes Again.mp3</location>
         </track>
         <track>
             <title>One (Metallica Cover)</title>
@@ -91,7 +91,7 @@
             <album>Take A Look In The Mirror</album>
             <duration>863921</duration>
             <trackNum>14</trackNum>
-            <location>U:\Shared\Music\Korn%20-%20(2003)%20Take%20a%20look%20in%20the%20mirror%20-%20One%20(Metallica%20cover,%20ao%20vivo).mp3</location>
+            <location>U:\Shared\Music\Korn - (2003) Take a look in the mirror - One (Metallica cover, ao vivo).mp3</location>
         </track>
         <track>
             <title>Play Me</title>
@@ -99,7 +99,7 @@
             <album>Take A Look In The Mirror</album>
             <duration>201691</duration>
             <trackNum>8</trackNum>
-            <location>U:\Shared\Music\Korn%20-%20(2003)%20Take%20a%20look%20in%20the%20mirror%20-%20Play%20Me.mp3</location>
+            <location>U:\Shared\Music\Korn - (2003) Take a look in the mirror - Play Me.mp3</location>
         </track>
         <track>
             <title>Right Now</title>
@@ -107,7 +107,7 @@
             <album>Take A Look In The Mirror</album>
             <duration>189962</duration>
             <trackNum>1</trackNum>
-            <location>U:\Shared\Music\Korn%20-%20(2003)%20Take%20a%20look%20in%20the%20mirror%20-%20Right%20Now.mp3</location>
+            <location>U:\Shared\Music\Korn - (2003) Take a look in the mirror - Right Now.mp3</location>
         </track>
         <track>
             <title>Y'all Want a Single</title>
@@ -115,42 +115,42 @@
             <album>Take A Look In The Mirror</album>
             <duration>197694</duration>
             <trackNum>12</trackNum>
-            <location>U:\Shared\Music\Korn%20-%20(2003)%20Take%20a%20look%20in%20the%20mirror%20-%20Y'all%20Want%20a%20Single.mp3</location>
+            <location>U:\Shared\Music\Korn - (2003) Take a look in the mirror - Y'all Want a Single.mp3</location>
         </track>
         <track>
             <title>Get Low</title>
             <creator>Lil Jon</creator>
             <album>NFS Underground</album>
             <duration>266031</duration>
-            <location>U:\Shared\Music\Lil%20Jon%20&amp;%20The%20Eastside%20Boyz%20-%20Get%20Low.mp3</location>
+            <location>U:\Shared\Music\Lil Jon &amp; The Eastside Boyz - Get Low.mp3</location>
         </track>
         <track>
             <title>Faint</title>
             <creator>Linkin Park</creator>
             <album>Meteora</album>
             <duration>162063</duration>
-            <location>U:\Shared\Music\Linkin%20Park%20-%20(2003)%20Meteora%20-%20Faint_-_Abyss.mp3</location>
+            <location>U:\Shared\Music\Linkin Park - (2003) Meteora - Faint_-_Abyss.mp3</location>
         </track>
         <track>
             <title>Lying from you</title>
             <creator>Linkin Park</creator>
             <album>Meteora</album>
             <duration>175020</duration>
-            <location>U:\Shared\Music\Linkin%20Park%20-%20(2003)%20Meteora%20-%20Lying_From_You_-_Abyss.mp3</location>
+            <location>U:\Shared\Music\Linkin Park - (2003) Meteora - Lying_From_You_-_Abyss.mp3</location>
         </track>
         <track>
             <title>Numb</title>
             <creator>Linkin Park</creator>
             <album>Meteora</album>
             <duration>187480</duration>
-            <location>U:\Shared\Music\Linkin%20Park%20-%20(2003)%20Meteora%20-%20Numb_-_Abyss.mp3</location>
+            <location>U:\Shared\Music\Linkin Park - (2003) Meteora - Numb_-_Abyss.mp3</location>
         </track>
         <track>
             <title>Somewhere I Belong</title>
             <creator>Linkin Park</creator>
             <album>Meteora</album>
             <duration>213890</duration>
-            <location>U:\Shared\Music\Linkin%20Park%20-%20(2003)%20Meteora%20-%20Somewhere_I_Belong_-_Abyss.mp3</location>
+            <location>U:\Shared\Music\Linkin Park - (2003) Meteora - Somewhere_I_Belong_-_Abyss.mp3</location>
         </track>
         <track>
             <title>Shoot Me Again</title>
@@ -158,7 +158,7 @@
             <album>St.anger</album>
             <duration>430158</duration>
             <trackNum>7</trackNum>
-            <location>U:\Shared\Music\Metallica%20-%20(2003)%20St.%20Anger%20-%20Shoot%20Me%20Again.mp3</location>
+            <location>U:\Shared\Music\Metallica - (2003) St. Anger - Shoot Me Again.mp3</location>
         </track>
         <track>
             <title>St. Anger</title>
@@ -166,32 +166,32 @@
             <album>St.anger</album>
             <duration>441182</duration>
             <trackNum>2</trackNum>
-            <location>U:\Shared\Music\Metallica%20-%20(2003)%20St.%20Anger%20-%20St.%20Anger.mp3</location>
+            <location>U:\Shared\Music\Metallica - (2003) St. Anger - St. Anger.mp3</location>
         </track>
         <track>
             <title>Sei la o nome do som</title>
             <creator>Minus</creator>
             <duration>210060</duration>
-            <location>U:\Shared\Music\Minus%20-%20sei%20la%20o%20nome%20do%20som.mp3</location>
+            <location>U:\Shared\Music\Minus - sei la o nome do som.mp3</location>
         </track>
         <track>
             <title>Sun Doesn't Rise</title>
             <creator>Mushroomhead</creator>
             <album>XIII</album>
             <duration>193920</duration>
-            <location>U:\Shared\Music\Mushroomhead%20-%20Sun%20Doesn't%20Rise.mp3</location>
+            <location>U:\Shared\Music\Mushroomhead - Sun Doesn't Rise.mp3</location>
         </track>
         <track>
             <title>New wave</title>
             <creator>Pleymo</creator>
             <duration>211565</duration>
-            <location>U:\Shared\Music\Pleymo%20-%20New%20Wave.mp3</location>
+            <location>U:\Shared\Music\Pleymo - New Wave.mp3</location>
         </track>
         <track>
             <title>World</title>
             <creator>Pleymo</creator>
             <duration>229433</duration>
-            <location>U:\Shared\Music\Pleymo%20-%20World.mp3</location>
+            <location>U:\Shared\Music\Pleymo - World.mp3</location>
         </track>
         <track>
             <title>First It Giveth</title>
@@ -199,7 +199,7 @@
             <album>Songs For The Deaf</album>
             <duration>198452</duration>
             <trackNum>3</trackNum>
-            <location>U:\Shared\Music\Queens%20of%20the%20Stone%20Age%20-%20(XXXX)%20Songs%20for%20the%20Deaf%20-%20First%20It%20Giveth.mp3</location>
+            <location>U:\Shared\Music\Queens of the Stone Age - (XXXX) Songs for the Deaf - First It Giveth.mp3</location>
         </track>
         <track>
             <title>40 Below</title>
@@ -207,7 +207,7 @@
             <album>Strictly Diesel</album>
             <duration>202605</duration>
             <trackNum>7</trackNum>
-            <location>U:\Shared\Music\Spineshank%20-%20(1998)%20Strictly%20Diesel%20-%2040%20Below.mp3</location>
+            <location>U:\Shared\Music\Spineshank - (1998) Strictly Diesel - 40 Below.mp3</location>
         </track>
         <track>
             <title>Asthmatic</title>
@@ -215,7 +215,7 @@
             <album>The Height Of Callousness</album>
             <duration>210677</duration>
             <trackNum>1</trackNum>
-            <location>U:\Shared\Music\Spineshank%20-%20(2000)%20The%20Height%20Of%20Callousness%20-%20Asthmatic.mp3</location>
+            <location>U:\Shared\Music\Spineshank - (2000) The Height Of Callousness - Asthmatic.mp3</location>
         </track>
         <track>
             <title>Full Circle</title>
@@ -223,7 +223,7 @@
             <album>The Height Of Callousness</album>
             <duration>206158</duration>
             <trackNum>13</trackNum>
-            <location>U:\Shared\Music\Spineshank%20-%20(2000)%20The%20Height%20Of%20Callousness%20-%20Full%20Circle.mp3</location>
+            <location>U:\Shared\Music\Spineshank - (2000) The Height Of Callousness - Full Circle.mp3</location>
         </track>
         <track>
             <title>Negative Space</title>
@@ -231,7 +231,7 @@
             <album>The Height Of Callousness</album>
             <duration>159477</duration>
             <trackNum>10</trackNum>
-            <location>U:\Shared\Music\Spineshank%20-%20(2000)%20The%20Height%20Of%20Callousness%20-%20Negative%20Space.mp3</location>
+            <location>U:\Shared\Music\Spineshank - (2000) The Height Of Callousness - Negative Space.mp3</location>
         </track>
         <track>
             <title>New Disease</title>
@@ -239,7 +239,7 @@
             <album>The Height Of Callousness</album>
             <duration>194533</duration>
             <trackNum>4</trackNum>
-            <location>U:\Shared\Music\Spineshank%20-%20(2000)%20The%20Height%20Of%20Callousness%20-%20New%20Disease.mp3</location>
+            <location>U:\Shared\Music\Spineshank - (2000) The Height Of Callousness - New Disease.mp3</location>
         </track>
         <track>
             <title>The Height Of Callousness</title>
@@ -247,7 +247,7 @@
             <album>The Height Of Callousness</album>
             <duration>183040</duration>
             <trackNum>2</trackNum>
-            <location>U:\Shared\Music\Spineshank%20-%20(2000)%20The%20Height%20Of%20Callousness%20-%20The%20Height%20Of%20Callousness.mp3</location>
+            <location>U:\Shared\Music\Spineshank - (2000) The Height Of Callousness - The Height Of Callousness.mp3</location>
         </track>
         <track>
             <title>The Only</title>
@@ -255,7 +255,7 @@
             <album>Shadow Zone</album>
             <duration>171075</duration>
             <trackNum>7</trackNum>
-            <location>U:\Shared\Music\Static-X%20-%20(2003)%20Shadow%20Zone%20-%20The%20Only.mp3</location>
+            <location>U:\Shared\Music\Static-X - (2003) Shadow Zone - The Only.mp3</location>
         </track>
     </trackList>
 </playlist>

@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <playlist xmlns="http://xspf.org/ns/0/" version="1">
     <trackList>
         <track>
@@ -7,19 +7,19 @@
             <album>Are We All the Same Distance Apart</album>
             <duration>161724</duration>
             <trackNum>8</trackNum>
-            <location>U:\Shared\Music\Crooks%20-%20(2015)%20Are%20We%20All%20The%20Same%20Distance%20Apart%20-%20Windy%20Little%20Town.mp3</location>
+            <location>U:\Shared\Music\Crooks - (2015) Are We All The Same Distance Apart - Windy Little Town.mp3</location>
         </track>
         <track>
             <title>Starboy (ft Daft Punk)</title>
             <creator>The Weeknd</creator>
             <duration>247536</duration>
-            <location>U:\Shared\Music\The%20Weeknd%20-%20Starboy%20(ft%20Daft%20Punk).mp3</location>
+            <location>U:\Shared\Music\The Weeknd - Starboy (ft Daft Punk).mp3</location>
         </track>
         <track>
             <title>Where is Billy</title>
             <creator>Tom Kaulitz</creator>
             <duration>254589</duration>
-            <location>U:\Shared\Music\Tom%20Kaulitz%20-%20Where%20is%20Billy.mp3</location>
+            <location>U:\Shared\Music\Tom Kaulitz - Where is Billy.mp3</location>
         </track>
     </trackList>
 </playlist>

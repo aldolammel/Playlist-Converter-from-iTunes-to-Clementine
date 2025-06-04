@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <playlist xmlns="http://xspf.org/ns/0/" version="1">
     <trackList>
         <track>
@@ -6,7 +6,7 @@
             <creator>Charlie Brown Jr.</creator>
             <album>Preço Curto Prazo Longo</album>
             <duration>194951</duration>
-            <location>U:\Shared\Music\Charlie%20Brown%20Jr.%20-%20(1999)%20Pre%C3%A7o%20Curto%20Prazo%20Longo%20-%20Cidade%20grande.mp3</location>
+            <location>U:\Shared\Music\Charlie Brown Jr. - (1999) Pre%C3%A7o Curto Prazo Longo - Cidade grande.mp3</location>
         </track>
         <track>
             <title>Confisco</title>
@@ -14,7 +14,7 @@
             <album>Preço Curto Prazo Longo</album>
             <duration>178808</duration>
             <trackNum>1</trackNum>
-            <location>U:\Shared\Music\Charlie%20Brown%20Jr.%20-%20(1999)%20Pre%C3%A7o%20Curto%20Prazo%20Longo%20-%20Confisco.mp3</location>
+            <location>U:\Shared\Music\Charlie Brown Jr. - (1999) Pre%C3%A7o Curto Prazo Longo - Confisco.mp3</location>
         </track>
         <track>
             <title>Historia mal escrita</title>
@@ -22,7 +22,7 @@
             <album>Preço Curto Prazo Longo</album>
             <duration>242651</duration>
             <trackNum>16</trackNum>
-            <location>U:\Shared\Music\Charlie%20Brown%20Jr.%20-%20(1999)%20Pre%C3%A7o%20Curto%20Prazo%20Longo%20-%20Historia%20mal%20escrita.mp3</location>
+            <location>U:\Shared\Music\Charlie Brown Jr. - (1999) Pre%C3%A7o Curto Prazo Longo - Historia mal escrita.mp3</location>
         </track>
         <track>
             <title>Mantenha a dúvida</title>
@@ -30,35 +30,35 @@
             <album>Preço Curto Prazo Longo</album>
             <duration>184058</duration>
             <trackNum>14</trackNum>
-            <location>U:\Shared\Music\Charlie%20Brown%20Jr.%20-%20(1999)%20Pre%C3%A7o%20Curto%20Prazo%20Longo%20-%20Mantenha%20a%20D%C3%BAvida.mp3</location>
+            <location>U:\Shared\Music\Charlie Brown Jr. - (1999) Pre%C3%A7o Curto Prazo Longo - Mantenha a D%C3%BAvida.mp3</location>
         </track>
         <track>
             <title>Resolve meu problema aí</title>
             <creator>Charlie Brown Jr.</creator>
             <album>Preço Curto Prazo Longo</album>
             <duration>179539</duration>
-            <location>U:\Shared\Music\Charlie%20Brown%20Jr.%20-%20(1999)%20Pre%C3%A7o%20Curto%20Prazo%20Longo%20-%20Resolve%20Meu%20Problema%20Ai.mp3</location>
+            <location>U:\Shared\Music\Charlie Brown Jr. - (1999) Pre%C3%A7o Curto Prazo Longo - Resolve Meu Problema Ai.mp3</location>
         </track>
         <track>
             <title>Te levar</title>
             <creator>Charlie Brown Jr.</creator>
             <album>Preço Curto Prazo Longo</album>
             <duration>182935</duration>
-            <location>U:\Shared\Music\Charlie%20Brown%20Jr.%20-%20(1999)%20Pre%C3%A7o%20Curto%20Prazo%20Longo%20-%20Te%20levar.mp3</location>
+            <location>U:\Shared\Music\Charlie Brown Jr. - (1999) Pre%C3%A7o Curto Prazo Longo - Te levar.mp3</location>
         </track>
         <track>
             <title>Zóio de Lula</title>
             <creator>Charlie Brown Jr.</creator>
             <album>Preço Curto Prazo Longo</album>
             <duration>249103</duration>
-            <location>U:\Shared\Music\Charlie%20Brown%20Jr.%20-%20(1999)%20Pre%C3%A7o%20Curto%20Prazo%20Longo%20-%20Z%C3%B3io%20de%20Lula.mp3</location>
+            <location>U:\Shared\Music\Charlie Brown Jr. - (1999) Pre%C3%A7o Curto Prazo Longo - Z%C3%B3io de Lula.mp3</location>
         </track>
         <track>
             <title>Here With Me</title>
             <creator>Dido</creator>
             <album>No Angel</album>
             <duration>291343</duration>
-            <location>U:\Shared\Music\Dido%20-%20Here%20With%20Me.mp3</location>
+            <location>U:\Shared\Music\Dido - Here With Me.mp3</location>
         </track>
         <track>
             <title>Everlong</title>
@@ -66,7 +66,7 @@
             <album>The Colour And The Shape</album>
             <duration>250723</duration>
             <trackNum>11</trackNum>
-            <location>U:\Shared\Music\Foo%20Fighters%20-%20(1997)%20The%20colour%20and%20the%20shape%20-%20Everlong.mp3</location>
+            <location>U:\Shared\Music\Foo Fighters - (1997) The colour and the shape - Everlong.mp3</location>
         </track>
         <track>
             <title>My Hero</title>
@@ -74,7 +74,7 @@
             <album>The Colour And The Shape</album>
             <duration>260048</duration>
             <trackNum>7</trackNum>
-            <location>U:\Shared\Music\Foo%20Fighters%20-%20(1997)%20The%20colour%20and%20the%20shape%20-%20My%20Hero.mp3</location>
+            <location>U:\Shared\Music\Foo Fighters - (1997) The colour and the shape - My Hero.mp3</location>
         </track>
         <track>
             <title>Learn To Fly</title>
@@ -82,7 +82,7 @@
             <album>There Is Nothing Left To Lose</album>
             <duration>235337</duration>
             <trackNum>3</trackNum>
-            <location>U:\Shared\Music\Foo%20Fighters%20-%20(1999)%20There%20is%20nothing%20left%20to%20lose%20-%20Learn%20To%20Fly.mp3</location>
+            <location>U:\Shared\Music\Foo Fighters - (1999) There is nothing left to lose - Learn To Fly.mp3</location>
         </track>
         <track>
             <title>Basket Case</title>
@@ -90,7 +90,7 @@
             <album>Dookie</album>
             <duration>183248</duration>
             <trackNum>7</trackNum>
-            <location>U:\Shared\Music\Green%20Day%20-%20(1994)%20Dookie%20-%20Basket%20Case.mp3</location>
+            <location>U:\Shared\Music\Green Day - (1994) Dookie - Basket Case.mp3</location>
         </track>
         <track>
             <title>She</title>
@@ -98,7 +98,7 @@
             <album>Dookie</album>
             <duration>134321</duration>
             <trackNum>8</trackNum>
-            <location>U:\Shared\Music\Green%20Day%20-%20(1994)%20Dookie%20-%20She.mp3</location>
+            <location>U:\Shared\Music\Green Day - (1994) Dookie - She.mp3</location>
         </track>
         <track>
             <title>When I Come Around</title>
@@ -106,7 +106,7 @@
             <album>Dookie</album>
             <duration>178233</duration>
             <trackNum>10</trackNum>
-            <location>U:\Shared\Music\Green%20Day%20-%20(1994)%20Dookie%20-%20When%20I%20Come%20Around.mp3</location>
+            <location>U:\Shared\Music\Green Day - (1994) Dookie - When I Come Around.mp3</location>
         </track>
         <track>
             <title>Hallowed be Thy Name</title>
@@ -114,7 +114,7 @@
             <album>The Number Of The Beast</album>
             <duration>432848</duration>
             <trackNum>9</trackNum>
-            <location>U:\Shared\Music\Iron%20Maiden%20-%20(1982)%20The%20Number%20of%20the%20Beast%20-%20Hallowed%20be%20Thy%20Name.mp3</location>
+            <location>U:\Shared\Music\Iron Maiden - (1982) The Number of the Beast - Hallowed be Thy Name.mp3</location>
         </track>
         <track>
             <title>The Trooper</title>
@@ -122,7 +122,7 @@
             <album>Piece Of Mind</album>
             <duration>251428</duration>
             <trackNum>5</trackNum>
-            <location>U:\Shared\Music\Iron%20Maiden%20-%20(1983)%20Piece%20of%20mind%20-%20The%20Trooper.mp3</location>
+            <location>U:\Shared\Music\Iron Maiden - (1983) Piece of mind - The Trooper.mp3</location>
         </track>
         <track>
             <title>Afraid To Shoot Strangers</title>
@@ -130,7 +130,7 @@
             <album>Live At Donington</album>
             <duration>412525</duration>
             <trackNum>9</trackNum>
-            <location>U:\Shared\Music\Iron%20Maiden%20-%20(1992)%20Live%20At%20Donington%20-%20Afraid%20To%20Shoot%20Strangers.mp3</location>
+            <location>U:\Shared\Music\Iron Maiden - (1992) Live At Donington - Afraid To Shoot Strangers.mp3</location>
         </track>
         <track>
             <title>Fear Of The Dark</title>
@@ -138,7 +138,7 @@
             <album>Live At Donington</album>
             <duration>431542</duration>
             <trackNum>10</trackNum>
-            <location>U:\Shared\Music\Iron%20Maiden%20-%20(1992)%20Live%20At%20Donington%20-%20Fear%20Of%20The%20Dark.mp3</location>
+            <location>U:\Shared\Music\Iron Maiden - (1992) Live At Donington - Fear Of The Dark.mp3</location>
         </track>
         <track>
             <title>Wasting Love</title>
@@ -146,7 +146,7 @@
             <album>Live At Donington</album>
             <duration>336953</duration>
             <trackNum>6</trackNum>
-            <location>U:\Shared\Music\Iron%20Maiden%20-%20(1992)%20Live%20At%20Donington%20-%20Wasting%20Love.mp3</location>
+            <location>U:\Shared\Music\Iron Maiden - (1992) Live At Donington - Wasting Love.mp3</location>
         </track>
         <track>
             <title>Hallowed Be Thy Name</title>
@@ -154,7 +154,7 @@
             <album>Best Of The Beast</album>
             <duration>341315</duration>
             <trackNum>16</trackNum>
-            <location>U:\Shared\Music\Iron%20Maiden%20-%20Hallowed%20Be%20Thy%20Name.mp3</location>
+            <location>U:\Shared\Music\Iron Maiden - Hallowed Be Thy Name.mp3</location>
         </track>
         <track>
             <title>The Trooper</title>
@@ -162,63 +162,63 @@
             <album>Best Of The Beast</album>
             <duration>254693</duration>
             <trackNum>15</trackNum>
-            <location>U:\Shared\Music\Iron%20Maiden%20-%20The%20Trooper.mp3</location>
+            <location>U:\Shared\Music\Iron Maiden - The Trooper.mp3</location>
         </track>
         <track>
             <title>Bullet Train</title>
             <creator>Judas Priest</creator>
             <album>Meltdown Live '98</album>
             <duration>358713</duration>
-            <location>U:\Shared\Music\Judas%20Priest%20-%20Meltdown%20Live%20'98%20-%20Bullet%20Train.mp3</location>
+            <location>U:\Shared\Music\Judas Priest - Meltdown Live '98 - Bullet Train.mp3</location>
         </track>
         <track>
             <title>BotPack #9</title>
             <creator>Michiel van den Bos</creator>
             <album>Unreal Tournament Original Soundtrack</album>
             <duration>289828</duration>
-            <location>U:\Shared\Music\Michiel%20van%20den%20Bos%20-%20(1999)%20Unreal%20Tournament%20-%20BotPack%20%239%20(Botmca9.umx).mp3</location>
+            <location>U:\Shared\Music\Michiel van den Bos - (1999) Unreal Tournament - BotPack %239 (Botmca9.umx).mp3</location>
         </track>
         <track>
             <title>Foregone Destruction</title>
             <creator>Michiel van den Bos</creator>
             <album>Unreal Tournament Original Soundtrack</album>
             <duration>251559</duration>
-            <location>U:\Shared\Music\Michiel%20van%20den%20Bos%20-%20(1999)%20Unreal%20Tournament%20-%20Foregone%20Destruction.mp3</location>
+            <location>U:\Shared\Music\Michiel van den Bos - (1999) Unreal Tournament - Foregone Destruction.mp3</location>
         </track>
         <track>
             <title>Organic</title>
             <creator>Michiel van den Bos</creator>
             <album>Unreal Tournament Original Soundtrack</album>
             <duration>183562</duration>
-            <location>U:\Shared\Music\Michiel%20van%20den%20Bos%20-%20(1999)%20Unreal%20Tournament%20-%20Organic.mp3</location>
+            <location>U:\Shared\Music\Michiel van den Bos - (1999) Unreal Tournament - Organic.mp3</location>
         </track>
         <track>
             <title>Phantom</title>
             <creator>Michiel van den Bos</creator>
             <album>Unreal Tournament Original Soundtrack</album>
             <duration>361404</duration>
-            <location>U:\Shared\Music\Michiel%20van%20den%20Bos%20-%20(1999)%20Unreal%20Tournament%20-%20Phantom.mp3</location>
+            <location>U:\Shared\Music\Michiel van den Bos - (1999) Unreal Tournament - Phantom.mp3</location>
         </track>
         <track>
             <title>Save Me</title>
             <creator>Michiel van den Bos</creator>
             <album>Unreal Tournament Original Soundtrack</album>
             <duration>112822</duration>
-            <location>U:\Shared\Music\Michiel%20van%20den%20Bos%20-%20(1999)%20Unreal%20Tournament%20-%20Save%20Me%20(SaveMe.umx).mp3</location>
+            <location>U:\Shared\Music\Michiel van den Bos - (1999) Unreal Tournament - Save Me (SaveMe.umx).mp3</location>
         </track>
         <track>
             <title>SuperFist</title>
             <creator>Michiel van den Bos</creator>
             <album>Unreal Tournament Original Soundtrack</album>
             <duration>118021</duration>
-            <location>U:\Shared\Music\Michiel%20van%20den%20Bos%20-%20(1999)%20Unreal%20Tournament%20-%20SuperFist.mp3</location>
+            <location>U:\Shared\Music\Michiel van den Bos - (1999) Unreal Tournament - SuperFist.mp3</location>
         </track>
         <track>
             <title>The Course</title>
             <creator>Michiel van den Bos</creator>
             <album>Unreal Tournament Original Soundtrack</album>
             <duration>268826</duration>
-            <location>U:\Shared\Music\Michiel%20van%20den%20Bos%20-%20(1999)%20Unreal%20Tournament%20-%20The%20Course%20(Course.umx).mp3</location>
+            <location>U:\Shared\Music\Michiel van den Bos - (1999) Unreal Tournament - The Course (Course.umx).mp3</location>
         </track>
         <track>
             <title>Heart-Shaped Box</title>
@@ -226,7 +226,7 @@
             <album>In Utero</album>
             <duration>276506</duration>
             <trackNum>3</trackNum>
-            <location>U:\Shared\Music\Nirvana%20-%20(1993)%20In%20Utero%20-%20Heart-Shaped%20Box.mp3</location>
+            <location>U:\Shared\Music\Nirvana - (1993) In Utero - Heart-Shaped Box.mp3</location>
         </track>
         <track>
             <title>Scentless Apprentice</title>
@@ -234,7 +234,7 @@
             <album>In Utero</album>
             <duration>228022</duration>
             <trackNum>2</trackNum>
-            <location>U:\Shared\Music\Nirvana%20-%20(1993)%20In%20Utero%20-%20Scentless%20Apprentice.mp3</location>
+            <location>U:\Shared\Music\Nirvana - (1993) In Utero - Scentless Apprentice.mp3</location>
         </track>
         <track>
             <title>A New Level</title>
@@ -242,7 +242,7 @@
             <album>Vulgar Display Of Power</album>
             <duration>237583</duration>
             <trackNum>2</trackNum>
-            <location>U:\Shared\Music\Pantera%20-%20(1992)%20Vulgar%20Display%20of%20Power%20-%20A%20New%20Level.mp3</location>
+            <location>U:\Shared\Music\Pantera - (1992) Vulgar Display of Power - A New Level.mp3</location>
         </track>
         <track>
             <title>Mouth For War</title>
@@ -250,7 +250,7 @@
             <album>Vulgar Display Of Power</album>
             <duration>236617</duration>
             <trackNum>1</trackNum>
-            <location>U:\Shared\Music\Pantera%20-%20(1992)%20Vulgar%20Display%20of%20Power%20-%20Mouth%20For%20War.mp3</location>
+            <location>U:\Shared\Music\Pantera - (1992) Vulgar Display of Power - Mouth For War.mp3</location>
         </track>
         <track>
             <title>This Love</title>
@@ -258,7 +258,7 @@
             <album>Vulgar Display Of Power</album>
             <duration>392777</duration>
             <trackNum>5</trackNum>
-            <location>U:\Shared\Music\Pantera%20-%20(1992)%20Vulgar%20Display%20of%20Power%20-%20This%20Love.mp3</location>
+            <location>U:\Shared\Music\Pantera - (1992) Vulgar Display of Power - This Love.mp3</location>
         </track>
         <track>
             <title>Walk</title>
@@ -266,7 +266,7 @@
             <album>Vulgar Display Of Power</album>
             <duration>314932</duration>
             <trackNum>3</trackNum>
-            <location>U:\Shared\Music\Pantera%20-%20(1992)%20Vulgar%20Display%20of%20Power%20-%20Walk.mp3</location>
+            <location>U:\Shared\Music\Pantera - (1992) Vulgar Display of Power - Walk.mp3</location>
         </track>
         <track>
             <title>A Mais Pedida</title>
@@ -274,7 +274,7 @@
             <album>So No Forevis</album>
             <duration>233717</duration>
             <trackNum>7</trackNum>
-            <location>U:\Shared\Music\Raimundos%20-%20(1999)%20S%C3%B3%20No%20Forevis%20-%20A%20Mais%20Pedida.mp3</location>
+            <location>U:\Shared\Music\Raimundos - (1999) S%C3%B3 No Forevis - A Mais Pedida.mp3</location>
         </track>
         <track>
             <title>Mulher de Fases</title>
@@ -282,7 +282,7 @@
             <album>So No Forevis</album>
             <duration>213133</duration>
             <trackNum>5</trackNum>
-            <location>U:\Shared\Music\Raimundos%20-%20(2000)%20S%C3%B3%20No%20Forevis%20-%20Mulher%20de%20Fases.mp3</location>
+            <location>U:\Shared\Music\Raimundos - (2000) S%C3%B3 No Forevis - Mulher de Fases.mp3</location>
         </track>
         <track>
             <title>Velhas fotos</title>
@@ -290,47 +290,47 @@
             <album>Sangue, Ouro e Polvora</album>
             <duration>223791</duration>
             <trackNum>8</trackNum>
-            <location>U:\Shared\Music\Tequila%20Baby%20-%20(1999)%20Sangue,%20Ouro%20e%20Polvora%20-%20Velhas%20fotos.mp3</location>
+            <location>U:\Shared\Music\Tequila Baby - (1999) Sangue, Ouro e Polvora - Velhas fotos.mp3</location>
         </track>
         <track>
             <title>Body Count's in The House</title>
             <creator>Body Count</creator>
             <duration>204617</duration>
-            <location>U:\Shared\Music\Body%20Count%20-%201992%20-%20Body%20Count's%20in%20The%20House.mp3</location>
+            <location>U:\Shared\Music\Body Count - 1992 - Body Count's in The House.mp3</location>
         </track>
         <track>
             <title>Bebendo vinho</title>
             <creator>Wander Wildner</creator>
             <duration>266736</duration>
-            <location>U:\Shared\Music\Wander%20Wildner%20-%20Bebendo%20vinho.mp3</location>
+            <location>U:\Shared\Music\Wander Wildner - Bebendo vinho.mp3</location>
         </track>
         <track>
             <title>Anthem for the Year 2000</title>
             <creator>Silverchair</creator>
             <album>Neon Ballroom</album>
             <duration>247824</duration>
-            <location>U:\Shared\Music\Silverchair%20-%20Anthem%20for%20the%20Year%202000.mp3</location>
+            <location>U:\Shared\Music\Silverchair - Anthem for the Year 2000.mp3</location>
         </track>
         <track>
             <title>Down</title>
             <creator>311</creator>
             <album>Coletânea Rock Radical</album>
             <duration>183984</duration>
-            <location>U:\Shared\Music\Colet%C3%A2nea%20-%20(1999)%20Rock%20Radical%20-%20311%20-%20Down.mp3</location>
+            <location>U:\Shared\Music\Colet%C3%A2nea - (1999) Rock Radical - 311 - Down.mp3</location>
         </track>
         <track>
             <title>Greedy Fly</title>
             <creator>Bush</creator>
             <album>Coletânea Rock Radical</album>
             <duration>272712</duration>
-            <location>U:\Shared\Music\Colet%C3%A2nea%20-%20(1999)%20Rock%20Radical%20-%20Bush%20-%20Greedy%20Fly.mp3</location>
+            <location>U:\Shared\Music\Colet%C3%A2nea - (1999) Rock Radical - Bush - Greedy Fly.mp3</location>
         </track>
         <track>
             <title>Ready To Go</title>
             <creator>Republica</creator>
             <album>Coletânea Rock Radical</album>
             <duration>285072</duration>
-            <location>U:\Shared\Music\Colet%C3%A2nea%20-%20(1999)%20Rock%20Radical%20-%20Republica%20-%20Ready%20To%20Go.mp3</location>
+            <location>U:\Shared\Music\Colet%C3%A2nea - (1999) Rock Radical - Republica - Ready To Go.mp3</location>
         </track>
     </trackList>
 </playlist>

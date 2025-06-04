@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <playlist xmlns="http://xspf.org/ns/0/" version="1">
     <trackList>
         <track>
@@ -7,7 +7,7 @@
             <album>Mamonas Assassinas</album>
             <duration>145841</duration>
             <trackNum>8</trackNum>
-            <location>U:\Shared\Music\Mamonas%20Assassinas%20-%20Cabe%C3%A7a%20de%20Bagre%20II.mp3</location>
+            <location>U:\Shared\Music\Mamonas Assassinas - Cabe%C3%A7a de Bagre II.mp3</location>
         </track>
         <track>
             <title>Débil Metal</title>
@@ -15,21 +15,21 @@
             <album>Mamonas Assassinas</album>
             <duration>185965</duration>
             <trackNum>12</trackNum>
-            <location>U:\Shared\Music\Mamonas%20Assassinas%20-%20D%C3%A9bil%20Metal.mp3</location>
+            <location>U:\Shared\Music\Mamonas Assassinas - D%C3%A9bil Metal.mp3</location>
         </track>
         <track>
             <title>Garota Do Shopping</title>
             <creator>Mamonas Assassinas</creator>
             <album>Mamonas Assassinas</album>
             <duration>167079</duration>
-            <location>U:\Shared\Music\Mamonas%20Assassinas%20-%20Garota%20Do%20Shopping.mp3</location>
+            <location>U:\Shared\Music\Mamonas Assassinas - Garota Do Shopping.mp3</location>
         </track>
         <track>
             <title>Sábado de Sol</title>
             <creator>Mamonas Assassinas</creator>
             <album>Mamonas Assassinas</album>
             <duration>60943</duration>
-            <location>U:\Shared\Music\Mamonas%20Assassinas%20-%20S%C3%A1bado%20de%20Sol.mp3</location>
+            <location>U:\Shared\Music\Mamonas Assassinas - S%C3%A1bado de Sol.mp3</location>
         </track>
         <track>
             <title>O Astronauta de Mármore</title>
@@ -37,20 +37,20 @@
             <album>A Céu Aberto</album>
             <duration>239280</duration>
             <trackNum>18</trackNum>
-            <location>U:\Shared\Music\Nenhum%20de%20N%C3%B3s%20-%20(2007)%20A%20C%C3%A9u%20Aberto%20-%20O%20Astronauta%20de%20M%C3%A1rmore.mp3</location>
+            <location>U:\Shared\Music\Nenhum de N%C3%B3s - (2007) A C%C3%A9u Aberto - O Astronauta de M%C3%A1rmore.mp3</location>
         </track>
         <track>
             <title>We Are The Champions</title>
             <creator>Queen</creator>
             <duration>190667</duration>
-            <location>U:\Shared\Music\Queen%20-%20We%20Are%20The%20Champions.mp3</location>
+            <location>U:\Shared\Music\Queen - We Are The Champions.mp3</location>
         </track>
         <track>
             <title>Games People Play (Joe South cover)</title>
             <creator>Inner Circle </creator>
             <album>Reggae Dancer </album>
             <duration>210504</duration>
-            <location>U:\Shared\Music\Inner%20Circle%20-%20(1994)%20Reggae%20Dancer%20-%20Games%20People%20Play%20(Joe%20South%20cover).mp3</location>
+            <location>U:\Shared\Music\Inner Circle - (1994) Reggae Dancer - Games People Play (Joe South cover).mp3</location>
         </track>
     </trackList>
 </playlist>

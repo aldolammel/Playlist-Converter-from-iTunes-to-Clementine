@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <playlist xmlns="http://xspf.org/ns/0/" version="1">
     <trackList>
         <track>
@@ -7,7 +7,7 @@
             <album>Tomorrow's Harvest</album>
             <duration>169874</duration>
             <trackNum>9</trackNum>
-            <location>U:\Shared\Music\Boards%20Of%20Canada%20-%20(2013)%20Tomorrows%20Harvest%20-%20Collapse.mp3</location>
+            <location>U:\Shared\Music\Boards Of Canada - (2013) Tomorrows Harvest - Collapse.mp3</location>
         </track>
         <track>
             <title>Stay The Same (feat. Andreya Triana)</title>
@@ -15,7 +15,7 @@
             <album>Black Sands</album>
             <duration>284891</duration>
             <trackNum>10</trackNum>
-            <location>U:\Shared\Music\Bonobo%20-%20(2010)%20Black%20Sands%20-%20Stay%20The%20Same%20(feat.%20Andreya%20Triana).mp3</location>
+            <location>U:\Shared\Music\Bonobo - (2010) Black Sands - Stay The Same (feat. Andreya Triana).mp3</location>
         </track>
         <track>
             <title>Me Encontra</title>
@@ -23,32 +23,32 @@
             <album>Camisa 10 Joga Bola Até Na Chuva</album>
             <duration>207986</duration>
             <trackNum>2</trackNum>
-            <location>U:\Shared\Music\Charlie%20Brown%20Jr.%20-%20(2009)%20Camisa%2010%20joga%20bola%20at%C3%A9%20na%20chuva%20-%20Me%20Encontra.mp3</location>
+            <location>U:\Shared\Music\Charlie Brown Jr. - (2009) Camisa 10 joga bola at%C3%A9 na chuva - Me Encontra.mp3</location>
         </track>
         <track>
             <title>Stripped (Remastered)</title>
             <creator>Depeche Mode</creator>
             <duration>223294</duration>
-            <location>U:\Shared\Music\Depeche%20Mode%20-%20Stripped%20(Remastered).mp3</location>
+            <location>U:\Shared\Music\Depeche Mode - Stripped (Remastered).mp3</location>
         </track>
         <track>
             <title>Shape Of You</title>
             <creator>Ed Sheeran</creator>
             <duration>235128</duration>
-            <location>U:\Shared\Music\Ed%20Sheeran%20-%20Shape%20Of%20You.mp3</location>
+            <location>U:\Shared\Music\Ed Sheeran - Shape Of You.mp3</location>
         </track>
         <track>
             <title>We All</title>
             <creator>Ego Kill Talent</creator>
             <album>Still Here</album>
             <duration>285387</duration>
-            <location>U:\Shared\Music\Ego%20Kill%20Talent%20-%20(2015)%20Still%20Here%20-%20We%20All.mp3</location>
+            <location>U:\Shared\Music\Ego Kill Talent - (2015) Still Here - We All.mp3</location>
         </track>
         <track>
             <title>Direction</title>
             <creator>Hugh</creator>
             <duration>400117</duration>
-            <location>U:\Shared\Music\Hugh%20-%20Direction.mp3</location>
+            <location>U:\Shared\Music\Hugh - Direction.mp3</location>
         </track>
         <track>
             <title>FEEL.</title>
@@ -56,19 +56,19 @@
             <album>DAMN.</album>
             <duration>214883</duration>
             <trackNum>5</trackNum>
-            <location>U:\Shared\Music\Kendrick%20Lamar%20-%20(2017)%20DAMN%20-%20FEEL..mp3</location>
+            <location>U:\Shared\Music\Kendrick Lamar - (2017) DAMN - FEEL..mp3</location>
         </track>
         <track>
             <title>5 Min Call</title>
             <creator>LAKEY INSPIRED</creator>
             <duration>170422</duration>
-            <location>U:\Shared\Music\Lakey%20Inspired%20-%205%20Min%20Call.mp3</location>
+            <location>U:\Shared\Music\Lakey Inspired - 5 Min Call.mp3</location>
         </track>
         <track>
             <title>Island</title>
             <creator>LAKEY INSPIRED</creator>
             <duration>151222</duration>
-            <location>U:\Shared\Music\Lakey%20Inspired%20-%20Island.mp3</location>
+            <location>U:\Shared\Music\Lakey Inspired - Island.mp3</location>
         </track>
         <track>
             <title>Everyone Else</title>
@@ -76,7 +76,7 @@
             <album>Truth Is A Beautiful Thing (Deluxe Edition)</album>
             <duration>245342</duration>
             <trackNum>6</trackNum>
-            <location>U:\Shared\Music\London%20Grammar%20-%20(2017)%20Truth%20Is%20a%20Beautiful%20Thing%20(Deluxe)%20-%20Everyone%20Else.mp3</location>
+            <location>U:\Shared\Music\London Grammar - (2017) Truth Is a Beautiful Thing (Deluxe) - Everyone Else.mp3</location>
         </track>
         <track>
             <title>Leave The War With Me</title>
@@ -84,61 +84,61 @@
             <album>Truth Is A Beautiful Thing (Deluxe Edition)</album>
             <duration>304561</duration>
             <trackNum>10</trackNum>
-            <location>U:\Shared\Music\London%20Grammar%20-%20(2017)%20Truth%20Is%20a%20Beautiful%20Thing%20(Deluxe)%20-%20Leave%20The%20War%20With%20Me.mp3</location>
+            <location>U:\Shared\Music\London Grammar - (2017) Truth Is a Beautiful Thing (Deluxe) - Leave The War With Me.mp3</location>
         </track>
         <track>
             <title>War Is Hell (Old School Rap Beat)</title>
             <creator>Mariont</creator>
             <duration>243304</duration>
-            <location>U:\Shared\Music\Mariont%20-%20(%2329)WarIsHell.mp3</location>
+            <location>U:\Shared\Music\Mariont - (%2329)WarIsHell.mp3</location>
         </track>
         <track>
             <title>Coffee</title>
             <creator>Miguel</creator>
             <duration>292284</duration>
-            <location>U:\Shared\Music\Miguel%20-%20Coffee.mp3</location>
+            <location>U:\Shared\Music\Miguel - Coffee.mp3</location>
         </track>
         <track>
             <title>Aloha (feat Merryn Jeann)</title>
             <creator>Møme</creator>
             <duration>218671</duration>
-            <location>U:\Shared\Music\MME%20-%20Aloha%20(feat%20Merryn-Jeann).mp3</location>
+            <location>U:\Shared\Music\MME - Aloha (feat Merryn-Jeann).mp3</location>
         </track>
         <track>
             <title>Black Beatles (ft. Gucci Mane)</title>
             <creator>Rae Sremmurd</creator>
             <duration>293067</duration>
-            <location>U:\Shared\Music\Rae%20Sremmurd%20-%20Black%20Beatles%20ft.%20Gucci%20Mane.mp3</location>
+            <location>U:\Shared\Music\Rae Sremmurd - Black Beatles ft. Gucci Mane.mp3</location>
         </track>
         <track>
             <title>Znáš ten pocit (ft. Olga Lounová)</title>
             <creator>Revolta</creator>
             <duration>213995</duration>
-            <location>U:\Shared\Music\Revolta%20ft.%20Olga%20Lounov%C3%A1%20-%20Zn%C3%A1%C5%A1%20ten%20pocit.mp3</location>
+            <location>U:\Shared\Music\Revolta ft. Olga Lounov%C3%A1 - Zn%C3%A1%C5%A1 ten pocit.mp3</location>
         </track>
         <track>
             <title>Deliverance</title>
             <creator>RY X</creator>
             <duration>230504</duration>
-            <location>U:\Shared\Music\RY%20X%20-%20Deliverance.mp3</location>
+            <location>U:\Shared\Music\RY X - Deliverance.mp3</location>
         </track>
         <track>
             <title>Closing Time</title>
             <creator>Semisonic</creator>
             <duration>240404</duration>
-            <location>U:\Shared\Music\Semisonic%20-%20Closing%20Time.mp3</location>
+            <location>U:\Shared\Music\Semisonic - Closing Time.mp3</location>
         </track>
         <track>
             <title>Shy (feat Brayton Bowman)</title>
             <creator>The Magician</creator>
             <duration>203990</duration>
-            <location>U:\Shared\Music\The%20Magician%20-%20Shy%20(feat%20Brayton%20Bowman).mp3</location>
+            <location>U:\Shared\Music\The Magician - Shy (feat Brayton Bowman).mp3</location>
         </track>
         <track>
             <title>Starboy (ft Daft Punk)</title>
             <creator>The Weeknd</creator>
             <duration>247536</duration>
-            <location>U:\Shared\Music\The%20Weeknd%20-%20Starboy%20(ft%20Daft%20Punk).mp3</location>
+            <location>U:\Shared\Music\The Weeknd - Starboy (ft Daft Punk).mp3</location>
         </track>
         <track>
             <title>Something New</title>
@@ -146,7 +146,7 @@
             <album>Dream Machine</album>
             <duration>321959</duration>
             <trackNum>1</trackNum>
-            <location>U:\Shared\Music\Tokio%20Hotel%20-%20(2017)%20Dream%20Machine%20-%20Something%20New.mp3</location>
+            <location>U:\Shared\Music\Tokio Hotel - (2017) Dream Machine - Something New.mp3</location>
         </track>
         <track>
             <title>What If</title>
@@ -154,7 +154,7 @@
             <album>Dream Machine</album>
             <duration>212140</duration>
             <trackNum>4</trackNum>
-            <location>U:\Shared\Music\Tokio%20Hotel%20-%20(2017)%20Dream%20Machine%20-%20What%20If.mp3</location>
+            <location>U:\Shared\Music\Tokio Hotel - (2017) Dream Machine - What If.mp3</location>
         </track>
         <track>
             <title>Summer Love</title>
@@ -162,20 +162,20 @@
             <album>Trevor Something Does Not Exist</album>
             <duration>222876</duration>
             <trackNum>4</trackNum>
-            <location>U:\Shared\Music\Trevor%20Something%20-%20(2014)%20Trevor%20Something%20Does%20Not%20Exist%20-%2004%20Summer%20Love.mp3</location>
+            <location>U:\Shared\Music\Trevor Something - (2014) Trevor Something Does Not Exist - 04 Summer Love.mp3</location>
         </track>
         <track>
             <title>Error 404</title>
             <creator>Lofi Geek</creator>
             <duration>162720</duration>
-            <location>U:\Shared\Music\Lofi%20Greek%20-%20Error%20404.mp3</location>
+            <location>U:\Shared\Music\Lofi Greek - Error 404.mp3</location>
         </track>
         <track>
             <title>Azul do Mar</title>
             <creator>SOW</creator>
             <album>O Selo</album>
             <duration>267546</duration>
-            <location>U:\Shared\Music\SOW%20-%20(2017)%20O%20Selo%20-%205.mp3</location>
+            <location>U:\Shared\Music\SOW - (2017) O Selo - 5.mp3</location>
         </track>
     </trackList>
 </playlist>

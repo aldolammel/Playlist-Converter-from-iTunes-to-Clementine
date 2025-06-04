@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <playlist xmlns="http://xspf.org/ns/0/" version="1">
     <trackList>
         <track>
@@ -7,7 +7,7 @@
             <album>This Is War</album>
             <duration>414014</duration>
             <trackNum>11</trackNum>
-            <location>U:\Shared\Music\30%20Seconds%20To%20Mars%20-%20(2009)%20This%20is%20war%20-%20Stranger%20In%20A%20Strange%20Land.mp3</location>
+            <location>U:\Shared\Music\30 Seconds To Mars - (2009) This is war - Stranger In A Strange Land.mp3</location>
         </track>
         <track>
             <title>3 Libras</title>
@@ -15,7 +15,7 @@
             <album>Mer de Noms</album>
             <duration>219742</duration>
             <trackNum>6</trackNum>
-            <location>U:\Shared\Music\A%20Perfect%20Circle%20-%20(2000)%20Mer%20De%20Noms%20-%203%20Libras.mp3</location>
+            <location>U:\Shared\Music\A Perfect Circle - (2000) Mer De Noms - 3 Libras.mp3</location>
         </track>
         <track>
             <title>Orestes</title>
@@ -23,7 +23,7 @@
             <album>Mer de Noms</album>
             <duration>288548</duration>
             <trackNum>5</trackNum>
-            <location>U:\Shared\Music\A%20Perfect%20Circle%20-%20(2000)%20Mer%20De%20Noms%20-%20Orestes.mp3</location>
+            <location>U:\Shared\Music\A Perfect Circle - (2000) Mer De Noms - Orestes.mp3</location>
         </track>
         <track>
             <title>Blue</title>
@@ -31,7 +31,7 @@
             <album>Thirteenth Step</album>
             <duration>253704</duration>
             <trackNum>4</trackNum>
-            <location>U:\Shared\Music\A%20Perfect%20Circle%20-%20(2003)%20Thirteenth%20Step%20-%20Blue.mp3</location>
+            <location>U:\Shared\Music\A Perfect Circle - (2003) Thirteenth Step - Blue.mp3</location>
         </track>
         <track>
             <title>Giving In</title>
@@ -39,7 +39,7 @@
             <album>Adema</album>
             <duration>274782</duration>
             <trackNum>3</trackNum>
-            <location>U:\Shared\Music\Adema%20-%20(2001)%20Adema%20-%20Giving%20In.mp3</location>
+            <location>U:\Shared\Music\Adema - (2001) Adema - Giving In.mp3</location>
         </track>
         <track>
             <title>Forest</title>
@@ -47,7 +47,7 @@
             <album>Silent Hill 2</album>
             <duration>103653</duration>
             <trackNum>3</trackNum>
-            <location>U:\Shared\Music\Akira%20Yamaoka%20-%20(2001)%20Silent%20Hill%202%20-%20forest.mp3</location>
+            <location>U:\Shared\Music\Akira Yamaoka - (2001) Silent Hill 2 - forest.mp3</location>
         </track>
         <track>
             <title>The Day of Night</title>
@@ -55,7 +55,7 @@
             <album>Silent Hill 2</album>
             <duration>97436</duration>
             <trackNum>13</trackNum>
-            <location>U:\Shared\Music\Akira%20Yamaoka%20-%20(2001)%20Silent%20Hill%202%20-%20the_day_of_night.mp3</location>
+            <location>U:\Shared\Music\Akira Yamaoka - (2001) Silent Hill 2 - the_day_of_night.mp3</location>
         </track>
         <track>
             <title>True</title>
@@ -63,26 +63,26 @@
             <album>Silent Hill 2</album>
             <duration>186984</duration>
             <trackNum>24</trackNum>
-            <location>U:\Shared\Music\Akira%20Yamaoka%20-%20(2001)%20Silent%20Hill%202%20-%20true.mp3</location>
+            <location>U:\Shared\Music\Akira Yamaoka - (2001) Silent Hill 2 - true.mp3</location>
         </track>
         <track>
             <title>Would?</title>
             <creator>Alice in Chains</creator>
             <album>Dirt</album>
             <duration>207255</duration>
-            <location>U:\Shared\Music\Alice%20In%20Chains%20-%20(1992)%20Dirt%20-%20Would.mp3</location>
+            <location>U:\Shared\Music\Alice In Chains - (1992) Dirt - Would.mp3</location>
         </track>
         <track>
             <title>Would (Live in Guitar Center Sessions on DIRECTV)</title>
             <creator>Alice in Chains</creator>
             <duration>224600</duration>
-            <location>U:\Shared\Music\Alice%20in%20Chains%20-%20Would%20(Guitar%20Center%20Sessions%20on%20DIRECTV).mp3</location>
+            <location>U:\Shared\Music\Alice in Chains - Would (Guitar Center Sessions on DIRECTV).mp3</location>
         </track>
         <track>
             <title>Deep house mix MARCH 2017</title>
             <creator>Anton Ishutin</creator>
             <duration>312032</duration>
-            <location>U:\Shared\Music\ANTON%20ISHUTIN%20in%20SESSION%20deep%20house%20mix%20MARCH%202017.mp3</location>
+            <location>U:\Shared\Music\ANTON ISHUTIN in SESSION deep house mix MARCH 2017.mp3</location>
         </track>
         <track>
             <title>Forever Can Be</title>
@@ -90,7 +90,7 @@
             <album>Keep Telling Myself it's Alright</album>
             <duration>291552</duration>
             <trackNum>4</trackNum>
-            <location>U:\Shared\Music\Ashes%20Divide%20-%20(2008)%20Keep%20Telling%20Myself%20it's%20Alright%20-%20Forever%20Can%20Be.mp3</location>
+            <location>U:\Shared\Music\Ashes Divide - (2008) Keep Telling Myself it's Alright - Forever Can Be.mp3</location>
         </track>
         <track>
             <title>The Stone</title>
@@ -98,14 +98,14 @@
             <album>Keep Telling Myself it's Alright</album>
             <duration>231366</duration>
             <trackNum>9</trackNum>
-            <location>U:\Shared\Music\Ashes%20Divide%20-%20(2008)%20Keep%20Telling%20Myself%20it's%20Alright%20-%20The%20Stone.mp3</location>
+            <location>U:\Shared\Music\Ashes Divide - (2008) Keep Telling Myself it's Alright - The Stone.mp3</location>
         </track>
         <track>
             <title>Interlúdio</title>
             <creator>Aurora Rules</creator>
             <album>A Sombra do Presente</album>
             <duration>137168</duration>
-            <location>U:\Shared\Music\Aurora%20Rules%20-%20(2012)%20A%20Sombra%20Do%20Presente%20-%20Interl%C3%BAdio.mp3</location>
+            <location>U:\Shared\Music\Aurora Rules - (2012) A Sombra Do Presente - Interl%C3%BAdio.mp3</location>
         </track>
         <track>
             <title>Telepath</title>
@@ -113,7 +113,7 @@
             <album>Tomorrow's Harvest</album>
             <duration>92865</duration>
             <trackNum>5</trackNum>
-            <location>U:\Shared\Music\Boards%20Of%20Canada%20-%20(2013)%20Tomorrows%20Harvest%20-%20Telepath.mp3</location>
+            <location>U:\Shared\Music\Boards Of Canada - (2013) Tomorrows Harvest - Telepath.mp3</location>
         </track>
         <track>
             <title>Outro</title>
@@ -121,7 +121,7 @@
             <album>Phobia</album>
             <duration>129933</duration>
             <trackNum>13</trackNum>
-            <location>U:\Shared\Music\Breaking%20Benjamin%20-%20(2006)%20Phobia%20-%20outro.mp3</location>
+            <location>U:\Shared\Music\Breaking Benjamin - (2006) Phobia - outro.mp3</location>
         </track>
         <track>
             <title>Deathbeds</title>
@@ -129,7 +129,7 @@
             <album>Sempiternal</album>
             <duration>297090</duration>
             <trackNum>14</trackNum>
-            <location>U:\Shared\Music\Bring%20Me%20The%20Horizon%20-%20(2013)%20Sempiternal%20-%20Deathbeds.mp3</location>
+            <location>U:\Shared\Music\Bring Me The Horizon - (2013) Sempiternal - Deathbeds.mp3</location>
         </track>
         <track>
             <title>Hospital For Souls</title>
@@ -137,7 +137,7 @@
             <album>Sempiternal</album>
             <duration>404375</duration>
             <trackNum>11</trackNum>
-            <location>U:\Shared\Music\Bring%20Me%20The%20Horizon%20-%20(2013)%20Sempiternal%20-%20Hospital%20For%20Souls.mp3</location>
+            <location>U:\Shared\Music\Bring Me The Horizon - (2013) Sempiternal - Hospital For Souls.mp3</location>
         </track>
         <track>
             <title>Doomed</title>
@@ -145,7 +145,7 @@
             <album>That's the Spirit</album>
             <duration>274207</duration>
             <trackNum>1</trackNum>
-            <location>U:\Shared\Music\Bring%20Me%20The%20Horizon%20-%20(2015)%20Thats%20the%20Spirit%20-%20Doomed.mp3</location>
+            <location>U:\Shared\Music\Bring Me The Horizon - (2015) Thats the Spirit - Doomed.mp3</location>
         </track>
         <track>
             <title>Run</title>
@@ -153,7 +153,7 @@
             <album>That's the Spirit</album>
             <duration>222824</duration>
             <trackNum>8</trackNum>
-            <location>U:\Shared\Music\Bring%20Me%20The%20Horizon%20-%20(2015)%20Thats%20the%20Spirit%20-%20Run.mp3</location>
+            <location>U:\Shared\Music\Bring Me The Horizon - (2015) Thats the Spirit - Run.mp3</location>
         </track>
         <track>
             <title>I Apologize if you Feel Something</title>
@@ -161,14 +161,14 @@
             <album>Amo</album>
             <duration>139650</duration>
             <trackNum>1</trackNum>
-            <location>U:\Shared\Music\Bring%20Me%20The%20Horizon%20-%20(2019)%20Amo%20-%20I%20Apologize%20if%20you%20Feel%20Something.mp3</location>
+            <location>U:\Shared\Music\Bring Me The Horizon - (2019) Amo - I Apologize if you Feel Something.mp3</location>
         </track>
         <track>
             <title>Black Metallic</title>
             <creator>Catherine Wheel</creator>
             <album>Ferment</album>
             <duration>438883</duration>
-            <location>U:\Shared\Music\Catherine%20Wheel%20-%20Black%20Metallic.mp3</location>
+            <location>U:\Shared\Music\Catherine Wheel - Black Metallic.mp3</location>
         </track>
         <track>
             <title>Aquela Paz</title>
@@ -176,7 +176,7 @@
             <album>Transpiração Contínua Prolongada</album>
             <duration>182256</duration>
             <trackNum>8</trackNum>
-            <location>U:\Shared\Music\Charlie%20Brown%20Jr.%20-%20(1997)%20Transpira%C3%A7%C3%A3o%20Cont%C3%ADnua%20Prolongada%20-%20Aquela%20Paz.mp3</location>
+            <location>U:\Shared\Music\Charlie Brown Jr. - (1997) Transpira%C3%A7%C3%A3o Cont%C3%ADnua Prolongada - Aquela Paz.mp3</location>
         </track>
         <track>
             <title>Como Tudo Deve Ser</title>
@@ -184,7 +184,7 @@
             <album>100% Charlie Brown Jr. - Abalando A Sua Fábrica</album>
             <duration>272457</duration>
             <trackNum>12</trackNum>
-            <location>U:\Shared\Music\Charlie%20Brown%20Jr.%20-%20(2001)%20100%25%20CHarlie%20Brown%20Jr.%20-%20Como%20Tudo%20Deve%20Ser.mp3</location>
+            <location>U:\Shared\Music\Charlie Brown Jr. - (2001) 100%25 CHarlie Brown Jr. - Como Tudo Deve Ser.mp3</location>
         </track>
         <track>
             <title>The Meddler</title>
@@ -192,7 +192,7 @@
             <album>Hats Off To The Bull</album>
             <duration>253204</duration>
             <trackNum>4</trackNum>
-            <location>U:\Shared\Music\Chevelle%20-%20(2011)%20Hats%20Off%20To%20The%20Bull%20-%20The%20Meddler.mp3</location>
+            <location>U:\Shared\Music\Chevelle - (2011) Hats Off To The Bull - The Meddler.mp3</location>
         </track>
         <track>
             <title>Stoma</title>
@@ -200,14 +200,14 @@
             <album>The Age of Hell</album>
             <duration>88608</duration>
             <trackNum>8</trackNum>
-            <location>U:\Shared\Music\Chimaira%20-%20(2011)%20The%20Age%20of%20Hell%20-%20Stoma.mp3</location>
+            <location>U:\Shared\Music\Chimaira - (2011) The Age of Hell - Stoma.mp3</location>
         </track>
         <track>
             <title>Who I Am</title>
             <creator>Code Orange</creator>
             <album>Underneath</album>
             <duration>226481</duration>
-            <location>U:\Shared\Music\Code%20Orange%20-%20(2020)%20Underneath%20-%20Who%20I%20Am.mp3</location>
+            <location>U:\Shared\Music\Code Orange - (2020) Underneath - Who I Am.mp3</location>
         </track>
         <track>
             <title>Sick Of Man</title>
@@ -215,7 +215,7 @@
             <album>13 Ways to Bleed on Stage</album>
             <duration>244453</duration>
             <trackNum>11</trackNum>
-            <location>U:\Shared\Music\Cold%20-%20(2000)%2013%20Ways%20to%20Bleed%20on%20Stage%20-%20Sick%20Of%20Man.mp3</location>
+            <location>U:\Shared\Music\Cold - (2000) 13 Ways to Bleed on Stage - Sick Of Man.mp3</location>
         </track>
         <track>
             <title>Black Cloud</title>
@@ -223,13 +223,13 @@
             <album>The Gift of Game</album>
             <duration>300068</duration>
             <trackNum>5</trackNum>
-            <location>U:\Shared\Music\Crazy%20Town%20-%20(1999)%20The%20Gift%20of%20Game%20-%20Black%20Cloud.mp3</location>
+            <location>U:\Shared\Music\Crazy Town - (1999) The Gift of Game - Black Cloud.mp3</location>
         </track>
         <track>
             <title>Life (Instrumental)</title>
             <creator>J Dilla</creator>
             <duration>280163</duration>
-            <location>U:\Shared\Music\Creative%20Commons%20-%20J%20Dilla%20-%20Life%20(Instrumental).mp3</location>
+            <location>U:\Shared\Music\Creative Commons - J Dilla - Life (Instrumental).mp3</location>
         </track>
         <track>
             <title>Windy Little Town</title>
@@ -237,7 +237,7 @@
             <album>Are We All the Same Distance Apart</album>
             <duration>161724</duration>
             <trackNum>8</trackNum>
-            <location>U:\Shared\Music\Crooks%20-%20(2015)%20Are%20We%20All%20The%20Same%20Distance%20Apart%20-%20Windy%20Little%20Town.mp3</location>
+            <location>U:\Shared\Music\Crooks - (2015) Are We All The Same Distance Apart - Windy Little Town.mp3</location>
         </track>
         <track>
             <title>Bitches Brew</title>
@@ -245,7 +245,7 @@
             <album>††† (Crosses)</album>
             <duration>209031</duration>
             <trackNum>3</trackNum>
-            <location>U:\Shared\Music\Crosses%20-%20(2014)%20Crosses%20-%20Bitches%20Brew.mp3</location>
+            <location>U:\Shared\Music\Crosses - (2014) Crosses - Bitches Brew.mp3</location>
         </track>
         <track>
             <title>Cross</title>
@@ -253,7 +253,7 @@
             <album>††† (Crosses)</album>
             <duration>173453</duration>
             <trackNum>13</trackNum>
-            <location>U:\Shared\Music\Crosses%20-%20(2014)%20Crosses%20-%20Cross.mp3</location>
+            <location>U:\Shared\Music\Crosses - (2014) Crosses - Cross.mp3</location>
         </track>
         <track>
             <title>Death Bell</title>
@@ -261,21 +261,21 @@
             <album>††† (Crosses)</album>
             <duration>252551</duration>
             <trackNum>15</trackNum>
-            <location>U:\Shared\Music\Crosses%20-%20(2014)%20Crosses%20-%20Death%20Bell.mp3</location>
+            <location>U:\Shared\Music\Crosses - (2014) Crosses - Death Bell.mp3</location>
         </track>
         <track>
             <title>The Unknown</title>
             <creator>Crossfade</creator>
             <album>Crossfade</album>
             <duration>179200</duration>
-            <location>U:\Shared\Music\Crossfade%20-%20(2004)%20Crossfade%20-%20The%20Unknown.mp3</location>
+            <location>U:\Shared\Music\Crossfade - (2004) Crossfade - The Unknown.mp3</location>
         </track>
         <track>
             <title>Espere por mim</title>
             <creator>Avenue</creator>
             <album>CURA (Nunca lançado)</album>
             <duration>198922</duration>
-            <location>U:\Shared\Music\Cura%20-%20Espere%20por%20mim.mp3</location>
+            <location>U:\Shared\Music\Cura - Espere por mim.mp3</location>
         </track>
         <track>
             <title>Cantspeak</title>
@@ -283,7 +283,7 @@
             <album>IV: Vorschau</album>
             <duration>246125</duration>
             <trackNum>3</trackNum>
-            <location>U:\Shared\Music\Danzig%20-%20(1994)%20IV%20Vorschau%20-%20Cantspeak.mp3</location>
+            <location>U:\Shared\Music\Danzig - (1994) IV Vorschau - Cantspeak.mp3</location>
         </track>
         <track>
             <title>Black Mass</title>
@@ -291,7 +291,7 @@
             <album>777: I Luciferi</album>
             <duration>298631</duration>
             <trackNum>2</trackNum>
-            <location>U:\Shared\Music\Danzig%20-%20(2002)%20777%20I%20Lucifieri%20-%20Black%20Mass.mp3</location>
+            <location>U:\Shared\Music\Danzig - (2002) 777 I Lucifieri - Black Mass.mp3</location>
         </track>
         <track>
             <title>Black Angel, White Angel</title>
@@ -299,7 +299,7 @@
             <album>Circle Of Snakes</album>
             <duration>263888</duration>
             <trackNum>11</trackNum>
-            <location>U:\Shared\Music\Danzig%20-%20(2004)%20Circle%20Of%20Snakes%20-%20Black%20Angel%20White%20Angel.mp3</location>
+            <location>U:\Shared\Music\Danzig - (2004) Circle Of Snakes - Black Angel White Angel.mp3</location>
         </track>
         <track>
             <title>Black Hell</title>
@@ -307,7 +307,7 @@
             <album>The Hangover Part II OST</album>
             <duration>266475</duration>
             <trackNum>1</trackNum>
-            <location>U:\Shared\Music\Danzig%20-%20(2011)%20-%20Black%20hell.mp3</location>
+            <location>U:\Shared\Music\Danzig - (2011) - Black hell.mp3</location>
         </track>
         <track>
             <title>Virtue To Vice</title>
@@ -315,14 +315,14 @@
             <album>Termination Bliss</album>
             <duration>222223</duration>
             <trackNum>9</trackNum>
-            <location>U:\Shared\Music\Deathstars%20-%20Virtue%20To%20Vice.mp3</location>
+            <location>U:\Shared\Music\Deathstars - Virtue To Vice.mp3</location>
         </track>
         <track>
             <title>Be quiet and drive (far away)</title>
             <creator>Deftones</creator>
             <album>Around the fur</album>
             <duration>308062</duration>
-            <location>U:\Shared\Music\Deftones%20-%20(1997)%20Around%20the%20fur%20-%20Be%20quiet%20and%20drive%20(far)%20.mp3</location>
+            <location>U:\Shared\Music\Deftones - (1997) Around the fur - Be quiet and drive (far) .mp3</location>
         </track>
         <track>
             <title>Mascara</title>
@@ -330,35 +330,35 @@
             <album>Around the fur</album>
             <duration>225358</duration>
             <trackNum>3</trackNum>
-            <location>U:\Shared\Music\Deftones%20-%20(1997)%20Around%20the%20fur%20-%20Mascara.mp3</location>
+            <location>U:\Shared\Music\Deftones - (1997) Around the fur - Mascara.mp3</location>
         </track>
         <track>
             <title>Change (in the house of flies)</title>
             <creator>Deftones</creator>
             <album>White Pony</album>
             <duration>299546</duration>
-            <location>U:\Shared\Music\Deftones%20-%20(2000)%20White%20Pony%20-%20Change%20(In%20The%20House%20Of%20Flies).mp3</location>
+            <location>U:\Shared\Music\Deftones - (2000) White Pony - Change (In The House Of Flies).mp3</location>
         </track>
         <track>
             <title>Digital Bath</title>
             <creator>Deftones</creator>
             <album>White Pony</album>
             <duration>255477</duration>
-            <location>U:\Shared\Music\Deftones%20-%20(2000)%20White%20Pony%20-%20Digital%20Bath.mp3</location>
+            <location>U:\Shared\Music\Deftones - (2000) White Pony - Digital Bath.mp3</location>
         </track>
         <track>
             <title>Knife party</title>
             <creator>Deftones</creator>
             <album>White Pony</album>
             <duration>289253</duration>
-            <location>U:\Shared\Music\Deftones%20-%20(2000)%20White%20Pony%20-%20Knife%20Party.mp3</location>
+            <location>U:\Shared\Music\Deftones - (2000) White Pony - Knife Party.mp3</location>
         </track>
         <track>
             <title>Passenger (com o vocal do A Perfect Circle)</title>
             <creator>Deftones</creator>
             <album>White Pony</album>
             <duration>368770</duration>
-            <location>U:\Shared\Music\Deftones%20-%20(2000)%20White%20Pony%20-%20Passenger.mp3</location>
+            <location>U:\Shared\Music\Deftones - (2000) White Pony - Passenger.mp3</location>
         </track>
         <track>
             <title>Battle-Axe</title>
@@ -366,7 +366,7 @@
             <album>Deftones</album>
             <duration>301949</duration>
             <trackNum>7</trackNum>
-            <location>U:\Shared\Music\Deftones%20-%20(2003)%20Deftones%20-%20Battle-Axe.mp3</location>
+            <location>U:\Shared\Music\Deftones - (2003) Deftones - Battle-Axe.mp3</location>
         </track>
         <track>
             <title>Lucky You</title>
@@ -374,21 +374,21 @@
             <album>Deftones</album>
             <duration>250618</duration>
             <trackNum>8</trackNum>
-            <location>U:\Shared\Music\Deftones%20-%20(2003)%20Deftones%20-%20Lucky%20You.mp3</location>
+            <location>U:\Shared\Music\Deftones - (2003) Deftones - Lucky You.mp3</location>
         </track>
         <track>
             <title>Kimdracula</title>
             <creator>Deftones</creator>
             <album>Saturday Night Wrist</album>
             <duration>195918</duration>
-            <location>U:\Shared\Music\Deftones%20-%20(2006)%20Saturday%20Night%20Wrist%20-%20Kimdracula.mp3</location>
+            <location>U:\Shared\Music\Deftones - (2006) Saturday Night Wrist - Kimdracula.mp3</location>
         </track>
         <track>
             <title>Dallas (gravações perdidas)</title>
             <creator>Deftones</creator>
             <album>Eros</album>
             <duration>154958</duration>
-            <location>U:\Shared\Music\Deftones%20-%20(2008)%20Eros%20-%20Dallas%20(grava%C3%A7%C3%B5es%20perdidas).mp3</location>
+            <location>U:\Shared\Music\Deftones - (2008) Eros - Dallas (grava%C3%A7%C3%B5es perdidas).mp3</location>
         </track>
         <track>
             <title>Prayers / Triangles</title>
@@ -396,7 +396,7 @@
             <album>Gore</album>
             <duration>217991</duration>
             <trackNum>1</trackNum>
-            <location>U:\Shared\Music\Deftones%20-%20(2016)%20Gore%20-%20Prayers%20-%20Triangles.mp3</location>
+            <location>U:\Shared\Music\Deftones - (2016) Gore - Prayers - Triangles.mp3</location>
         </track>
         <track>
             <title>Walking In My Shoes</title>
@@ -404,7 +404,7 @@
             <album>Songs Of Faith And Devotion</album>
             <duration>336143</duration>
             <trackNum>2</trackNum>
-            <location>U:\Shared\Music\Depeche%20Mode%20-%20(1993)%20Songs%20Of%20Faith%20And%20Devotion%20-%20Walking%20In%20My%20Shoes.mp3</location>
+            <location>U:\Shared\Music\Depeche Mode - (1993) Songs Of Faith And Devotion - Walking In My Shoes.mp3</location>
         </track>
         <track>
             <title>It's No Good</title>
@@ -412,7 +412,7 @@
             <album>Ultra</album>
             <duration>359392</duration>
             <trackNum>4</trackNum>
-            <location>U:\Shared\Music\Depeche%20Mode%20-%20(1997)%20Ultra%20-%20It's%20No%20Good.mp3</location>
+            <location>U:\Shared\Music\Depeche Mode - (1997) Ultra - It's No Good.mp3</location>
         </track>
         <track>
             <title>Useless</title>
@@ -420,14 +420,14 @@
             <album>Ultra</album>
             <duration>313312</duration>
             <trackNum>6</trackNum>
-            <location>U:\Shared\Music\Depeche%20Mode%20-%20(1997)%20Ultra%20-%20Useless.mp3</location>
+            <location>U:\Shared\Music\Depeche Mode - (1997) Ultra - Useless.mp3</location>
         </track>
         <track>
             <title>Here With Me</title>
             <creator>Dido</creator>
             <album>No Angel</album>
             <duration>291343</duration>
-            <location>U:\Shared\Music\Dido%20-%20Here%20With%20Me.mp3</location>
+            <location>U:\Shared\Music\Dido - Here With Me.mp3</location>
         </track>
         <track>
             <title>For Whom the Bell Tolls</title>
@@ -435,14 +435,14 @@
             <album>Donnie Darko: Soundtrack &amp; Score</album>
             <duration>192888</duration>
             <trackNum>11</trackNum>
-            <location>U:\Shared\Music\Donnie%20Darko%20-%20(2002)%20Soundtrack%20&amp;%20Score%20-%20For%20Whom%20the%20Bell%20Tolls%20(Steve%20Baker%20&amp;%20Carmen%20Dave).mp3</location>
+            <location>U:\Shared\Music\Donnie Darko - (2002) Soundtrack &amp; Score - For Whom the Bell Tolls (Steve Baker &amp; Carmen Dave).mp3</location>
         </track>
         <track>
             <title>Mad World (Alternate Mix)</title>
             <creator>Michael Andrews</creator>
             <album>Donnie Darko: Soundtrack &amp; Score</album>
             <duration>220186</duration>
-            <location>U:\Shared\Music\Donnie%20Darko%20-%20(2002)%20Soundtrack%20&amp;%20Score%20-%20Mad%20World%20(Alternate%20Mix).mp3</location>
+            <location>U:\Shared\Music\Donnie Darko - (2002) Soundtrack &amp; Score - Mad World (Alternate Mix).mp3</location>
         </track>
         <track>
             <title>From Time (feat. Jhene Aiko)</title>
@@ -450,7 +450,7 @@
             <album>Nothing Was the Same</album>
             <duration>322200</duration>
             <trackNum>7</trackNum>
-            <location>U:\Shared\Music\Drake%20-%20(2013)%20Nothing%20Was%20the%20Same%20-%20From%20Time%20(feat.%20Jhene%20Aiko).mp3</location>
+            <location>U:\Shared\Music\Drake - (2013) Nothing Was the Same - From Time (feat. Jhene Aiko).mp3</location>
         </track>
         <track>
             <title>MDMA</title>
@@ -458,7 +458,7 @@
             <album>Slave to the Game</album>
             <duration>206942</duration>
             <trackNum>10</trackNum>
-            <location>U:\Shared\Music\Emmure%20-%20(2012)%20Slave%20to%20the%20Game%20-%20MDMA.mp3</location>
+            <location>U:\Shared\Music\Emmure - (2012) Slave to the Game - MDMA.mp3</location>
         </track>
         <track>
             <title>So Wrong</title>
@@ -466,7 +466,7 @@
             <album>Moment Of Impact</album>
             <duration>225671</duration>
             <trackNum>8</trackNum>
-            <location>U:\Shared\Music\Eye%20Empire%20-%20(2010)%20Moment%20of%20Impact%20-%20so_wrong.mp3</location>
+            <location>U:\Shared\Music\Eye Empire - (2010) Moment of Impact - so_wrong.mp3</location>
         </track>
         <track>
             <title>Our Last Common Ancestor</title>
@@ -474,7 +474,7 @@
             <album>One Day Son, This Will All Be Yours</album>
             <duration>237087</duration>
             <trackNum>11</trackNum>
-            <location>U:\Shared\Music\Fightstar%20-%20(2007)%20One%20day%20son,%20this%20will%20all%20be%20yours%20-%20Our%20last%20common%20ancestor.mp3</location>
+            <location>U:\Shared\Music\Fightstar - (2007) One day son, this will all be yours - Our last common ancestor.mp3</location>
         </track>
         <track>
             <title>Ape Dos Mil</title>
@@ -482,7 +482,7 @@
             <album>Worship and Tribute</album>
             <duration>302811</duration>
             <trackNum>4</trackNum>
-            <location>U:\Shared\Music\Glassjaw%20-%20(2002)%20Worship%20and%20Tribute%20-%20Ape%20Dos%20Mil.mp3</location>
+            <location>U:\Shared\Music\Glassjaw - (2002) Worship and Tribute - Ape Dos Mil.mp3</location>
         </track>
         <track>
             <title>Estranged</title>
@@ -490,13 +490,13 @@
             <album>Use Your Illusion II</album>
             <duration>563879</duration>
             <trackNum>11</trackNum>
-            <location>U:\Shared\Music\Guns%20N%20Roses%20-%20(1991)%20Use%20your%20illusion%20II%20-%20Estranged.mp3</location>
+            <location>U:\Shared\Music\Guns N Roses - (1991) Use your illusion II - Estranged.mp3</location>
         </track>
         <track>
             <title>For You</title>
             <creator>H.I.M.</creator>
             <duration>238863</duration>
-            <location>U:\Shared\Music\H.I.M.%20-%20For%20you.mp3</location>
+            <location>U:\Shared\Music\H.I.M. - For you.mp3</location>
         </track>
         <track>
             <title>Icarus</title>
@@ -504,13 +504,13 @@
             <album>Trust No One</album>
             <duration>201247</duration>
             <trackNum>11</trackNum>
-            <location>U:\Shared\Music\Hopes%20Die%20Last%20-%20(2012)%20Trust%20No%20One%20-%20Icarus.mp3</location>
+            <location>U:\Shared\Music\Hopes Die Last - (2012) Trust No One - Icarus.mp3</location>
         </track>
         <track>
             <title>Alpha-Wolves</title>
             <creator>Hopes Die Last</creator>
             <duration>331284</duration>
-            <location>U:\Shared\Music\Hopes%20Die%20Last%20-%202015%20-%20Alpha-Wolves.mp3</location>
+            <location>U:\Shared\Music\Hopes Die Last - 2015 - Alpha-Wolves.mp3</location>
         </track>
         <track>
             <title>Jester’s Door</title>
@@ -518,7 +518,7 @@
             <album>Sounds Of A Playground Fading</album>
             <duration>157309</duration>
             <trackNum>11</trackNum>
-            <location>U:\Shared\Music\In%20Flames%20-%20(2011)%20Sounds%20of%20a%20Playground%20Fading%20-%20Jester%E2%80%99s%20Door%20.mp3</location>
+            <location>U:\Shared\Music\In Flames - (2011) Sounds of a Playground Fading - Jester%E2%80%99s Door .mp3</location>
         </track>
         <track>
             <title>Ambulances</title>
@@ -526,7 +526,7 @@
             <album>Distort Yourself</album>
             <duration>275200</duration>
             <trackNum>9</trackNum>
-            <location>U:\Shared\Music\Institute%20-%20(2005)%20Distort%20yourself%20-%20Ambulances.mp3</location>
+            <location>U:\Shared\Music\Institute - (2005) Distort yourself - Ambulances.mp3</location>
         </track>
         <track>
             <title>Come on Over</title>
@@ -534,7 +534,7 @@
             <album>Distort Yourself</album>
             <duration>238053</duration>
             <trackNum>3</trackNum>
-            <location>U:\Shared\Music\Institute%20-%20(2005)%20Distort%20yourself%20-%20Come%20On%20Over.mp3</location>
+            <location>U:\Shared\Music\Institute - (2005) Distort yourself - Come On Over.mp3</location>
         </track>
         <track>
             <title>Hurt (Nine Inch Nails Cover)</title>
@@ -542,7 +542,7 @@
             <album>American IV: The Man Comes Around</album>
             <duration>218592</duration>
             <trackNum>2</trackNum>
-            <location>U:\Shared\Music\Johnny%20Cash%20-%20(2002)%20The%20Man%20Comes%20Around%20-%20Hurt.mp3</location>
+            <location>U:\Shared\Music\Johnny Cash - (2002) The Man Comes Around - Hurt.mp3</location>
         </track>
         <track>
             <title>FEEL.</title>
@@ -550,14 +550,14 @@
             <album>DAMN.</album>
             <duration>214883</duration>
             <trackNum>5</trackNum>
-            <location>U:\Shared\Music\Kendrick%20Lamar%20-%20(2017)%20DAMN%20-%20FEEL..mp3</location>
+            <location>U:\Shared\Music\Kendrick Lamar - (2017) DAMN - FEEL..mp3</location>
         </track>
         <track>
             <title>Desperate Times</title>
             <creator>Killswitch Engage</creator>
             <album>As Daylight Dies</album>
             <duration>281600</duration>
-            <location>U:\Shared\Music\Killswitch%20Engage%20-%20(2006)%20As%20Daylight%20Dies%20-%20Desperate%20Times.mp3</location>
+            <location>U:\Shared\Music\Killswitch Engage - (2006) As Daylight Dies - Desperate Times.mp3</location>
         </track>
         <track>
             <title>Blind</title>
@@ -565,7 +565,7 @@
             <album>Korn</album>
             <duration>259578</duration>
             <trackNum>1</trackNum>
-            <location>U:\Shared\Music\Korn%20-%20(1994)%20Korn%20-%20Blind.mp3</location>
+            <location>U:\Shared\Music\Korn - (1994) Korn - Blind.mp3</location>
         </track>
         <track>
             <title>4 U</title>
@@ -573,7 +573,7 @@
             <album>Issues</album>
             <duration>102060</duration>
             <trackNum>4</trackNum>
-            <location>U:\Shared\Music\Korn%20-%20(1999)%20Issues%20-%204%20U.mp3</location>
+            <location>U:\Shared\Music\Korn - (1999) Issues - 4 U.mp3</location>
         </track>
         <track>
             <title>Dirty</title>
@@ -581,7 +581,7 @@
             <album>Issues</album>
             <duration>472372</duration>
             <trackNum>16</trackNum>
-            <location>U:\Shared\Music\Korn%20-%20(1999)%20Issues%20-%20Dirty.mp3</location>
+            <location>U:\Shared\Music\Korn - (1999) Issues - Dirty.mp3</location>
         </track>
         <track>
             <title>Trash</title>
@@ -589,7 +589,7 @@
             <album>Issues</album>
             <duration>207177</duration>
             <trackNum>3</trackNum>
-            <location>U:\Shared\Music\Korn%20-%20(1999)%20Issues%20-%20Trash.mp3</location>
+            <location>U:\Shared\Music\Korn - (1999) Issues - Trash.mp3</location>
         </track>
         <track>
             <title>Alone I Break</title>
@@ -597,7 +597,7 @@
             <album>Untouchables</album>
             <duration>258220</duration>
             <trackNum>9</trackNum>
-            <location>U:\Shared\Music\Korn%20-%20(2002)%20Untouchables%20-%20Alone%20I%20Break.mp3</location>
+            <location>U:\Shared\Music\Korn - (2002) Untouchables - Alone I Break.mp3</location>
         </track>
         <track>
             <title>Hollow Life</title>
@@ -605,21 +605,21 @@
             <album>Untouchables</album>
             <duration>249312</duration>
             <trackNum>4</trackNum>
-            <location>U:\Shared\Music\Korn%20-%20(2002)%20Untouchables%20-%20Hollow%20Life.mp3</location>
+            <location>U:\Shared\Music\Korn - (2002) Untouchables - Hollow Life.mp3</location>
         </track>
         <track>
             <title>Pretty</title>
             <creator>Korn</creator>
             <album>Follow the Leader</album>
             <duration>252133</duration>
-            <location>U:\Shared\Music\Korn%20-%20Follow%20the%20Leader%20-%20Pretty.mp3</location>
+            <location>U:\Shared\Music\Korn - Follow the Leader - Pretty.mp3</location>
         </track>
         <track>
             <title>Seed</title>
             <creator>Korn</creator>
             <album>Follow the Leader</album>
             <duration>257149</duration>
-            <location>U:\Shared\Music\Korn%20-%20Follow%20the%20Leader%20-%20Seed.mp3</location>
+            <location>U:\Shared\Music\Korn - Follow the Leader - Seed.mp3</location>
         </track>
         <track>
             <title>Falling</title>
@@ -627,20 +627,20 @@
             <album>Lacuna Coil</album>
             <duration>340819</duration>
             <trackNum>5</trackNum>
-            <location>U:\Shared\Music\Lacuna%20Coil%20-%20(1997)%20Lacuna%20Coil%20-%20Falling.mp3</location>
+            <location>U:\Shared\Music\Lacuna Coil - (1997) Lacuna Coil - Falling.mp3</location>
         </track>
         <track>
             <title>Stars</title>
             <creator>Lacuna Coil</creator>
             <album>Halflife</album>
             <duration>277498</duration>
-            <location>U:\Shared\Music\Lacuna%20Coil%20-%20Half%20life%20-%20Stars.mp3</location>
+            <location>U:\Shared\Music\Lacuna Coil - Half life - Stars.mp3</location>
         </track>
         <track>
             <title>Street Dreams</title>
             <creator>LAKEY INSPIRED</creator>
             <duration>180871</duration>
-            <location>U:\Shared\Music\Lakey%20Inspired%20-%20Street%20Dreams.mp3</location>
+            <location>U:\Shared\Music\Lakey Inspired - Street Dreams.mp3</location>
         </track>
         <track>
             <title>firmament</title>
@@ -648,7 +648,7 @@
             <album>memoirs</album>
             <duration>107337</duration>
             <trackNum>8</trackNum>
-            <location>U:\Shared\Music\Leavv%20-%20(2016)%20Memoirs%20-%20Firmament.mp3</location>
+            <location>U:\Shared\Music\Leavv - (2016) Memoirs - Firmament.mp3</location>
         </track>
         <track>
             <title>Points of Authority</title>
@@ -656,7 +656,7 @@
             <album>Hybrid Theory</album>
             <duration>202370</duration>
             <trackNum>4</trackNum>
-            <location>U:\Shared\Music\Linkin%20Park%20-%20(2000)%20Hybrid%20Theory%20-%20Pista%20Audio%2004.mp3</location>
+            <location>U:\Shared\Music\Linkin Park - (2000) Hybrid Theory - Pista Audio 04.mp3</location>
         </track>
         <track>
             <title>Cure for the itch</title>
@@ -664,7 +664,7 @@
             <album>Hybrid Theory</album>
             <duration>159320</duration>
             <trackNum>11</trackNum>
-            <location>U:\Shared\Music\Linkin%20Park%20-%20(2000)%20Hybrid%20Theory%20-%20Pista%20Audio%2011.mp3</location>
+            <location>U:\Shared\Music\Linkin Park - (2000) Hybrid Theory - Pista Audio 11.mp3</location>
         </track>
         <track>
             <title>Crawling</title>
@@ -672,7 +672,7 @@
             <album>Live In Texas</album>
             <duration>213942</duration>
             <trackNum>10</trackNum>
-            <location>U:\Shared\Music\Linkin%20Park%20-%20(2003)%20Live%20in%20Texas%20-%20Crawling%20-%20EMG%20-%20www.elitemusic.org.mp3</location>
+            <location>U:\Shared\Music\Linkin Park - (2003) Live in Texas - Crawling - EMG - www.elitemusic.org.mp3</location>
         </track>
         <track>
             <title>Ghost</title>
@@ -680,7 +680,7 @@
             <album>Secret Samadhi</album>
             <duration>379800</duration>
             <trackNum>5</trackNum>
-            <location>U:\Shared\Music\Live%20-%20(1997)%20Secret%20Samadhi%20-%20Ghost.m4a</location>
+            <location>U:\Shared\Music\Live - (1997) Secret Samadhi - Ghost.m4a</location>
         </track>
         <track>
             <title>Lakini's Juice</title>
@@ -688,7 +688,7 @@
             <album>Secret Samadhi</album>
             <duration>299266</duration>
             <trackNum>2</trackNum>
-            <location>U:\Shared\Music\Live%20-%20(1997)%20Secret%20Samadhi%20-%20Lakini's%20Juice.m4a</location>
+            <location>U:\Shared\Music\Live - (1997) Secret Samadhi - Lakini's Juice.m4a</location>
         </track>
         <track>
             <title>Meltdown</title>
@@ -696,20 +696,20 @@
             <album>The Distance to Here</album>
             <duration>235128</duration>
             <trackNum>10</trackNum>
-            <location>U:\Shared\Music\Live%20-%20(1999)%20The%20Distance%20to%20Here%20-%20Meltdown.mp3</location>
+            <location>U:\Shared\Music\Live - (1999) The Distance to Here - Meltdown.mp3</location>
         </track>
         <track>
             <title>Amsterdam (Smith Pledger Remix)</title>
             <creator>Luminary</creator>
             <duration>591960</duration>
-            <location>U:\Shared\Music\Luminary%20-%20Amsterdam%20(Smith%20Pledger%20Remix).mp3</location>
+            <location>U:\Shared\Music\Luminary - Amsterdam (Smith Pledger Remix).mp3</location>
         </track>
         <track>
             <title>Visions</title>
             <creator>Marc George</creator>
             <album>Café del Mar Ambient 2</album>
             <duration>392150</duration>
-            <location>U:\Shared\Music\Marc%20George%20-%20Caf%C3%A9%20del%20Mar%20Ambient%202%20-%20Visions.mp3</location>
+            <location>U:\Shared\Music\Marc George - Caf%C3%A9 del Mar Ambient 2 - Visions.mp3</location>
         </track>
         <track>
             <title>If I Was Your Vampire</title>
@@ -717,7 +717,7 @@
             <album>Eat Me, Drink Me</album>
             <duration>356466</duration>
             <trackNum>1</trackNum>
-            <location>U:\Shared\Music\Marylin%20Manson%20-%20(2008)%20Eat%20me%20Drink%20me%20-%20If%20I%20Was%20Your%20Vampire.mp3</location>
+            <location>U:\Shared\Music\Marylin Manson - (2008) Eat me Drink me - If I Was Your Vampire.mp3</location>
         </track>
         <track>
             <title>Killing Strangers</title>
@@ -725,7 +725,7 @@
             <album>The Pale Emperor (Deluxe)</album>
             <duration>336487</duration>
             <trackNum>1</trackNum>
-            <location>U:\Shared\Music\Marylin%20Manson%20-%20(2015)%20The%20Pale%20Emperor%20-%20Killing%20Strangers.m4a</location>
+            <location>U:\Shared\Music\Marylin Manson - (2015) The Pale Emperor - Killing Strangers.m4a</location>
         </track>
         <track>
             <title>Angel</title>
@@ -733,7 +733,7 @@
             <album>Snatch - Soundtrack</album>
             <duration>227134</duration>
             <trackNum>19</trackNum>
-            <location>U:\Shared\Music\Massive%20Attack%20-%20Angel.mp3</location>
+            <location>U:\Shared\Music\Massive Attack - Angel.mp3</location>
         </track>
         <track>
             <title>Carpe diem baby</title>
@@ -741,7 +741,7 @@
             <album>Reload</album>
             <duration>372244</duration>
             <trackNum>7</trackNum>
-            <location>U:\Shared\Music\Metallica%20-%20(1997)%20Reload%20-%20Carpe%20Diem%20Baby.mp3</location>
+            <location>U:\Shared\Music\Metallica - (1997) Reload - Carpe Diem Baby.mp3</location>
         </track>
         <track>
             <title>Fuel</title>
@@ -749,41 +749,41 @@
             <album>Reload</album>
             <duration>269740</duration>
             <trackNum>1</trackNum>
-            <location>U:\Shared\Music\Metallica%20-%20(1997)%20Reload%20-%20Fuel.mp3</location>
+            <location>U:\Shared\Music\Metallica - (1997) Reload - Fuel.mp3</location>
         </track>
         <track>
             <title>Where the wild things are</title>
             <creator>Metallica</creator>
             <album>Reload</album>
             <duration>414197</duration>
-            <location>U:\Shared\Music\Metallica%20-%20(1997)%20Reload%20-%20Where%20The%20Wild%20Things%20Are.mp3</location>
+            <location>U:\Shared\Music\Metallica - (1997) Reload - Where The Wild Things Are.mp3</location>
         </track>
         <track>
             <title>Impro 2016l4l2</title>
             <creator>Metome</creator>
             <duration>256000</duration>
-            <location>U:\Shared\Music\Metome%20-%20Impro%202016l4l2%20(creative%20commons).wav</location>
+            <location>U:\Shared\Music\Metome - Impro 2016l4l2 (creative commons).wav</location>
         </track>
         <track>
             <title>Foregone Destruction</title>
             <creator>Michiel van den Bos</creator>
             <album>Unreal Tournament Original Soundtrack</album>
             <duration>251559</duration>
-            <location>U:\Shared\Music\Michiel%20van%20den%20Bos%20-%20(1999)%20Unreal%20Tournament%20-%20Foregone%20Destruction.mp3</location>
+            <location>U:\Shared\Music\Michiel van den Bos - (1999) Unreal Tournament - Foregone Destruction.mp3</location>
         </track>
         <track>
             <title>Botpack #9 (Phrakture version)</title>
             <creator>Michiel van den Bos</creator>
             <album>Unreal Tournament Fan Remixes</album>
             <duration>320208</duration>
-            <location>U:\Shared\Music\Michiel%20van%20den%20Bos%20-%20Botpack9%20(Phraktures%20Chilled%20Breakbeat%20Redux).mp3</location>
+            <location>U:\Shared\Music\Michiel van den Bos - Botpack9 (Phraktures Chilled Breakbeat Redux).mp3</location>
         </track>
         <track>
             <title>Foregone Destruction (Nexus Tight Bootleg, Drum bass)</title>
             <creator>Michiel van den Bos</creator>
             <album>Unreal Tournament Fan Remixes</album>
             <duration>317910</duration>
-            <location>U:\Shared\Music\Michiel%20van%20den%20Bos%20-%20Foregone%20Destruction%20-%20Nexus%20Tight%20Bootleg%20-%20Drum%20bass.mp3</location>
+            <location>U:\Shared\Music\Michiel van den Bos - Foregone Destruction - Nexus Tight Bootleg - Drum bass.mp3</location>
         </track>
         <track>
             <title>'Round Midnight</title>
@@ -791,7 +791,7 @@
             <album>Greatest Hits [Columbia]</album>
             <duration>357825</duration>
             <trackNum>7</trackNum>
-            <location>U:\Shared\Music\Miles%20Davis%20-%20Greatest%20Hits%20-%20'Round%20Midnight.mp3</location>
+            <location>U:\Shared\Music\Miles Davis - Greatest Hits - 'Round Midnight.mp3</location>
         </track>
         <track>
             <title>My Beautiful Flower</title>
@@ -799,7 +799,7 @@
             <album>Speak &amp; Destroy</album>
             <duration>257985</duration>
             <trackNum>11</trackNum>
-            <location>U:\Shared\Music\My%20Ruin%20-%20My%20Beautiful%20Flower.mp3</location>
+            <location>U:\Shared\Music\My Ruin - My Beautiful Flower.mp3</location>
         </track>
         <track>
             <title>Je t' Oublierai tous les Jours</title>
@@ -807,19 +807,19 @@
             <album>Au Theatre des Sons Imaginaires</album>
             <duration>358504</duration>
             <trackNum>8</trackNum>
-            <location>U:\Shared\Music\Neon%20-%20Je%20t'%20Oublierai%20tous%20les%20Jours.mp3</location>
+            <location>U:\Shared\Music\Neon - Je t' Oublierai tous les Jours.mp3</location>
         </track>
         <track>
             <title>Here Comes The Sun (Francois K. Remix)</title>
             <creator>Nina Simone</creator>
             <duration>301087</duration>
-            <location>U:\Shared\Music\Nina%20Simone%20-%20Here%20Comes%20The%20Sun%20(Francois%20K.%20Remix).mp3</location>
+            <location>U:\Shared\Music\Nina Simone - Here Comes The Sun (Francois K. Remix).mp3</location>
         </track>
         <track>
             <title>Bloodline</title>
             <creator>Northlane</creator>
             <duration>215092</duration>
-            <location>U:\Shared\Music\Northlane%20-%20Bloodline%20%5BOfficial%20Music%20Video%5D.mp3</location>
+            <location>U:\Shared\Music\Northlane - Bloodline %5BOfficial Music Video%5D.mp3</location>
         </track>
         <track>
             <title>Future</title>
@@ -827,7 +827,7 @@
             <album>Paramore</album>
             <duration>472894</duration>
             <trackNum>17</trackNum>
-            <location>U:\Shared\Music\Paramore%20-%20(2013)%20Paramore%20-%20Future.mp3</location>
+            <location>U:\Shared\Music\Paramore - (2013) Paramore - Future.mp3</location>
         </track>
         <track>
             <title>Stuck On You (Failure cover)</title>
@@ -835,14 +835,14 @@
             <album>The Summer Tic EP</album>
             <duration>267311</duration>
             <trackNum>3</trackNum>
-            <location>U:\Shared\Music\Paramore%20-%20Stuck%20on%20you.mp3</location>
+            <location>U:\Shared\Music\Paramore - Stuck on you.mp3</location>
         </track>
         <track>
             <title>Trck 1</title>
             <creator>Paul PinI</creator>
             <album>Pinfluence</album>
             <duration>341263</duration>
-            <location>U:\Shared\Music\Paul%20PinI%20-%20(2014)%20Pinfluence%20-%20Trck%201.mp3</location>
+            <location>U:\Shared\Music\Paul PinI - (2014) Pinfluence - Trck 1.mp3</location>
         </track>
         <track>
             <title>Falling By The Wayside</title>
@@ -850,7 +850,7 @@
             <album>As Far As the Eye Can See</album>
             <duration>253622</duration>
             <trackNum>7</trackNum>
-            <location>U:\Shared\Music\People%20in%20Planes%20-%20(2006)%20As%20Far%20as%20the%20Eye%20Can%20See%20-%20Falling%20By%20The%20Wayside.mp3</location>
+            <location>U:\Shared\Music\People in Planes - (2006) As Far as the Eye Can See - Falling By The Wayside.mp3</location>
         </track>
         <track>
             <title>Come Undone</title>
@@ -858,7 +858,7 @@
             <album>Battle for the Sun</album>
             <duration>276950</duration>
             <trackNum>12</trackNum>
-            <location>U:\Shared\Music\Placebo%20-%20(2009)%20Battle%20for%20the%20Sun%20-%20Come%20Undone.mp3</location>
+            <location>U:\Shared\Music\Placebo - (2009) Battle for the Sun - Come Undone.mp3</location>
         </track>
         <track>
             <title>Devil in the Details</title>
@@ -866,13 +866,13 @@
             <album>Battle for the Sun</album>
             <duration>268460</duration>
             <trackNum>5</trackNum>
-            <location>U:\Shared\Music\Placebo%20-%20(2009)%20Battle%20for%20the%20Sun%20-%20Devil%20in%20the%20Details.mp3</location>
+            <location>U:\Shared\Music\Placebo - (2009) Battle for the Sun - Devil in the Details.mp3</location>
         </track>
         <track>
             <title>Chino Moreno</title>
             <creator>Point Decster</creator>
             <duration>321567</duration>
-            <location>U:\Shared\Music\Point%20Decster%20-%20Chino%20Moreno.mp3</location>
+            <location>U:\Shared\Music\Point Decster - Chino Moreno.mp3</location>
         </track>
         <track>
             <title>Climbatize</title>
@@ -880,7 +880,7 @@
             <album>The Fat of the Land</album>
             <duration>397374</duration>
             <trackNum>9</trackNum>
-            <location>U:\Shared\Music\Prodigy%20-%20(1997)%20The%20Fat%20Of%20The%20Land%20-%20Climbatize.mp3</location>
+            <location>U:\Shared\Music\Prodigy - (1997) The Fat Of The Land - Climbatize.mp3</location>
         </track>
         <track>
             <title>Narayan</title>
@@ -888,7 +888,7 @@
             <album>The Fat of the Land</album>
             <duration>546011</duration>
             <trackNum>7</trackNum>
-            <location>U:\Shared\Music\Prodigy%20-%20(1997)%20The%20Fat%20Of%20The%20Land%20-%20Narayan.mp3</location>
+            <location>U:\Shared\Music\Prodigy - (1997) The Fat Of The Land - Narayan.mp3</location>
         </track>
         <track>
             <title>Pânico</title>
@@ -896,7 +896,7 @@
             <album>Febre Confessional</album>
             <duration>261407</duration>
             <trackNum>6</trackNum>
-            <location>U:\Shared\Music\Rea%C3%A7%C3%A3o%20em%20Cadeia%20-%20(2006)%20Febre%20Confessional%20-%20P%C3%A2nico.mp3</location>
+            <location>U:\Shared\Music\Rea%C3%A7%C3%A3o em Cadeia - (2006) Febre Confessional - P%C3%A2nico.mp3</location>
         </track>
         <track>
             <title>End The World (Acoustic)</title>
@@ -904,7 +904,7 @@
             <album>Apocalypse</album>
             <duration>217443</duration>
             <trackNum>16</trackNum>
-            <location>U:\Shared\Music\Resident%20Evil%20-%20(2004)%20Apocalypse%20Soundtrack%20-%20Cold%20-%20End%20The%20World%20(Acoustic).mp3</location>
+            <location>U:\Shared\Music\Resident Evil - (2004) Apocalypse Soundtrack - Cold - End The World (Acoustic).mp3</location>
         </track>
         <track>
             <title>Us or Them</title>
@@ -912,7 +912,7 @@
             <album>Apocalypse</album>
             <duration>250409</duration>
             <trackNum>3</trackNum>
-            <location>U:\Shared\Music\Resident%20Evil%20-%20(2004)%20Apocalypse%20Soundtrack%20-%20Cure%20-%20Us%20Or%20Them.mp3</location>
+            <location>U:\Shared\Music\Resident Evil - (2004) Apocalypse Soundtrack - Cure - Us Or Them.mp3</location>
         </track>
         <track>
             <title>Asleep On The Frontlines (Appliantz Remix)</title>
@@ -920,7 +920,7 @@
             <album>Extinction</album>
             <duration>333426</duration>
             <trackNum>13</trackNum>
-            <location>U:\Shared\Music\Resident%20Evil%20-%20(2007)%20Extinction%20-%20The%20Bled%20-%20Asleep%20On%20The%20Frontlines%20(Appliantz%20Remix).mp3</location>
+            <location>U:\Shared\Music\Resident Evil - (2007) Extinction - The Bled - Asleep On The Frontlines (Appliantz Remix).mp3</location>
         </track>
         <track>
             <title>Desending</title>
@@ -928,7 +928,7 @@
             <album>What We Reflect</album>
             <duration>205061</duration>
             <trackNum>9</trackNum>
-            <location>U:\Shared\Music\Scars%20Of%20Life%20-%20(2005)%20What%20We%20Reflect%20-%20Desending.mp3</location>
+            <location>U:\Shared\Music\Scars Of Life - (2005) What We Reflect - Desending.mp3</location>
         </track>
         <track>
             <title>4th Of July</title>
@@ -936,7 +936,7 @@
             <album>Superunknown</album>
             <duration>308323</duration>
             <trackNum>13</trackNum>
-            <location>U:\Shared\Music\Soundgarden%20-%20(1994)%20Superunknown%20-%204th%20Of%20July.mp3</location>
+            <location>U:\Shared\Music\Soundgarden - (1994) Superunknown - 4th Of July.mp3</location>
         </track>
         <track>
             <title>Me</title>
@@ -944,7 +944,7 @@
             <album>Dysfunction</album>
             <duration>276062</duration>
             <trackNum>3</trackNum>
-            <location>U:\Shared\Music\Staind%20-%20(1999)%20Dysfunction%20-%20Me.mp3</location>
+            <location>U:\Shared\Music\Staind - (1999) Dysfunction - Me.mp3</location>
         </track>
         <track>
             <title>Next Day Will Never Come</title>
@@ -952,7 +952,7 @@
             <album>Slave Design</album>
             <duration>324360</duration>
             <trackNum>5</trackNum>
-            <location>U:\Shared\Music\Sybreed%20-%20(2004)%20Slave%20Design%20-%20Next%20Day%20Will%20Never%20Come.mp3</location>
+            <location>U:\Shared\Music\Sybreed - (2004) Slave Design - Next Day Will Never Come.mp3</location>
         </track>
         <track>
             <title>So You Melted (com Matthew Wright do "The Getaway Plan")</title>
@@ -960,7 +960,7 @@
             <album>Severed Ties</album>
             <duration>168385</duration>
             <trackNum>7</trackNum>
-            <location>U:\Shared\Music\The%20Amity%20Affliction%20-%20(2008)%20Severed%20Ties%20-%20So%20You%20Melted.mp3</location>
+            <location>U:\Shared\Music\The Amity Affliction - (2008) Severed Ties - So You Melted.mp3</location>
         </track>
         <track>
             <title>Underneath the Stars</title>
@@ -968,7 +968,7 @@
             <album>4:13 Dream</album>
             <duration>376633</duration>
             <trackNum>1</trackNum>
-            <location>U:\Shared\Music\The%20Cure%20-%20Underneath%20the%20stars.mp3</location>
+            <location>U:\Shared\Music\The Cure - Underneath the stars.mp3</location>
         </track>
         <track>
             <title>In Between</title>
@@ -976,20 +976,20 @@
             <album>Home</album>
             <duration>284316</duration>
             <trackNum>2</trackNum>
-            <location>U:\Shared\Music\The%20Gathering%20-%20(2006)%20Home%20-%20In%20Between.mp3</location>
+            <location>U:\Shared\Music\The Gathering - (2006) Home - In Between.mp3</location>
         </track>
         <track>
             <title>Riot</title>
             <creator>XXXTENTACION</creator>
             <duration>78785</duration>
-            <location>U:\Shared\Music\XXXTENTACION%20-%20Riot.mp3</location>
+            <location>U:\Shared\Music\XXXTENTACION - Riot.mp3</location>
         </track>
         <track>
             <title>Cold Heart Women</title>
             <creator>CYGN</creator>
             <album>Body 'N Soul</album>
             <duration>168385</duration>
-            <location>U:\Shared\Music\CYGN%20-%20Cold%20Heart%20Women.mp3</location>
+            <location>U:\Shared\Music\CYGN - Cold Heart Women.mp3</location>
         </track>
         <track>
             <title>The Last Day On Earth</title>
@@ -997,7 +997,7 @@
             <album>Mechanical Animals</album>
             <duration>301191</duration>
             <trackNum>13</trackNum>
-            <location>U:\Shared\Music\Marilyn%20Manson%20-%20(1998)%20Mechanical%20Animals%20-%20The%20Last%20Day%20On%20Earth.mp3</location>
+            <location>U:\Shared\Music\Marilyn Manson - (1998) Mechanical Animals - The Last Day On Earth.mp3</location>
         </track>
         <track>
             <title>Boiler</title>
@@ -1005,7 +1005,7 @@
             <album>Chocolate Starfish And The Hot Dog Flavored Water</album>
             <duration>420336</duration>
             <trackNum>12</trackNum>
-            <location>U:\Shared\Music\Limp%20Bizkit%20-%20(2000)%20Chocolate%20Starfish%20And%20The%20Hot%20Dog%20Flavored%20Water%20-%20Boiler.mp3</location>
+            <location>U:\Shared\Music\Limp Bizkit - (2000) Chocolate Starfish And The Hot Dog Flavored Water - Boiler.mp3</location>
         </track>
         <track>
             <title>Gone Away</title>
@@ -1013,13 +1013,13 @@
             <album>Ixnay On The Hombre</album>
             <duration>268878</duration>
             <trackNum>7</trackNum>
-            <location>U:\Shared\Music\The%20Offspring%20-%20(1997)%20Ixnay%20On%20The%20Hombre%20-%20Gone%20Away.mp3</location>
+            <location>U:\Shared\Music\The Offspring - (1997) Ixnay On The Hombre - Gone Away.mp3</location>
         </track>
         <track>
             <title>Pug Life (feat Chad Bogus)</title>
             <creator>Beatslingers</creator>
             <duration>193410</duration>
-            <location>U:\Shared\Music\Beatslingers%20-%202014%20-%20Pug%20Life%20(Chad%20Bogus).mp3</location>
+            <location>U:\Shared\Music\Beatslingers - 2014 - Pug Life (Chad Bogus).mp3</location>
         </track>
         <track>
             <title>The Spell of Mathematics</title>
@@ -1027,14 +1027,14 @@
             <album>Ohms</album>
             <duration>327575</duration>
             <trackNum>5</trackNum>
-            <location>U:\Shared\Music\Deftones%20-%20(2020)%20Ohms%20-%20The%20Spell%20of%20Mathematics.mp3</location>
+            <location>U:\Shared\Music\Deftones - (2020) Ohms - The Spell of Mathematics.mp3</location>
         </track>
         <track>
             <title>Zen Fusion</title>
             <creator>BluntOne</creator>
             <album>Autumn in Budapest</album>
             <duration>162672</duration>
-            <location>U:\Shared\Music\BluntOne%20-%20(2020)%20Autumn%20in%20Budapest%20-%20Zen%20Fusion.mp3</location>
+            <location>U:\Shared\Music\BluntOne - (2020) Autumn in Budapest - Zen Fusion.mp3</location>
         </track>
         <track>
             <title>Asteroid hermit</title>
@@ -1042,7 +1042,7 @@
             <album>Planet Terror</album>
             <duration>408058</duration>
             <trackNum>2</trackNum>
-            <location>U:\Shared\Music\Black%20Sky%20Giant%20-%20(2021)%20Planet%20Terror%20-%2002%20Asteroid%20hermit.mp3</location>
+            <location>U:\Shared\Music\Black Sky Giant - (2021) Planet Terror - 02 Asteroid hermit.mp3</location>
         </track>
         <track>
             <title>Prosthetics</title>
@@ -1050,7 +1050,7 @@
             <album>Slipknot</album>
             <duration>298422</duration>
             <trackNum>10</trackNum>
-            <location>U:\Shared\Music\Slipknot%20-%20(1999)%20Slipknot%20-%20Prosthetics.mp3</location>
+            <location>U:\Shared\Music\Slipknot - (1999) Slipknot - Prosthetics.mp3</location>
         </track>
         <track>
             <title>Century</title>
@@ -1058,33 +1058,33 @@
             <album>Secret Samadhi</album>
             <duration>202824</duration>
             <trackNum>4</trackNum>
-            <location>U:\Shared\Music\Live%20-%20(1997)%20Secret%20Samadhi%20-%20Century.mp3</location>
+            <location>U:\Shared\Music\Live - (1997) Secret Samadhi - Century.mp3</location>
         </track>
         <track>
             <title>Purrple Cat</title>
             <creator>Cosmic Web</creator>
             <duration>208896</duration>
-            <location>U:\Shared\Music\Cosmic%20Web%20-%20Purrple%20Cat%20%5BNCP%5D.mp3</location>
+            <location>U:\Shared\Music\Cosmic Web - Purrple Cat %5BNCP%5D.mp3</location>
         </track>
         <track>
             <title>Our father Enki</title>
             <creator>Øfdream</creator>
             <album>FR∆CT̅URE 2021</album>
             <duration>206064</duration>
-            <location>U:\Shared\Music\%C3%98fdream%20-%20(2017)%20Our%20father%20Enki.mp3</location>
+            <location>U:\Shared\Music\%C3%98fdream - (2017) Our father Enki.mp3</location>
         </track>
         <track>
             <title>Steps (Kupla Master)</title>
             <creator>dryhope</creator>
             <album>1 AM Study Session</album>
             <duration>150804</duration>
-            <location>U:\Shared\Music\ChilledCow%20Records%20-%20(2020)%201%20AM%20Study%20Session%20-%2028%20dryhope%20-%20Steps%20(Kupla%20Master).mp3</location>
+            <location>U:\Shared\Music\ChilledCow Records - (2020) 1 AM Study Session - 28 dryhope - Steps (Kupla Master).mp3</location>
         </track>
         <track>
             <title>Патрон</title>
             <creator>Miyagi &amp; Andy Panda</creator>
             <duration>225048</duration>
-            <location>U:\Shared\Music\Miyagi%20&amp;%20Andy%20Panda%20-%20(2021)%20-%20%D0%9F%D0%B0%D1%82%D1%80%D0%BE%D0%BD.mp3</location>
+            <location>U:\Shared\Music\Miyagi &amp; Andy Panda - (2021) - %D0%9F%D0%B0%D1%82%D1%80%D0%BE%D0%BD.mp3</location>
         </track>
         <track>
             <title>Vestiges of a hard landing</title>
@@ -1092,13 +1092,13 @@
             <album>Falling Mothership</album>
             <duration>344058</duration>
             <trackNum>1</trackNum>
-            <location>U:\Shared\Music\Black%20Sky%20Giant%20-%20(2021)%20Falling%20Mothership%20-%2001%20Vestiges%20of%20a%20hard%20landing.mp3</location>
+            <location>U:\Shared\Music\Black Sky Giant - (2021) Falling Mothership - 01 Vestiges of a hard landing.mp3</location>
         </track>
         <track>
             <title>Antes</title>
             <creator>Matuê</creator>
             <duration>169152</duration>
-            <location>U:\Shared\Music\Matu%C3%AA%20-%20(2020)%20-%20Antes.mp3</location>
+            <location>U:\Shared\Music\Matu%C3%AA - (2020) - Antes.mp3</location>
         </track>
         <track>
             <title>Ken Tavr</title>
@@ -1106,7 +1106,7 @@
             <album>Confession</album>
             <duration>307957</duration>
             <trackNum>8</trackNum>
-            <location>U:\Shared\Music\Ishome%20-%20(2013)%20Confession%20-%2008%20Ken%20Tavr.mp3</location>
+            <location>U:\Shared\Music\Ishome - (2013) Confession - 08 Ken Tavr.mp3</location>
         </track>
         <track>
             <title>Earth</title>
@@ -1114,7 +1114,7 @@
             <album>Confession</album>
             <duration>336300</duration>
             <trackNum>9</trackNum>
-            <location>U:\Shared\Music\Ishome%20-%20(2013)%20Confession%20-%2009%20Earth.mp3</location>
+            <location>U:\Shared\Music\Ishome - (2013) Confession - 09 Earth.mp3</location>
         </track>
         <track>
             <title>Adam</title>
@@ -1122,20 +1122,20 @@
             <album>Confession</album>
             <duration>250749</duration>
             <trackNum>2</trackNum>
-            <location>U:\Shared\Music\Ishome%20-%20(2013)%20Confession%20-%2002%20Adam.mp3</location>
+            <location>U:\Shared\Music\Ishome - (2013) Confession - 02 Adam.mp3</location>
         </track>
         <track>
             <title>In Blur</title>
             <creator>Deafheaven</creator>
             <album>Infinite Granite</album>
             <duration>327288</duration>
-            <location>U:\Shared\Music\Deafheaven%20-%20(2020)%20Infinite%20Granite%20-%20In%20Blur.mp3</location>
+            <location>U:\Shared\Music\Deafheaven - (2020) Infinite Granite - In Blur.mp3</location>
         </track>
         <track>
             <title>Cry (ft. Grimes)</title>
             <creator>Ashnikko</creator>
             <duration>129576</duration>
-            <location>U:\Shared\Music\Ashnikko%20-%20(2020)%20Cry%20(ft.%20Grimes).mp3</location>
+            <location>U:\Shared\Music\Ashnikko - (2020) Cry (ft. Grimes).mp3</location>
         </track>
         <track>
             <title>Running Up That Hill (A deal with God)</title>
@@ -1143,25 +1143,25 @@
             <album>Hounds of Love</album>
             <duration>296544</duration>
             <trackNum>1</trackNum>
-            <location>U:\Shared\Music\Kate%20Bush%20-%20(1985)%20Hounds%20of%20Love%20-%20Running%20Up%20That%20Hill%20(A%20deal%20with%20God).mp3</location>
+            <location>U:\Shared\Music\Kate Bush - (1985) Hounds of Love - Running Up That Hill (A deal with God).mp3</location>
         </track>
         <track>
             <title>I Never Thought I'd See the Day</title>
             <creator>Sade</creator>
             <duration>254093</duration>
-            <location>U:\Shared\Music\Sade%20-%20I%20Never%20Thought%20I'd%20See%20the%20Day.mp3</location>
+            <location>U:\Shared\Music\Sade - I Never Thought I'd See the Day.mp3</location>
         </track>
         <track>
             <title>Homem De Lata</title>
             <creator>Cynthia Luz</creator>
             <duration>204120</duration>
-            <location>U:\Shared\Music\Cynthia%20Luz%20-%20Homem%20De%20Lata.mp3</location>
+            <location>U:\Shared\Music\Cynthia Luz - Homem De Lata.mp3</location>
         </track>
         <track>
             <title>Paralisou</title>
             <creator>Cynthia Luz</creator>
             <duration>193724</duration>
-            <location>U:\Shared\Music\Cynthia%20Luz%20-%20Paralisou.mp3</location>
+            <location>U:\Shared\Music\Cynthia Luz - Paralisou.mp3</location>
         </track>
         <track>
             <title>Looking Glass</title>
@@ -1169,7 +1169,7 @@
             <album>Oni</album>
             <duration>161097</duration>
             <trackNum>2</trackNum>
-            <location>U:\Shared\Music\Darko%20US%20-%20(2022)%20Oni%20-%20Looking%20Glass.mp3</location>
+            <location>U:\Shared\Music\Darko US - (2022) Oni - Looking Glass.mp3</location>
         </track>
         <track>
             <title>Oni</title>
@@ -1177,75 +1177,75 @@
             <album>Oni</album>
             <duration>139755</duration>
             <trackNum>10</trackNum>
-            <location>U:\Shared\Music\Darko%20US%20-%20(2022)%20Oni%20-%20Oni.mp3</location>
+            <location>U:\Shared\Music\Darko US - (2022) Oni - Oni.mp3</location>
         </track>
         <track>
             <title>Core</title>
             <creator>Neronus</creator>
             <album>Blassed Tapes</album>
             <duration>168202</duration>
-            <location>U:\Shared\Music\Neronus%20-%20(2020)%20Blassed%20Tapes%20-%20Core.mp3</location>
+            <location>U:\Shared\Music\Neronus - (2020) Blassed Tapes - Core.mp3</location>
         </track>
         <track>
             <title>Overdose</title>
             <creator>Neronus</creator>
             <album>Reason to Exist </album>
             <duration>168071</duration>
-            <location>U:\Shared\Music\Neronus%20-%20(2021)%20Reason%20to%20Exist%20-%20Overdose.mp3</location>
+            <location>U:\Shared\Music\Neronus - (2021) Reason to Exist - Overdose.mp3</location>
         </track>
         <track>
             <title>After Dark</title>
             <creator>Mr. Kitty</creator>
             <album>Time</album>
             <duration>259239</duration>
-            <location>U:\Shared\Music\Mr.%20Kitty%20-%20(2014)%20Time%20-%20After%20Dark.mp3</location>
+            <location>U:\Shared\Music\Mr. Kitty - (2014) Time - After Dark.mp3</location>
         </track>
         <track>
             <title>Holier</title>
             <creator>††† (Crosses)</creator>
             <duration>236800</duration>
-            <location>U:\Shared\Music\Crosses%20-%20(2022)%20xxxxxx%20-%20Holier.mp3</location>
+            <location>U:\Shared\Music\Crosses - (2022) xxxxxx - Holier.mp3</location>
         </track>
         <track>
             <title>Gotti</title>
             <creator>6ix9ine</creator>
             <album>Unknown</album>
             <duration>167471</duration>
-            <location>U:\Shared\Music\6ix9ine%20-%20Gotti.mp3</location>
+            <location>U:\Shared\Music\6ix9ine - Gotti.mp3</location>
         </track>
         <track>
             <title>Sober</title>
             <creator>Tool</creator>
             <album>Undertow</album>
             <duration>308480</duration>
-            <location>U:\Shared\Music\Tool%20-%20(1993)%20Undertow%20-%20Sober.mp3</location>
+            <location>U:\Shared\Music\Tool - (1993) Undertow - Sober.mp3</location>
         </track>
         <track>
             <title>Wonderwall</title>
             <creator>Oasis</creator>
             <duration>258821</duration>
-            <location>U:\Shared\Music\Oasis%20-%201995%20-%20xxxxxxxxxxxx%20-%20Wonderwall.mp3</location>
+            <location>U:\Shared\Music\Oasis - 1995 - xxxxxxxxxxxx - Wonderwall.mp3</location>
         </track>
         <track>
             <title>Now</title>
             <creator>xNOMADx</creator>
             <album>Demo</album>
             <duration>217416</duration>
-            <location>U:\Shared\Music\xNomadx%20-%20(2023)%20Demo%20-%20Now.mp3</location>
+            <location>U:\Shared\Music\xNomadx - (2023) Demo - Now.mp3</location>
         </track>
         <track>
             <title>...And the Cat Turned to Smoke</title>
             <creator>Orchid </creator>
             <album>Dance Tonight! Revolution Tomorrow!</album>
             <duration>316392</duration>
-            <location>U:\Shared\Music\Orchid%20-%20(2000)%20Dance%20Tonight%20Revolution%20Tomorrow%20-%20And%20the%20Cat%20Turned%20to%20Smoke.mp3</location>
+            <location>U:\Shared\Music\Orchid - (2000) Dance Tonight Revolution Tomorrow - And the Cat Turned to Smoke.mp3</location>
         </track>
         <track>
             <title>Desire</title>
             <creator>Meg Myers</creator>
             <album>Make a Shadow</album>
             <duration>285072</duration>
-            <location>U:\Shared\Music\Meg%20Myers%20-%20(2014)%20Make%20a%20Shadow%20-%20Desire.mp3</location>
+            <location>U:\Shared\Music\Meg Myers - (2014) Make a Shadow - Desire.mp3</location>
         </track>
         <track>
             <title>The Summoning</title>
@@ -1253,19 +1253,19 @@
             <album>Take Me Back To Eden</album>
             <duration>397740</duration>
             <trackNum>2</trackNum>
-            <location>U:\Shared\Music\Sleep%20Token%20-%20(2023)%20Take%20Me%20Back%20To%20Eden%20-%20The%20Summoning.mp3</location>
+            <location>U:\Shared\Music\Sleep Token - (2023) Take Me Back To Eden - The Summoning.mp3</location>
         </track>
         <track>
             <title>Venger (James Kent)</title>
             <creator>A. Yarmak</creator>
             <duration>272712</duration>
-            <location>U:\Shared\Music\A.%20Yarmak%20-%202019%20-%20Venger%20(James%20Kent).mp3</location>
+            <location>U:\Shared\Music\A. Yarmak - 2019 - Venger (James Kent).mp3</location>
         </track>
         <track>
             <title>Gravura</title>
             <creator>Franktuary</creator>
             <duration>210504</duration>
-            <location>U:\Shared\Music\Franktuary%20-%202020%20-%20Gravura.mp3</location>
+            <location>U:\Shared\Music\Franktuary - 2020 - Gravura.mp3</location>
         </track>
         <track>
             <title>Pull My Heart Out</title>
@@ -1273,14 +1273,14 @@
             <album>Revival</album>
             <duration>215745</duration>
             <trackNum>11</trackNum>
-            <location>U:\Shared\Music\Light%20The%20Torch%20-%20(2018)%20Revival%20-%2011%20Pull%20My%20Heart%20Out.mp3</location>
+            <location>U:\Shared\Music\Light The Torch - (2018) Revival - 11 Pull My Heart Out.mp3</location>
         </track>
         <track>
             <title>Paper Lung</title>
             <creator>Underoath</creator>
             <album>Ø (Disambiguation)</album>
             <duration>251533</duration>
-            <location>U:\Shared\Music\Underoath%20-%20(2010)%20O%20(Disambiguation)%20-%20Paper%20Lung.mp3</location>
+            <location>U:\Shared\Music\Underoath - (2010) O (Disambiguation) - Paper Lung.mp3</location>
         </track>
         <track>
             <title>Grains</title>
@@ -1288,14 +1288,14 @@
             <album>Migration</album>
             <duration>268956</duration>
             <trackNum>4</trackNum>
-            <location>U:\Shared\Music\Bonobo%20-%20(2017)%20Migration%20-%20Grains.mp3</location>
+            <location>U:\Shared\Music\Bonobo - (2017) Migration - Grains.mp3</location>
         </track>
         <track>
             <title>Insônia (feat. Luccas Carlos)</title>
             <creator>Cynthia Luz</creator>
             <album>Ciclo Vicioso</album>
             <duration>210504</duration>
-            <location>U:\Shared\Music\Cynthia%20Luz%20-%20(2024)%20Ciclo%20Vicioso%20-%20Ins%C3%B4nia.mp3</location>
+            <location>U:\Shared\Music\Cynthia Luz - (2024) Ciclo Vicioso - Ins%C3%B4nia.mp3</location>
         </track>
         <track>
             <title>Lowest In Me</title>
@@ -1303,7 +1303,7 @@
             <album>Confessions Of The Fallen</album>
             <duration>190014</duration>
             <trackNum>1</trackNum>
-            <location>U:\Shared\Music\Staind%20-%20(2023)%20Confessions%20Of%20The%20Fallen%20-%2001.%20Lowest%20In%20Me.mp3</location>
+            <location>U:\Shared\Music\Staind - (2023) Confessions Of The Fallen - 01. Lowest In Me.mp3</location>
         </track>
     </trackList>
 </playlist>

@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <playlist xmlns="http://xspf.org/ns/0/" version="1">
     <trackList>
         <track>
@@ -6,13 +6,13 @@
             <creator>Mike and the Mechanics</creator>
             <album>Beggar on a Beach of Gold</album>
             <duration>212009</duration>
-            <location>U:\Shared\Music\Mike%20&amp;%20The%20Mechanics%20-%20Over%20my%20shoulder.mp3</location>
+            <location>U:\Shared\Music\Mike &amp; The Mechanics - Over my shoulder.mp3</location>
         </track>
         <track>
             <title>Obrigado, Patrão Velho</title>
             <creator>Os Serranos</creator>
             <duration>210192</duration>
-            <location>U:\Shared\Music\patr%C3%A3o%20velho,%20muito%20obrigado%20(256%20kbps).mp3</location>
+            <location>U:\Shared\Music\patr%C3%A3o velho, muito obrigado (256 kbps).mp3</location>
         </track>
     </trackList>
 </playlist>

@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <playlist xmlns="http://xspf.org/ns/0/" version="1">
     <trackList>
         <track>
@@ -7,7 +7,7 @@
             <album>Unstable</album>
             <duration>202501</duration>
             <trackNum>11</trackNum>
-            <location>U:\Shared\Music\Adema%20-%20(2003)%20Unstable%20-%20Betray.mp3</location>
+            <location>U:\Shared\Music\Adema - (2003) Unstable - Betray.mp3</location>
         </track>
         <track>
             <title>Planets</title>
@@ -15,7 +15,7 @@
             <album>Planets</album>
             <duration>238106</duration>
             <trackNum>5</trackNum>
-            <location>U:\Shared\Music\Adema%20-%20(2005)%20Planets%20-%20Planets.mp3</location>
+            <location>U:\Shared\Music\Adema - (2005) Planets - Planets.mp3</location>
         </track>
         <track>
             <title>Brand New thing</title>
@@ -23,7 +23,7 @@
             <album>Kill The Headlights</album>
             <duration>223451</duration>
             <trackNum>2</trackNum>
-            <location>U:\Shared\Music\Adema%20-%20(2007)%20Kill%20The%20Headlights%20-%20Brand%20New%20Thing.mp3</location>
+            <location>U:\Shared\Music\Adema - (2007) Kill The Headlights - Brand New Thing.mp3</location>
         </track>
         <track>
             <title>Cold And Jaded</title>
@@ -31,7 +31,7 @@
             <album>Kill The Headlights</album>
             <duration>215719</duration>
             <trackNum>1</trackNum>
-            <location>U:\Shared\Music\Adema%20-%20(2007)%20Kill%20The%20Headlights%20-%20Cold%20And%20Jaded.mp3</location>
+            <location>U:\Shared\Music\Adema - (2007) Kill The Headlights - Cold And Jaded.mp3</location>
         </track>
         <track>
             <title>Open Till Midnight</title>
@@ -39,7 +39,7 @@
             <album>Kill The Headlights</album>
             <duration>226324</duration>
             <trackNum>3</trackNum>
-            <location>U:\Shared\Music\Adema%20-%20(2007)%20Kill%20The%20Headlights%20-%20Open%20Till%20Midnight.mp3</location>
+            <location>U:\Shared\Music\Adema - (2007) Kill The Headlights - Open Till Midnight.mp3</location>
         </track>
         <track>
             <title>Display Your Hate</title>
@@ -47,7 +47,7 @@
             <album>Enslaved By Slave</album>
             <duration>244845</duration>
             <trackNum>4</trackNum>
-            <location>U:\Shared\Music\Amnezia%20-%20(2006)%20Enslaved%20by%20Slave%20-%20Display%20Your%20Hate.mp3</location>
+            <location>U:\Shared\Music\Amnezia - (2006) Enslaved by Slave - Display Your Hate.mp3</location>
         </track>
         <track>
             <title>Dope</title>
@@ -55,14 +55,14 @@
             <album>Enslaved By Slave</album>
             <duration>265404</duration>
             <trackNum>6</trackNum>
-            <location>U:\Shared\Music\Amnezia%20-%20(2006)%20Enslaved%20by%20Slave%20-%20Dope.mp3</location>
+            <location>U:\Shared\Music\Amnezia - (2006) Enslaved by Slave - Dope.mp3</location>
         </track>
         <track>
             <title>Death In Fire</title>
             <creator>Amon Amarth</creator>
             <album>Versus The World</album>
             <duration>294243</duration>
-            <location>U:\Shared\Music\Amon%20Amarth%20-%20(2002)%20Versus%20The%20World%20-%20Death%20In%20Fire.mp3</location>
+            <location>U:\Shared\Music\Amon Amarth - (2002) Versus The World - Death In Fire.mp3</location>
         </track>
         <track>
             <title>Tattered Banners And Bloody Flags</title>
@@ -70,7 +70,7 @@
             <album>Twilight Of The Thunder God</album>
             <duration>270106</duration>
             <trackNum>6</trackNum>
-            <location>U:\Shared\Music\Amon%20Amarth%20-%20(2008)%20Twilight%20Of%20The%20Thunder%20God%20-%20tattered_banners_and_bloody_flags.mp3</location>
+            <location>U:\Shared\Music\Amon Amarth - (2008) Twilight Of The Thunder God - tattered_banners_and_bloody_flags.mp3</location>
         </track>
         <track>
             <title>94 Hours</title>
@@ -78,7 +78,7 @@
             <album>Frail Words Collapse</album>
             <duration>190746</duration>
             <trackNum>1</trackNum>
-            <location>U:\Shared\Music\As%20I%20Lay%20Dying%20-%20(2003)%20Frail%20Words%20Collapse%20-%2094%20Hours.mp3</location>
+            <location>U:\Shared\Music\As I Lay Dying - (2003) Frail Words Collapse - 94 Hours.mp3</location>
         </track>
         <track>
             <title>Parallels</title>
@@ -86,7 +86,7 @@
             <album>The Powerless Rise</album>
             <duration>297480</duration>
             <trackNum>4</trackNum>
-            <location>U:\Shared\Music\As%20I%20Lay%20Dying%20-%20(2010)%20The%20Powerless%20Rise%20-%20Parallels.mp3</location>
+            <location>U:\Shared\Music\As I Lay Dying - (2010) The Powerless Rise - Parallels.mp3</location>
         </track>
         <track>
             <title>Stick Stickly</title>
@@ -94,7 +94,7 @@
             <album>Someday Came Suddenly</album>
             <duration>202971</duration>
             <trackNum>2</trackNum>
-            <location>U:\Shared\Music\Attack%20Attack%20-%20Stick%20Stickly.mp3</location>
+            <location>U:\Shared\Music\Attack Attack - Stick Stickly.mp3</location>
         </track>
         <track>
             <title>I gotta feeling</title>
@@ -102,7 +102,7 @@
             <album>The E.N.D.</album>
             <duration>289175</duration>
             <trackNum>5</trackNum>
-            <location>U:\Shared\Music\Black%20Eyed%20Peas%20-%20(2009)%20The%20E.N.D.%20-%20I%20gotta%20feeling.mp3</location>
+            <location>U:\Shared\Music\Black Eyed Peas - (2009) The E.N.D. - I gotta feeling.mp3</location>
         </track>
         <track>
             <title>Meet me halfway</title>
@@ -110,7 +110,7 @@
             <album>The E.N.D.</album>
             <duration>284421</duration>
             <trackNum>3</trackNum>
-            <location>U:\Shared\Music\Black%20Eyed%20Peas%20-%20(2009)%20The%20E.N.D.%20-%20Meet%20me%20halfway.mp3</location>
+            <location>U:\Shared\Music\Black Eyed Peas - (2009) The E.N.D. - Meet me halfway.mp3</location>
         </track>
         <track>
             <title>Rock that body</title>
@@ -118,7 +118,7 @@
             <album>The E.N.D.</album>
             <duration>268904</duration>
             <trackNum>2</trackNum>
-            <location>U:\Shared\Music\Black%20Eyed%20Peas%20-%20(2009)%20The%20E.N.D.%20-%20Rock%20that%20body.mp3</location>
+            <location>U:\Shared\Music\Black Eyed Peas - (2009) The E.N.D. - Rock that body.mp3</location>
         </track>
         <track>
             <title>The Cure (sunshine mix)</title>
@@ -126,21 +126,21 @@
             <album>Volumen Nueve</album>
             <duration>334576</duration>
             <trackNum>6</trackNum>
-            <location>U:\Shared\Music\Caf%C3%A9%20del%20mar%20-%20(2002)%20Volumen%20Nueve%20-%20The%20Cure%20(sunshine%20mix).mp3</location>
+            <location>U:\Shared\Music\Caf%C3%A9 del mar - (2002) Volumen Nueve - The Cure (sunshine mix).mp3</location>
         </track>
         <track>
             <title>Lazy summer days</title>
             <creator>Café Del Mar</creator>
             <album>Volumen Doce</album>
             <duration>321697</duration>
-            <location>U:\Shared\Music\Caf%C3%A9%20del%20mar%20-%20(2005)%20Volumen%20Doce%20-%20lazy_summer_days.mp3</location>
+            <location>U:\Shared\Music\Caf%C3%A9 del mar - (2005) Volumen Doce - lazy_summer_days.mp3</location>
         </track>
         <track>
             <title>Looking down</title>
             <creator>Friction</creator>
             <album>Volumen Doce</album>
             <duration>283742</duration>
-            <location>U:\Shared\Music\Caf%C3%A9%20del%20mar%20-%20(2005)%20Volumen%20Doce%20-%20looking_down.mp3</location>
+            <location>U:\Shared\Music\Caf%C3%A9 del mar - (2005) Volumen Doce - looking_down.mp3</location>
         </track>
         <track>
             <title>Be Myself</title>
@@ -148,7 +148,7 @@
             <album>Ritmo, Ritual e Responsa</album>
             <duration>273841</duration>
             <trackNum>5</trackNum>
-            <location>U:\Shared\Music\Charlie%20Brown%20Jr.%20-%20(2007)%20Ritmo,%20Ritual%20E%20Responsa%20-%20Be%20Myself.MP3</location>
+            <location>U:\Shared\Music\Charlie Brown Jr. - (2007) Ritmo, Ritual E Responsa - Be Myself.MP3</location>
         </track>
         <track>
             <title>Não Viva em Vão</title>
@@ -156,7 +156,7 @@
             <album>Ritmo, Ritual e Responsa</album>
             <duration>234553</duration>
             <trackNum>3</trackNum>
-            <location>U:\Shared\Music\Charlie%20Brown%20Jr.%20-%20(2007)%20Ritmo,%20Ritual%20E%20Responsa%20-%20N%C3%A3o%20Viva%20Em%20V%C3%A3o.mp3</location>
+            <location>U:\Shared\Music\Charlie Brown Jr. - (2007) Ritmo, Ritual E Responsa - N%C3%A3o Viva Em V%C3%A3o.mp3</location>
         </track>
         <track>
             <title>O Universo a Nosso Favor</title>
@@ -164,7 +164,7 @@
             <album>Ritmo, Ritual e Responsa</album>
             <duration>262478</duration>
             <trackNum>8</trackNum>
-            <location>U:\Shared\Music\Charlie%20Brown%20Jr.%20-%20(2007)%20Ritmo,%20Ritual%20E%20Responsa%20-%20O%20Universo%20a%20Nosso%20Favor.mp3</location>
+            <location>U:\Shared\Music\Charlie Brown Jr. - (2007) Ritmo, Ritual E Responsa - O Universo a Nosso Favor.mp3</location>
         </track>
         <track>
             <title>Skateboard Amor Eterno (c/ Sacramento MC's)</title>
@@ -172,7 +172,7 @@
             <album>Ritmo, Ritual e Responsa</album>
             <duration>234292</duration>
             <trackNum>20</trackNum>
-            <location>U:\Shared\Music\Charlie%20Brown%20Jr.%20-%20(2007)%20Ritmo,%20Ritual%20E%20Responsa%20-%20Skateboard%20Amor%20Eterno%20Feat.%20Sacramento%20MC's.MP3</location>
+            <location>U:\Shared\Music\Charlie Brown Jr. - (2007) Ritmo, Ritual E Responsa - Skateboard Amor Eterno Feat. Sacramento MC's.MP3</location>
         </track>
         <track>
             <title>Vida De Magnata (c/ João Gordo)</title>
@@ -180,7 +180,7 @@
             <album>Ritmo, Ritual e Responsa</album>
             <duration>164519</duration>
             <trackNum>14</trackNum>
-            <location>U:\Shared\Music\Charlie%20Brown%20Jr.%20-%20(2007)%20Ritmo,%20Ritual%20E%20Responsa%20-%20Vida%20De%20Magnata%20.MP3</location>
+            <location>U:\Shared\Music\Charlie Brown Jr. - (2007) Ritmo, Ritual E Responsa - Vida De Magnata .MP3</location>
         </track>
         <track>
             <title>Eu quero é que se foda</title>
@@ -188,7 +188,7 @@
             <album>Fulminant</album>
             <duration>167967</duration>
             <trackNum>10</trackNum>
-            <location>U:\Shared\Music\Claustrofobia%20-%20(2005)%20Fulminant%20-%20Eu%20Quero%20Que%20Se%20Foda.mp3</location>
+            <location>U:\Shared\Music\Claustrofobia - (2005) Fulminant - Eu Quero Que Se Foda.mp3</location>
         </track>
         <track>
             <title>It's All Good</title>
@@ -196,7 +196,7 @@
             <album>13 Ways to Bleed on Stage</album>
             <duration>223059</duration>
             <trackNum>6</trackNum>
-            <location>U:\Shared\Music\Cold%20-%20(2000)%2013%20Ways%20to%20Bleed%20on%20Stage%20-%20It's%20All%20Good.mp3</location>
+            <location>U:\Shared\Music\Cold - (2000) 13 Ways to Bleed on Stage - It's All Good.mp3</location>
         </track>
         <track>
             <title>When Girls Telephone Boys</title>
@@ -204,7 +204,7 @@
             <album>Deftones</album>
             <duration>276480</duration>
             <trackNum>6</trackNum>
-            <location>U:\Shared\Music\Deftones%20-%20(2003)%20Deftones%20-%20When%20Girls%20Telephone%20Boys.mp3</location>
+            <location>U:\Shared\Music\Deftones - (2003) Deftones - When Girls Telephone Boys.mp3</location>
         </track>
         <track>
             <title>Clouds Over California</title>
@@ -212,7 +212,7 @@
             <album>The Last Kind Words</album>
             <duration>249913</duration>
             <trackNum>2</trackNum>
-            <location>U:\Shared\Music\DevilDriver%20-%20Clouds%20Over%20California.mp3</location>
+            <location>U:\Shared\Music\DevilDriver - Clouds Over California.mp3</location>
         </track>
         <track>
             <title>Head Over Heels</title>
@@ -220,7 +220,7 @@
             <album>Donnie Darko: Soundtrack &amp; Score</album>
             <duration>256653</duration>
             <trackNum>6</trackNum>
-            <location>U:\Shared\Music\Donnie%20Darko%20-%20(2002)%20Soundtrack%20&amp;%20Score%20-%20Head%20Over%20Heels%20(Tears%20for%20Fears).mp3</location>
+            <location>U:\Shared\Music\Donnie Darko - (2002) Soundtrack &amp; Score - Head Over Heels (Tears for Fears).mp3</location>
         </track>
         <track>
             <title>Mad World</title>
@@ -228,7 +228,7 @@
             <album>Donnie Darko: Soundtrack &amp; Score</album>
             <duration>183118</duration>
             <trackNum>5</trackNum>
-            <location>U:\Shared\Music\Donnie%20Darko%20-%20(2002)%20Soundtrack%20&amp;%20Score%20-%20Mad%20World%20(Michael%20Andrews%20&amp;%20Gary%20Jules).mp3</location>
+            <location>U:\Shared\Music\Donnie Darko - (2002) Soundtrack &amp; Score - Mad World (Michael Andrews &amp; Gary Jules).mp3</location>
         </track>
         <track>
             <title>The Killing Moon</title>
@@ -236,7 +236,7 @@
             <album>Donnie Darko: Soundtrack &amp; Score</album>
             <duration>355291</duration>
             <trackNum>4</trackNum>
-            <location>U:\Shared\Music\Donnie%20Darko%20-%20(2002)%20Soundtrack%20&amp;%20Score%20-%20The%20Killing%20Moon%20(Echo%20&amp;%20the%20Bunnymen).mp3</location>
+            <location>U:\Shared\Music\Donnie Darko - (2002) Soundtrack &amp; Score - The Killing Moon (Echo &amp; the Bunnymen).mp3</location>
         </track>
         <track>
             <title>Under the Milky Way</title>
@@ -244,14 +244,14 @@
             <album>Donnie Darko: Soundtrack &amp; Score</album>
             <duration>298318</duration>
             <trackNum>7</trackNum>
-            <location>U:\Shared\Music\Donnie%20Darko%20-%20(2002)%20Soundtrack%20&amp;%20Score%20-%20Under%20the%20Milky%20Way%20(The%20Church).mp3</location>
+            <location>U:\Shared\Music\Donnie Darko - (2002) Soundtrack &amp; Score - Under the Milky Way (The Church).mp3</location>
         </track>
         <track>
             <title>Riders On The Storm</title>
             <creator>The Doors</creator>
             <album>The Best Of</album>
             <duration>431020</duration>
-            <location>U:\Shared\Music\Doors%20-%20Riders%20on%20the%20Storm.mp3</location>
+            <location>U:\Shared\Music\Doors - Riders on the Storm.mp3</location>
         </track>
         <track>
             <title>Deathcar</title>
@@ -259,7 +259,7 @@
             <album>One Day Son, This Will All Be Yours</album>
             <duration>238158</duration>
             <trackNum>5</trackNum>
-            <location>U:\Shared\Music\Fightstar%20-%20(2007)%20One%20day%20son,%20this%20will%20all%20be%20yours%20-%20Deathcar.mp3</location>
+            <location>U:\Shared\Music\Fightstar - (2007) One day son, this will all be yours - Deathcar.mp3</location>
         </track>
         <track>
             <title>Starting Over</title>
@@ -267,7 +267,7 @@
             <album>Killswitch Engage</album>
             <duration>233299</duration>
             <trackNum>2</trackNum>
-            <location>U:\Shared\Music\Killswitch%20Engage%20-%20(2009)%20Killswitch%20Engage%20II%20-%20Starting_over.mp3</location>
+            <location>U:\Shared\Music\Killswitch Engage - (2009) Killswitch Engage II - Starting_over.mp3</location>
         </track>
         <track>
             <title>The Return</title>
@@ -275,7 +275,7 @@
             <album>Killswitch Engage</album>
             <duration>270942</duration>
             <trackNum>5</trackNum>
-            <location>U:\Shared\Music\Killswitch%20Engage%20-%20(2009)%20Killswitch%20Engage%20II%20-%20The_return.mp3</location>
+            <location>U:\Shared\Music\Killswitch Engage - (2009) Killswitch Engage II - The_return.mp3</location>
         </track>
         <track>
             <title>Devoted</title>
@@ -283,7 +283,7 @@
             <album>Karmacode</album>
             <duration>232777</duration>
             <trackNum>5</trackNum>
-            <location>U:\Shared\Music\Lacuna%20Coil%20-%20(2006)%20Karmacode%20-%20Devoted.mp3</location>
+            <location>U:\Shared\Music\Lacuna Coil - (2006) Karmacode - Devoted.mp3</location>
         </track>
         <track>
             <title>Enjoy The Silence (Depeche Mode cover)</title>
@@ -291,14 +291,14 @@
             <album>Karmacode</album>
             <duration>245629</duration>
             <trackNum>13</trackNum>
-            <location>U:\Shared\Music\Lacuna%20Coil%20-%20(2006)%20Karmacode%20-%20Enjoy%20the%20Silence%20(Depeche%20Mode%20Cover).mp3</location>
+            <location>U:\Shared\Music\Lacuna Coil - (2006) Karmacode - Enjoy the Silence (Depeche Mode Cover).mp3</location>
         </track>
         <track>
             <title>Lollipop</title>
             <creator>Lil Wayne</creator>
             <duration>303751</duration>
             <trackNum>4</trackNum>
-            <location>U:\Shared\Music\Lil%20Wayne%20-%20Lollipop.mp3</location>
+            <location>U:\Shared\Music\Lil Wayne - Lollipop.mp3</location>
         </track>
         <track>
             <title>Points Of Authority/99 Problem (com Jay-Z)</title>
@@ -306,7 +306,7 @@
             <album>Collision Course</album>
             <duration>295888</duration>
             <trackNum>6</trackNum>
-            <location>U:\Shared\Music\Linkin%20Park%20-%20Collision%20Course%20-%20Points%20of%20authority,%2099%20problems%20and%20one%20step%20closer%20(com%20Jay-Z).mp3</location>
+            <location>U:\Shared\Music\Linkin Park - Collision Course - Points of authority, 99 problems and one step closer (com Jay-Z).mp3</location>
         </track>
         <track>
             <title>One More Time</title>
@@ -314,13 +314,13 @@
             <album>Street Survivors</album>
             <duration>303647</duration>
             <trackNum>3</trackNum>
-            <location>U:\Shared\Music\Lynyrd%20Skynyrd%20-%20(1977)%20Street%20Survivors%20-%20One%20More%20Time.mp3</location>
+            <location>U:\Shared\Music\Lynyrd Skynyrd - (1977) Street Survivors - One More Time.mp3</location>
         </track>
         <track>
             <title>Free Bird</title>
             <creator>Lynyrd Skynyrd</creator>
             <duration>282435</duration>
-            <location>U:\Shared\Music\Lynyrd%20Skynyrd%20-%20Free%20Bird.mp3</location>
+            <location>U:\Shared\Music\Lynyrd Skynyrd - Free Bird.mp3</location>
         </track>
         <track>
             <title>Blood &amp; Thunder</title>
@@ -328,7 +328,7 @@
             <album>Leviathan</album>
             <duration>227265</duration>
             <trackNum>1</trackNum>
-            <location>U:\Shared\Music\Mastodon%20-%20(2004)%20Leviathan%20-%20Blood%20&amp;%20Thunder.mp3</location>
+            <location>U:\Shared\Music\Mastodon - (2004) Leviathan - Blood &amp; Thunder.mp3</location>
         </track>
         <track>
             <title>Oblivion</title>
@@ -336,7 +336,7 @@
             <album>Crack The Skye</album>
             <duration>346618</duration>
             <trackNum>1</trackNum>
-            <location>U:\Shared\Music\Mastodon%20-%20(2009)%20Crack%20the%20Skye%20-%20Oblivion.mp3</location>
+            <location>U:\Shared\Music\Mastodon - (2009) Crack the Skye - Oblivion.mp3</location>
         </track>
         <track>
             <title>Smash lies</title>
@@ -344,7 +344,7 @@
             <album>Light</album>
             <duration>205200</duration>
             <trackNum>1</trackNum>
-            <location>U:\Shared\Music\Matisyahu%20-%20(2009)%20Light%20-%2001%20Faixa%2001.m4a</location>
+            <location>U:\Shared\Music\Matisyahu - (2009) Light - 01 Faixa 01.m4a</location>
         </track>
         <track>
             <title>Motivate</title>
@@ -352,7 +352,7 @@
             <album>Light</album>
             <duration>261133</duration>
             <trackNum>9</trackNum>
-            <location>U:\Shared\Music\Matisyahu%20-%20(2009)%20Light%20-%2009%20Faixa%2009.m4a</location>
+            <location>U:\Shared\Music\Matisyahu - (2009) Light - 09 Faixa 09.m4a</location>
         </track>
         <track>
             <title>Fuel</title>
@@ -360,7 +360,7 @@
             <album>S&amp;M</album>
             <duration>275774</duration>
             <trackNum>6</trackNum>
-            <location>U:\Shared\Music\Metallica%20-%20(1999)%20SeM%20-%20Fuel.mp3</location>
+            <location>U:\Shared\Music\Metallica - (1999) SeM - Fuel.mp3</location>
         </track>
         <track>
             <title>The End of the Line</title>
@@ -368,7 +368,7 @@
             <album>Death Magnetic</album>
             <duration>472450</duration>
             <trackNum>2</trackNum>
-            <location>U:\Shared\Music\Metallica%20-%20(2008)%20Death%20Magnetic%20-%20The%20End%20of%20the%20Line.mp3</location>
+            <location>U:\Shared\Music\Metallica - (2008) Death Magnetic - The End of the Line.mp3</location>
         </track>
         <track>
             <title>Discovery / End Credits</title>
@@ -376,7 +376,7 @@
             <album>Pandorum</album>
             <duration>475115</duration>
             <trackNum>19</trackNum>
-            <location>U:\Shared\Music\Michl%20Britsch%20-%20(2009)%20Pandorum%20Soundtrack%20-%20Discovery%20-%20End%20Credits.mp3</location>
+            <location>U:\Shared\Music\Michl Britsch - (2009) Pandorum Soundtrack - Discovery - End Credits.mp3</location>
         </track>
         <track>
             <title>Just To Get High</title>
@@ -384,7 +384,7 @@
             <album>Dark Horse</album>
             <duration>242259</duration>
             <trackNum>6</trackNum>
-            <location>U:\Shared\Music\Nickelback%20-%20(2008)%20Dark%20Horse%20-%20Just%20To%20Get%20High.mp3</location>
+            <location>U:\Shared\Music\Nickelback - (2008) Dark Horse - Just To Get High.mp3</location>
         </track>
         <track>
             <title>Binge</title>
@@ -392,7 +392,7 @@
             <album>Infest</album>
             <duration>228048</duration>
             <trackNum>10</trackNum>
-            <location>U:\Shared\Music\Papa%20Roach%20-%20(2000)%20Infest%20-%20Binge.mp3</location>
+            <location>U:\Shared\Music\Papa Roach - (2000) Infest - Binge.mp3</location>
         </track>
         <track>
             <title>Broken Home</title>
@@ -400,7 +400,7 @@
             <album>Infest</album>
             <duration>221910</duration>
             <trackNum>3</trackNum>
-            <location>U:\Shared\Music\Papa%20Roach%20-%20(2000)%20Infest%20-%20Broken%20Home.mp3</location>
+            <location>U:\Shared\Music\Papa Roach - (2000) Infest - Broken Home.mp3</location>
         </track>
         <track>
             <title>Infest</title>
@@ -408,7 +408,7 @@
             <album>Infest</album>
             <duration>249077</duration>
             <trackNum>1</trackNum>
-            <location>U:\Shared\Music\Papa%20Roach%20-%20(2000)%20Infest%20-%20Infest.mp3</location>
+            <location>U:\Shared\Music\Papa Roach - (2000) Infest - Infest.mp3</location>
         </track>
         <track>
             <title>Last Resort</title>
@@ -416,7 +416,7 @@
             <album>Infest</album>
             <duration>199967</duration>
             <trackNum>2</trackNum>
-            <location>U:\Shared\Music\Papa%20Roach%20-%20(2000)%20Infest%20-%20Last%20Resort.mp3</location>
+            <location>U:\Shared\Music\Papa Roach - (2000) Infest - Last Resort.mp3</location>
         </track>
         <track>
             <title>Never Enough</title>
@@ -424,7 +424,7 @@
             <album>Infest</album>
             <duration>215510</duration>
             <trackNum>9</trackNum>
-            <location>U:\Shared\Music\Papa%20Roach%20-%20(2000)%20Infest%20-%20Never%20Enough.mp3</location>
+            <location>U:\Shared\Music\Papa Roach - (2000) Infest - Never Enough.mp3</location>
         </track>
         <track>
             <title>Decode</title>
@@ -432,7 +432,7 @@
             <album>Brand New Eyes</album>
             <duration>262373</duration>
             <trackNum>12</trackNum>
-            <location>U:\Shared\Music\Paramore%20-%20(2009)%20Brand%20New%20Eye%20-%20Decode.mp3</location>
+            <location>U:\Shared\Music\Paramore - (2009) Brand New Eye - Decode.mp3</location>
         </track>
         <track>
             <title>Turn It Off</title>
@@ -440,7 +440,7 @@
             <album>Brand New Eyes</album>
             <duration>259735</duration>
             <trackNum>5</trackNum>
-            <location>U:\Shared\Music\Paramore%20-%20(2009)%20Brand%20New%20Eye%20-%20Turn%20If%20Off.mp3</location>
+            <location>U:\Shared\Music\Paramore - (2009) Brand New Eye - Turn If Off.mp3</location>
         </track>
         <track>
             <title>Falling By The Wayside</title>
@@ -448,7 +448,7 @@
             <album>As Far As the Eye Can See</album>
             <duration>253622</duration>
             <trackNum>7</trackNum>
-            <location>U:\Shared\Music\People%20in%20Planes%20-%20(2006)%20As%20Far%20as%20the%20Eye%20Can%20See%20-%20Falling%20By%20The%20Wayside.mp3</location>
+            <location>U:\Shared\Music\People in Planes - (2006) As Far as the Eye Can See - Falling By The Wayside.mp3</location>
         </track>
         <track>
             <title>Flesh And Blood</title>
@@ -456,7 +456,7 @@
             <album>Beyond The Horizon</album>
             <duration>214569</duration>
             <trackNum>6</trackNum>
-            <location>U:\Shared\Music\People%20In%20Planes%20-%20(2008)%20Beyond%20The%20Horizon%20-%20Flesh%20And%20Blood.mp3</location>
+            <location>U:\Shared\Music\People In Planes - (2008) Beyond The Horizon - Flesh And Blood.mp3</location>
         </track>
         <track>
             <title>Last Man Standing</title>
@@ -464,7 +464,7 @@
             <album>Beyond The Horizon</album>
             <duration>266945</duration>
             <trackNum>1</trackNum>
-            <location>U:\Shared\Music\People%20In%20Planes%20-%20(2008)%20Beyond%20The%20Horizon%20-%20Last%20Man%20Standing.mp3</location>
+            <location>U:\Shared\Music\People In Planes - (2008) Beyond The Horizon - Last Man Standing.mp3</location>
         </track>
         <track>
             <title>Pretty Buildings</title>
@@ -472,7 +472,7 @@
             <album>Beyond The Horizon</album>
             <duration>252212</duration>
             <trackNum>4</trackNum>
-            <location>U:\Shared\Music\People%20In%20Planes%20-%20(2008)%20Beyond%20The%20Horizon%20-%20Pretty%20Buildings.mp3</location>
+            <location>U:\Shared\Music\People In Planes - (2008) Beyond The Horizon - Pretty Buildings.mp3</location>
         </track>
         <track>
             <title>Tonight The Sun Will Rise</title>
@@ -480,7 +480,7 @@
             <album>Beyond The Horizon</album>
             <duration>231183</duration>
             <trackNum>9</trackNum>
-            <location>U:\Shared\Music\People%20In%20Planes%20-%20(2008)%20Beyond%20The%20Horizon%20-%20Tonight%20The%20Sun%20Will%20Rise.mp3</location>
+            <location>U:\Shared\Music\People In Planes - (2008) Beyond The Horizon - Tonight The Sun Will Rise.mp3</location>
         </track>
         <track>
             <title>Vampire</title>
@@ -488,7 +488,7 @@
             <album>Beyond The Horizon</album>
             <duration>225593</duration>
             <trackNum>11</trackNum>
-            <location>U:\Shared\Music\People%20In%20Planes%20-%20(2008)%20Beyond%20The%20Horizon%20-%20Vampire.mp3</location>
+            <location>U:\Shared\Music\People In Planes - (2008) Beyond The Horizon - Vampire.mp3</location>
         </track>
         <track>
             <title>End The World (Acoustic)</title>
@@ -496,7 +496,7 @@
             <album>Apocalypse</album>
             <duration>217443</duration>
             <trackNum>16</trackNum>
-            <location>U:\Shared\Music\Resident%20Evil%20-%20(2004)%20Apocalypse%20Soundtrack%20-%20Cold%20-%20End%20The%20World%20(Acoustic).mp3</location>
+            <location>U:\Shared\Music\Resident Evil - (2004) Apocalypse Soundtrack - Cold - End The World (Acoustic).mp3</location>
         </track>
         <track>
             <title>Us or Them</title>
@@ -504,7 +504,7 @@
             <album>Apocalypse</album>
             <duration>250409</duration>
             <trackNum>3</trackNum>
-            <location>U:\Shared\Music\Resident%20Evil%20-%20(2004)%20Apocalypse%20Soundtrack%20-%20Cure%20-%20Us%20Or%20Them.mp3</location>
+            <location>U:\Shared\Music\Resident Evil - (2004) Apocalypse Soundtrack - Cure - Us Or Them.mp3</location>
         </track>
         <track>
             <title>Main Title</title>
@@ -512,7 +512,7 @@
             <album>Extinction</album>
             <duration>49449</duration>
             <trackNum>1</trackNum>
-            <location>U:\Shared\Music\Resident%20Evil%20-%20(2007)%20Extinction%20-%20Charlie%20Clouser%20-%20%20Main%20Title.mp3</location>
+            <location>U:\Shared\Music\Resident Evil - (2007) Extinction - Charlie Clouser -  Main Title.mp3</location>
         </track>
         <track>
             <title>Convoy</title>
@@ -520,7 +520,7 @@
             <album>Extinction</album>
             <duration>43755</duration>
             <trackNum>19</trackNum>
-            <location>U:\Shared\Music\Resident%20Evil%20-%20(2007)%20Extinction%20-%20Charlie%20Clouser%20-%20Convoy.mp3</location>
+            <location>U:\Shared\Music\Resident Evil - (2007) Extinction - Charlie Clouser - Convoy.mp3</location>
         </track>
         <track>
             <title>Scenotaph (DJA Infected Remix)</title>
@@ -528,7 +528,7 @@
             <album>Extinction</album>
             <duration>256783</duration>
             <trackNum>16</trackNum>
-            <location>U:\Shared\Music\Resident%20Evil%20-%20(2007)%20Extinction%20-%20Emanuel%20-%20Scenotaph%20(DJA%20Infected%20Remix).mp3</location>
+            <location>U:\Shared\Music\Resident Evil - (2007) Extinction - Emanuel - Scenotaph (DJA Infected Remix).mp3</location>
         </track>
         <track>
             <title>Asleep On The Frontlines (Appliantz Remix)</title>
@@ -536,13 +536,13 @@
             <album>Extinction</album>
             <duration>333426</duration>
             <trackNum>13</trackNum>
-            <location>U:\Shared\Music\Resident%20Evil%20-%20(2007)%20Extinction%20-%20The%20Bled%20-%20Asleep%20On%20The%20Frontlines%20(Appliantz%20Remix).mp3</location>
+            <location>U:\Shared\Music\Resident Evil - (2007) Extinction - The Bled - Asleep On The Frontlines (Appliantz Remix).mp3</location>
         </track>
         <track>
             <title>Buying Every Word</title>
             <creator>Rewind Yesterday</creator>
             <duration>349753</duration>
-            <location>U:\Shared\Music\Rewind%20Yesterday%20-%20Buying%20Every%20Word.mp3</location>
+            <location>U:\Shared\Music\Rewind Yesterday - Buying Every Word.mp3</location>
         </track>
         <track>
             <title>Under The Milky Way</title>
@@ -550,14 +550,14 @@
             <album>Starfish</album>
             <duration>298579</duration>
             <trackNum>2</trackNum>
-            <location>U:\Shared\Music\The%20Church%20-%20(1988)%20Starfish%20-%20Under%20The%20Milky%20Way.mp3</location>
+            <location>U:\Shared\Music\The Church - (1988) Starfish - Under The Milky Way.mp3</location>
         </track>
         <track>
             <title>Só Rezo</title>
             <creator>NX Zero</creator>
             <album>Sete Chaves</album>
             <duration>286119</duration>
-            <location>U:\Shared\Music\Nx%20Zero%20-%20S%C3%B3%20Rezo.mp3</location>
+            <location>U:\Shared\Music\Nx Zero - S%C3%B3 Rezo.mp3</location>
         </track>
     </trackList>
 </playlist>

@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <playlist xmlns="http://xspf.org/ns/0/" version="1">
     <trackList>
         <track>
@@ -7,7 +7,7 @@
             <album>NFS Underground 2</album>
             <duration>207673</duration>
             <trackNum>2</trackNum>
-            <location>U:\Shared\Music\Capone%20-%20I%20Need%20Speed.mp3</location>
+            <location>U:\Shared\Music\Capone - I Need Speed.mp3</location>
         </track>
         <track>
             <title>Walking In My Shoes</title>
@@ -15,14 +15,14 @@
             <album>Songs Of Faith And Devotion</album>
             <duration>336143</duration>
             <trackNum>2</trackNum>
-            <location>U:\Shared\Music\Depeche%20Mode%20-%20(1993)%20Songs%20Of%20Faith%20And%20Devotion%20-%20Walking%20In%20My%20Shoes.mp3</location>
+            <location>U:\Shared\Music\Depeche Mode - (1993) Songs Of Faith And Devotion - Walking In My Shoes.mp3</location>
         </track>
         <track>
             <title>Theme song</title>
             <creator>Doom 3</creator>
             <album>Doom 3</album>
             <duration>165668</duration>
-            <location>U:\Shared\Music\DooM%203%20Theme%20song.mp3</location>
+            <location>U:\Shared\Music\DooM 3 Theme song.mp3</location>
         </track>
         <track>
             <title>Existence</title>
@@ -30,7 +30,7 @@
             <album>Street Trash</album>
             <duration>241293</duration>
             <trackNum>5</trackNum>
-            <location>U:\Shared\Music\Enhancer%20-%20Existence.mp3</location>
+            <location>U:\Shared\Music\Enhancer - Existence.mp3</location>
         </track>
         <track>
             <title>Going Under</title>
@@ -38,7 +38,7 @@
             <album>Fallen</album>
             <duration>215040</duration>
             <trackNum>1</trackNum>
-            <location>U:\Shared\Music\Evanescence%20-%20(2004)%20-%20Going%20Under.mp3</location>
+            <location>U:\Shared\Music\Evanescence - (2004) - Going Under.mp3</location>
         </track>
         <track>
             <title>My last breath</title>
@@ -46,7 +46,7 @@
             <album>Fallen</album>
             <duration>247405</duration>
             <trackNum>10</trackNum>
-            <location>U:\Shared\Music\Evanescence%20-%20(2004)%20-%20My%20Last%20Breath.mp3</location>
+            <location>U:\Shared\Music\Evanescence - (2004) - My Last Breath.mp3</location>
         </track>
         <track>
             <title>Torniquet (Soul Embraced cover)</title>
@@ -54,7 +54,7 @@
             <album>Fallen</album>
             <duration>278125</duration>
             <trackNum>6</trackNum>
-            <location>U:\Shared\Music\Evanescence%20-%20(2004)%20-%20Torniquet.mp3</location>
+            <location>U:\Shared\Music\Evanescence - (2004) - Torniquet.mp3</location>
         </track>
         <track>
             <title>Bring Me To Life (com Paul McCoy do 12 Stones)</title>
@@ -62,7 +62,7 @@
             <album>Fallen</album>
             <duration>237322</duration>
             <trackNum>2</trackNum>
-            <location>U:\Shared\Music\Evanescence%20-%20Bring%20Me%20To%20Life.mp3</location>
+            <location>U:\Shared\Music\Evanescence - Bring Me To Life.mp3</location>
         </track>
         <track>
             <title>Rose of Sharyn</title>
@@ -70,7 +70,7 @@
             <album>The End Of Heartache</album>
             <duration>225645</duration>
             <trackNum>5</trackNum>
-            <location>U:\Shared\Music\Killswitch%20Engage%20-%20(2004)%20The%20End%20Of%20Heartache%20-%20Rose%20of%20sharyn.mp3</location>
+            <location>U:\Shared\Music\Killswitch Engage - (2004) The End Of Heartache - Rose of sharyn.mp3</location>
         </track>
         <track>
             <title>Tight Rope</title>
@@ -78,14 +78,14 @@
             <album>Comalies</album>
             <duration>255242</duration>
             <trackNum>7</trackNum>
-            <location>U:\Shared\Music\Lacuna%20Coil%20-%20(2002)%20Comalies%20-%20Tight%20Rope.mp3</location>
+            <location>U:\Shared\Music\Lacuna Coil - (2002) Comalies - Tight Rope.mp3</location>
         </track>
         <track>
             <title>Humane</title>
             <creator>Lacuna Coil</creator>
             <album>Comalies</album>
             <duration>252943</duration>
-            <location>U:\Shared\Music\Lacuna%20Coil%20-%20Comalies%20-%20Humane.mp3</location>
+            <location>U:\Shared\Music\Lacuna Coil - Comalies - Humane.mp3</location>
         </track>
         <track>
             <title>Falling Again</title>
@@ -93,14 +93,14 @@
             <album>In a Reverie</album>
             <duration>307200</duration>
             <trackNum>9</trackNum>
-            <location>U:\Shared\Music\Lacuna%20Coil%20-%20Falling%20Again.mp3</location>
+            <location>U:\Shared\Music\Lacuna Coil - Falling Again.mp3</location>
         </track>
         <track>
             <title>Stars</title>
             <creator>Lacuna Coil</creator>
             <album>Halflife</album>
             <duration>277498</duration>
-            <location>U:\Shared\Music\Lacuna%20Coil%20-%20Half%20life%20-%20Stars.mp3</location>
+            <location>U:\Shared\Music\Lacuna Coil - Half life - Stars.mp3</location>
         </track>
         <track>
             <title>My Wings</title>
@@ -108,14 +108,14 @@
             <album>In a Reverie</album>
             <duration>225436</duration>
             <trackNum>4</trackNum>
-            <location>U:\Shared\Music\Lacuna%20Coil%20-%20In%20a%20Reverie%20-%20My%20Wings.mp3</location>
+            <location>U:\Shared\Music\Lacuna Coil - In a Reverie - My Wings.mp3</location>
         </track>
         <track>
             <title>Not Falling</title>
             <creator>Mudvayne</creator>
             <album>The End of All Things to Come</album>
             <duration>243800</duration>
-            <location>U:\Shared\Music\Mudvayne%20-%20(2000)%20L.D.50%20-%20Not%20Falling.mp3</location>
+            <location>U:\Shared\Music\Mudvayne - (2000) L.D.50 - Not Falling.mp3</location>
         </track>
         <track>
             <title>Mercy Severity</title>
@@ -123,14 +123,14 @@
             <album>The End of All Things to Come</album>
             <duration>294582</duration>
             <trackNum>5</trackNum>
-            <location>U:\Shared\Music\Mudvayne%20-%20(2003)%20The%20End%20of%20All%20Things%20to%20Come%20-%20Mercy%20Severity.mp3</location>
+            <location>U:\Shared\Music\Mudvayne - (2003) The End of All Things to Come - Mercy Severity.mp3</location>
         </track>
         <track>
             <title>World So Cold</title>
             <creator>Mudvayne</creator>
             <album>The End of All Things to Come</album>
             <duration>336822</duration>
-            <location>U:\Shared\Music\Mudvayne%20-%20(2003)%20The%20End%20of%20All%20Things%20to%20Come%20-%20World%20So%20Cold.mp3</location>
+            <location>U:\Shared\Music\Mudvayne - (2003) The End of All Things to Come - World So Cold.mp3</location>
         </track>
         <track>
             <title>The End Of Heartache</title>
@@ -138,7 +138,7 @@
             <album>Apocalypse</album>
             <duration>244558</duration>
             <trackNum>6</trackNum>
-            <location>U:\Shared\Music\Resident%20Evil%20-%20(2004)%20Apocalypse%20Soundtrack%20-%20Killswitch%20Engage%20-%20The%20End%20Of%20Heartache.mp3</location>
+            <location>U:\Shared\Music\Resident Evil - (2004) Apocalypse Soundtrack - Killswitch Engage - The End Of Heartache.mp3</location>
         </track>
         <track>
             <title>Swamped</title>
@@ -146,7 +146,7 @@
             <album>Apocalypse</album>
             <duration>239647</duration>
             <trackNum>4</trackNum>
-            <location>U:\Shared\Music\Resident%20Evil%20-%20(2004)%20Apocalypse%20Soundtrack%20-%20Lacuna%20Coil%20-%20Swamped.mp3</location>
+            <location>U:\Shared\Music\Resident Evil - (2004) Apocalypse Soundtrack - Lacuna Coil - Swamped.mp3</location>
         </track>
         <track>
             <title>Before I Forget</title>
@@ -154,7 +154,7 @@
             <album>Vol. 3 : (The Subliminal Verses)</album>
             <duration>278674</duration>
             <trackNum>10</trackNum>
-            <location>U:\Shared\Music\Slipknot%20-%20(2004)%20Vol.%203%20The%20Subliminal%20Verses%20-%20Before%20I%20Forget.mp3</location>
+            <location>U:\Shared\Music\Slipknot - (2004) Vol. 3 The Subliminal Verses - Before I Forget.mp3</location>
         </track>
         <track>
             <title>Duality</title>
@@ -162,7 +162,7 @@
             <album>Vol. 3 : (The Subliminal Verses)</album>
             <duration>252682</duration>
             <trackNum>4</trackNum>
-            <location>U:\Shared\Music\Slipknot%20-%20(2004)%20Vol.%203%20The%20Subliminal%20Verses%20-%20Duality.mp3</location>
+            <location>U:\Shared\Music\Slipknot - (2004) Vol. 3 The Subliminal Verses - Duality.mp3</location>
         </track>
         <track>
             <title>Opium Of The People</title>
@@ -170,7 +170,7 @@
             <album>Vol. 3 : (The Subliminal Verses)</album>
             <duration>192653</duration>
             <trackNum>5</trackNum>
-            <location>U:\Shared\Music\Slipknot%20-%20(2004)%20Vol.%203%20The%20Subliminal%20Verses%20-%20Opium%20Of%20The%20People.mp3</location>
+            <location>U:\Shared\Music\Slipknot - (2004) Vol. 3 The Subliminal Verses - Opium Of The People.mp3</location>
         </track>
         <track>
             <title>The Blister Exists</title>
@@ -178,7 +178,7 @@
             <album>Vol. 3 : (The Subliminal Verses)</album>
             <duration>319503</duration>
             <trackNum>2</trackNum>
-            <location>U:\Shared\Music\Slipknot%20-%20(2004)%20Vol.%203%20The%20Subliminal%20Verses%20-%20The%20Blister%20Exists.mp3</location>
+            <location>U:\Shared\Music\Slipknot - (2004) Vol. 3 The Subliminal Verses - The Blister Exists.mp3</location>
         </track>
         <track>
             <title>The Nameless</title>
@@ -186,7 +186,7 @@
             <album>Vol. 3 : (The Subliminal Verses)</album>
             <duration>268120</duration>
             <trackNum>12</trackNum>
-            <location>U:\Shared\Music\Slipknot%20-%20(2004)%20Vol.%203%20The%20Subliminal%20Verses%20-%20The%20Nameless.mp3</location>
+            <location>U:\Shared\Music\Slipknot - (2004) Vol. 3 The Subliminal Verses - The Nameless.mp3</location>
         </track>
         <track>
             <title>Vermilion</title>
@@ -194,7 +194,7 @@
             <album>Vol. 3 : (The Subliminal Verses)</album>
             <duration>316734</duration>
             <trackNum>8</trackNum>
-            <location>U:\Shared\Music\Slipknot%20-%20(2004)%20Vol.%203%20The%20Subliminal%20Verses%20-%20Vermilion.mp3</location>
+            <location>U:\Shared\Music\Slipknot - (2004) Vol. 3 The Subliminal Verses - Vermilion.mp3</location>
         </track>
     </trackList>
 </playlist>

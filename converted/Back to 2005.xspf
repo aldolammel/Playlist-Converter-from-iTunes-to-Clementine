@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <playlist xmlns="http://xspf.org/ns/0/" version="1">
     <trackList>
         <track>
@@ -7,68 +7,68 @@
             <album>A Snow Capped Romance</album>
             <duration>231627</duration>
             <trackNum>9</trackNum>
-            <location>U:\Shared\Music\36%20Crazyfists%20-%20(2004)%20A%20Snow%20Capped%20Romance%20-%20Installing%20the%20Catheter.mp3</location>
+            <location>U:\Shared\Music\36 Crazyfists - (2004) A Snow Capped Romance - Installing the Catheter.mp3</location>
         </track>
         <track>
             <title>Celice</title>
             <creator>A-HA</creator>
             <duration>209580</duration>
             <trackNum>39</trackNum>
-            <location>U:\Shared\Music\A-HA%20-%20Celice.mp3</location>
+            <location>U:\Shared\Music\A-HA - Celice.mp3</location>
         </track>
         <track>
             <title>Além da Cor</title>
             <creator>Choldra</creator>
             <duration>265534</duration>
-            <location>U:\Shared\Music\Choldra%20-%20Al%C3%A9m%20da%20Cor.mp3</location>
+            <location>U:\Shared\Music\Choldra - Al%C3%A9m da Cor.mp3</location>
         </track>
         <track>
             <title>Casulo</title>
             <creator>Choldra</creator>
             <album>Choldra</album>
             <duration>176587</duration>
-            <location>U:\Shared\Music\Choldra%20-%20Casulo.mp3</location>
+            <location>U:\Shared\Music\Choldra - Casulo.mp3</location>
         </track>
         <track>
             <title>Cold</title>
             <creator>Crossfade</creator>
             <album>Crossfade</album>
             <duration>197485</duration>
-            <location>U:\Shared\Music\Crossfade%20-%20(2004)%20Crossfade%20-%20Cold.mp3</location>
+            <location>U:\Shared\Music\Crossfade - (2004) Crossfade - Cold.mp3</location>
         </track>
         <track>
             <title>Colors</title>
             <creator>Crossfade</creator>
             <album>Crossfade</album>
             <duration>199314</duration>
-            <location>U:\Shared\Music\Crossfade%20-%20(2004)%20Crossfade%20-%20Colors.mp3</location>
+            <location>U:\Shared\Music\Crossfade - (2004) Crossfade - Colors.mp3</location>
         </track>
         <track>
             <title>So Far Away</title>
             <creator>Crossfade</creator>
             <album>Crossfade</album>
             <duration>206288</duration>
-            <location>U:\Shared\Music\Crossfade%20-%20(2004)%20Crossfade%20-%20So%20Far%20Away.mp3</location>
+            <location>U:\Shared\Music\Crossfade - (2004) Crossfade - So Far Away.mp3</location>
         </track>
         <track>
             <title>The Deep End</title>
             <creator>Crossfade</creator>
             <album>Crossfade</album>
             <duration>203676</duration>
-            <location>U:\Shared\Music\Crossfade%20-%20(2004)%20Crossfade%20-%20The%20Deep%20End.mp3</location>
+            <location>U:\Shared\Music\Crossfade - (2004) Crossfade - The Deep End.mp3</location>
         </track>
         <track>
             <title>The Unknown</title>
             <creator>Crossfade</creator>
             <album>Crossfade</album>
             <duration>179200</duration>
-            <location>U:\Shared\Music\Crossfade%20-%20(2004)%20Crossfade%20-%20The%20Unknown.mp3</location>
+            <location>U:\Shared\Music\Crossfade - (2004) Crossfade - The Unknown.mp3</location>
         </track>
         <track>
             <title>Painkiller (Dj Shadow vs Depeche Mode)</title>
             <creator>Depeche Mode</creator>
             <duration>394161</duration>
-            <location>U:\Shared\Music\Depeche%20Mode%20-%20Painkiller%20(Kill%20The%20Pain%20-%20DJ%20Shadow%201998).mp3</location>
+            <location>U:\Shared\Music\Depeche Mode - Painkiller (Kill The Pain - DJ Shadow 1998).mp3</location>
         </track>
         <track>
             <title>Back The Fuck Up</title>
@@ -76,49 +76,49 @@
             <album>Digimortal</album>
             <duration>189100</duration>
             <trackNum>8</trackNum>
-            <location>U:\Shared\Music\Fear%20Factory%20-%20(2001)%20Digimortal%20-%20Back%20The%20Fuck%20Up.mp3</location>
+            <location>U:\Shared\Music\Fear Factory - (2001) Digimortal - Back The Fuck Up.mp3</location>
         </track>
         <track>
             <title>Poison Girl</title>
             <creator>H.I.M.</creator>
             <album>Razorblade Romance</album>
             <duration>230713</duration>
-            <location>U:\Shared\Music\H.I.M.%20-%20Poison%20Girl.mp3</location>
+            <location>U:\Shared\Music\H.I.M. - Poison Girl.mp3</location>
         </track>
         <track>
             <title>Black &amp; White</title>
             <creator>In Flames</creator>
             <album>Reroute to Remain </album>
             <duration>213315</duration>
-            <location>U:\Shared\Music\In%20Flames%20-%20(2002)%20Reroute%20to%20Remain%20-%20Black%20and%20White.mp3</location>
+            <location>U:\Shared\Music\In Flames - (2002) Reroute to Remain - Black and White.mp3</location>
         </track>
         <track>
             <title>Cloud Connected</title>
             <creator>In Flames</creator>
             <album>Reroute to Remain </album>
             <duration>220342</duration>
-            <location>U:\Shared\Music\In%20Flames%20-%20(2002)%20Reroute%20to%20Remain%20-%20Cloud%20Connected.mp3</location>
+            <location>U:\Shared\Music\In Flames - (2002) Reroute to Remain - Cloud Connected.mp3</location>
         </track>
         <track>
             <title>Free Fall</title>
             <creator>In Flames</creator>
             <album>Reroute to Remain </album>
             <duration>238262</duration>
-            <location>U:\Shared\Music\In%20Flames%20-%20(2002)%20Reroute%20to%20Remain%20-%20Free%20Fall.mp3</location>
+            <location>U:\Shared\Music\In Flames - (2002) Reroute to Remain - Free Fall.mp3</location>
         </track>
         <track>
             <title>Minus</title>
             <creator>In Flames</creator>
             <album>Reroute to Remain </album>
             <duration>225593</duration>
-            <location>U:\Shared\Music\In%20Flames%20-%20(2002)%20Reroute%20to%20Remain%20-%20Minus.mp3</location>
+            <location>U:\Shared\Music\In Flames - (2002) Reroute to Remain - Minus.mp3</location>
         </track>
         <track>
             <title>Trigger</title>
             <creator>In Flames</creator>
             <album>Reroute to Remain </album>
             <duration>298657</duration>
-            <location>U:\Shared\Music\In%20Flames%20-%20(2002)%20Reroute%20to%20Remain%20-%20Trigger.mp3</location>
+            <location>U:\Shared\Music\In Flames - (2002) Reroute to Remain - Trigger.mp3</location>
         </track>
         <track>
             <title>Take You On A Cruise</title>
@@ -126,7 +126,7 @@
             <album>Antics</album>
             <duration>294452</duration>
             <trackNum>4</trackNum>
-            <location>U:\Shared\Music\Interpol%20-%20(0000)%20Antics%20-%20Take%20you%20on%20a%20cruise.mp3</location>
+            <location>U:\Shared\Music\Interpol - (0000) Antics - Take you on a cruise.mp3</location>
         </track>
         <track>
             <title>PDA</title>
@@ -134,28 +134,28 @@
             <album>Precipitate EP</album>
             <duration>335124</duration>
             <trackNum>3</trackNum>
-            <location>U:\Shared\Music\Interpol%20-%20(0000)%20Precipitate%20EP%20-%20PDA.mp3</location>
+            <location>U:\Shared\Music\Interpol - (0000) Precipitate EP - PDA.mp3</location>
         </track>
         <track>
             <title>Roland</title>
             <creator>Interpol</creator>
             <album>Turn On The Bright Lights</album>
             <duration>215588</duration>
-            <location>U:\Shared\Music\Interpol%20-%20(2002)%20Turn%20on%20The%20Bright%20Lights%20-%20Roland.mp3</location>
+            <location>U:\Shared\Music\Interpol - (2002) Turn on The Bright Lights - Roland.mp3</location>
         </track>
         <track>
             <title>Untitled</title>
             <creator>Interpol</creator>
             <album>Turn On The Bright Lights</album>
             <duration>236669</duration>
-            <location>U:\Shared\Music\Interpol%20-%20(2002)%20Turn%20on%20The%20Bright%20Lights%20-%20Untitled.mp3</location>
+            <location>U:\Shared\Music\Interpol - (2002) Turn on The Bright Lights - Untitled.mp3</location>
         </track>
         <track>
             <title>Love Hangover</title>
             <creator>Jettricks</creator>
             <album>Remote Control</album>
             <duration>346096</duration>
-            <location>U:\Shared\Music\Jet%20Tricks%20-%20Love%20Hangover.mp3</location>
+            <location>U:\Shared\Music\Jet Tricks - Love Hangover.mp3</location>
         </track>
         <track>
             <title>Swamped</title>
@@ -163,14 +163,14 @@
             <album>Comalies</album>
             <duration>240457</duration>
             <trackNum>1</trackNum>
-            <location>U:\Shared\Music\Lacuna%20Coil%20-%20(2002)%20Comalies%20-%20Swamped.mp3</location>
+            <location>U:\Shared\Music\Lacuna Coil - (2002) Comalies - Swamped.mp3</location>
         </track>
         <track>
             <title>Get Together</title>
             <creator>Madonna</creator>
             <album>Confessions On A Dance Floor</album>
             <duration>328933</duration>
-            <location>U:\Shared\Music\Madonna%20-%20(2005)%20Confessions%20On%20A%20Dancefloor%20-%20Get%20Together.mp3</location>
+            <location>U:\Shared\Music\Madonna - (2005) Confessions On A Dancefloor - Get Together.mp3</location>
         </track>
         <track>
             <title>Blood stained</title>
@@ -178,14 +178,14 @@
             <album>Mechanical Spin Phenomena</album>
             <duration>380551</duration>
             <trackNum>2</trackNum>
-            <location>U:\Shared\Music\Mnemic%20-%20(2003)%20Mechanical%20Spin%20Phemomena%20-%20Blood%20Stained.mp3</location>
+            <location>U:\Shared\Music\Mnemic - (2003) Mechanical Spin Phemomena - Blood Stained.mp3</location>
         </track>
         <track>
             <title>Liquid</title>
             <creator>Mnemic</creator>
             <album>Mechanical Spin Phenomena</album>
             <duration>282383</duration>
-            <location>U:\Shared\Music\Mnemic%20-%20(2003)%20Mechanical%20Spin%20Phemomena%20-%20Liquid.mp3</location>
+            <location>U:\Shared\Music\Mnemic - (2003) Mechanical Spin Phemomena - Liquid.mp3</location>
         </track>
         <track>
             <title>Deathbox</title>
@@ -193,7 +193,7 @@
             <album>The Audio Injected Soul</album>
             <duration>272457</duration>
             <trackNum>4</trackNum>
-            <location>U:\Shared\Music\Mnemic%20-%20(2004)%20The%20Audio%20Injected%20Soul%20-%20Deathbox.mp3</location>
+            <location>U:\Shared\Music\Mnemic - (2004) The Audio Injected Soul - Deathbox.mp3</location>
         </track>
         <track>
             <title>Door 2.12</title>
@@ -201,7 +201,7 @@
             <album>The Audio Injected Soul</album>
             <duration>262608</duration>
             <trackNum>2</trackNum>
-            <location>U:\Shared\Music\Mnemic%20-%20(2004)%20The%20Audio%20Injected%20Soul%20-%20Door%202.12.mp3</location>
+            <location>U:\Shared\Music\Mnemic - (2004) The Audio Injected Soul - Door 2.12.mp3</location>
         </track>
         <track>
             <title>Illuminate</title>
@@ -209,7 +209,7 @@
             <album>The Audio Injected Soul</album>
             <duration>303360</duration>
             <trackNum>3</trackNum>
-            <location>U:\Shared\Music\Mnemic%20-%20(2004)%20The%20Audio%20Injected%20Soul%20-%20Illuminate.mp3</location>
+            <location>U:\Shared\Music\Mnemic - (2004) The Audio Injected Soul - Illuminate.mp3</location>
         </track>
         <track>
             <title>Mindsaver</title>
@@ -217,7 +217,7 @@
             <album>The Audio Injected Soul</album>
             <duration>252760</duration>
             <trackNum>7</trackNum>
-            <location>U:\Shared\Music\Mnemic%20-%20(2004)%20The%20Audio%20Injected%20Soul%20-%20Mindsaver.mp3</location>
+            <location>U:\Shared\Music\Mnemic - (2004) The Audio Injected Soul - Mindsaver.mp3</location>
         </track>
         <track>
             <title>Overdose In The Hall Of Fame</title>
@@ -225,7 +225,7 @@
             <album>The Audio Injected Soul</album>
             <duration>315924</duration>
             <trackNum>8</trackNum>
-            <location>U:\Shared\Music\Mnemic%20-%20(2004)%20The%20Audio%20Injected%20Soul%20-%20Overdose%20in%20the%20Hall%20of%20Fame.mp3</location>
+            <location>U:\Shared\Music\Mnemic - (2004) The Audio Injected Soul - Overdose in the Hall of Fame.mp3</location>
         </track>
         <track>
             <title>Fate In Motion</title>
@@ -233,7 +233,7 @@
             <album>Stabbing The Drama</album>
             <duration>201325</duration>
             <trackNum>9</trackNum>
-            <location>U:\Shared\Music\Soilwork%20-%20(2005)%20Stabbing%20The%20Drama%20-%20Fate%20In%20Motion.mp3</location>
+            <location>U:\Shared\Music\Soilwork - (2005) Stabbing The Drama - Fate In Motion.mp3</location>
         </track>
         <track>
             <title>Nerve</title>
@@ -241,7 +241,7 @@
             <album>Stabbing The Drama</album>
             <duration>218801</duration>
             <trackNum>5</trackNum>
-            <location>U:\Shared\Music\Soilwork%20-%20(2005)%20Stabbing%20The%20Drama%20-%20Nerve.mp3</location>
+            <location>U:\Shared\Music\Soilwork - (2005) Stabbing The Drama - Nerve.mp3</location>
         </track>
         <track>
             <title>Observation Slave</title>
@@ -249,7 +249,7 @@
             <album>Stabbing The Drama</album>
             <duration>249573</duration>
             <trackNum>8</trackNum>
-            <location>U:\Shared\Music\Soilwork%20-%20(2005)%20Stabbing%20The%20Drama%20-%20Observation%20Slave.mp3</location>
+            <location>U:\Shared\Music\Soilwork - (2005) Stabbing The Drama - Observation Slave.mp3</location>
         </track>
         <track>
             <title>Stabbing The Drama</title>
@@ -257,7 +257,7 @@
             <album>Stabbing The Drama</album>
             <duration>273893</duration>
             <trackNum>1</trackNum>
-            <location>U:\Shared\Music\Soilwork%20-%20(2005)%20Stabbing%20The%20Drama%20-%20Stabbing%20The%20Drama.mp3</location>
+            <location>U:\Shared\Music\Soilwork - (2005) Stabbing The Drama - Stabbing The Drama.mp3</location>
         </track>
         <track>
             <title>If Possible</title>
@@ -265,7 +265,7 @@
             <album>Stabbing The Drama</album>
             <duration>290115</duration>
             <trackNum>11</trackNum>
-            <location>U:\Shared\Music\Soilwork%20-%20(2005)%20Stabbing%20The%20Drama%20-%20Wherever%20Thorns%20May%20Grow.mp3</location>
+            <location>U:\Shared\Music\Soilwork - (2005) Stabbing The Drama - Wherever Thorns May Grow.mp3</location>
         </track>
         <track>
             <title>Invincible</title>
@@ -273,7 +273,7 @@
             <album>Shadow Zone</album>
             <duration>244610</duration>
             <trackNum>13</trackNum>
-            <location>U:\Shared\Music\Static-X%20-%20(2003)%20Shadow%20Zone%20-%20Invincible.mp3</location>
+            <location>U:\Shared\Music\Static-X - (2003) Shadow Zone - Invincible.mp3</location>
         </track>
         <track>
             <title>Addicted</title>
@@ -281,7 +281,7 @@
             <album>Beyond The Calm Of The Corridor</album>
             <duration>226220</duration>
             <trackNum>2</trackNum>
-            <location>U:\Shared\Music\The%20Blank%20Theory%20-%20(2002)%20Beyond%20The%20Calm%20Of%20The%20Corridor%20-%20Addicted.mp3</location>
+            <location>U:\Shared\Music\The Blank Theory - (2002) Beyond The Calm Of The Corridor - Addicted.mp3</location>
         </track>
         <track>
             <title>Middle Of Nowhere</title>
@@ -289,7 +289,7 @@
             <album>Beyond The Calm Of The Corridor</album>
             <duration>247405</duration>
             <trackNum>1</trackNum>
-            <location>U:\Shared\Music\The%20Blank%20Theory%20-%20(2002)%20Beyond%20The%20Calm%20Of%20The%20Corridor%20-%20Middle%20Of%20Nowhere.mp3</location>
+            <location>U:\Shared\Music\The Blank Theory - (2002) Beyond The Calm Of The Corridor - Middle Of Nowhere.mp3</location>
         </track>
         <track>
             <title>Enjoy the Silence</title>
@@ -297,21 +297,21 @@
             <album>Essentials</album>
             <duration>255164</duration>
             <trackNum>1</trackNum>
-            <location>U:\Shared\Music\Depeche%20Mode%20%E2%80%93%20(2018)%20Essentials%20-%20Enjoy%20the%20Silence.mp3</location>
+            <location>U:\Shared\Music\Depeche Mode %E2%80%93 (2018) Essentials - Enjoy the Silence.mp3</location>
         </track>
         <track>
             <title>Un Simple Histoire (A Simple History)</title>
             <creator>Thievery Corporation</creator>
             <album>The Richest Man in Babylon</album>
             <duration>225541</duration>
-            <location>U:\Shared\Music\Thievery%20Corporation%20-%20(2002)%20The%20Richest%20Man%20in%20Babylon%20-%20Un%20Simple%20Histoire%20A%20Simple%20History.mp3</location>
+            <location>U:\Shared\Music\Thievery Corporation - (2002) The Richest Man in Babylon - Un Simple Histoire A Simple History.mp3</location>
         </track>
         <track>
             <title>Heavens Gonna Burn Your Eyes</title>
             <creator>Thievery Corporation</creator>
             <album>The Richest Man in Babylon</album>
             <duration>250462</duration>
-            <location>U:\Shared\Music\Thievery%20Corporation%20-%20(2002)%20The%20Richest%20Man%20in%20Babylon%20-%20Heavens%20Gonna%20Burn%20Your%20Eyes.mp3</location>
+            <location>U:\Shared\Music\Thievery Corporation - (2002) The Richest Man in Babylon - Heavens Gonna Burn Your Eyes.mp3</location>
         </track>
     </trackList>
 </playlist>

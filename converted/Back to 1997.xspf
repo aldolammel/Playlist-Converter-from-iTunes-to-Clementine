@@ -1,23 +1,23 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <playlist xmlns="http://xspf.org/ns/0/" version="1">
     <trackList>
         <track>
             <title>Down</title>
             <creator>311</creator>
             <duration>172930</duration>
-            <location>U:\Shared\Music\311%20-%20Down.mp3</location>
+            <location>U:\Shared\Music\311 - Down.mp3</location>
         </track>
         <track>
             <title>Intergalactic</title>
             <creator>Beastie Boys</creator>
             <duration>230008</duration>
-            <location>U:\Shared\Music\Beastie%20Boys%20-%20Intergalactic.mp3</location>
+            <location>U:\Shared\Music\Beastie Boys - Intergalactic.mp3</location>
         </track>
         <track>
             <title>Sabotage</title>
             <creator>Beastie Boys</creator>
             <duration>181786</duration>
-            <location>U:\Shared\Music\Beastie%20Boys%20-%20Sabotage.mp3</location>
+            <location>U:\Shared\Music\Beastie Boys - Sabotage.mp3</location>
         </track>
         <track>
             <title>Greedy Fly</title>
@@ -25,7 +25,7 @@
             <album>Best Of '94-'99</album>
             <duration>270080</duration>
             <trackNum>7</trackNum>
-            <location>U:\Shared\Music\Bush%20-%20(2004)%20Best%20Of%2094-99%20-%20Greedy%20Fly.mp3</location>
+            <location>U:\Shared\Music\Bush - (2004) Best Of 94-99 - Greedy Fly.mp3</location>
         </track>
         <track>
             <title>Aquela Paz</title>
@@ -33,7 +33,7 @@
             <album>Transpiração Contínua Prolongada</album>
             <duration>182256</duration>
             <trackNum>8</trackNum>
-            <location>U:\Shared\Music\Charlie%20Brown%20Jr.%20-%20(1997)%20Transpira%C3%A7%C3%A3o%20Cont%C3%ADnua%20Prolongada%20-%20Aquela%20Paz.mp3</location>
+            <location>U:\Shared\Music\Charlie Brown Jr. - (1997) Transpira%C3%A7%C3%A3o Cont%C3%ADnua Prolongada - Aquela Paz.mp3</location>
         </track>
         <track>
             <title>Charlie Brown Jr.</title>
@@ -41,7 +41,7 @@
             <album>Transpiração Contínua Prolongada</album>
             <duration>192026</duration>
             <trackNum>16</trackNum>
-            <location>U:\Shared\Music\Charlie%20Brown%20Jr.%20-%20(1997)%20Transpira%C3%A7%C3%A3o%20Cont%C3%ADnua%20Prolongada%20-%20Charlie%20Brown%20Jr..mp3</location>
+            <location>U:\Shared\Music\Charlie Brown Jr. - (1997) Transpira%C3%A7%C3%A3o Cont%C3%ADnua Prolongada - Charlie Brown Jr..mp3</location>
         </track>
         <track>
             <title>Corra Vagabundo</title>
@@ -49,7 +49,7 @@
             <album>Transpiração Contínua Prolongada</album>
             <duration>215510</duration>
             <trackNum>12</trackNum>
-            <location>U:\Shared\Music\Charlie%20Brown%20Jr.%20-%20(1997)%20Transpira%C3%A7%C3%A3o%20Cont%C3%ADnua%20Prolongada%20-%20Corra%20Vagabundo.mp3</location>
+            <location>U:\Shared\Music\Charlie Brown Jr. - (1997) Transpira%C3%A7%C3%A3o Cont%C3%ADnua Prolongada - Corra Vagabundo.mp3</location>
         </track>
         <track>
             <title>Escalas Tropicais</title>
@@ -57,7 +57,7 @@
             <album>Transpiração Contínua Prolongada</album>
             <duration>128626</duration>
             <trackNum>15</trackNum>
-            <location>U:\Shared\Music\Charlie%20Brown%20Jr.%20-%20(1997)%20Transpira%C3%A7%C3%A3o%20Cont%C3%ADnua%20Prolongada%20-%20Escalas%20Tropicais.mp3</location>
+            <location>U:\Shared\Music\Charlie Brown Jr. - (1997) Transpira%C3%A7%C3%A3o Cont%C3%ADnua Prolongada - Escalas Tropicais.mp3</location>
         </track>
         <track>
             <title>Falar, Falar</title>
@@ -65,7 +65,7 @@
             <album>Transpiração Contínua Prolongada</album>
             <duration>167366</duration>
             <trackNum>13</trackNum>
-            <location>U:\Shared\Music\Charlie%20Brown%20Jr.%20-%20(1997)%20Transpira%C3%A7%C3%A3o%20Cont%C3%ADnua%20Prolongada%20-%20Falar,%20Falar.mp3</location>
+            <location>U:\Shared\Music\Charlie Brown Jr. - (1997) Transpira%C3%A7%C3%A3o Cont%C3%ADnua Prolongada - Falar, Falar.mp3</location>
         </track>
         <track>
             <title>Festa</title>
@@ -73,7 +73,7 @@
             <album>Transpiração Contínua Prolongada</album>
             <duration>171755</duration>
             <trackNum>14</trackNum>
-            <location>U:\Shared\Music\Charlie%20Brown%20Jr.%20-%20(1997)%20Transpira%C3%A7%C3%A3o%20Cont%C3%ADnua%20Prolongada%20-%20Festa.mp3</location>
+            <location>U:\Shared\Music\Charlie Brown Jr. - (1997) Transpira%C3%A7%C3%A3o Cont%C3%ADnua Prolongada - Festa.mp3</location>
         </track>
         <track>
             <title>Hei! Arreia... (Instrumental)</title>
@@ -81,7 +81,7 @@
             <album>Transpiração Contínua Prolongada</album>
             <duration>26592</duration>
             <trackNum>5</trackNum>
-            <location>U:\Shared\Music\Charlie%20Brown%20Jr.%20-%20(1997)%20Transpira%C3%A7%C3%A3o%20Cont%C3%ADnua%20Prolongada%20-%20Hei!%20Arreia...%20(Instrumental).mp3</location>
+            <location>U:\Shared\Music\Charlie Brown Jr. - (1997) Transpira%C3%A7%C3%A3o Cont%C3%ADnua Prolongada - Hei! Arreia... (Instrumental).mp3</location>
         </track>
         <track>
             <title>Lombra</title>
@@ -89,7 +89,7 @@
             <album>Transpiração Contínua Prolongada</album>
             <duration>191686</duration>
             <trackNum>11</trackNum>
-            <location>U:\Shared\Music\Charlie%20Brown%20Jr.%20-%20(1997)%20Transpira%C3%A7%C3%A3o%20Cont%C3%ADnua%20Prolongada%20-%20Lombra.mp3</location>
+            <location>U:\Shared\Music\Charlie Brown Jr. - (1997) Transpira%C3%A7%C3%A3o Cont%C3%ADnua Prolongada - Lombra.mp3</location>
         </track>
         <track>
             <title>Molengol's Groove (Instrumental)</title>
@@ -97,7 +97,7 @@
             <album>Transpiração Contínua Prolongada</album>
             <duration>53054</duration>
             <trackNum>7</trackNum>
-            <location>U:\Shared\Music\Charlie%20Brown%20Jr.%20-%20(1997)%20Transpira%C3%A7%C3%A3o%20Cont%C3%ADnua%20Prolongada%20-%20Molengol's%20Groove%20(Instrumental).mp3</location>
+            <location>U:\Shared\Music\Charlie Brown Jr. - (1997) Transpira%C3%A7%C3%A3o Cont%C3%ADnua Prolongada - Molengol's Groove (Instrumental).mp3</location>
         </track>
         <track>
             <title>O Coro Vai Comê!</title>
@@ -105,7 +105,7 @@
             <album>Transpiração Contínua Prolongada</album>
             <duration>141191</duration>
             <trackNum>2</trackNum>
-            <location>U:\Shared\Music\Charlie%20Brown%20Jr.%20-%20(1997)%20Transpira%C3%A7%C3%A3o%20Cont%C3%ADnua%20Prolongada%20-%20O%20Coro%20Vai%20Com%C3%AA!.mp3</location>
+            <location>U:\Shared\Music\Charlie Brown Jr. - (1997) Transpira%C3%A7%C3%A3o Cont%C3%ADnua Prolongada - O Coro Vai Com%C3%AA!.mp3</location>
         </track>
         <track>
             <title>Proibida Pra Mim (Grazon)</title>
@@ -113,7 +113,7 @@
             <album>Transpiração Contínua Prolongada</album>
             <duration>167993</duration>
             <trackNum>10</trackNum>
-            <location>U:\Shared\Music\Charlie%20Brown%20Jr.%20-%20(1997)%20Transpira%C3%A7%C3%A3o%20Cont%C3%ADnua%20Prolongada%20-%20Proibida%20Pra%20Mim%20(Grazon).mp3</location>
+            <location>U:\Shared\Music\Charlie Brown Jr. - (1997) Transpira%C3%A7%C3%A3o Cont%C3%ADnua Prolongada - Proibida Pra Mim (Grazon).mp3</location>
         </track>
         <track>
             <title>Quinta-Feira</title>
@@ -121,7 +121,7 @@
             <album>Transpiração Contínua Prolongada</album>
             <duration>290246</duration>
             <trackNum>9</trackNum>
-            <location>U:\Shared\Music\Charlie%20Brown%20Jr.%20-%20(1997)%20Transpira%C3%A7%C3%A3o%20Cont%C3%ADnua%20Prolongada%20-%20Quinta-Feira.mp3</location>
+            <location>U:\Shared\Music\Charlie Brown Jr. - (1997) Transpira%C3%A7%C3%A3o Cont%C3%ADnua Prolongada - Quinta-Feira.mp3</location>
         </track>
         <track>
             <title>Sheik</title>
@@ -129,7 +129,7 @@
             <album>Transpiração Contínua Prolongada</album>
             <duration>171389</duration>
             <trackNum>4</trackNum>
-            <location>U:\Shared\Music\Charlie%20Brown%20Jr.%20-%20(1997)%20Transpira%C3%A7%C3%A3o%20Cont%C3%ADnua%20Prolongada%20-%20Sheik.mp3</location>
+            <location>U:\Shared\Music\Charlie Brown Jr. - (1997) Transpira%C3%A7%C3%A3o Cont%C3%ADnua Prolongada - Sheik.mp3</location>
         </track>
         <track>
             <title>Tributo Ao Frango Da Malásia (Instrumental)</title>
@@ -137,7 +137,7 @@
             <album>Transpiração Contínua Prolongada</album>
             <duration>25573</duration>
             <trackNum>1</trackNum>
-            <location>U:\Shared\Music\Charlie%20Brown%20Jr.%20-%20(1997)%20Transpira%C3%A7%C3%A3o%20Cont%C3%ADnua%20Prolongada%20-%20Tributo%20Ao%20Frango%20Da%20Mal%C3%A1sia%20(Instrumental).mp3</location>
+            <location>U:\Shared\Music\Charlie Brown Jr. - (1997) Transpira%C3%A7%C3%A3o Cont%C3%ADnua Prolongada - Tributo Ao Frango Da Mal%C3%A1sia (Instrumental).mp3</location>
         </track>
         <track>
             <title>Tudo Que Ela Gosta De Escutar</title>
@@ -145,7 +145,7 @@
             <album>Transpiração Contínua Prolongada</album>
             <duration>176117</duration>
             <trackNum>3</trackNum>
-            <location>U:\Shared\Music\Charlie%20Brown%20Jr.%20-%20(1997)%20Transpira%C3%A7%C3%A3o%20Cont%C3%ADnua%20Prolongada%20-%20Tudo%20Que%20Ela%20Gosta%20De%20Escutar.mp3</location>
+            <location>U:\Shared\Music\Charlie Brown Jr. - (1997) Transpira%C3%A7%C3%A3o Cont%C3%ADnua Prolongada - Tudo Que Ela Gosta De Escutar.mp3</location>
         </track>
         <track>
             <title>It's No Good</title>
@@ -153,7 +153,7 @@
             <album>Ultra</album>
             <duration>359392</duration>
             <trackNum>4</trackNum>
-            <location>U:\Shared\Music\Depeche%20Mode%20-%20(1997)%20Ultra%20-%20It's%20No%20Good.mp3</location>
+            <location>U:\Shared\Music\Depeche Mode - (1997) Ultra - It's No Good.mp3</location>
         </track>
         <track>
             <title>Greek Stink Breath</title>
@@ -161,14 +161,14 @@
             <album>Insomniac</album>
             <duration>135941</duration>
             <trackNum>4</trackNum>
-            <location>U:\Shared\Music\Green%20Day%20-%20Greek%20Stink%20Breath.mp3</location>
+            <location>U:\Shared\Music\Green Day - Greek Stink Breath.mp3</location>
         </track>
         <track>
             <title>Torn (Ednaswap cover)</title>
             <creator>Natalie Imbruglia</creator>
             <album>Torn</album>
             <duration>247875</duration>
-            <location>U:\Shared\Music\Natalie%20Imbruglia%20-%20Torn.mp3</location>
+            <location>U:\Shared\Music\Natalie Imbruglia - Torn.mp3</location>
         </track>
         <track>
             <title>Lithium</title>
@@ -176,7 +176,7 @@
             <album>Nevermind</album>
             <duration>183928</duration>
             <trackNum>4</trackNum>
-            <location>U:\Shared\Music\Nirvana%20-%20(1991)%20Nevermind%20-%20Breed.mp3</location>
+            <location>U:\Shared\Music\Nirvana - (1991) Nevermind - Breed.mp3</location>
         </track>
         <track>
             <title>Lounge Act</title>
@@ -184,7 +184,7 @@
             <album>Nevermind</album>
             <duration>157022</duration>
             <trackNum>9</trackNum>
-            <location>U:\Shared\Music\Nirvana%20-%20(1991)%20Nevermind%20-%20Lounge%20Act.mp3</location>
+            <location>U:\Shared\Music\Nirvana - (1991) Nevermind - Lounge Act.mp3</location>
         </track>
         <track>
             <title>On A Plain</title>
@@ -192,7 +192,7 @@
             <album>Nevermind</album>
             <duration>184685</duration>
             <trackNum>11</trackNum>
-            <location>U:\Shared\Music\Nirvana%20-%20(1991)%20Nevermind%20-%20On%20a%20Plain.mp3</location>
+            <location>U:\Shared\Music\Nirvana - (1991) Nevermind - On a Plain.mp3</location>
         </track>
         <track>
             <title>Smells Like Teen Spirit</title>
@@ -200,7 +200,7 @@
             <album>Nevermind</album>
             <duration>301322</duration>
             <trackNum>1</trackNum>
-            <location>U:\Shared\Music\Nirvana%20-%20(1991)%20Nevermind%20-%20Smells%20Like%20Teen%20Spirit.mp3</location>
+            <location>U:\Shared\Music\Nirvana - (1991) Nevermind - Smells Like Teen Spirit.mp3</location>
         </track>
         <track>
             <title>Territorial Pissings</title>
@@ -208,7 +208,7 @@
             <album>Nevermind</album>
             <duration>143020</duration>
             <trackNum>7</trackNum>
-            <location>U:\Shared\Music\Nirvana%20-%20(1991)%20Nevermind%20-%20Territorial%20Pissings.mp3</location>
+            <location>U:\Shared\Music\Nirvana - (1991) Nevermind - Territorial Pissings.mp3</location>
         </track>
         <track>
             <title>Breathe</title>
@@ -216,7 +216,7 @@
             <album>The Fat of the Land</album>
             <duration>334863</duration>
             <trackNum>2</trackNum>
-            <location>U:\Shared\Music\Prodigy%20-%20(1997)%20The%20Fat%20Of%20The%20Land%20-%20Breathe.mp3</location>
+            <location>U:\Shared\Music\Prodigy - (1997) The Fat Of The Land - Breathe.mp3</location>
         </track>
         <track>
             <title>Firestarter</title>
@@ -224,7 +224,7 @@
             <album>The Fat of the Land</album>
             <duration>280842</duration>
             <trackNum>8</trackNum>
-            <location>U:\Shared\Music\Prodigy%20-%20(1997)%20The%20Fat%20Of%20The%20Land%20-%20Firestarter.mp3</location>
+            <location>U:\Shared\Music\Prodigy - (1997) The Fat Of The Land - Firestarter.mp3</location>
         </track>
         <track>
             <title>Funky Shit</title>
@@ -232,7 +232,7 @@
             <album>The Fat of the Land</album>
             <duration>316473</duration>
             <trackNum>4</trackNum>
-            <location>U:\Shared\Music\Prodigy%20-%20(1997)%20The%20Fat%20Of%20The%20Land%20-%20Funky%20Shit.mp3</location>
+            <location>U:\Shared\Music\Prodigy - (1997) The Fat Of The Land - Funky Shit.mp3</location>
         </track>
         <track>
             <title>Smack My Bitch Up</title>
@@ -240,7 +240,7 @@
             <album>The Fat of the Land</album>
             <duration>342778</duration>
             <trackNum>1</trackNum>
-            <location>U:\Shared\Music\Prodigy%20-%20(1997)%20The%20Fat%20Of%20The%20Land%20-%20Smack%20My%20Bitch%20Up.mp3</location>
+            <location>U:\Shared\Music\Prodigy - (1997) The Fat Of The Land - Smack My Bitch Up.mp3</location>
         </track>
         <track>
             <title>Esporrei na manivela</title>
@@ -248,7 +248,7 @@
             <album>Lavô Tá Novo</album>
             <duration>248241</duration>
             <trackNum>7</trackNum>
-            <location>U:\Shared\Music\Raimundos%20-%20(1995)%20Lav%C3%B4%20T%C3%A1%20Novo%20-%20Esporrei%20na%20manivela.mp3</location>
+            <location>U:\Shared\Music\Raimundos - (1995) Lav%C3%B4 T%C3%A1 Novo - Esporrei na manivela.mp3</location>
         </track>
         <track>
             <title>Eu quero ver o oco</title>
@@ -256,7 +256,7 @@
             <album>Lavô Tá Novo</album>
             <duration>250749</duration>
             <trackNum>2</trackNum>
-            <location>U:\Shared\Music\Raimundos%20-%20(1995)%20Lav%C3%B4%20T%C3%A1%20Novo%20-%20Eu%20quero%20ver%20o%20oco.mp3</location>
+            <location>U:\Shared\Music\Raimundos - (1995) Lav%C3%B4 T%C3%A1 Novo - Eu quero ver o oco.mp3</location>
         </track>
         <track>
             <title>I saw you saying (That you say that you saw)</title>
@@ -264,7 +264,7 @@
             <album>Lavô Tá Novo</album>
             <duration>203206</duration>
             <trackNum>10</trackNum>
-            <location>U:\Shared\Music\Raimundos%20-%20(1995)%20Lav%C3%B4%20T%C3%A1%20Novo%20-%20I%20saw%20you%20saying%20(That%20you%20say%20that%20you%20saw).mp3</location>
+            <location>U:\Shared\Music\Raimundos - (1995) Lav%C3%B4 T%C3%A1 Novo - I saw you saying (That you say that you saw).mp3</location>
         </track>
         <track>
             <title>O pão da minha prima</title>
@@ -272,7 +272,7 @@
             <album>Lavô Tá Novo</album>
             <duration>161436</duration>
             <trackNum>4</trackNum>
-            <location>U:\Shared\Music\Raimundos%20-%20(1995)%20Lav%C3%B4%20T%C3%A1%20Novo%20-%20O%20p%C3%A3o%20da%20minha%20prima.mp3</location>
+            <location>U:\Shared\Music\Raimundos - (1995) Lav%C3%B4 T%C3%A1 Novo - O p%C3%A3o da minha prima.mp3</location>
         </track>
         <track>
             <title>Andar Na Pedra</title>
@@ -280,7 +280,7 @@
             <album>Lapadas do Povo</album>
             <duration>217573</duration>
             <trackNum>1</trackNum>
-            <location>U:\Shared\Music\Raimundos%20-%20(1997)%20Lapadas%20do%20Povo%20-%20Andar%20Na%20Pedra.mp3</location>
+            <location>U:\Shared\Music\Raimundos - (1997) Lapadas do Povo - Andar Na Pedra.mp3</location>
         </track>
         <track>
             <title>Nariz De Doze</title>
@@ -288,7 +288,7 @@
             <album>Lapadas do Povo</album>
             <duration>180950</duration>
             <trackNum>11</trackNum>
-            <location>U:\Shared\Music\Raimundos%20-%20(1997)%20Lapadas%20do%20Povo%20-%20Nariz%20de%20Doze.mp3</location>
+            <location>U:\Shared\Music\Raimundos - (1997) Lapadas do Povo - Nariz de Doze.mp3</location>
         </track>
         <track>
             <title>O Toco</title>
@@ -296,7 +296,7 @@
             <album>Lapadas do Povo</album>
             <duration>126484</duration>
             <trackNum>3</trackNum>
-            <location>U:\Shared\Music\Raimundos%20-%20(1997)%20Lapadas%20do%20Povo%20-%20O%20Toco.mp3</location>
+            <location>U:\Shared\Music\Raimundos - (1997) Lapadas do Povo - O Toco.mp3</location>
         </track>
         <track>
             <title>Pequena Raimunda</title>
@@ -304,14 +304,14 @@
             <album>Lapadas do Povo</album>
             <duration>146468</duration>
             <trackNum>12</trackNum>
-            <location>U:\Shared\Music\Raimundos%20-%20(1997)%20Lapadas%20do%20Povo%20-%20Pequena%20Raimunda%20(Ramona)%20(Ramones%20Cover).mp3</location>
+            <location>U:\Shared\Music\Raimundos - (1997) Lapadas do Povo - Pequena Raimunda (Ramona) (Ramones Cover).mp3</location>
         </track>
         <track>
             <title>Pet Sematary</title>
             <creator>Ramones</creator>
             <duration>205479</duration>
             <trackNum>1</trackNum>
-            <location>U:\Shared\Music\Ramones%20-%20Pet%20Sematary.mp3</location>
+            <location>U:\Shared\Music\Ramones - Pet Sematary.mp3</location>
         </track>
         <track>
             <title>Nitro (Youth Energy)</title>
@@ -319,7 +319,7 @@
             <album>Smash</album>
             <duration>147017</duration>
             <trackNum>2</trackNum>
-            <location>U:\Shared\Music\The%20Offspring%20-%20(1994)%20Smash%20-%20Nitro%20(Youth%20Energy).mp3</location>
+            <location>U:\Shared\Music\The Offspring - (1994) Smash - Nitro (Youth Energy).mp3</location>
         </track>
         <track>
             <title>Self Esteem</title>
@@ -327,7 +327,7 @@
             <album>Smash</album>
             <duration>257880</duration>
             <trackNum>8</trackNum>
-            <location>U:\Shared\Music\The%20Offspring%20-%20(1994)%20Smash%20-%20Self%20Esteem.mp3</location>
+            <location>U:\Shared\Music\The Offspring - (1994) Smash - Self Esteem.mp3</location>
         </track>
         <track>
             <title>Bad Habit</title>
@@ -335,7 +335,7 @@
             <album>Smash</album>
             <duration>223947</duration>
             <trackNum>3</trackNum>
-            <location>U:\Shared\Music\The%20Offspring%20-%20(1994)%20Smash%20-%20Bad%20Habit.mp3</location>
+            <location>U:\Shared\Music\The Offspring - (1994) Smash - Bad Habit.mp3</location>
         </track>
         <track>
             <title>Genocide</title>
@@ -343,7 +343,7 @@
             <album>Smash</album>
             <duration>213159</duration>
             <trackNum>5</trackNum>
-            <location>U:\Shared\Music\The%20Offspring%20-%20(1994)%20Smash%20-%20Genocide.mp3</location>
+            <location>U:\Shared\Music\The Offspring - (1994) Smash - Genocide.mp3</location>
         </track>
         <track>
             <title>Gone Away</title>
@@ -351,7 +351,7 @@
             <album>Ixnay On The Hombre</album>
             <duration>268878</duration>
             <trackNum>7</trackNum>
-            <location>U:\Shared\Music\The%20Offspring%20-%20(1997)%20Ixnay%20On%20The%20Hombre%20-%20Gone%20Away.mp3</location>
+            <location>U:\Shared\Music\The Offspring - (1997) Ixnay On The Hombre - Gone Away.mp3</location>
         </track>
         <track>
             <title>Me &amp; My Old Lady</title>
@@ -359,7 +359,7 @@
             <album>Ixnay On The Hombre</album>
             <duration>273240</duration>
             <trackNum>4</trackNum>
-            <location>U:\Shared\Music\The%20Offspring%20-%20(1997)%20Ixnay%20On%20The%20Hombre%20-%20Me%20&amp;%20My%20Old%20Lady.mp3</location>
+            <location>U:\Shared\Music\The Offspring - (1997) Ixnay On The Hombre - Me &amp; My Old Lady.mp3</location>
         </track>
         <track>
             <title>Change The World</title>
@@ -367,7 +367,7 @@
             <album>Ixnay On The Hombre</album>
             <duration>383399</duration>
             <trackNum>14</trackNum>
-            <location>U:\Shared\Music\The%20Offspring%20-%20(1997)%20Ixnay%20On%20The%20Hombre%20-%20Change%20The%20World.mp3</location>
+            <location>U:\Shared\Music\The Offspring - (1997) Ixnay On The Hombre - Change The World.mp3</location>
         </track>
         <track>
             <title>1979</title>
@@ -375,20 +375,20 @@
             <album>Mellon Collie And The Infinite Sadness</album>
             <duration>266266</duration>
             <trackNum>5</trackNum>
-            <location>U:\Shared\Music\The%20Smashing%20Pumpkins%20-%20(XXXX)%20Twilight%20To%20Starlight%20-%201979.mp3</location>
+            <location>U:\Shared\Music\The Smashing Pumpkins - (XXXX) Twilight To Starlight - 1979.mp3</location>
         </track>
         <track>
             <title>I Want You</title>
             <creator>Savage Garden</creator>
             <duration>231576</duration>
-            <location>U:\Shared\Music\Savage%20Garden%20-%20(1997)%20-%20I%20Want%20You.mp3</location>
+            <location>U:\Shared\Music\Savage Garden - (1997) - I Want You.mp3</location>
         </track>
         <track>
             <title>Don't Go Away (Remastered)</title>
             <creator>Oasis</creator>
             <album>Be Here Now</album>
             <duration>288696</duration>
-            <location>U:\Shared\Music\Oasis%20-%20(1997)%20Be%20Here%20Now%20-%20Don't%20Go%20Away.mp3</location>
+            <location>U:\Shared\Music\Oasis - (1997) Be Here Now - Don't Go Away.mp3</location>
         </track>
     </trackList>
 </playlist>

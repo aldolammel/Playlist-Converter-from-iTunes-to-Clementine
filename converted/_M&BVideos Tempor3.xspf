@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <playlist xmlns="http://xspf.org/ns/0/" version="1">
     <trackList>
         <track>
@@ -6,13 +6,13 @@
             <creator>A. Lammel</creator>
             <album>Longe de casa</album>
             <duration>216868</duration>
-            <location>U:\Shared\Music\A.%20Lammel%20-%20(2014)%20Viajante.mp3</location>
+            <location>U:\Shared\Music\A. Lammel - (2014) Viajante.mp3</location>
         </track>
         <track>
             <title>Betekoon (ft. Sepehr Khalse Behzad Leito)</title>
             <creator>Alireza JJ  Sijal</creator>
             <duration>295209</duration>
-            <location>U:\Shared\Music\Alireza%20JJ%20%20Sijal%20Ft%20Sepehr%20Khalse%20%20Behzad%20Leito%20-%20Betekoon%20OFFICIAL%20AUDIO.mp3</location>
+            <location>U:\Shared\Music\Alireza JJ  Sijal Ft Sepehr Khalse  Behzad Leito - Betekoon OFFICIAL AUDIO.mp3</location>
         </track>
         <track>
             <title>Lugar Ao Sol</title>
@@ -20,7 +20,7 @@
             <album>100% Charlie Brown Jr. - Abalando A Sua Fábrica</album>
             <duration>212636</duration>
             <trackNum>5</trackNum>
-            <location>U:\Shared\Music\Charlie%20Brown%20Jr.%20-%20(2001)%20100%25%20CHarlie%20Brown%20Jr.%20-%20Lugar%20Ao%20Sol.mp3</location>
+            <location>U:\Shared\Music\Charlie Brown Jr. - (2001) 100%25 CHarlie Brown Jr. - Lugar Ao Sol.mp3</location>
         </track>
         <track>
             <title>Dear Reader</title>
@@ -28,7 +28,7 @@
             <album>Are We All the Same Distance Apart</album>
             <duration>221413</duration>
             <trackNum>6</trackNum>
-            <location>U:\Shared\Music\Crooks%20-%20(2015)%20Are%20We%20All%20The%20Same%20Distance%20Apart%20-%20Dear%20Reader.mp3</location>
+            <location>U:\Shared\Music\Crooks - (2015) Are We All The Same Distance Apart - Dear Reader.mp3</location>
         </track>
         <track>
             <title>Windy Little Town</title>
@@ -36,61 +36,61 @@
             <album>Are We All the Same Distance Apart</album>
             <duration>161724</duration>
             <trackNum>8</trackNum>
-            <location>U:\Shared\Music\Crooks%20-%20(2015)%20Are%20We%20All%20The%20Same%20Distance%20Apart%20-%20Windy%20Little%20Town.mp3</location>
+            <location>U:\Shared\Music\Crooks - (2015) Are We All The Same Distance Apart - Windy Little Town.mp3</location>
         </track>
         <track>
             <title>Vai Te Encantar</title>
             <creator>Cynthia Luz</creator>
             <duration>164989</duration>
-            <location>U:\Shared\Music\Cynthia%20Luz%20-%20Vai%20Te%20Encantar.mp3</location>
+            <location>U:\Shared\Music\Cynthia Luz - Vai Te Encantar.mp3</location>
         </track>
         <track>
             <title>Geceler</title>
             <creator>Ezhel</creator>
             <duration>223164</duration>
-            <location>U:\Shared\Music\Ezhel%20-%20(2017)%20-%20Geceler.mp3</location>
+            <location>U:\Shared\Music\Ezhel - (2017) - Geceler.mp3</location>
         </track>
         <track>
             <title>BEN ÖLMEDEN ÖNCE</title>
             <creator>FATİH ERDEMCİ</creator>
             <duration>290873</duration>
-            <location>U:\Shared\Music\FAT%C4%B0H%20ERDEMC%C4%B0%20-%20BEN%20%C3%96LMEDEN%20%C3%96NCE.mp3</location>
+            <location>U:\Shared\Music\FAT%C4%B0H ERDEMC%C4%B0 - BEN %C3%96LMEDEN %C3%96NCE.mp3</location>
         </track>
         <track>
             <title>Hubori</title>
             <creator>Hilight Tribe</creator>
             <duration>421746</duration>
-            <location>U:\Shared\Music\Hilight%20Tribe%20-%20Hubori.mp3</location>
+            <location>U:\Shared\Music\Hilight Tribe - Hubori.mp3</location>
         </track>
         <track>
             <title>Kamancheh, Iranian musical instrument</title>
             <creator>Desconhecido</creator>
             <duration>265560</duration>
-            <location>U:\Shared\Music\IRAN%20-%20Kamancheh,%20Iranian%20musical%20instrument.mp3</location>
+            <location>U:\Shared\Music\IRAN - Kamancheh, Iranian musical instrument.mp3</location>
         </track>
         <track>
             <title>TaimazEtaati (icerds Series)</title>
             <creator>Luranx</creator>
             <duration>214439</duration>
-            <location>U:\Shared\Music\IRAN%20-%20Luranx%20-%20TaimazEtaati(icerde%20series).mp3</location>
+            <location>U:\Shared\Music\IRAN - Luranx - TaimazEtaati(icerde series).mp3</location>
         </track>
         <track>
             <title>Signal</title>
             <creator>LAKEY INSPIRED</creator>
             <duration>195108</duration>
-            <location>U:\Shared\Music\LAKEY%20INSPIRED%20-%20Signal.mp3</location>
+            <location>U:\Shared\Music\LAKEY INSPIRED - Signal.mp3</location>
         </track>
         <track>
             <title>The Brightside</title>
             <creator>Lil Peep</creator>
             <duration>216267</duration>
-            <location>U:\Shared\Music\Lil%20Peep%20-%20The%20Brightside.mp3</location>
+            <location>U:\Shared\Music\Lil Peep - The Brightside.mp3</location>
         </track>
         <track>
             <title>Witchblades (ft. Lil Tracy)</title>
             <creator>Lil Peep</creator>
             <duration>162742</duration>
-            <location>U:\Shared\Music\Lil%20Peep%20-%20Witchblades%20(ft.%20Lil%20Tracy).mp3</location>
+            <location>U:\Shared\Music\Lil Peep - Witchblades (ft. Lil Tracy).mp3</location>
         </track>
         <track>
             <title>Control</title>
@@ -98,7 +98,7 @@
             <album>Truth Is A Beautiful Thing (Deluxe Edition)</album>
             <duration>185312</duration>
             <trackNum>14</trackNum>
-            <location>U:\Shared\Music\London%20Grammar%20-%20(2017)%20Truth%20Is%20a%20Beautiful%20Thing%20(Deluxe)%20-%20Control.mp3</location>
+            <location>U:\Shared\Music\London Grammar - (2017) Truth Is a Beautiful Thing (Deluxe) - Control.mp3</location>
         </track>
         <track>
             <title>Everyone Else</title>
@@ -106,7 +106,7 @@
             <album>Truth Is A Beautiful Thing (Deluxe Edition)</album>
             <duration>245342</duration>
             <trackNum>6</trackNum>
-            <location>U:\Shared\Music\London%20Grammar%20-%20(2017)%20Truth%20Is%20a%20Beautiful%20Thing%20(Deluxe)%20-%20Everyone%20Else.mp3</location>
+            <location>U:\Shared\Music\London Grammar - (2017) Truth Is a Beautiful Thing (Deluxe) - Everyone Else.mp3</location>
         </track>
         <track>
             <title>Leave The War With Me</title>
@@ -114,7 +114,7 @@
             <album>Truth Is A Beautiful Thing (Deluxe Edition)</album>
             <duration>304561</duration>
             <trackNum>10</trackNum>
-            <location>U:\Shared\Music\London%20Grammar%20-%20(2017)%20Truth%20Is%20a%20Beautiful%20Thing%20(Deluxe)%20-%20Leave%20The%20War%20With%20Me.mp3</location>
+            <location>U:\Shared\Music\London Grammar - (2017) Truth Is a Beautiful Thing (Deluxe) - Leave The War With Me.mp3</location>
         </track>
         <track>
             <title>Wild Eyed</title>
@@ -122,7 +122,7 @@
             <album>Truth Is A Beautiful Thing (Deluxe Edition)</album>
             <duration>268564</duration>
             <trackNum>3</trackNum>
-            <location>U:\Shared\Music\London%20Grammar%20-%20(2017)%20Truth%20Is%20a%20Beautiful%20Thing%20(Deluxe)%20-%20Wild%20Eyed.mp3</location>
+            <location>U:\Shared\Music\London Grammar - (2017) Truth Is a Beautiful Thing (Deluxe) - Wild Eyed.mp3</location>
         </track>
         <track>
             <title>Unidentified Object</title>
@@ -130,7 +130,7 @@
             <album>Oblivion Original Soundtrack</album>
             <duration>151719</duration>
             <trackNum>10</trackNum>
-            <location>U:\Shared\Music\M83%20-%20(2013)%20Oblivion%20(Original%20Motion%20Picture%20Soundtrack)%20-%20Unidentified%20Object.mp3</location>
+            <location>U:\Shared\Music\M83 - (2013) Oblivion (Original Motion Picture Soundtrack) - Unidentified Object.mp3</location>
         </track>
         <track>
             <title>Fuel</title>
@@ -138,32 +138,32 @@
             <album>Reload</album>
             <duration>269740</duration>
             <trackNum>1</trackNum>
-            <location>U:\Shared\Music\Metallica%20-%20(1997)%20Reload%20-%20Fuel.mp3</location>
+            <location>U:\Shared\Music\Metallica - (1997) Reload - Fuel.mp3</location>
         </track>
         <track>
             <title>Sky Walker (ft. Travis Scott)</title>
             <creator>Miguel</creator>
             <duration>209293</duration>
-            <location>U:\Shared\Music\Miguel%20-%20Sky%20Walker%20(ft.%20Travis%20Scott).mp3</location>
+            <location>U:\Shared\Music\Miguel - Sky Walker (ft. Travis Scott).mp3</location>
         </track>
         <track>
             <title>Karizma</title>
             <creator>Mustafa Sandal</creator>
             <duration>247771</duration>
-            <location>U:\Shared\Music\Mustafa%20Sandal%20-%20Karizma%202009%20HQ%20Yep%20Yeni%20Albmnden.mp3</location>
+            <location>U:\Shared\Music\Mustafa Sandal - Karizma 2009 HQ Yep Yeni Albmnden.mp3</location>
         </track>
         <track>
             <title>Deliverance</title>
             <creator>RY X</creator>
             <duration>230504</duration>
-            <location>U:\Shared\Music\RY%20X%20-%20Deliverance.mp3</location>
+            <location>U:\Shared\Music\RY X - Deliverance.mp3</location>
         </track>
         <track>
             <title>Nothing really matters that much to me anymore</title>
             <creator>Astroblk</creator>
             <album>SoundCloud</album>
             <duration>164963</duration>
-            <location>U:\Shared\Music\Astroblk%20-%20nothing%20really%20matters%20that%20much%20to%20me%20anymore..mp3</location>
+            <location>U:\Shared\Music\Astroblk - nothing really matters that much to me anymore..mp3</location>
         </track>
         <track>
             <title>Shine</title>
@@ -171,38 +171,38 @@
             <album>It Comes and Goes</album>
             <duration>203650</duration>
             <trackNum>6</trackNum>
-            <location>U:\Shared\Music\Dream%20On%20Dreamer%20-%20(2018)%20It%20Comes%20and%20Goes%20-%20Shine.mp3</location>
+            <location>U:\Shared\Music\Dream On Dreamer - (2018) It Comes and Goes - Shine.mp3</location>
         </track>
         <track>
             <title>Луна</title>
             <creator>Крайности</creator>
             <album>Второй этаж поражает</album>
             <duration>172272</duration>
-            <location>U:\Shared\Music\%D0%9A%D1%80%D0%B0%D0%B9%D0%BD%D0%BE%D1%81%D1%82%D0%B8%20-%20(2019)%20%D0%92%D1%82%D0%BE%D1%80%D0%BE%D0%B9%20%D1%8D%D1%82%D0%B0%D0%B6%20%D0%BF%D0%BE%D1%80%D0%B0%D0%B6%D0%B0%D0%B5%D1%82%20-%20%D0%9B%D1%83%D0%BD%D0%B0.mp3</location>
+            <location>U:\Shared\Music\%D0%9A%D1%80%D0%B0%D0%B9%D0%BD%D0%BE%D1%81%D1%82%D0%B8 - (2019) %D0%92%D1%82%D0%BE%D1%80%D0%BE%D0%B9 %D1%8D%D1%82%D0%B0%D0%B6 %D0%BF%D0%BE%D1%80%D0%B0%D0%B6%D0%B0%D0%B5%D1%82 - %D0%9B%D1%83%D0%BD%D0%B0.mp3</location>
         </track>
         <track>
             <title>1979 (cover by Swedish Gabzito in 2019 on Youtube)</title>
             <creator>Smashing Pumpkins</creator>
             <duration>262920</duration>
-            <location>U:\Shared\Music\Smashing%20Pumpkins%20-%201979%20(cover%20by%20Swedish%20Gabzito%20in%202019%20on%20Youtube).mp3</location>
+            <location>U:\Shared\Music\Smashing Pumpkins - 1979 (cover by Swedish Gabzito in 2019 on Youtube).mp3</location>
         </track>
         <track>
             <title>Fake Plastic Trees (Radiohead Cover)</title>
             <creator>Gabzito</creator>
             <duration>271704</duration>
-            <location>U:\Shared\Music\Radiohead%20-%20Fake%20Plastic%20Trees%20(Covered%20by%20youtubeUser%20GabzitoMusic).mp3</location>
+            <location>U:\Shared\Music\Radiohead - Fake Plastic Trees (Covered by youtubeUser GabzitoMusic).mp3</location>
         </track>
         <track>
             <title>Much Higher (no copyright - no restriction to use)</title>
             <creator>Causmic</creator>
             <duration>171168</duration>
-            <location>U:\Shared\Music\Causmic%20-%20(2020)%20Much%20Higher%20(no%20copyright%20-%20no%20restriction%20to%20use).mp3</location>
+            <location>U:\Shared\Music\Causmic - (2020) Much Higher (no copyright - no restriction to use).mp3</location>
         </track>
         <track>
             <title>Autumn Haze</title>
             <creator>West &amp; Zander</creator>
             <duration>230904</duration>
-            <location>U:\Shared\Music\West%20&amp;%20Zander%20-%20(2020)%20-%20Autumn%20Haze.mp3</location>
+            <location>U:\Shared\Music\West &amp; Zander - (2020) - Autumn Haze.mp3</location>
         </track>
         <track>
             <title>Ken Tavr</title>
@@ -210,7 +210,7 @@
             <album>Confession</album>
             <duration>307957</duration>
             <trackNum>8</trackNum>
-            <location>U:\Shared\Music\Ishome%20-%20(2013)%20Confession%20-%2008%20Ken%20Tavr.mp3</location>
+            <location>U:\Shared\Music\Ishome - (2013) Confession - 08 Ken Tavr.mp3</location>
         </track>
     </trackList>
 </playlist>

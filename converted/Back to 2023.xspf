@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <playlist xmlns="http://xspf.org/ns/0/" version="1">
     <trackList>
         <track>
@@ -7,7 +7,7 @@
             <album>Time And Trauma</album>
             <duration>274782</duration>
             <trackNum>11</trackNum>
-            <location>U:\Shared\Music\36%20Crazyfists%20-%20(2015)%20Time%20And%20Trauma%20-%20gathering_bones.mp3</location>
+            <location>U:\Shared\Music\36 Crazyfists - (2015) Time And Trauma - gathering_bones.mp3</location>
         </track>
         <track>
             <title>The Meddler</title>
@@ -15,7 +15,7 @@
             <album>Hats Off To The Bull</album>
             <duration>253204</duration>
             <trackNum>4</trackNum>
-            <location>U:\Shared\Music\Chevelle%20-%20(2011)%20Hats%20Off%20To%20The%20Bull%20-%20The%20Meddler.mp3</location>
+            <location>U:\Shared\Music\Chevelle - (2011) Hats Off To The Bull - The Meddler.mp3</location>
         </track>
         <track>
             <title>Above Me</title>
@@ -23,7 +23,7 @@
             <album>Are We All the Same Distance Apart</album>
             <duration>231000</duration>
             <trackNum>1</trackNum>
-            <location>U:\Shared\Music\Crooks%20-%20(2015)%20Are%20We%20All%20The%20Same%20Distance%20Apart%20-%20Above%20Me.mp3</location>
+            <location>U:\Shared\Music\Crooks - (2015) Are We All The Same Distance Apart - Above Me.mp3</location>
         </track>
         <track>
             <title>Alone</title>
@@ -31,13 +31,13 @@
             <album>Octavarium</album>
             <duration>322272</duration>
             <trackNum>2</trackNum>
-            <location>U:\Shared\Music\Dream%20%20Theater%20-%20The%20Answer%20Lies%20Within.mp3</location>
+            <location>U:\Shared\Music\Dream  Theater - The Answer Lies Within.mp3</location>
         </track>
         <track>
             <title>Alpha-Wolves</title>
             <creator>Hopes Die Last</creator>
             <duration>331284</duration>
-            <location>U:\Shared\Music\Hopes%20Die%20Last%20-%202015%20-%20Alpha-Wolves.mp3</location>
+            <location>U:\Shared\Music\Hopes Die Last - 2015 - Alpha-Wolves.mp3</location>
         </track>
         <track>
             <title>Spit</title>
@@ -45,7 +45,7 @@
             <album>Spit</album>
             <duration>140930</duration>
             <trackNum>1</trackNum>
-            <location>U:\Shared\Music\Kittie%20-%20(1999)%20Spit%20-%20Spit.mp3</location>
+            <location>U:\Shared\Music\Kittie - (1999) Spit - Spit.mp3</location>
         </track>
         <track>
             <title>firmament</title>
@@ -53,7 +53,7 @@
             <album>memoirs</album>
             <duration>107337</duration>
             <trackNum>8</trackNum>
-            <location>U:\Shared\Music\Leavv%20-%20(2016)%20Memoirs%20-%20Firmament.mp3</location>
+            <location>U:\Shared\Music\Leavv - (2016) Memoirs - Firmament.mp3</location>
         </track>
         <track>
             <title>Pushing me away</title>
@@ -61,7 +61,7 @@
             <album>Hybrid Theory</album>
             <duration>191921</duration>
             <trackNum>12</trackNum>
-            <location>U:\Shared\Music\Linkin%20Park%20-%20(2000)%20Hybrid%20Theory%20-%20Pista%20Audio%2012.mp3</location>
+            <location>U:\Shared\Music\Linkin Park - (2000) Hybrid Theory - Pista Audio 12.mp3</location>
         </track>
         <track>
             <title>King of All Excuses</title>
@@ -69,21 +69,21 @@
             <album>Chapter V</album>
             <duration>219924</duration>
             <trackNum>11</trackNum>
-            <location>U:\Shared\Music\Staind%20-%20(2005)%20Chapter%20V%20-%20King%20of%20All%20Excuses.mp3</location>
+            <location>U:\Shared\Music\Staind - (2005) Chapter V - King of All Excuses.mp3</location>
         </track>
         <track>
             <title>Resolution</title>
             <creator>Thievery Corporation</creator>
             <album>The Richest Man in Babylon</album>
             <duration>286746</duration>
-            <location>U:\Shared\Music\Thievery%20Corporation%20-%20(2002)%20The%20Richest%20Man%20in%20Babylon%20-%20Resolution.mp3</location>
+            <location>U:\Shared\Music\Thievery Corporation - (2002) The Richest Man in Babylon - Resolution.mp3</location>
         </track>
         <track>
             <title>Reckless</title>
             <creator>Lacuna Coil</creator>
             <album>Black Anima</album>
             <duration>185234</duration>
-            <location>U:\Shared\Music\Lacuna%20Coil%20-%20(2019)%20Black%20Anima%20-%20Reckless.mp3</location>
+            <location>U:\Shared\Music\Lacuna Coil - (2019) Black Anima - Reckless.mp3</location>
         </track>
         <track>
             <title>Looking Glass</title>
@@ -91,7 +91,7 @@
             <album>Oni</album>
             <duration>161097</duration>
             <trackNum>2</trackNum>
-            <location>U:\Shared\Music\Darko%20US%20-%20(2022)%20Oni%20-%20Looking%20Glass.mp3</location>
+            <location>U:\Shared\Music\Darko US - (2022) Oni - Looking Glass.mp3</location>
         </track>
         <track>
             <title>Oni</title>
@@ -99,55 +99,55 @@
             <album>Oni</album>
             <duration>139755</duration>
             <trackNum>10</trackNum>
-            <location>U:\Shared\Music\Darko%20US%20-%20(2022)%20Oni%20-%20Oni.mp3</location>
+            <location>U:\Shared\Music\Darko US - (2022) Oni - Oni.mp3</location>
         </track>
         <track>
             <title>Core</title>
             <creator>Neronus</creator>
             <album>Blassed Tapes</album>
             <duration>168202</duration>
-            <location>U:\Shared\Music\Neronus%20-%20(2020)%20Blassed%20Tapes%20-%20Core.mp3</location>
+            <location>U:\Shared\Music\Neronus - (2020) Blassed Tapes - Core.mp3</location>
         </track>
         <track>
             <title>Overdose</title>
             <creator>Neronus</creator>
             <album>Reason to Exist </album>
             <duration>168071</duration>
-            <location>U:\Shared\Music\Neronus%20-%20(2021)%20Reason%20to%20Exist%20-%20Overdose.mp3</location>
+            <location>U:\Shared\Music\Neronus - (2021) Reason to Exist - Overdose.mp3</location>
         </track>
         <track>
             <title>After Dark</title>
             <creator>Mr. Kitty</creator>
             <album>Time</album>
             <duration>259239</duration>
-            <location>U:\Shared\Music\Mr.%20Kitty%20-%20(2014)%20Time%20-%20After%20Dark.mp3</location>
+            <location>U:\Shared\Music\Mr. Kitty - (2014) Time - After Dark.mp3</location>
         </track>
         <track>
             <title>Holier</title>
             <creator>††† (Crosses)</creator>
             <duration>236800</duration>
-            <location>U:\Shared\Music\Crosses%20-%20(2022)%20xxxxxx%20-%20Holier.mp3</location>
+            <location>U:\Shared\Music\Crosses - (2022) xxxxxx - Holier.mp3</location>
         </track>
         <track>
             <title>Trollz (feat. Nicki Minaj)</title>
             <creator>6ix9ine</creator>
             <album>Unknown</album>
             <duration>205609</duration>
-            <location>U:\Shared\Music\6ix9ine%20-%20TROLLZ%20(Nicki%20Minaj).mp3</location>
+            <location>U:\Shared\Music\6ix9ine - TROLLZ (Nicki Minaj).mp3</location>
         </track>
         <track>
             <title>Gotti</title>
             <creator>6ix9ine</creator>
             <album>Unknown</album>
             <duration>167471</duration>
-            <location>U:\Shared\Music\6ix9ine%20-%20Gotti.mp3</location>
+            <location>U:\Shared\Music\6ix9ine - Gotti.mp3</location>
         </track>
         <track>
             <title>Lost</title>
             <creator>Linkin Park</creator>
             <album>Meteora 20th Anniversary</album>
             <duration>198192</duration>
-            <location>U:\Shared\Music\Linkin%20Park%20-%20(2023)%20Meteora%2020th%20Anniversary%20-%20Lost%20(160kb%20quality).mp3</location>
+            <location>U:\Shared\Music\Linkin Park - (2023) Meteora 20th Anniversary - Lost (160kb quality).mp3</location>
         </track>
         <track>
             <title>I'm Not Right</title>
@@ -155,149 +155,149 @@
             <album>Unstable</album>
             <duration>235102</duration>
             <trackNum>1</trackNum>
-            <location>U:\Shared\Music\Tetrarch%20-%20(2021)%20Unstable%20-%20I'm%20Not%20Right.mp3</location>
+            <location>U:\Shared\Music\Tetrarch - (2021) Unstable - I'm Not Right.mp3</location>
         </track>
         <track>
             <title>You Never Listen</title>
             <creator>Tetrarch</creator>
             <album>Unstable</album>
             <duration>200124</duration>
-            <location>U:\Shared\Music\Tetrarch%20-%20(2021)%20Unstable%20-%20You%20Never%20Listen.mp3</location>
+            <location>U:\Shared\Music\Tetrarch - (2021) Unstable - You Never Listen.mp3</location>
         </track>
         <track>
             <title>Alkaline</title>
             <creator>Sleep Token</creator>
             <album>This Place Will Become Your Tomb</album>
             <duration>211278</duration>
-            <location>U:\Shared\Music\Sleep%20Token%20-%20(2021)%20This%20Place%20Will%20Become%20Your%20Tomb%20-%20Alkaline.mp3</location>
+            <location>U:\Shared\Music\Sleep Token - (2021) This Place Will Become Your Tomb - Alkaline.mp3</location>
         </track>
         <track>
             <title>Perspective</title>
             <creator>Cafuné</creator>
             <duration>163239</duration>
-            <location>U:\Shared\Music\Cafun%C3%A9%20-%20(2023)%20xxxxxx%20-%20Perspective.mp3</location>
+            <location>U:\Shared\Music\Cafun%C3%A9 - (2023) xxxxxx - Perspective.mp3</location>
         </track>
         <track>
             <title>Cuidado (Lying From You Demo)</title>
             <creator>Linkin Park</creator>
             <album>Meteora 20th Anniversary</album>
             <duration>200568</duration>
-            <location>U:\Shared\Music\Linkin%20Park%20-%20(2023)%20Meteora%2020th%20Anniversary%20-%20Cuidado%20(Lying%20From%20You%20Demo).mp3</location>
+            <location>U:\Shared\Music\Linkin Park - (2023) Meteora 20th Anniversary - Cuidado (Lying From You Demo).mp3</location>
         </track>
         <track>
             <title>Kill the silence</title>
             <creator>Nervosa</creator>
             <album>Downfall Of Mankind</album>
             <duration>210076</duration>
-            <location>U:\Shared\Music\Nervosa%20-%20Kill%20the%20silence.mp3</location>
+            <location>U:\Shared\Music\Nervosa - Kill the silence.mp3</location>
         </track>
         <track>
             <title>More the Victim</title>
             <creator>Linkin Park</creator>
             <album>Meteora 20th Anniversary</album>
             <duration>162586</duration>
-            <location>U:\Shared\Music\Linkin%20Park%20-%20(2023)%20Meteora%2020th%20Anniversary%20-%20More%20the%20Victim.mp3</location>
+            <location>U:\Shared\Music\Linkin Park - (2023) Meteora 20th Anniversary - More the Victim.mp3</location>
         </track>
         <track>
             <title>Massive</title>
             <creator>Linkin Park</creator>
             <album>Meteora 20th Anniversary</album>
             <duration>189283</duration>
-            <location>U:\Shared\Music\Linkin%20Park%20-%20(2023)%20Meteora%2020th%20Anniversary%20-%20Massive.mp3</location>
+            <location>U:\Shared\Music\Linkin Park - (2023) Meteora 20th Anniversary - Massive.mp3</location>
         </track>
         <track>
             <title>Healing Foot</title>
             <creator>Linkin Park</creator>
             <album>Meteora 20th Anniversary</album>
             <duration>213629</duration>
-            <location>U:\Shared\Music\Linkin%20Park%20-%20(2023)%20Meteora%2020th%20Anniversary%20-%20Healing%20Foot.mp3</location>
+            <location>U:\Shared\Music\Linkin Park - (2023) Meteora 20th Anniversary - Healing Foot.mp3</location>
         </track>
         <track>
             <title>The Offering</title>
             <creator>Sleep Token</creator>
             <album>Sundowning </album>
             <duration>349622</duration>
-            <location>U:\Shared\Music\Sleep%20Token%20-%20(202X)%20xxxxxxxxxxxxxxx%20-%20The%20Offering.mp3</location>
+            <location>U:\Shared\Music\Sleep Token - (202X) xxxxxxxxxxxxxxx - The Offering.mp3</location>
         </track>
         <track>
             <title>Hypnosis</title>
             <creator>Sleep Token</creator>
             <album>This Place Will Become Your Tomb</album>
             <duration>336143</duration>
-            <location>U:\Shared\Music\Sleep%20Token%20-%20(202X)%20xxxxxxxxxxxxxxx%20-%20Hypnosis.mp3</location>
+            <location>U:\Shared\Music\Sleep Token - (202X) xxxxxxxxxxxxxxx - Hypnosis.mp3</location>
         </track>
         <track>
             <title>Akudama</title>
             <creator>Alpha Wolf</creator>
             <album>A Quiet Place to Die</album>
             <duration>157466</duration>
-            <location>U:\Shared\Music\Alpha%20Wolf%20-%20(2020)%20A%20Quiet%20Place%20to%20Die%20-%20Akudama.mp3</location>
+            <location>U:\Shared\Music\Alpha Wolf - (2020) A Quiet Place to Die - Akudama.mp3</location>
         </track>
         <track>
             <title>Nocturne</title>
             <creator>Tesseract</creator>
             <duration>271072</duration>
-            <location>U:\Shared\Music\TESSERACT%20-%20Nocturne.mp3</location>
+            <location>U:\Shared\Music\TESSERACT - Nocturne.mp3</location>
         </track>
         <track>
             <title>Hollywood's Bleeding</title>
             <creator>Post Malone</creator>
             <duration>157387</duration>
-            <location>U:\Shared\Music\Post%20Malone%20-%20Hollywoods%20Bleeding.mp3</location>
+            <location>U:\Shared\Music\Post Malone - Hollywoods Bleeding.mp3</location>
         </track>
         <track>
             <title>The Void</title>
             <creator>Spiritbox</creator>
             <duration>220839</duration>
-            <location>U:\Shared\Music\Spiritbox%20-%20(2023)%20-%20The%20Void.mp3</location>
+            <location>U:\Shared\Music\Spiritbox - (2023) - The Void.mp3</location>
         </track>
         <track>
             <title>Quem é o Boss? (feat. Tribo da Periferia)</title>
             <creator>Hungria</creator>
             <duration>237453</duration>
-            <location>U:\Shared\Music\Hungria%20-%20(2023)%20-%20Quem%20%C3%A9%20o%20Boss%20(feat.%20Tribo%20da%20Periferia).mp3</location>
+            <location>U:\Shared\Music\Hungria - (2023) - Quem %C3%A9 o Boss (feat. Tribo da Periferia).mp3</location>
         </track>
         <track>
             <title>Valho Nada (ft. BRUTOS, VINICIN, A.R E AMORIM)</title>
             <creator>Mc Cabelinho</creator>
             <duration>218409</duration>
-            <location>U:\Shared\Music\Mc%20Cabelinho%20-%20Valho%20nada%20(feat%20Brutos,%20Vinicin,%20A.R.,%20Amorim).mp3</location>
+            <location>U:\Shared\Music\Mc Cabelinho - Valho nada (feat Brutos, Vinicin, A.R., Amorim).mp3</location>
         </track>
         <track>
             <title>1 5 2 4 3</title>
             <creator>Kmac</creator>
             <duration>320182</duration>
-            <location>U:\Shared\Music\Kmac%20-%20(2023)%20-%201%205%202%204%203.mp3</location>
+            <location>U:\Shared\Music\Kmac - (2023) - 1 5 2 4 3.mp3</location>
         </track>
         <track>
             <title>Shattered</title>
             <creator>Coma Waves</creator>
             <duration>246125</duration>
-            <location>U:\Shared\Music\Coma%20Waves%20-%20(2023)%20xxxxxxx%20-%20Shattered.mp3</location>
+            <location>U:\Shared\Music\Coma Waves - (2023) xxxxxxx - Shattered.mp3</location>
         </track>
         <track>
             <title>Smile (Feat. Marcus Bridge)</title>
             <creator>Annisokay</creator>
             <duration>286902</duration>
-            <location>U:\Shared\Music\Annisokay%20-%20Smile.mp3</location>
+            <location>U:\Shared\Music\Annisokay - Smile.mp3</location>
         </track>
         <track>
             <title>Legs Shakin’</title>
             <creator>R. Kelly</creator>
             <duration>268382</duration>
-            <location>U:\Shared\Music\R.%20Kelly%20-%20Legs%20Shakin.mp3</location>
+            <location>U:\Shared\Music\R. Kelly - Legs Shakin.mp3</location>
         </track>
         <track>
             <title>Human</title>
             <creator>Resolve</creator>
             <duration>281129</duration>
-            <location>U:\Shared\Music\Resolve%20-%20(2023)%20xxxxxxxxxxxx%20-%20Human.mp3</location>
+            <location>U:\Shared\Music\Resolve - (2023) xxxxxxxxxxxx - Human.mp3</location>
         </track>
         <track>
             <title>Tá ok</title>
             <creator>Dennis e Kevin O Chris </creator>
             <duration>92160</duration>
-            <location>U:\Shared\Music\Dennis%20e%20Kevin%20O%20Chris%20-%202023%20-%20T%C3%A1%20ok.mp3</location>
+            <location>U:\Shared\Music\Dennis e Kevin O Chris - 2023 - T%C3%A1 ok.mp3</location>
         </track>
         <track>
             <title>Goodbye For Now</title>
@@ -305,181 +305,181 @@
             <album>Greatest Hits (The Atlantic Years)</album>
             <duration>273867</duration>
             <trackNum>10</trackNum>
-            <location>U:\Shared\Music\P.O.D.%20-%20(2006)%20Greatest%20Hits%20-%20Goodbye%20For%20Now.mp3</location>
+            <location>U:\Shared\Music\P.O.D. - (2006) Greatest Hits - Goodbye For Now.mp3</location>
         </track>
         <track>
             <title>Elamy</title>
             <creator>Miss Monique</creator>
             <duration>278622</duration>
-            <location>U:\Shared\Music\Miss%20Monique%20-%202022%20-%20Elamy.mp3</location>
+            <location>U:\Shared\Music\Miss Monique - 2022 - Elamy.mp3</location>
         </track>
         <track>
             <title>Fallen Leaf (feat. Be No Rain)</title>
             <creator>Vintage Culture</creator>
             <duration>248816</duration>
-            <location>U:\Shared\Music\Vintage%20Culture%20-%20(2023)%20-%20Fallen%20Leaf%20(feat.%20Be%20No%20Rain).mp3</location>
+            <location>U:\Shared\Music\Vintage Culture - (2023) - Fallen Leaf (feat. Be No Rain).mp3</location>
         </track>
         <track>
             <title>Odium (ft. Kingpin Skinny Pimp)</title>
             <creator>Lxst Cxntury</creator>
             <duration>166739</duration>
-            <location>U:\Shared\Music\Lxst%20Cxntury%20-%202021%20-%20ODIUM%20(ft.%20Kingpin%20Skinny%20Pimp).mp3</location>
+            <location>U:\Shared\Music\Lxst Cxntury - 2021 - ODIUM (ft. Kingpin Skinny Pimp).mp3</location>
         </track>
         <track>
             <title>Amnesia</title>
             <creator>Lxst Cxntury</creator>
             <duration>182232</duration>
-            <location>U:\Shared\Music\Lxst%20Cxntury%20-%202020%20-%20AMNESIA.mp3</location>
+            <location>U:\Shared\Music\Lxst Cxntury - 2020 - AMNESIA.mp3</location>
         </track>
         <track>
             <title>Vida Louca</title>
             <creator>MC Poze do Rodo </creator>
             <duration>155924</duration>
-            <location>U:\Shared\Music\MC%20Poze%20do%20Rodo%20-%202021%20-%20Vida%20Louca.mp3</location>
+            <location>U:\Shared\Music\MC Poze do Rodo - 2021 - Vida Louca.mp3</location>
         </track>
         <track>
             <title>Like a Tattoo</title>
             <creator>Sade</creator>
             <album>Love Deluxe (Remastered)</album>
             <duration>220865</duration>
-            <location>U:\Shared\Music\Sade%20-%20(1992)%20Love%20Deluxe%20(Remastered)%20-%20Like%20a%20Tattoo.mp3</location>
+            <location>U:\Shared\Music\Sade - (1992) Love Deluxe (Remastered) - Like a Tattoo.mp3</location>
         </track>
         <track>
             <title>Cool</title>
             <creator>Dua Lipa</creator>
             <album>Future Nostalgia</album>
             <duration>215980</duration>
-            <location>U:\Shared\Music\Dua%20Lipa%20-%20(2020)%20Future%20Nostalgia%20-%20Cool.mp3</location>
+            <location>U:\Shared\Music\Dua Lipa - (2020) Future Nostalgia - Cool.mp3</location>
         </track>
         <track>
             <title>Eu Vou Estar</title>
             <creator>Capital Inicial</creator>
             <album>Atrás dos olhos</album>
             <duration>203128</duration>
-            <location>U:\Shared\Music\Capital%20Inicial%20-%20(1998)%20Atr%C3%A1s%20dos%20olhos%20-%20Eu%20Vou%20Estar.mp3</location>
+            <location>U:\Shared\Music\Capital Inicial - (1998) Atr%C3%A1s dos olhos - Eu Vou Estar.mp3</location>
         </track>
         <track>
             <title>Dead Embryonic Cells (Sepultura Cover)</title>
             <creator>God Syndrome</creator>
             <album>From Russia</album>
             <duration>298318</duration>
-            <location>U:\Shared\Music\God%20Syndrome%20-%20(2013)%20-%20Dead%20Embryonic%20Cells%20(Sepultura%20Cover).mp3</location>
+            <location>U:\Shared\Music\God Syndrome - (2013) - Dead Embryonic Cells (Sepultura Cover).mp3</location>
         </track>
         <track>
             <title>Wild Peace</title>
             <creator>xNOMADx</creator>
             <album>Demo</album>
             <duration>213648</duration>
-            <location>U:\Shared\Music\xNomadx%20-%20(2023)%20Demo%20-%20Wild%20Peace.mp3</location>
+            <location>U:\Shared\Music\xNomadx - (2023) Demo - Wild Peace.mp3</location>
         </track>
         <track>
             <title>Now</title>
             <creator>xNOMADx</creator>
             <album>Demo</album>
             <duration>217416</duration>
-            <location>U:\Shared\Music\xNomadx%20-%20(2023)%20Demo%20-%20Now.mp3</location>
+            <location>U:\Shared\Music\xNomadx - (2023) Demo - Now.mp3</location>
         </track>
         <track>
             <title>Future Primitive</title>
             <creator>xNOMADx</creator>
             <album>Demo</album>
             <duration>173832</duration>
-            <location>U:\Shared\Music\xNomadx%20-%20(2023)%20Demo%20-%20Future%20Primitive.mp3</location>
+            <location>U:\Shared\Music\xNomadx - (2023) Demo - Future Primitive.mp3</location>
         </track>
         <track>
             <title>Hostage</title>
             <creator>Chelsea Grin</creator>
             <album>Eternal Nightmare</album>
             <duration>196392</duration>
-            <location>U:\Shared\Music\Chelsea%20Grin%20-%20Hostage.mp3</location>
+            <location>U:\Shared\Music\Chelsea Grin - Hostage.mp3</location>
         </track>
         <track>
             <title>The Other Side Of Anger</title>
             <creator>Crypta</creator>
             <album>Shades of Sorrow</album>
             <duration>298971</duration>
-            <location>U:\Shared\Music\Crypta%20-%20(2023)%20Shades%20of%20Sorrow%20-%20The%20Other%20Side%20Of%20Anger.mp3</location>
+            <location>U:\Shared\Music\Crypta - (2023) Shades of Sorrow - The Other Side Of Anger.mp3</location>
         </track>
         <track>
             <title>Don't Go Away (Remastered)</title>
             <creator>Oasis</creator>
             <album>Be Here Now</album>
             <duration>288696</duration>
-            <location>U:\Shared\Music\Oasis%20-%20(1997)%20Be%20Here%20Now%20-%20Don't%20Go%20Away.mp3</location>
+            <location>U:\Shared\Music\Oasis - (1997) Be Here Now - Don't Go Away.mp3</location>
         </track>
         <track>
             <title>Blood Junkie</title>
             <creator>Lamb of God</creator>
             <album>As The Palaces Burn</album>
             <duration>263520</duration>
-            <location>U:\Shared\Music\Lamb%20of%20God%20-%20(2003)%20As%20The%20Palaces%20Burn%20-%20Blood%20Junkie.mp3</location>
+            <location>U:\Shared\Music\Lamb of God - (2003) As The Palaces Burn - Blood Junkie.mp3</location>
         </track>
         <track>
             <title>Jaded</title>
             <creator>Spiritbox</creator>
             <duration>262656</duration>
-            <location>U:\Shared\Music\Spiritbox%20-%20(2023)%20-%20Jaded.mp3</location>
+            <location>U:\Shared\Music\Spiritbox - (2023) - Jaded.mp3</location>
         </track>
         <track>
             <title>Summoned for Sacrifice</title>
             <creator>Cannibal Corpse</creator>
             <album>Chaos Horrific</album>
             <duration>245256</duration>
-            <location>U:\Shared\Music\Cannibal%20Corpse%20-%20(2023)%20Chaos%20Horrific%20-%20Summoned%20for%20Sacrifice.mp3</location>
+            <location>U:\Shared\Music\Cannibal Corpse - (2023) Chaos Horrific - Summoned for Sacrifice.mp3</location>
         </track>
         <track>
             <title>Dark Clouds</title>
             <creator>Crypta</creator>
             <album>Shades of Sorrow</album>
             <duration>286876</duration>
-            <location>U:\Shared\Music\Crypta%20-%20(2023)%20Shades%20of%20Sorrow%20-%20Dark%20Clouds.mp3</location>
+            <location>U:\Shared\Music\Crypta - (2023) Shades of Sorrow - Dark Clouds.mp3</location>
         </track>
         <track>
             <title>4D</title>
             <creator>Northlane</creator>
             <duration>251016</duration>
-            <location>U:\Shared\Music\Northlane%20-%204D.mp3</location>
+            <location>U:\Shared\Music\Northlane - 4D.mp3</location>
         </track>
         <track>
             <title>Take me back</title>
             <creator>Kanisan</creator>
             <duration>149280</duration>
-            <location>U:\Shared\Music\Kanisan%20-%202023%20-%20Take%20me%20back.mp3</location>
+            <location>U:\Shared\Music\Kanisan - 2023 - Take me back.mp3</location>
         </track>
         <track>
             <title>The Living Infinite II</title>
             <creator>Soilwork</creator>
             <album>The Living Infinite</album>
             <duration>339192</duration>
-            <location>U:\Shared\Music\Soilwork%20-%20(2013)%20The%20Living%20Infinite%20-%20The%20Living%20Infinite%20II.mp3</location>
+            <location>U:\Shared\Music\Soilwork - (2013) The Living Infinite - The Living Infinite II.mp3</location>
         </track>
         <track>
             <title>The Windswept Mercy</title>
             <creator>Soilwork</creator>
             <album>The Living Infinite</album>
             <duration>254544</duration>
-            <location>U:\Shared\Music\Soilwork%20-%20(2013)%20The%20Living%20Infinite%20-%20The%20Windswept%20Mercy.mp3</location>
+            <location>U:\Shared\Music\Soilwork - (2013) The Living Infinite - The Windswept Mercy.mp3</location>
         </track>
         <track>
             <title>Tongue</title>
             <creator>Soilwork</creator>
             <album>The Living Infinite</album>
             <duration>257160</duration>
-            <location>U:\Shared\Music\Soilwork%20-%20(2013)%20The%20Living%20Infinite%20-%20Tongue.mp3</location>
+            <location>U:\Shared\Music\Soilwork - (2013) The Living Infinite - Tongue.mp3</location>
         </track>
         <track>
             <title>Leech</title>
             <creator>Soilwork</creator>
             <album>The Living Infinite</album>
             <duration>260592</duration>
-            <location>U:\Shared\Music\Soilwork%20-%20(2013)%20The%20Living%20Infinite%20-%20Leech.mp3</location>
+            <location>U:\Shared\Music\Soilwork - (2013) The Living Infinite - Leech.mp3</location>
         </track>
         <track>
             <title>Feverish</title>
             <creator>Soilwork</creator>
             <album>A Whisp of the Atlantic</album>
             <duration>358080</duration>
-            <location>U:\Shared\Music\Soilwork%20-%20(2020)%20A%20Whisp%20of%20the%20Atlantic%20-%20Feverish.mp3</location>
+            <location>U:\Shared\Music\Soilwork - (2020) A Whisp of the Atlantic - Feverish.mp3</location>
         </track>
         <track>
             <title>Californian Soil</title>
@@ -487,7 +487,7 @@
             <album>Californian Soil</album>
             <duration>221466</duration>
             <trackNum>2</trackNum>
-            <location>U:\Shared\Music\London%20Grammar%20-%20(2021)%20Californian%20Soil%20-%20Californian%20Soil.mp3</location>
+            <location>U:\Shared\Music\London Grammar - (2021) Californian Soil - Californian Soil.mp3</location>
         </track>
         <track>
             <title>Call Your Friends</title>
@@ -495,7 +495,7 @@
             <album>Californian Soil</album>
             <duration>192026</duration>
             <trackNum>8</trackNum>
-            <location>U:\Shared\Music\London%20Grammar%20-%20(2021)%20Californian%20Soil%20-%20Call%20Your%20Friends.mp3</location>
+            <location>U:\Shared\Music\London Grammar - (2021) Californian Soil - Call Your Friends.mp3</location>
         </track>
         <track>
             <title>How Does It Feel</title>
@@ -503,7 +503,7 @@
             <album>Californian Soil</album>
             <duration>211565</duration>
             <trackNum>6</trackNum>
-            <location>U:\Shared\Music\London%20Grammar%20-%20(2021)%20Californian%20Soil%20-%20How%20Does%20It%20Feel.mp3</location>
+            <location>U:\Shared\Music\London Grammar - (2021) Californian Soil - How Does It Feel.mp3</location>
         </track>
         <track>
             <title>I Need the Night</title>
@@ -511,7 +511,7 @@
             <album>Californian Soil</album>
             <duration>260310</duration>
             <trackNum>11</trackNum>
-            <location>U:\Shared\Music\London%20Grammar%20-%20(2021)%20Californian%20Soil%20-%20I%20Need%20the%20Night.mp3</location>
+            <location>U:\Shared\Music\London Grammar - (2021) Californian Soil - I Need the Night.mp3</location>
         </track>
         <track>
             <title>Missing</title>
@@ -519,54 +519,54 @@
             <album>Californian Soil</album>
             <duration>215875</duration>
             <trackNum>3</trackNum>
-            <location>U:\Shared\Music\London%20Grammar%20-%20(2021)%20Californian%20Soil%20-%20Missing.mp3</location>
+            <location>U:\Shared\Music\London Grammar - (2021) Californian Soil - Missing.mp3</location>
         </track>
         <track>
             <title>Shadowminds (ex-In Flames members + Dark tranquility vocals)</title>
             <creator>The Halo Effect </creator>
             <album>Days of the Lost</album>
             <duration>233376</duration>
-            <location>U:\Shared\Music\The%20Halo%20Effect%20-%20(2021)%20The%20Endeless%20End%20-%20Shadowminds%20.mp3</location>
+            <location>U:\Shared\Music\The Halo Effect - (2021) The Endeless End - Shadowminds .mp3</location>
         </track>
         <track>
             <title>Meet Your Maker</title>
             <creator>In Flames</creator>
             <album>Foregone</album>
             <duration>243840</duration>
-            <location>U:\Shared\Music\In%20Flames%20-%20(2023)%20Foregone%20-%20Meet%20Your%20Maker.mp3</location>
+            <location>U:\Shared\Music\In Flames - (2023) Foregone - Meet Your Maker.mp3</location>
         </track>
         <track>
             <title>My Curse (2021 Remaster by sixdust)</title>
             <creator>Killswitch Engage</creator>
             <duration>249077</duration>
-            <location>U:\Shared\Music\Killswitch%20Engage%20-%20My%20Curse%20(2021%20Remaster).mp3</location>
+            <location>U:\Shared\Music\Killswitch Engage - My Curse (2021 Remaster).mp3</location>
         </track>
         <track>
             <title>Desire</title>
             <creator>Meg Myers</creator>
             <album>Make a Shadow</album>
             <duration>285072</duration>
-            <location>U:\Shared\Music\Meg%20Myers%20-%20(2014)%20Make%20a%20Shadow%20-%20Desire.mp3</location>
+            <location>U:\Shared\Music\Meg Myers - (2014) Make a Shadow - Desire.mp3</location>
         </track>
         <track>
             <title>Dumbo</title>
             <creator>Pausa Psi</creator>
             <album>Nacho De La Riega</album>
             <duration>141240</duration>
-            <location>U:\Shared\Music\Pausa%20Psi%20-%20(2022)%20Nacho%20De%20La%20Riega%20-%20Dumbo.mp3</location>
+            <location>U:\Shared\Music\Pausa Psi - (2022) Nacho De La Riega - Dumbo.mp3</location>
         </track>
         <track>
             <title>Restless Nights</title>
             <creator>Seek Shelter</creator>
             <duration>141240</duration>
-            <location>U:\Shared\Music\Seek%20Shelter%20-%20(2022)%20-%20Restless%20Nights.mp3</location>
+            <location>U:\Shared\Music\Seek Shelter - (2022) - Restless Nights.mp3</location>
         </track>
         <track>
             <title>Coffeemaker</title>
             <creator>Mr Mantega</creator>
             <album>Calma Cabeza</album>
             <duration>160052</duration>
-            <location>U:\Shared\Music\Mr.%20Mantega%20-%20(2021)%20Calma%20Cabeza%20-%20Coffeemaker.mp3</location>
+            <location>U:\Shared\Music\Mr. Mantega - (2021) Calma Cabeza - Coffeemaker.mp3</location>
         </track>
         <track>
             <title>Keres</title>
@@ -574,7 +574,7 @@
             <album>Godlike</album>
             <duration>216163</duration>
             <trackNum>4</trackNum>
-            <location>U:\Shared\Music\Thy%20Art%20Is%20Murder%20-%20(2023)%20Godlike%20-%20Keres.mp3</location>
+            <location>U:\Shared\Music\Thy Art Is Murder - (2023) Godlike - Keres.mp3</location>
         </track>
         <track>
             <title>Join Me In Armageddon</title>
@@ -582,7 +582,7 @@
             <album>Godlike</album>
             <duration>278230</duration>
             <trackNum>3</trackNum>
-            <location>U:\Shared\Music\Thy%20Art%20Is%20Murder%20-%20(2023)%20Godlike%20-%20%20Join%20Me%20In%20Armageddon.mp3</location>
+            <location>U:\Shared\Music\Thy Art Is Murder - (2023) Godlike -  Join Me In Armageddon.mp3</location>
         </track>
         <track>
             <title>Destroyer Of Dreams</title>
@@ -590,7 +590,7 @@
             <album>Godlike</album>
             <duration>279144</duration>
             <trackNum>1</trackNum>
-            <location>U:\Shared\Music\Thy%20Art%20Is%20Murder%20-%20(2023)%20Godlike%20-%20Destroyer%20Of%20Dreams.mp3</location>
+            <location>U:\Shared\Music\Thy Art Is Murder - (2023) Godlike - Destroyer Of Dreams.mp3</location>
         </track>
         <track>
             <title>The Summoning</title>
@@ -598,20 +598,20 @@
             <album>Take Me Back To Eden</album>
             <duration>397740</duration>
             <trackNum>2</trackNum>
-            <location>U:\Shared\Music\Sleep%20Token%20-%20(2023)%20Take%20Me%20Back%20To%20Eden%20-%20The%20Summoning.mp3</location>
+            <location>U:\Shared\Music\Sleep Token - (2023) Take Me Back To Eden - The Summoning.mp3</location>
         </track>
         <track>
             <title>Cruise Control</title>
             <creator>Joey Badass</creator>
             <album>2000</album>
             <duration>208274</duration>
-            <location>U:\Shared\Music\Joey%20Badass%20-%20(2022)%202000%20-%20Cruise%20Control.mp3</location>
+            <location>U:\Shared\Music\Joey Badass - (2022) 2000 - Cruise Control.mp3</location>
         </track>
         <track>
             <title>Gravura</title>
             <creator>Franktuary</creator>
             <duration>210504</duration>
-            <location>U:\Shared\Music\Franktuary%20-%202020%20-%20Gravura.mp3</location>
+            <location>U:\Shared\Music\Franktuary - 2020 - Gravura.mp3</location>
         </track>
         <track>
             <title>Bestial Devastation</title>
@@ -619,7 +619,7 @@
             <album>Bestial Devastation</album>
             <duration>184241</duration>
             <trackNum>2</trackNum>
-            <location>U:\Shared\Music\Cavalera%20Conspiracy%20-%20(2023)%20Bestial%20Devastation%20-%2002%20Bestial%20Devastation.mp3</location>
+            <location>U:\Shared\Music\Cavalera Conspiracy - (2023) Bestial Devastation - 02 Bestial Devastation.mp3</location>
         </track>
         <track>
             <title>Tides</title>
@@ -627,7 +627,7 @@
             <album>Fragments</album>
             <duration>233377</duration>
             <trackNum>5</trackNum>
-            <location>U:\Shared\Music\Bonobo%20-%20(2022)%20Fragments%20-%2005.%20Tides.mp3</location>
+            <location>U:\Shared\Music\Bonobo - (2022) Fragments - 05. Tides.mp3</location>
         </track>
         <track>
             <title>Rosewood</title>
@@ -635,7 +635,7 @@
             <album>Fragments</album>
             <duration>249991</duration>
             <trackNum>3</trackNum>
-            <location>U:\Shared\Music\Bonobo%20-%20(2022)%20Fragments%20-%2003.%20Rosewood.mp3</location>
+            <location>U:\Shared\Music\Bonobo - (2022) Fragments - 03. Rosewood.mp3</location>
         </track>
     </trackList>
 </playlist>

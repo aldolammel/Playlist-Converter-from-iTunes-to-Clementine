@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <playlist xmlns="http://xspf.org/ns/0/" version="1">
     <trackList>
         <track>
@@ -7,61 +7,61 @@
             <album>Back in Black</album>
             <duration>255686</duration>
             <trackNum>5</trackNum>
-            <location>U:\Shared\Music\AC-DC%20-%20(1980)%20Back%20in%20Black%20-%20Let%20me%20put%20my%20love%20into%20you.mp3</location>
+            <location>U:\Shared\Music\AC-DC - (1980) Back in Black - Let me put my love into you.mp3</location>
         </track>
         <track>
             <title>The Ghoul Next Door (ft. Kendall Miles)</title>
             <creator>Alex</creator>
             <duration>138762</duration>
-            <location>U:\Shared\Music\ALEX%20&amp;%20Kendall%20Miles%20-%20The%20Ghoul%20Next%20Door.mp3</location>
+            <location>U:\Shared\Music\ALEX &amp; Kendall Miles - The Ghoul Next Door.mp3</location>
         </track>
         <track>
             <title>Further</title>
             <creator>DLJ</creator>
             <duration>141844</duration>
-            <location>U:\Shared\Music\DLJ%20-%202020%20-%20Further.mp3</location>
+            <location>U:\Shared\Music\DLJ - 2020 - Further.mp3</location>
         </track>
         <track>
             <title>Parallel</title>
             <creator>Eagle Eyed Tiger </creator>
             <duration>294687</duration>
-            <location>U:\Shared\Music\Eagle%20Eyed%20Tiger%20-%20Bandcamp%20-%20Parallel.mp3</location>
+            <location>U:\Shared\Music\Eagle Eyed Tiger - Bandcamp - Parallel.mp3</location>
         </track>
         <track>
             <title>Supernal (ft. oDDling)</title>
             <creator>Forhill</creator>
             <duration>245185</duration>
-            <location>U:\Shared\Music\Forhill%20&amp;%20oDDling%20-%20Supernal.mp3</location>
+            <location>U:\Shared\Music\Forhill &amp; oDDling - Supernal.mp3</location>
         </track>
         <track>
             <title>Apparition</title>
             <creator>Forhill</creator>
             <duration>280476</duration>
-            <location>U:\Shared\Music\Forhill%20-%20Apparition.mp3</location>
+            <location>U:\Shared\Music\Forhill - Apparition.mp3</location>
         </track>
         <track>
             <title>Arboretum</title>
             <creator>Forhill</creator>
             <duration>259265</duration>
-            <location>U:\Shared\Music\Forhill%20-%20Arboretum.mp3</location>
+            <location>U:\Shared\Music\Forhill - Arboretum.mp3</location>
         </track>
         <track>
             <title>Destinations</title>
             <creator>Forhill</creator>
             <duration>171885</duration>
-            <location>U:\Shared\Music\Forhill%20-%20Destinations.mp3</location>
+            <location>U:\Shared\Music\Forhill - Destinations.mp3</location>
         </track>
         <track>
             <title>Odyssey</title>
             <creator>Forhill</creator>
             <duration>244976</duration>
-            <location>U:\Shared\Music\Forhill%20-%20Odyssey.mp3</location>
+            <location>U:\Shared\Music\Forhill - Odyssey.mp3</location>
         </track>
         <track>
             <title>Stay</title>
             <creator>Forhill</creator>
             <duration>244584</duration>
-            <location>U:\Shared\Music\Forhill%20-%20Stay.mp3</location>
+            <location>U:\Shared\Music\Forhill - Stay.mp3</location>
         </track>
         <track>
             <title>Wander Through Me</title>
@@ -69,109 +69,109 @@
             <album>Figments</album>
             <duration>245394</duration>
             <trackNum>10</trackNum>
-            <location>U:\Shared\Music\Forhill%20-%20Wander%20Through%20Me.mp3</location>
+            <location>U:\Shared\Music\Forhill - Wander Through Me.mp3</location>
         </track>
         <track>
             <title>Wave</title>
             <creator>Forhill</creator>
             <duration>284577</duration>
-            <location>U:\Shared\Music\Forhill%20-%20Wave.mp3</location>
+            <location>U:\Shared\Music\Forhill - Wave.mp3</location>
         </track>
         <track>
             <title>Prismatics (feat. Flávio La Barre)</title>
             <creator>Francci</creator>
             <duration>270106</duration>
-            <location>U:\Shared\Music\Francci-Prismatics%20(feat.%20Fl%C3%A1vio%20La%20Barre).mp3</location>
+            <location>U:\Shared\Music\Francci-Prismatics (feat. Fl%C3%A1vio La Barre).mp3</location>
         </track>
         <track>
             <title>5 Min Call</title>
             <creator>LAKEY INSPIRED</creator>
             <duration>170422</duration>
-            <location>U:\Shared\Music\Lakey%20Inspired%20-%205%20Min%20Call.mp3</location>
+            <location>U:\Shared\Music\Lakey Inspired - 5 Min Call.mp3</location>
         </track>
         <track>
             <title>Alone</title>
             <creator>LAKEY INSPIRED</creator>
             <duration>201064</duration>
-            <location>U:\Shared\Music\Lakey%20Inspired%20-%20Alone.mp3</location>
+            <location>U:\Shared\Music\Lakey Inspired - Alone.mp3</location>
         </track>
         <track>
             <title>Chill Day</title>
             <creator>LAKEY INSPIRED</creator>
             <duration>186070</duration>
-            <location>U:\Shared\Music\Lakey%20Inspired%20-%20Chill%20Day.mp3</location>
+            <location>U:\Shared\Music\Lakey Inspired - Chill Day.mp3</location>
         </track>
         <track>
             <title>Going Up</title>
             <creator>LAKEY INSPIRED</creator>
             <duration>180767</duration>
-            <location>U:\Shared\Music\Lakey%20Inspired%20-%20Going%20Up.mp3</location>
+            <location>U:\Shared\Music\Lakey Inspired - Going Up.mp3</location>
         </track>
         <track>
             <title>Island</title>
             <creator>LAKEY INSPIRED</creator>
             <duration>151222</duration>
-            <location>U:\Shared\Music\Lakey%20Inspired%20-%20Island.mp3</location>
+            <location>U:\Shared\Music\Lakey Inspired - Island.mp3</location>
         </track>
         <track>
             <title>Saturdays</title>
             <creator>LAKEY INSPIRED</creator>
             <duration>151222</duration>
-            <location>U:\Shared\Music\Lakey%20Inspired%20-%20Saturdays.mp3</location>
+            <location>U:\Shared\Music\Lakey Inspired - Saturdays.mp3</location>
         </track>
         <track>
             <title>Signal</title>
             <creator>LAKEY INSPIRED</creator>
             <duration>195108</duration>
-            <location>U:\Shared\Music\LAKEY%20INSPIRED%20-%20Signal.mp3</location>
+            <location>U:\Shared\Music\LAKEY INSPIRED - Signal.mp3</location>
         </track>
         <track>
             <title>Street Dreams</title>
             <creator>LAKEY INSPIRED</creator>
             <duration>180871</duration>
-            <location>U:\Shared\Music\Lakey%20Inspired%20-%20Street%20Dreams.mp3</location>
+            <location>U:\Shared\Music\Lakey Inspired - Street Dreams.mp3</location>
         </track>
         <track>
             <title>Thinking Of You</title>
             <creator>LAKEY INSPIRED</creator>
             <duration>194899</duration>
-            <location>U:\Shared\Music\LAKEY%20INSPIRED%20-%20Thinking%20Of%20You.mp3</location>
+            <location>U:\Shared\Music\LAKEY INSPIRED - Thinking Of You.mp3</location>
         </track>
         <track>
             <title>Burst</title>
             <creator>Lloyd P-White</creator>
             <duration>141333</duration>
-            <location>U:\Shared\Music\Lloyd%20P-White%20-%20Burst.wav</location>
+            <location>U:\Shared\Music\Lloyd P-White - Burst.wav</location>
         </track>
         <track>
             <title>War Is Hell (Old School Rap Beat)</title>
             <creator>Mariont</creator>
             <duration>243304</duration>
-            <location>U:\Shared\Music\Mariont%20-%20(%2329)WarIsHell.mp3</location>
+            <location>U:\Shared\Music\Mariont - (%2329)WarIsHell.mp3</location>
         </track>
         <track>
             <title>Impro 2016l4l2</title>
             <creator>Metome</creator>
             <duration>256000</duration>
-            <location>U:\Shared\Music\Metome%20-%20Impro%202016l4l2%20(creative%20commons).wav</location>
+            <location>U:\Shared\Music\Metome - Impro 2016l4l2 (creative commons).wav</location>
         </track>
         <track>
             <title>Homefinder</title>
             <creator>MoTER</creator>
             <duration>285074</duration>
-            <location>U:\Shared\Music\MoTER%20-%20Soundcloud%20-%20Homefinder.mp3</location>
+            <location>U:\Shared\Music\MoTER - Soundcloud - Homefinder.mp3</location>
         </track>
         <track>
             <title>Cosmic Harmonies</title>
             <creator>Mr. Käfer</creator>
             <duration>171284</duration>
-            <location>U:\Shared\Music\Mr.%20K%C3%A4fer%20-%202017%20-%20Cosmic%20Harmonies.mp3</location>
+            <location>U:\Shared\Music\Mr. K%C3%A4fer - 2017 - Cosmic Harmonies.mp3</location>
         </track>
         <track>
             <title>Roam</title>
             <creator>Natural Doc &amp; Jinsfake</creator>
             <duration>166765</duration>
-            <location>U:\Shared\Music\Natural%20Doc%20&amp;%20Jinsfake%20-%20Roam.mp3</location>
+            <location>U:\Shared\Music\Natural Doc &amp; Jinsfake - Roam.mp3</location>
         </track>
         <track>
             <title>#46</title>
@@ -179,26 +179,26 @@
             <album>Doa a Quem Doer</album>
             <duration>104620</duration>
             <trackNum>8</trackNum>
-            <location>U:\Shared\Music\Project46%20-%20(2011)%20Doa%20a%20Quem%20Doer%20-%20%2346.mp3</location>
+            <location>U:\Shared\Music\Project46 - (2011) Doa a Quem Doer - %2346.mp3</location>
         </track>
         <track>
             <title>Base LoFi para a canção Cheia De Manias (JDutra)</title>
             <creator>Raça Negra</creator>
             <duration>173087</duration>
-            <location>U:\Shared\Music\Ra%C3%A7a%20Negra%20-%20Cheia%20de%20Manias%20(lofi%20remix%20by%20Jo%C3%A3o%20Dutra%20-%20jdutra%20-%20no%20voices).mp3</location>
+            <location>U:\Shared\Music\Ra%C3%A7a Negra - Cheia de Manias (lofi remix by Jo%C3%A3o Dutra - jdutra - no voices).mp3</location>
         </track>
         <track>
             <title>In My Clouds</title>
             <creator>LAKEY INSPIRED</creator>
             <duration>144143</duration>
-            <location>U:\Shared\Music\Lakey%20Inspired%20-%20In%20My%20Clouds.mp3</location>
+            <location>U:\Shared\Music\Lakey Inspired - In My Clouds.mp3</location>
         </track>
         <track>
             <title>Good Morning</title>
             <creator>Elijah Nang</creator>
             <album>Travel EP</album>
             <duration>232515</duration>
-            <location>U:\Shared\Music\Elijah%20Nang%20-%20(2016)%20Travel%20EP%20-%20Good%20Morning.mp3</location>
+            <location>U:\Shared\Music\Elijah Nang - (2016) Travel EP - Good Morning.mp3</location>
         </track>
         <track>
             <title>Mechanical Love</title>
@@ -206,7 +206,7 @@
             <album>Trevor Something Does Not Exist</album>
             <duration>218122</duration>
             <trackNum>9</trackNum>
-            <location>U:\Shared\Music\Trevor%20Something%20-%20(2014)%20Trevor%20Something%20Does%20Not%20Exist%20-%2009%20Mechanical%20Love.mp3</location>
+            <location>U:\Shared\Music\Trevor Something - (2014) Trevor Something Does Not Exist - 09 Mechanical Love.mp3</location>
         </track>
         <track>
             <title>Into Your Heart</title>
@@ -214,7 +214,7 @@
             <album>Trevor Something Does Not Exist</album>
             <duration>251872</duration>
             <trackNum>12</trackNum>
-            <location>U:\Shared\Music\Trevor%20Something%20-%20(2014)%20Trevor%20Something%20Does%20Not%20Exist%20-%2012%20Into%20Your%20Heart.mp3</location>
+            <location>U:\Shared\Music\Trevor Something - (2014) Trevor Something Does Not Exist - 12 Into Your Heart.mp3</location>
         </track>
         <track>
             <title>Summer Love</title>
@@ -222,7 +222,7 @@
             <album>Trevor Something Does Not Exist</album>
             <duration>222876</duration>
             <trackNum>4</trackNum>
-            <location>U:\Shared\Music\Trevor%20Something%20-%20(2014)%20Trevor%20Something%20Does%20Not%20Exist%20-%2004%20Summer%20Love.mp3</location>
+            <location>U:\Shared\Music\Trevor Something - (2014) Trevor Something Does Not Exist - 04 Summer Love.mp3</location>
         </track>
         <track>
             <title>Infatuation</title>
@@ -230,7 +230,7 @@
             <album>Trevor Something Does Not Exist</album>
             <duration>240117</duration>
             <trackNum>5</trackNum>
-            <location>U:\Shared\Music\Trevor%20Something%20-%20(2014)%20Trevor%20Something%20Does%20Not%20Exist%20-%2005%20Infatuation.mp3</location>
+            <location>U:\Shared\Music\Trevor Something - (2014) Trevor Something Does Not Exist - 05 Infatuation.mp3</location>
         </track>
         <track>
             <title>Searching</title>
@@ -238,7 +238,7 @@
             <album>Trevor Something Does Not Exist</album>
             <duration>264097</duration>
             <trackNum>6</trackNum>
-            <location>U:\Shared\Music\Trevor%20Something%20-%20(2014)%20Trevor%20Something%20Does%20Not%20Exist%20-%2006%20Searching.mp3</location>
+            <location>U:\Shared\Music\Trevor Something - (2014) Trevor Something Does Not Exist - 06 Searching.mp3</location>
         </track>
         <track>
             <title>Iris (Edit)</title>
@@ -246,7 +246,7 @@
             <album>Luna</album>
             <duration>163239</duration>
             <trackNum>2</trackNum>
-            <location>U:\Shared\Music\Forhill%20-%20(2020)%20Luna%20-%2002%20Iris%20(Edit).mp3</location>
+            <location>U:\Shared\Music\Forhill - (2020) Luna - 02 Iris (Edit).mp3</location>
         </track>
         <track>
             <title>Luna (Edit)</title>
@@ -254,38 +254,38 @@
             <album>Luna</album>
             <duration>173217</duration>
             <trackNum>3</trackNum>
-            <location>U:\Shared\Music\Forhill%20-%20(2020)%20Luna%20-%2003%20Luna%20(Edit).mp3</location>
+            <location>U:\Shared\Music\Forhill - (2020) Luna - 03 Luna (Edit).mp3</location>
         </track>
         <track>
             <title>Mellow Evening</title>
             <creator>Soupbox</creator>
             <duration>158232</duration>
-            <location>U:\Shared\Music\Soupbox%20-%202016%20-%20Mellow%20Evening.mp3</location>
+            <location>U:\Shared\Music\Soupbox - 2016 - Mellow Evening.mp3</location>
         </track>
         <track>
             <title>Deluxury</title>
             <creator>Francci &amp; Flávio La Barre</creator>
             <duration>217808</duration>
-            <location>U:\Shared\Music\Francci%20&amp;%20Fl%C3%A1vio%20La%20Barre%20-%20Deluxury.mp3</location>
+            <location>U:\Shared\Music\Francci &amp; Fl%C3%A1vio La Barre - Deluxury.mp3</location>
         </track>
         <track>
             <title>Error 404</title>
             <creator>Lofi Geek</creator>
             <duration>162720</duration>
-            <location>U:\Shared\Music\Lofi%20Greek%20-%20Error%20404.mp3</location>
+            <location>U:\Shared\Music\Lofi Greek - Error 404.mp3</location>
         </track>
         <track>
             <title>Much Higher (no copyright - no restriction to use)</title>
             <creator>Causmic</creator>
             <duration>171168</duration>
-            <location>U:\Shared\Music\Causmic%20-%20(2020)%20Much%20Higher%20(no%20copyright%20-%20no%20restriction%20to%20use).mp3</location>
+            <location>U:\Shared\Music\Causmic - (2020) Much Higher (no copyright - no restriction to use).mp3</location>
         </track>
         <track>
             <title>M0lly</title>
             <creator>Ytho</creator>
             <album>FR∆CT̅URE 2021</album>
             <duration>199471</duration>
-            <location>U:\Shared\Music\Ytho%20-%20(2020)%20M0lly.mp3</location>
+            <location>U:\Shared\Music\Ytho - (2020) M0lly.mp3</location>
         </track>
         <track>
             <title>Exhale</title>
@@ -293,7 +293,7 @@
             <album>Paradise</album>
             <duration>269400</duration>
             <trackNum>6</trackNum>
-            <location>U:\Shared\Music\Juno%20Dreams%20-%20(2018)%20Paradise%20-%2006%20Exhale.mp3</location>
+            <location>U:\Shared\Music\Juno Dreams - (2018) Paradise - 06 Exhale.mp3</location>
         </track>
         <track>
             <title>Be With Me (Remastered 2018)</title>
@@ -301,7 +301,7 @@
             <album>Paradise</album>
             <duration>266553</duration>
             <trackNum>7</trackNum>
-            <location>U:\Shared\Music\Juno%20Dreams%20-%20(2018)%20Paradise%20-%2007%20Be%20With%20Me%20(Remastered%202018).mp3</location>
+            <location>U:\Shared\Music\Juno Dreams - (2018) Paradise - 07 Be With Me (Remastered 2018).mp3</location>
         </track>
         <track>
             <title>Paradise</title>
@@ -309,14 +309,14 @@
             <album>Paradise</album>
             <duration>292022</duration>
             <trackNum>3</trackNum>
-            <location>U:\Shared\Music\Juno%20Dreams%20-%20(2018)%20Paradise%20-%2003%20Paradise.mp3</location>
+            <location>U:\Shared\Music\Juno Dreams - (2018) Paradise - 03 Paradise.mp3</location>
         </track>
         <track>
             <title>Iridescent</title>
             <creator>Forhill</creator>
             <album>2021</album>
             <duration>193697</duration>
-            <location>U:\Shared\Music\Forhill%20-%202021%20-%20Iridescent.mp3</location>
+            <location>U:\Shared\Music\Forhill - 2021 - Iridescent.mp3</location>
         </track>
         <track>
             <title>Daylight Saving</title>
@@ -324,7 +324,7 @@
             <album>Adrift</album>
             <duration>180741</duration>
             <trackNum>5</trackNum>
-            <location>U:\Shared\Music\Robert%20Farrugia%20-%20Adrift%20-%2005%20Daylight%20Saving.mp3</location>
+            <location>U:\Shared\Music\Robert Farrugia - Adrift - 05 Daylight Saving.mp3</location>
         </track>
         <track>
             <title>Roots</title>
@@ -332,7 +332,7 @@
             <album>Adrift</album>
             <duration>209371</duration>
             <trackNum>6</trackNum>
-            <location>U:\Shared\Music\Robert%20Farrugia%20-%20Adrift%20-%2006%20Roots.mp3</location>
+            <location>U:\Shared\Music\Robert Farrugia - Adrift - 06 Roots.mp3</location>
         </track>
         <track>
             <title>Inertia</title>
@@ -340,7 +340,7 @@
             <album>Adrift</album>
             <duration>253440</duration>
             <trackNum>7</trackNum>
-            <location>U:\Shared\Music\Robert%20Farrugia%20-%20Adrift%20-%2007%20Inertia.mp3</location>
+            <location>U:\Shared\Music\Robert Farrugia - Adrift - 07 Inertia.mp3</location>
         </track>
         <track>
             <title>Evening Lights</title>
@@ -348,7 +348,7 @@
             <album>Adrift</album>
             <duration>304822</duration>
             <trackNum>8</trackNum>
-            <location>U:\Shared\Music\Robert%20Farrugia%20-%20Adrift%20-%2008%20Evening%20Lights.mp3</location>
+            <location>U:\Shared\Music\Robert Farrugia - Adrift - 08 Evening Lights.mp3</location>
         </track>
         <track>
             <title>Stargazing (Warmth Remix)</title>
@@ -356,7 +356,7 @@
             <album>Adrift</album>
             <duration>300695</duration>
             <trackNum>9</trackNum>
-            <location>U:\Shared\Music\Robert%20Farrugia%20-%20Adrift%20-%2009%20Stargazing%20(Warmth%20Remix).mp3</location>
+            <location>U:\Shared\Music\Robert Farrugia - Adrift - 09 Stargazing (Warmth Remix).mp3</location>
         </track>
         <track>
             <title>Textures</title>
@@ -364,7 +364,7 @@
             <album>Adrift</album>
             <duration>317701</duration>
             <trackNum>1</trackNum>
-            <location>U:\Shared\Music\Robert%20Farrugia%20-%20Adrift%20-%2001%20Textures.mp3</location>
+            <location>U:\Shared\Music\Robert Farrugia - Adrift - 01 Textures.mp3</location>
         </track>
         <track>
             <title>Stargazing</title>
@@ -372,7 +372,7 @@
             <album>Adrift</album>
             <duration>224862</duration>
             <trackNum>2</trackNum>
-            <location>U:\Shared\Music\Robert%20Farrugia%20-%20Adrift%20-%2002%20Stargazing.mp3</location>
+            <location>U:\Shared\Music\Robert Farrugia - Adrift - 02 Stargazing.mp3</location>
         </track>
         <track>
             <title>Lo-Fi Dreams</title>
@@ -380,7 +380,7 @@
             <album>Adrift</album>
             <duration>217364</duration>
             <trackNum>3</trackNum>
-            <location>U:\Shared\Music\Robert%20Farrugia%20-%20Adrift%20-%2003%20Lo-Fi%20Dreams.mp3</location>
+            <location>U:\Shared\Music\Robert Farrugia - Adrift - 03 Lo-Fi Dreams.mp3</location>
         </track>
         <track>
             <title>Topographies</title>
@@ -388,25 +388,25 @@
             <album>Adrift</album>
             <duration>310177</duration>
             <trackNum>4</trackNum>
-            <location>U:\Shared\Music\Robert%20Farrugia%20-%20Adrift%20-%2004%20Topographies.mp3</location>
+            <location>U:\Shared\Music\Robert Farrugia - Adrift - 04 Topographies.mp3</location>
         </track>
         <track>
             <title>3am</title>
             <creator>Saint Seduce</creator>
             <duration>186264</duration>
-            <location>U:\Shared\Music\Saint%20Seduce%20-%20(2019)%20-%203am.mp3</location>
+            <location>U:\Shared\Music\Saint Seduce - (2019) - 3am.mp3</location>
         </track>
         <track>
             <title>Heard Em Say (feat. Curtis Roach)</title>
             <creator>Mz Boom Bap</creator>
             <duration>230112</duration>
-            <location>U:\Shared\Music\Mz%20Boom%20Bap%20-%20Heard%20Em%20Say%20(feat.%20Curtis%20Roach).mp3</location>
+            <location>U:\Shared\Music\Mz Boom Bap - Heard Em Say (feat. Curtis Roach).mp3</location>
         </track>
         <track>
             <title>Men like you</title>
             <creator>Violaine</creator>
             <duration>285096</duration>
-            <location>U:\Shared\Music\Violaine%20-%20(2016)%20-%20Men%20like%20you.mp3</location>
+            <location>U:\Shared\Music\Violaine - (2016) - Men like you.mp3</location>
         </track>
         <track>
             <title>Counting w_ G Mills</title>
@@ -414,7 +414,7 @@
             <album>Dozing</album>
             <duration>136986</duration>
             <trackNum>3</trackNum>
-            <location>U:\Shared\Music\Chris%20Mazuera%20-%20(2020)%20Dozing%20-%203.%20Counting%20w_%20G%20Mills.mp3</location>
+            <location>U:\Shared\Music\Chris Mazuera - (2020) Dozing - 3. Counting w_ G Mills.mp3</location>
         </track>
         <track>
             <title>Day 12</title>
@@ -422,7 +422,7 @@
             <album>Dozing</album>
             <duration>122853</duration>
             <trackNum>4</trackNum>
-            <location>U:\Shared\Music\Chris%20Mazuera%20-%20(2020)%20Dozing%20-%204.%20Day%2012.mp3</location>
+            <location>U:\Shared\Music\Chris Mazuera - (2020) Dozing - 4. Day 12.mp3</location>
         </track>
         <track>
             <title>Dozing</title>
@@ -430,7 +430,7 @@
             <album>Dozing</album>
             <duration>146416</duration>
             <trackNum>5</trackNum>
-            <location>U:\Shared\Music\Chris%20Mazuera%20-%20(2020)%20Dozing%20-%205.%20Dozing.mp3</location>
+            <location>U:\Shared\Music\Chris Mazuera - (2020) Dozing - 5. Dozing.mp3</location>
         </track>
         <track>
             <title>Obscurity</title>
@@ -438,7 +438,7 @@
             <album>Dozing</album>
             <duration>110341</duration>
             <trackNum>1</trackNum>
-            <location>U:\Shared\Music\Chris%20Mazuera%20-%20(2020)%20Dozing%20-%201.%20Obscurity.mp3</location>
+            <location>U:\Shared\Music\Chris Mazuera - (2020) Dozing - 1. Obscurity.mp3</location>
         </track>
         <track>
             <title>Distant</title>
@@ -446,7 +446,7 @@
             <album>Dozing</album>
             <duration>118386</duration>
             <trackNum>2</trackNum>
-            <location>U:\Shared\Music\Chris%20Mazuera%20-%20(2020)%20Dozing%20-%202.%20Distant.mp3</location>
+            <location>U:\Shared\Music\Chris Mazuera - (2020) Dozing - 2. Distant.mp3</location>
         </track>
         <track>
             <title>Abundance</title>
@@ -454,7 +454,7 @@
             <album>Perspective</album>
             <duration>146494</duration>
             <trackNum>2</trackNum>
-            <location>U:\Shared\Music\Chris%20Mazuera%20-%20(2020)%20Perspective%20-%202.%20Abundance.mp3</location>
+            <location>U:\Shared\Music\Chris Mazuera - (2020) Perspective - 2. Abundance.mp3</location>
         </track>
         <track>
             <title>Giving, not taking</title>
@@ -462,7 +462,7 @@
             <album>Perspective</album>
             <duration>184163</duration>
             <trackNum>3</trackNum>
-            <location>U:\Shared\Music\Chris%20Mazuera%20-%20(2020)%20Perspective%20-%203.%20Giving,%20not%20taking.mp3</location>
+            <location>U:\Shared\Music\Chris Mazuera - (2020) Perspective - 3. Giving, not taking.mp3</location>
         </track>
         <track>
             <title>Winter_s Kiss</title>
@@ -470,7 +470,7 @@
             <album>Perspective</album>
             <duration>109426</duration>
             <trackNum>4</trackNum>
-            <location>U:\Shared\Music\Chris%20Mazuera%20-%20(2020)%20Perspective%20-%204.%20Winter_s%20Kiss.mp3</location>
+            <location>U:\Shared\Music\Chris Mazuera - (2020) Perspective - 4. Winter_s Kiss.mp3</location>
         </track>
         <track>
             <title>Stay Mindful ft. The Field Tapes</title>
@@ -478,7 +478,7 @@
             <album>Perspective</album>
             <duration>137221</duration>
             <trackNum>5</trackNum>
-            <location>U:\Shared\Music\Chris%20Mazuera%20-%20(2020)%20Perspective%20-%205.%20Stay%20Mindful%20ft.%20The%20Field%20Tapes.mp3</location>
+            <location>U:\Shared\Music\Chris Mazuera - (2020) Perspective - 5. Stay Mindful ft. The Field Tapes.mp3</location>
         </track>
         <track>
             <title>Perspective</title>
@@ -486,7 +486,7 @@
             <album>Perspective</album>
             <duration>172382</duration>
             <trackNum>6</trackNum>
-            <location>U:\Shared\Music\Chris%20Mazuera%20-%20(2020)%20Perspective%20-%206.%20Perspective.mp3</location>
+            <location>U:\Shared\Music\Chris Mazuera - (2020) Perspective - 6. Perspective.mp3</location>
         </track>
         <track>
             <title>First Snow</title>
@@ -494,238 +494,238 @@
             <album>Perspective</album>
             <duration>175438</duration>
             <trackNum>1</trackNum>
-            <location>U:\Shared\Music\Chris%20Mazuera%20-%20(2020)%20Perspective%20-%201.%20First%20Snow.mp3</location>
+            <location>U:\Shared\Music\Chris Mazuera - (2020) Perspective - 1. First Snow.mp3</location>
         </track>
         <track>
             <title>espresso (Kupla Master)</title>
             <creator>Aso</creator>
             <album>1 AM Study Session</album>
             <duration>162246</duration>
-            <location>U:\Shared\Music\ChilledCow%20Records%20-%20(2020)%201%20AM%20Study%20Session%20-%2012%20Aso%20-%20espresso%20(Kupla%20Master).mp3</location>
+            <location>U:\Shared\Music\ChilledCow Records - (2020) 1 AM Study Session - 12 Aso - espresso (Kupla Master).mp3</location>
         </track>
         <track>
             <title>Luminescence (Kupla Master)</title>
             <creator>Ambulo x mell-ø</creator>
             <album>1 AM Study Session</album>
             <duration>100362</duration>
-            <location>U:\Shared\Music\ChilledCow%20Records%20-%20(2020)%201%20AM%20Study%20Session%20-%2013%20Ambulo%20x%20mell-%C3%B8%20-%20Luminescence%20(Kupla%20Master).mp3</location>
+            <location>U:\Shared\Music\ChilledCow Records - (2020) 1 AM Study Session - 13 Ambulo x mell-%C3%B8 - Luminescence (Kupla Master).mp3</location>
         </track>
         <track>
             <title>Explorers (Kupla Master)</title>
             <creator>DLJ x BIDØ</creator>
             <album>1 AM Study Session</album>
             <duration>122801</duration>
-            <location>U:\Shared\Music\ChilledCow%20Records%20-%20(2020)%201%20AM%20Study%20Session%20-%2014%20DLJ%20x%20BID%C3%98%20-%20Explorers%20(Kupla%20Master).mp3</location>
+            <location>U:\Shared\Music\ChilledCow Records - (2020) 1 AM Study Session - 14 DLJ x BID%C3%98 - Explorers (Kupla Master).mp3</location>
         </track>
         <track>
             <title>Wish You Were Mine (Kupla Master)</title>
             <creator>Sarcastic Sounds</creator>
             <album>1 AM Study Session</album>
             <duration>121573</duration>
-            <location>U:\Shared\Music\ChilledCow%20Records%20-%20(2020)%201%20AM%20Study%20Session%20-%2015%20Sarcastic%20Sounds%20-%20Wish%20You%20Were%20Mine%20(Kupla%20Master).mp3</location>
+            <location>U:\Shared\Music\ChilledCow Records - (2020) 1 AM Study Session - 15 Sarcastic Sounds - Wish You Were Mine (Kupla Master).mp3</location>
         </track>
         <track>
             <title>Reflections (Kupla Master)</title>
             <creator>BluntOne</creator>
             <album>1 AM Study Session</album>
             <duration>122279</duration>
-            <location>U:\Shared\Music\ChilledCow%20Records%20-%20(2020)%201%20AM%20Study%20Session%20-%2016%20BluntOne%20-%20Reflections%20(Kupla%20Master).mp3</location>
+            <location>U:\Shared\Music\ChilledCow Records - (2020) 1 AM Study Session - 16 BluntOne - Reflections (Kupla Master).mp3</location>
         </track>
         <track>
             <title>Alone Time (Kupla Master)</title>
             <creator>Purrple Cat</creator>
             <album>1 AM Study Session</album>
             <duration>203049</duration>
-            <location>U:\Shared\Music\ChilledCow%20Records%20-%20(2020)%201%20AM%20Study%20Session%20-%2017%20Purrple%20Cat%20-%20Alone%20Time%20(Kupla%20Master).mp3</location>
+            <location>U:\Shared\Music\ChilledCow Records - (2020) 1 AM Study Session - 17 Purrple Cat - Alone Time (Kupla Master).mp3</location>
         </track>
         <track>
             <title>Owls of the Night (Kupla Master)</title>
             <creator>Kupla</creator>
             <album>1 AM Study Session</album>
             <duration>141609</duration>
-            <location>U:\Shared\Music\ChilledCow%20Records%20-%20(2020)%201%20AM%20Study%20Session%20-%2018%20Kupla%20-%20Owls%20of%20the%20Night%20(Kupla%20Master).mp3</location>
+            <location>U:\Shared\Music\ChilledCow Records - (2020) 1 AM Study Session - 18 Kupla - Owls of the Night (Kupla Master).mp3</location>
         </track>
         <track>
             <title>amber (Kupla Master)</title>
             <creator>ENRA</creator>
             <album>1 AM Study Session</album>
             <duration>89443</duration>
-            <location>U:\Shared\Music\ChilledCow%20Records%20-%20(2020)%201%20AM%20Study%20Session%20-%2019%20ENRA%20-%20amber%20(Kupla%20Master).mp3</location>
+            <location>U:\Shared\Music\ChilledCow Records - (2020) 1 AM Study Session - 19 ENRA - amber (Kupla Master).mp3</location>
         </track>
         <track>
             <title>fever (Kupla Master)</title>
             <creator>Psalm Trees</creator>
             <album>1 AM Study Session</album>
             <duration>153312</duration>
-            <location>U:\Shared\Music\ChilledCow%20Records%20-%20(2020)%201%20AM%20Study%20Session%20-%2020%20Psalm%20Trees%20-%20fever%20(Kupla%20Master).mp3</location>
+            <location>U:\Shared\Music\ChilledCow Records - (2020) 1 AM Study Session - 20 Psalm Trees - fever (Kupla Master).mp3</location>
         </track>
         <track>
             <title>Circle (Kupla Master)</title>
             <creator>H.1</creator>
             <album>1 AM Study Session</album>
             <duration>113005</duration>
-            <location>U:\Shared\Music\ChilledCow%20Records%20-%20(2020)%201%20AM%20Study%20Session%20-%2021%20H.1%20-%20Circle%20(Kupla%20Master).mp3</location>
+            <location>U:\Shared\Music\ChilledCow Records - (2020) 1 AM Study Session - 21 H.1 - Circle (Kupla Master).mp3</location>
         </track>
         <track>
             <title>Cuddlin (Kupla Master)</title>
             <creator>Pandrezz</creator>
             <album>1 AM Study Session</album>
             <duration>177031</duration>
-            <location>U:\Shared\Music\ChilledCow%20Records%20-%20(2020)%201%20AM%20Study%20Session%20-%2022%20Pandrezz%20-%20Cuddlin%20(Kupla%20Master).mp3</location>
+            <location>U:\Shared\Music\ChilledCow Records - (2020) 1 AM Study Session - 22 Pandrezz - Cuddlin (Kupla Master).mp3</location>
         </track>
         <track>
             <title>Late Night Call (Kupla Master)</title>
             <creator>Jordy Chandra</creator>
             <album>1 AM Study Session</album>
             <duration>134870</duration>
-            <location>U:\Shared\Music\ChilledCow%20Records%20-%20(2020)%201%20AM%20Study%20Session%20-%2023%20Jordy%20Chandra%20-%20Late%20Night%20Call%20(Kupla%20Master).mp3</location>
+            <location>U:\Shared\Music\ChilledCow Records - (2020) 1 AM Study Session - 23 Jordy Chandra - Late Night Call (Kupla Master).mp3</location>
         </track>
         <track>
             <title>Gyoza (Kupla Master)</title>
             <creator>less.people</creator>
             <album>1 AM Study Session</album>
             <duration>120058</duration>
-            <location>U:\Shared\Music\ChilledCow%20Records%20-%20(2020)%201%20AM%20Study%20Session%20-%2024%20less.people%20-%20Gyoza%20(Kupla%20Master).mp3</location>
+            <location>U:\Shared\Music\ChilledCow Records - (2020) 1 AM Study Session - 24 less.people - Gyoza (Kupla Master).mp3</location>
         </track>
         <track>
             <title>Keyframe (Kupla Master)</title>
             <creator>G Mills</creator>
             <album>1 AM Study Session</album>
             <duration>174419</duration>
-            <location>U:\Shared\Music\ChilledCow%20Records%20-%20(2020)%201%20AM%20Study%20Session%20-%2025%20G%20Mills%20-%20Keyframe%20(Kupla%20Master).mp3</location>
+            <location>U:\Shared\Music\ChilledCow Records - (2020) 1 AM Study Session - 25 G Mills - Keyframe (Kupla Master).mp3</location>
         </track>
         <track>
             <title>breeze (Kupla Master)</title>
             <creator>mvdb</creator>
             <album>1 AM Study Session</album>
             <duration>95425</duration>
-            <location>U:\Shared\Music\ChilledCow%20Records%20-%20(2020)%201%20AM%20Study%20Session%20-%2026%20mvdb%20-%20breeze%20(Kupla%20Master).mp3</location>
+            <location>U:\Shared\Music\ChilledCow Records - (2020) 1 AM Study Session - 26 mvdb - breeze (Kupla Master).mp3</location>
         </track>
         <track>
             <title>Lunar Drive (Kupla Master)</title>
             <creator>Mondo Loops</creator>
             <album>1 AM Study Session</album>
             <duration>189361</duration>
-            <location>U:\Shared\Music\ChilledCow%20Records%20-%20(2020)%201%20AM%20Study%20Session%20-%2027%20Mondo%20Loops%20-%20Lunar%20Drive%20(Kupla%20Master).mp3</location>
+            <location>U:\Shared\Music\ChilledCow Records - (2020) 1 AM Study Session - 27 Mondo Loops - Lunar Drive (Kupla Master).mp3</location>
         </track>
         <track>
             <title>Steps (Kupla Master)</title>
             <creator>dryhope</creator>
             <album>1 AM Study Session</album>
             <duration>150804</duration>
-            <location>U:\Shared\Music\ChilledCow%20Records%20-%20(2020)%201%20AM%20Study%20Session%20-%2028%20dryhope%20-%20Steps%20(Kupla%20Master).mp3</location>
+            <location>U:\Shared\Music\ChilledCow Records - (2020) 1 AM Study Session - 28 dryhope - Steps (Kupla Master).mp3</location>
         </track>
         <track>
             <title>Snowman (Kupla Master)</title>
             <creator>WYS</creator>
             <album>1 AM Study Session</album>
             <duration>195213</duration>
-            <location>U:\Shared\Music\ChilledCow%20Records%20-%20(2020)%201%20AM%20Study%20Session%20-%2001%20WYS%20-%20Snowman%20(Kupla%20Master).mp3</location>
+            <location>U:\Shared\Music\ChilledCow Records - (2020) 1 AM Study Session - 01 WYS - Snowman (Kupla Master).mp3</location>
         </track>
         <track>
             <title>Cotton Cloud (Kupla Master)</title>
             <creator>Fatb</creator>
             <album>1 AM Study Session</album>
             <duration>123062</duration>
-            <location>U:\Shared\Music\ChilledCow%20Records%20-%20(2020)%201%20AM%20Study%20Session%20-%2003%20Fatb%20-%20Cotton%20Cloud%20(Kupla%20Master).mp3</location>
+            <location>U:\Shared\Music\ChilledCow Records - (2020) 1 AM Study Session - 03 Fatb - Cotton Cloud (Kupla Master).mp3</location>
         </track>
         <track>
             <title>the places we used to walk (Kupla master)</title>
             <creator>rook1e x tender spring</creator>
             <album>1 AM Study Session</album>
             <duration>135862</duration>
-            <location>U:\Shared\Music\ChilledCow%20Records%20-%20(2020)%201%20AM%20Study%20Session%20-%2004%20rook1e%20x%20tender%20spring%20-%20the%20places%20we%20used%20to%20walk%20(Kupla%20master).mp3</location>
+            <location>U:\Shared\Music\ChilledCow Records - (2020) 1 AM Study Session - 04 rook1e x tender spring - the places we used to walk (Kupla master).mp3</location>
         </track>
         <track>
             <title>wool gloves (Kupla Master)</title>
             <creator>imagiro</creator>
             <album>1 AM Study Session</album>
             <duration>165982</duration>
-            <location>U:\Shared\Music\ChilledCow%20Records%20-%20(2020)%201%20AM%20Study%20Session%20-%2005%20imagiro%20-%20wool%20gloves%20(Kupla%20Master).mp3</location>
+            <location>U:\Shared\Music\ChilledCow Records - (2020) 1 AM Study Session - 05 imagiro - wool gloves (Kupla Master).mp3</location>
         </track>
         <track>
             <title>I_m sorry (Mastered)</title>
             <creator>Glimlip x Yasper</creator>
             <album>1 AM Study Session</album>
             <duration>136594</duration>
-            <location>U:\Shared\Music\ChilledCow%20Records%20-%20(2020)%201%20AM%20Study%20Session%20-%2006%20Glimlip%20x%20Yasper%20-%20I_m%20sorry%20(Mastered).mp3</location>
+            <location>U:\Shared\Music\ChilledCow Records - (2020) 1 AM Study Session - 06 Glimlip x Yasper - I_m sorry (Mastered).mp3</location>
         </track>
         <track>
             <title>Nova (Kupla Master)</title>
             <creator>mell-ø &amp; Ambulo</creator>
             <album>1 AM Study Session</album>
             <duration>104489</duration>
-            <location>U:\Shared\Music\ChilledCow%20Records%20-%20(2020)%201%20AM%20Study%20Session%20-%2007%20mell-%C3%B8%20-%20Nova%20(Kupla%20Master).mp3</location>
+            <location>U:\Shared\Music\ChilledCow Records - (2020) 1 AM Study Session - 07 mell-%C3%B8 - Nova (Kupla Master).mp3</location>
         </track>
         <track>
             <title>carried away (Kupla Master)</title>
             <creator>goosetaf x the fields tape x francis</creator>
             <album>1 AM Study Session</album>
             <duration>115252</duration>
-            <location>U:\Shared\Music\ChilledCow%20Records%20-%20(2020)%201%20AM%20Study%20Session%20-%2008%20goosetaf%20x%20the%20fields%20tape%20x%20francis%20-%20carried%20away%20(Kupla%20Master).mp3</location>
+            <location>U:\Shared\Music\ChilledCow Records - (2020) 1 AM Study Session - 08 goosetaf x the fields tape x francis - carried away (Kupla Master).mp3</location>
         </track>
         <track>
             <title>snow _ sand (Kupla Master)</title>
             <creator>j_san x epektase</creator>
             <album>1 AM Study Session</album>
             <duration>165067</duration>
-            <location>U:\Shared\Music\ChilledCow%20Records%20-%20(2020)%201%20AM%20Study%20Session%20-%2009%20j_san%20x%20epektase%20-%20snow%20_%20sand%20(Kupla%20Master).mp3</location>
+            <location>U:\Shared\Music\ChilledCow Records - (2020) 1 AM Study Session - 09 j_san x epektase - snow _ sand (Kupla Master).mp3</location>
         </track>
         <track>
             <title>Single Phial (Kupla Master)</title>
             <creator>HM Surf</creator>
             <album>1 AM Study Session</album>
             <duration>103601</duration>
-            <location>U:\Shared\Music\ChilledCow%20Records%20-%20(2020)%201%20AM%20Study%20Session%20-%2010%20HM%20Surf%20-%20Single%20Phial%20(Kupla%20Master).mp3</location>
+            <location>U:\Shared\Music\ChilledCow Records - (2020) 1 AM Study Session - 10 HM Surf - Single Phial (Kupla Master).mp3</location>
         </track>
         <track>
             <title>Drops (Kupla Master)</title>
             <creator>cocabona x Glimlip</creator>
             <album>1 AM Study Session</album>
             <duration>122958</duration>
-            <location>U:\Shared\Music\ChilledCow%20Records%20-%20(2020)%201%20AM%20Study%20Session%20-%2011%20cocabona%20x%20Glimlip%20-%20Drops%20(Kupla%20Master).mp3</location>
+            <location>U:\Shared\Music\ChilledCow Records - (2020) 1 AM Study Session - 11 cocabona x Glimlip - Drops (Kupla Master).mp3</location>
         </track>
         <track>
             <title>La Hague</title>
             <creator>Blumen</creator>
             <album>La Hague EP</album>
             <duration>142680</duration>
-            <location>U:\Shared\Music\Blumen%20-%20(2020)%20La%20Hague%20-%20La%20Hague.mp3</location>
+            <location>U:\Shared\Music\Blumen - (2020) La Hague - La Hague.mp3</location>
         </track>
         <track>
             <title>On my Way</title>
             <creator>Blumen</creator>
             <album>La Hague EP</album>
             <duration>160574</duration>
-            <location>U:\Shared\Music\Blumen%20-%20(2020)%20La%20Hague%20-%20On%20my%20Way.mp3</location>
+            <location>U:\Shared\Music\Blumen - (2020) La Hague - On my Way.mp3</location>
         </track>
         <track>
             <title>Stay (feat Tah.)</title>
             <creator>Blumen</creator>
             <album>La Hague EP</album>
             <duration>141426</duration>
-            <location>U:\Shared\Music\Blumen%20-%20(2020)%20La%20Hague%20-%20Stay%20(feat%20Tah.).mp3</location>
+            <location>U:\Shared\Music\Blumen - (2020) La Hague - Stay (feat Tah.).mp3</location>
         </track>
         <track>
             <title>Control the Sky (feat Hoogway)</title>
             <creator>Blumen</creator>
             <album>La Hague EP</album>
             <duration>175203</duration>
-            <location>U:\Shared\Music\Blumen%20-%20(2020)%20La%20Hague%20-%20Control%20the%20Sky%20(feat%20Hoogway).mp3</location>
+            <location>U:\Shared\Music\Blumen - (2020) La Hague - Control the Sky (feat Hoogway).mp3</location>
         </track>
         <track>
             <title>Going South</title>
             <creator>Blumen</creator>
             <album>La Hague EP</album>
             <duration>150230</duration>
-            <location>U:\Shared\Music\Blumen%20-%20(2020)%20La%20Hague%20-%20Going%20South.mp3</location>
+            <location>U:\Shared\Music\Blumen - (2020) La Hague - Going South.mp3</location>
         </track>
         <track>
             <title>L_Aube (feat mell-o)</title>
             <creator>Blumen</creator>
             <album>La Hague EP</album>
             <duration>128000</duration>
-            <location>U:\Shared\Music\Blumen%20-%20(2020)%20La%20Hague%20-%20L_Aube%20(feat%20mell-o).mp3</location>
+            <location>U:\Shared\Music\Blumen - (2020) La Hague - L_Aube (feat mell-o).mp3</location>
         </track>
         <track>
             <title>Afloat Again (MASTER) (feat. Ambulo)</title>
@@ -733,7 +733,7 @@
             <album>Afloat Again</album>
             <duration>116349</duration>
             <trackNum>3</trackNum>
-            <location>U:\Shared\Music\mell-o%20-%20(2020)%20Afloat%20Again%20-%203%20Afloat%20Again%20(MASTER)%20(feat.%20Ambulo).mp3</location>
+            <location>U:\Shared\Music\mell-o - (2020) Afloat Again - 3 Afloat Again (MASTER) (feat. Ambulo).mp3</location>
         </track>
         <track>
             <title>Breathe (MASTER) (feat. Ambulo)</title>
@@ -741,7 +741,7 @@
             <album>Afloat Again</album>
             <duration>126615</duration>
             <trackNum>4</trackNum>
-            <location>U:\Shared\Music\mell-o%20-%20(2020)%20Afloat%20Again%20-%204%20Breathe%20(MASTER)%20(feat.%20Ambulo).mp3</location>
+            <location>U:\Shared\Music\mell-o - (2020) Afloat Again - 4 Breathe (MASTER) (feat. Ambulo).mp3</location>
         </track>
         <track>
             <title>Dozing Off (MASTER) (feat. Ambulo)</title>
@@ -749,7 +749,7 @@
             <album>Afloat Again</album>
             <duration>127085</duration>
             <trackNum>5</trackNum>
-            <location>U:\Shared\Music\mell-o%20-%20(2020)%20Afloat%20Again%20-%205%20Dozing%20Off%20(MASTER)%20(feat.%20Ambulo).mp3</location>
+            <location>U:\Shared\Music\mell-o - (2020) Afloat Again - 5 Dozing Off (MASTER) (feat. Ambulo).mp3</location>
         </track>
         <track>
             <title>Stay the Same (MASTER) (feat. Ambulo)</title>
@@ -757,7 +757,7 @@
             <album>Afloat Again</album>
             <duration>124342</duration>
             <trackNum>6</trackNum>
-            <location>U:\Shared\Music\mell-o%20-%20(2020)%20Afloat%20Again%20-%206%20Stay%20the%20Same%20(MASTER)%20(feat.%20Ambulo).mp3</location>
+            <location>U:\Shared\Music\mell-o - (2020) Afloat Again - 6 Stay the Same (MASTER) (feat. Ambulo).mp3</location>
         </track>
         <track>
             <title>Gloom (MASTER) (feat. Ambulo)</title>
@@ -765,7 +765,7 @@
             <album>Afloat Again</album>
             <duration>131265</duration>
             <trackNum>7</trackNum>
-            <location>U:\Shared\Music\mell-o%20-%20(2020)%20Afloat%20Again%20-%207%20Gloom%20(MASTER)%20(feat.%20Ambulo).mp3</location>
+            <location>U:\Shared\Music\mell-o - (2020) Afloat Again - 7 Gloom (MASTER) (feat. Ambulo).mp3</location>
         </track>
         <track>
             <title>Epilogue (MASTER 2) (feat. Ambulo)</title>
@@ -773,7 +773,7 @@
             <album>Afloat Again</album>
             <duration>50076</duration>
             <trackNum>8</trackNum>
-            <location>U:\Shared\Music\mell-o%20-%20(2020)%20Afloat%20Again%20-%208%20Epilogue%20(MASTER%202)%20(feat.%20Ambulo).mp3</location>
+            <location>U:\Shared\Music\mell-o - (2020) Afloat Again - 8 Epilogue (MASTER 2) (feat. Ambulo).mp3</location>
         </track>
         <track>
             <title>Childhood Memories (MASTER) (feat. Ambulo)</title>
@@ -781,7 +781,7 @@
             <album>Afloat Again</album>
             <duration>97384</duration>
             <trackNum>1</trackNum>
-            <location>U:\Shared\Music\mell-o%20-%20(2020)%20Afloat%20Again%20-%201%20Childhood%20Memories%20(MASTER)%20(feat.%20Ambulo).mp3</location>
+            <location>U:\Shared\Music\mell-o - (2020) Afloat Again - 1 Childhood Memories (MASTER) (feat. Ambulo).mp3</location>
         </track>
         <track>
             <title>Solace (MASTER2) (feat. Ambulo)</title>
@@ -789,14 +789,14 @@
             <album>Afloat Again</album>
             <duration>105743</duration>
             <trackNum>2</trackNum>
-            <location>U:\Shared\Music\mell-o%20-%20(2020)%20Afloat%20Again%20-%202%20Solace%20(MASTER2)%20(feat.%20Ambulo).mp3</location>
+            <location>U:\Shared\Music\mell-o - (2020) Afloat Again - 2 Solace (MASTER2) (feat. Ambulo).mp3</location>
         </track>
         <track>
             <title>Alder</title>
             <creator>mell-o</creator>
             <album>Time To Go</album>
             <duration>110184</duration>
-            <location>U:\Shared\Music\mell-o%20-%20(2021)%20Time%20To%20Go%20-%20Alder.mp3</location>
+            <location>U:\Shared\Music\mell-o - (2021) Time To Go - Alder.mp3</location>
         </track>
         <track>
             <title>i can_t sleep</title>
@@ -804,7 +804,7 @@
             <album>Introspective</album>
             <duration>151092</duration>
             <trackNum>4</trackNum>
-            <location>U:\Shared\Music\Nothingtosay%20-%20(2020)%20Introspective%20-%204%20-%20i%20can_t%20sleep.mp3</location>
+            <location>U:\Shared\Music\Nothingtosay - (2020) Introspective - 4 - i can_t sleep.mp3</location>
         </track>
         <track>
             <title>far awat ft zeyn</title>
@@ -812,7 +812,7 @@
             <album>Introspective</album>
             <duration>168646</duration>
             <trackNum>5</trackNum>
-            <location>U:\Shared\Music\Nothingtosay%20-%20(2020)%20Introspective%20-%205%20-%20far%20awat%20ft%20zeyn.mp3</location>
+            <location>U:\Shared\Music\Nothingtosay - (2020) Introspective - 5 - far awat ft zeyn.mp3</location>
         </track>
         <track>
             <title>i am not lost</title>
@@ -820,7 +820,7 @@
             <album>Introspective</album>
             <duration>173923</duration>
             <trackNum>6</trackNum>
-            <location>U:\Shared\Music\Nothingtosay%20-%20(2020)%20Introspective%20-%206%20-%20i%20am%20not%20lost.mp3</location>
+            <location>U:\Shared\Music\Nothingtosay - (2020) Introspective - 6 - i am not lost.mp3</location>
         </track>
         <track>
             <title>lazyness</title>
@@ -828,7 +828,7 @@
             <album>Introspective</album>
             <duration>161880</duration>
             <trackNum>7</trackNum>
-            <location>U:\Shared\Music\Nothingtosay%20-%20(2020)%20Introspective%20-%207%20-%20lazyness.mp3</location>
+            <location>U:\Shared\Music\Nothingtosay - (2020) Introspective - 7 - lazyness.mp3</location>
         </track>
         <track>
             <title>for you ft D0d</title>
@@ -836,7 +836,7 @@
             <album>Introspective</album>
             <duration>162925</duration>
             <trackNum>8</trackNum>
-            <location>U:\Shared\Music\Nothingtosay%20-%20(2020)%20Introspective%20-%208%20-%20for%20you%20ft%20D0d.mp3</location>
+            <location>U:\Shared\Music\Nothingtosay - (2020) Introspective - 8 - for you ft D0d.mp3</location>
         </track>
         <track>
             <title>cleared sky</title>
@@ -844,7 +844,7 @@
             <album>Introspective</album>
             <duration>156081</duration>
             <trackNum>1</trackNum>
-            <location>U:\Shared\Music\Nothingtosay%20-%20(2020)%20Introspective%20-%201%20-%20cleared%20sky.mp3</location>
+            <location>U:\Shared\Music\Nothingtosay - (2020) Introspective - 1 - cleared sky.mp3</location>
         </track>
         <track>
             <title>Blue Afternoon (w midnight alpha)</title>
@@ -852,7 +852,7 @@
             <album>Introspective</album>
             <duration>162429</duration>
             <trackNum>2</trackNum>
-            <location>U:\Shared\Music\Nothingtosay%20-%20(2020)%20Introspective%20-%202%20-%20Blue%20Afternoon%20(w%20midnight%20alpha).mp3</location>
+            <location>U:\Shared\Music\Nothingtosay - (2020) Introspective - 2 - Blue Afternoon (w midnight alpha).mp3</location>
         </track>
         <track>
             <title>i_ll follow you</title>
@@ -860,315 +860,315 @@
             <album>Introspective</album>
             <duration>150935</duration>
             <trackNum>3</trackNum>
-            <location>U:\Shared\Music\Nothingtosay%20-%20(2020)%20Introspective%20-%203%20-%20i_ll%20follow%20you.mp3</location>
+            <location>U:\Shared\Music\Nothingtosay - (2020) Introspective - 3 - i_ll follow you.mp3</location>
         </track>
         <track>
             <title>Cosmos</title>
             <creator>Dontcry &amp; Nokiaa</creator>
             <album>Odyssey</album>
             <duration>113658</duration>
-            <location>U:\Shared\Music\Dontcry%20&amp;%20Nokiaa%20-%20(2020)%20odyssey%20-%20Cosmos.mp3</location>
+            <location>U:\Shared\Music\Dontcry &amp; Nokiaa - (2020) odyssey - Cosmos.mp3</location>
         </track>
         <track>
             <title>Tides</title>
             <creator>Dontcry &amp; Nokiaa</creator>
             <album>Odyssey</album>
             <duration>128235</duration>
-            <location>U:\Shared\Music\Dontcry%20&amp;%20Nokiaa%20-%20(2020)%20odyssey%20-%20Tides.mp3</location>
+            <location>U:\Shared\Music\Dontcry &amp; Nokiaa - (2020) odyssey - Tides.mp3</location>
         </track>
         <track>
             <title>bodies</title>
             <creator>Kudo</creator>
             <album>Staring Through</album>
             <duration>153077</duration>
-            <location>U:\Shared\Music\Kudo%20-%20(2020)%20Staring%20Through%20-%205-bodies.mp3</location>
+            <location>U:\Shared\Music\Kudo - (2020) Staring Through - 5-bodies.mp3</location>
         </track>
         <track>
             <title>sing</title>
             <creator>Kudo</creator>
             <album>Staring Through</album>
             <duration>128496</duration>
-            <location>U:\Shared\Music\Kudo%20-%20(2020)%20Staring%20Through%20-%206-sing.mp3</location>
+            <location>U:\Shared\Music\Kudo - (2020) Staring Through - 6-sing.mp3</location>
         </track>
         <track>
             <title>slow</title>
             <creator>Kudo</creator>
             <album>Staring Through</album>
             <duration>121808</duration>
-            <location>U:\Shared\Music\Kudo%20-%20(2020)%20Staring%20Through%20-%207-slow.mp3</location>
+            <location>U:\Shared\Music\Kudo - (2020) Staring Through - 7-slow.mp3</location>
         </track>
         <track>
             <title>put</title>
             <creator>Kudo</creator>
             <album>Staring Through</album>
             <duration>152450</duration>
-            <location>U:\Shared\Music\Kudo%20-%20(2020)%20Staring%20Through%20-%208-put.mp3</location>
+            <location>U:\Shared\Music\Kudo - (2020) Staring Through - 8-put.mp3</location>
         </track>
         <track>
             <title>painting</title>
             <creator>Kudo</creator>
             <album>Staring Through</album>
             <duration>126458</duration>
-            <location>U:\Shared\Music\Kudo%20-%20(2020)%20Staring%20Through%20-%209-painting.mp3</location>
+            <location>U:\Shared\Music\Kudo - (2020) Staring Through - 9-painting.mp3</location>
         </track>
         <track>
             <title>sun</title>
             <creator>Kudo</creator>
             <album>Staring Through</album>
             <duration>156055</duration>
-            <location>U:\Shared\Music\Kudo%20-%20(2020)%20Staring%20Through%20-%201-sun.mp3</location>
+            <location>U:\Shared\Music\Kudo - (2020) Staring Through - 1-sun.mp3</location>
         </track>
         <track>
             <title>off</title>
             <creator>Kudo</creator>
             <album>Staring Through</album>
             <duration>142759</duration>
-            <location>U:\Shared\Music\Kudo%20-%20(2020)%20Staring%20Through%20-%202-off.mp3</location>
+            <location>U:\Shared\Music\Kudo - (2020) Staring Through - 2-off.mp3</location>
         </track>
         <track>
             <title>cold</title>
             <creator>Kudo</creator>
             <album>Staring Through</album>
             <duration>135941</duration>
-            <location>U:\Shared\Music\Kudo%20-%20(2020)%20Staring%20Through%20-%203-cold.mp3</location>
+            <location>U:\Shared\Music\Kudo - (2020) Staring Through - 3-cold.mp3</location>
         </track>
         <track>
             <title>station (master)</title>
             <creator>Kudo</creator>
             <album>Staring Through</album>
             <duration>135053</duration>
-            <location>U:\Shared\Music\Kudo%20-%20(2020)%20Staring%20Through%20-%204-station%20(master).mp3</location>
+            <location>U:\Shared\Music\Kudo - (2020) Staring Through - 4-station (master).mp3</location>
         </track>
         <track>
             <title>First Light</title>
             <creator>dryhope</creator>
             <album>Contrasts </album>
             <duration>123350</duration>
-            <location>U:\Shared\Music\dryhope%20-%20(2020)%20Contrasts%20-%20First_Light.mp3</location>
+            <location>U:\Shared\Music\dryhope - (2020) Contrasts - First_Light.mp3</location>
         </track>
         <track>
             <title>Down River</title>
             <creator>dryhope</creator>
             <album>Contrasts </album>
             <duration>144091</duration>
-            <location>U:\Shared\Music\dryhope%20-%20(2020)%20Contrasts%20-%20Down%20River.mp3</location>
+            <location>U:\Shared\Music\dryhope - (2020) Contrasts - Down River.mp3</location>
         </track>
         <track>
             <title>Shade</title>
             <creator>dryhope</creator>
             <album>Contrasts </album>
             <duration>133694</duration>
-            <location>U:\Shared\Music\dryhope%20-%20(2020)%20Contrasts%20-%20Shade.mp3</location>
+            <location>U:\Shared\Music\dryhope - (2020) Contrasts - Shade.mp3</location>
         </track>
         <track>
             <title>Someday</title>
             <creator>dryhope</creator>
             <album>Contrasts </album>
             <duration>167888</duration>
-            <location>U:\Shared\Music\dryhope%20-%20(2020)%20Contrasts%20-%20Someday.mp3</location>
+            <location>U:\Shared\Music\dryhope - (2020) Contrasts - Someday.mp3</location>
         </track>
         <track>
             <title>Amber</title>
             <creator>dryhope</creator>
             <album>Contrasts </album>
             <duration>126275</duration>
-            <location>U:\Shared\Music\dryhope%20-%20(2020)%20Contrasts%20-%20Amber.mp3</location>
+            <location>U:\Shared\Music\dryhope - (2020) Contrasts - Amber.mp3</location>
         </track>
         <track>
             <title>Contrasts</title>
             <creator>dryhope</creator>
             <album>Contrasts </album>
             <duration>161933</duration>
-            <location>U:\Shared\Music\dryhope%20-%20(2020)%20Contrasts%20-%20Contrasts.mp3</location>
+            <location>U:\Shared\Music\dryhope - (2020) Contrasts - Contrasts.mp3</location>
         </track>
         <track>
             <title>Blind Forest (Kupla Master)</title>
             <creator>Pandrezz</creator>
             <album>3 AM Study Session</album>
             <duration>174915</duration>
-            <location>U:\Shared\Music\ChilledCow%20Records%20-%20(2020)%203%20am%20study%20session%20-%2011%20Pandrezz%20-%20Blind%20Forest%20(Kupla%20Master).mp3</location>
+            <location>U:\Shared\Music\ChilledCow Records - (2020) 3 am study session - 11 Pandrezz - Blind Forest (Kupla Master).mp3</location>
         </track>
         <track>
             <title>Show Me How (Kupla Master)</title>
             <creator>SwuM x chief.</creator>
             <album>3 AM Study Session</album>
             <duration>168071</duration>
-            <location>U:\Shared\Music\ChilledCow%20Records%20-%20(2020)%203%20am%20study%20session%20-%2012%20SwuM%20x%20chief.%20-%20Show%20Me%20How%20(Kupla%20Master).mp3</location>
+            <location>U:\Shared\Music\ChilledCow Records - (2020) 3 am study session - 12 SwuM x chief. - Show Me How (Kupla Master).mp3</location>
         </track>
         <track>
             <title>Numb (Kupla Master)</title>
             <creator>Comodo</creator>
             <album>3 AM Study Session</album>
             <duration>202814</duration>
-            <location>U:\Shared\Music\ChilledCow%20Records%20-%20(2020)%203%20am%20study%20session%20-%2013%20Comodo%20-%20Numb%20(Kupla%20Master).mp3</location>
+            <location>U:\Shared\Music\ChilledCow Records - (2020) 3 am study session - 13 Comodo - Numb (Kupla Master).mp3</location>
         </track>
         <track>
             <title>Weightless (Kupla Master) (feat mell-o)</title>
             <creator>TABAL</creator>
             <album>3 AM Study Session</album>
             <duration>136359</duration>
-            <location>U:\Shared\Music\ChilledCow%20Records%20-%20(2020)%203%20am%20study%20session%20-%2014%20TABAL%20x%20mell-%C3%B8%20-%20Weightless%20(Kupla%20Master).mp3</location>
+            <location>U:\Shared\Music\ChilledCow Records - (2020) 3 am study session - 14 TABAL x mell-%C3%B8 - Weightless (Kupla Master).mp3</location>
         </track>
         <track>
             <title>Night Bus (Kupla Master)</title>
             <creator>Ambulo</creator>
             <album>3 AM Study Session</album>
             <duration>136124</duration>
-            <location>U:\Shared\Music\ChilledCow%20Records%20-%20(2020)%203%20am%20study%20session%20-%2015%20Ambulo%20-%20Night%20Bus%20(Kupla%20Master).mp3</location>
+            <location>U:\Shared\Music\ChilledCow Records - (2020) 3 am study session - 15 Ambulo - Night Bus (Kupla Master).mp3</location>
         </track>
         <track>
             <title>Fireflies (Kupla Master)</title>
             <creator>Kanisan x Frad</creator>
             <album>3 AM Study Session</album>
             <duration>123141</duration>
-            <location>U:\Shared\Music\ChilledCow%20Records%20-%20(2020)%203%20am%20study%20session%20-%2016%20Kanisan%20x%20Frad%20-%20Fireflies%20(Kupla%20Master).mp3</location>
+            <location>U:\Shared\Music\ChilledCow Records - (2020) 3 am study session - 16 Kanisan x Frad - Fireflies (Kupla Master).mp3</location>
         </track>
         <track>
             <title>Timeless (Kupla Master)</title>
             <creator>H.1</creator>
             <album>3 AM Study Session</album>
             <duration>134008</duration>
-            <location>U:\Shared\Music\ChilledCow%20Records%20-%20(2020)%203%20am%20study%20session%20-%2017%20H.1%20-%20Timeless%20(Kupla%20Master).mp3</location>
+            <location>U:\Shared\Music\ChilledCow Records - (2020) 3 am study session - 17 H.1 - Timeless (Kupla Master).mp3</location>
         </track>
         <track>
             <title>Recharge (Kupla Master)</title>
             <creator>Yasumu</creator>
             <album>3 AM Study Session</album>
             <duration>149890</duration>
-            <location>U:\Shared\Music\ChilledCow%20Records%20-%20(2020)%203%20am%20study%20session%20-%2018%20Yasumu%20-%20Recharge%20(Kupla%20Master).mp3</location>
+            <location>U:\Shared\Music\ChilledCow Records - (2020) 3 am study session - 18 Yasumu - Recharge (Kupla Master).mp3</location>
         </track>
         <track>
             <title>fade away (Kupla Master)</title>
             <creator>cxlt.</creator>
             <album>3 AM Study Session</album>
             <duration>164075</duration>
-            <location>U:\Shared\Music\ChilledCow%20Records%20-%20(2020)%203%20am%20study%20session%20-%2019%20cxlt.%20-%20fade%20away%20(Kupla%20Master).mp3</location>
+            <location>U:\Shared\Music\ChilledCow Records - (2020) 3 am study session - 19 cxlt. - fade away (Kupla Master).mp3</location>
         </track>
         <track>
             <title>Escape Route (Kupla Master)</title>
             <creator>Mondo Loops x Kanisan</creator>
             <album>3 AM Study Session</album>
             <duration>138135</duration>
-            <location>U:\Shared\Music\ChilledCow%20Records%20-%20(2020)%203%20am%20study%20session%20-%2020%20Mondo%20Loops%20x%20Kanisan%20-%20Escape%20Route%20(Kupla%20Master).mp3</location>
+            <location>U:\Shared\Music\ChilledCow Records - (2020) 3 am study session - 20 Mondo Loops x Kanisan - Escape Route (Kupla Master).mp3</location>
         </track>
         <track>
             <title>fateful slumber (Kupla Master)</title>
             <creator>towerz </creator>
             <album>3 AM Study Session</album>
             <duration>169482</duration>
-            <location>U:\Shared\Music\ChilledCow%20Records%20-%20(2020)%203%20am%20study%20session%20-%2021%20towerz%20-%20fateful%20slumber%20(Kupla%20Master).mp3</location>
+            <location>U:\Shared\Music\ChilledCow Records - (2020) 3 am study session - 21 towerz - fateful slumber (Kupla Master).mp3</location>
         </track>
         <track>
             <title>Crescent (Kupla Master)</title>
             <creator>brillion.</creator>
             <album>3 AM Study Session</album>
             <duration>220055</duration>
-            <location>U:\Shared\Music\ChilledCow%20Records%20-%20(2020)%203%20am%20study%20session%20-%2022%20brillion.%20-%20Crescent%20(Kupla%20Master).mp3</location>
+            <location>U:\Shared\Music\ChilledCow Records - (2020) 3 am study session - 22 brillion. - Crescent (Kupla Master).mp3</location>
         </track>
         <track>
             <title>persist (Kupla Master2)</title>
             <creator>less.people</creator>
             <album>3 AM Study Session</album>
             <duration>184920</duration>
-            <location>U:\Shared\Music\ChilledCow%20Records%20-%20(2020)%203%20am%20study%20session%20-%2023%20less.people%20-%20persist%20(Kupla%20Master2).mp3</location>
+            <location>U:\Shared\Music\ChilledCow Records - (2020) 3 am study session - 23 less.people - persist (Kupla Master2).mp3</location>
         </track>
         <track>
             <title>Drifting Far Away (Kupla Master)</title>
             <creator>Mondoloops</creator>
             <album>3 AM Study Session</album>
             <duration>154070</duration>
-            <location>U:\Shared\Music\ChilledCow%20Records%20-%20(2020)%203%20am%20study%20session%20-%2024%20Mondoloops%20-%20Drifting%20Far%20Away%20(Kupla%20Master).mp3</location>
+            <location>U:\Shared\Music\ChilledCow Records - (2020) 3 am study session - 24 Mondoloops - Drifting Far Away (Kupla Master).mp3</location>
         </track>
         <track>
             <title>somewhere else (Kupla Master)</title>
             <creator>dryhope</creator>
             <album>3 AM Study Session</album>
             <duration>155898</duration>
-            <location>U:\Shared\Music\ChilledCow%20Records%20-%20(2020)%203%20am%20study%20session%20-%20dryhope%20-%20somewhere%20else%20(Kupla%20Master).mp3</location>
+            <location>U:\Shared\Music\ChilledCow Records - (2020) 3 am study session - dryhope - somewhere else (Kupla Master).mp3</location>
         </track>
         <track>
             <title>sheets (Kupla Master)</title>
             <creator>Eisu</creator>
             <album>3 AM Study Session</album>
             <duration>120111</duration>
-            <location>U:\Shared\Music\ChilledCow%20Records%20-%20(2020)%203%20am%20study%20session%20-%20Eisu%20-%20sheets%20(Kupla%20Master).mp3</location>
+            <location>U:\Shared\Music\ChilledCow Records - (2020) 3 am study session - Eisu - sheets (Kupla Master).mp3</location>
         </track>
         <track>
             <title>Glowing lights (Kupla Master)</title>
             <creator>No Spirit</creator>
             <album>3 AM Study Session</album>
             <duration>165903</duration>
-            <location>U:\Shared\Music\ChilledCow%20Records%20-%20(2020)%203%20am%20study%20session%20-%2001%20No%20Spirit%20-%20Glowing%20lights%20(Kupla%20Master).mp3</location>
+            <location>U:\Shared\Music\ChilledCow Records - (2020) 3 am study session - 01 No Spirit - Glowing lights (Kupla Master).mp3</location>
         </track>
         <track>
             <title>Phantasm (Kupla Master)</title>
             <creator>Casiio _ Sleepermane</creator>
             <album>3 AM Study Session</album>
             <duration>124525</duration>
-            <location>U:\Shared\Music\ChilledCow%20Records%20-%20(2020)%203%20am%20study%20session%20-%2004%20Casiio%20_%20Sleepermane%20-%20Phantasm%20(Kupla%20Master).mp3</location>
+            <location>U:\Shared\Music\ChilledCow Records - (2020) 3 am study session - 04 Casiio _ Sleepermane - Phantasm (Kupla Master).mp3</location>
         </track>
         <track>
             <title>After sunset (Kupla Master)</title>
             <creator>Project AER x WYS</creator>
             <album>3 AM Study Session</album>
             <duration>160705</duration>
-            <location>U:\Shared\Music\ChilledCow%20Records%20-%20(2020)%203%20am%20study%20session%20-%2005%20Project%20AER%20x%20WYS%20-%20after%20sunset%20(Kupla%20Master).mp3</location>
+            <location>U:\Shared\Music\ChilledCow Records - (2020) 3 am study session - 05 Project AER x WYS - after sunset (Kupla Master).mp3</location>
         </track>
         <track>
             <title>Luna (Kupla Master)</title>
             <creator>Tenno</creator>
             <album>3 AM Study Session</album>
             <duration>154671</duration>
-            <location>U:\Shared\Music\ChilledCow%20Records%20-%20(2020)%203%20am%20study%20session%20-%2006%20Tenno%20-%20Luna%20(Kupla%20Master).mp3</location>
+            <location>U:\Shared\Music\ChilledCow Records - (2020) 3 am study session - 06 Tenno - Luna (Kupla Master).mp3</location>
         </track>
         <track>
             <title>Lucid (Kupla Master)</title>
             <creator>Sebastian Kamae _ Intoku</creator>
             <album>3 AM Study Session</album>
             <duration>132780</duration>
-            <location>U:\Shared\Music\ChilledCow%20Records%20-%20(2020)%203%20am%20study%20session%20-%2007%20Sebastian%20Kamae%20_%20Intoku%20-%20Lucid%20(Kupla%20Master).mp3</location>
+            <location>U:\Shared\Music\ChilledCow Records - (2020) 3 am study session - 07 Sebastian Kamae _ Intoku - Lucid (Kupla Master).mp3</location>
         </track>
         <track>
             <title>contemplation (Kupla Master)</title>
             <creator>epektase x j_san</creator>
             <album>3 AM Study Session</album>
             <duration>195500</duration>
-            <location>U:\Shared\Music\ChilledCow%20Records%20-%20(2020)%203%20am%20study%20session%20-%2008%20epektase%20x%20j_san%20-%20contemplation%20(Kupla%20Master).mp3</location>
+            <location>U:\Shared\Music\ChilledCow Records - (2020) 3 am study session - 08 epektase x j_san - contemplation (Kupla Master).mp3</location>
         </track>
         <track>
             <title>Signals (Kupla Master)</title>
             <creator>Casiio _ Sleepermane </creator>
             <album>3 AM Study Session</album>
             <duration>108094</duration>
-            <location>U:\Shared\Music\ChilledCow%20Records%20-%20(2020)%203%20am%20study%20session%20-%2009%20Casiio%20_%20Sleepermane%20-%20Signals%20(Kupla%20Master).mp3</location>
+            <location>U:\Shared\Music\ChilledCow Records - (2020) 3 am study session - 09 Casiio _ Sleepermane - Signals (Kupla Master).mp3</location>
         </track>
         <track>
             <title>Feelings (Kupla Master)</title>
             <creator>Phlocalyst _ Living Room</creator>
             <album>3 AM Study Session</album>
             <duration>150073</duration>
-            <location>U:\Shared\Music\ChilledCow%20Records%20-%20(2020)%203%20am%20study%20session%20-%2010%20Phlocalyst%20_%20Living%20Room%20-%20Feelings%20(Kupla%20Master).mp3</location>
+            <location>U:\Shared\Music\ChilledCow Records - (2020) 3 am study session - 10 Phlocalyst _ Living Room - Feelings (Kupla Master).mp3</location>
         </track>
         <track>
             <title>Azul do Mar</title>
             <creator>SOW</creator>
             <album>O Selo</album>
             <duration>267546</duration>
-            <location>U:\Shared\Music\SOW%20-%20(2017)%20O%20Selo%20-%205.mp3</location>
+            <location>U:\Shared\Music\SOW - (2017) O Selo - 5.mp3</location>
         </track>
         <track>
             <title>Caçador</title>
             <creator>SOW</creator>
             <album>O Selo</album>
             <duration>260493</duration>
-            <location>U:\Shared\Music\SOW%20-%20(2017)%20O%20Selo%20-%201.mp3</location>
+            <location>U:\Shared\Music\SOW - (2017) O Selo - 1.mp3</location>
         </track>
         <track>
             <title>Dizes</title>
             <creator>SOW</creator>
             <album>O Selo</album>
             <duration>258272</duration>
-            <location>U:\Shared\Music\SOW%20-%20(2017)%20O%20Selo%20-%203.mp3</location>
+            <location>U:\Shared\Music\SOW - (2017) O Selo - 3.mp3</location>
         </track>
         <track>
             <title>Looking For Answers</title>
@@ -1176,7 +1176,7 @@
             <album>Homeland</album>
             <duration>147774</duration>
             <trackNum>4</trackNum>
-            <location>U:\Shared\Music\L'Outlander%20-%20(2021)%20Homeland%20-%204.Looking%20For%20Answers.mp3</location>
+            <location>U:\Shared\Music\L'Outlander - (2021) Homeland - 4.Looking For Answers.mp3</location>
         </track>
         <track>
             <title>Higher Calling</title>
@@ -1184,7 +1184,7 @@
             <album>Homeland</album>
             <duration>163578</duration>
             <trackNum>5</trackNum>
-            <location>U:\Shared\Music\L'Outlander%20-%20(2021)%20Homeland%20-%205.Higher%20Calling.mp3</location>
+            <location>U:\Shared\Music\L'Outlander - (2021) Homeland - 5.Higher Calling.mp3</location>
         </track>
         <track>
             <title>Homeland</title>
@@ -1192,7 +1192,7 @@
             <album>Homeland</album>
             <duration>127294</duration>
             <trackNum>6</trackNum>
-            <location>U:\Shared\Music\L'Outlander%20-%20(2021)%20Homeland%20-%206.Homeland.mp3</location>
+            <location>U:\Shared\Music\L'Outlander - (2021) Homeland - 6.Homeland.mp3</location>
         </track>
         <track>
             <title>Farewell</title>
@@ -1200,7 +1200,7 @@
             <album>Homeland</album>
             <duration>179330</duration>
             <trackNum>1</trackNum>
-            <location>U:\Shared\Music\L'Outlander%20-%20(2021)%20Homeland%20-%201.Farewell.mp3</location>
+            <location>U:\Shared\Music\L'Outlander - (2021) Homeland - 1.Farewell.mp3</location>
         </track>
         <track>
             <title>Speculations</title>
@@ -1208,7 +1208,7 @@
             <album>Homeland</album>
             <duration>108826</duration>
             <trackNum>2</trackNum>
-            <location>U:\Shared\Music\L'Outlander%20-%20(2021)%20Homeland%20-%202.Speculations.mp3</location>
+            <location>U:\Shared\Music\L'Outlander - (2021) Homeland - 2.Speculations.mp3</location>
         </track>
         <track>
             <title>Past Things ft. Mondo Loops</title>
@@ -1216,7 +1216,7 @@
             <album>Homeland</album>
             <duration>166034</duration>
             <trackNum>3</trackNum>
-            <location>U:\Shared\Music\L'Outlander%20-%20(2021)%20Homeland%20-%203.Past%20Things%20ft.%20Mondo%20Loops.mp3</location>
+            <location>U:\Shared\Music\L'Outlander - (2021) Homeland - 3.Past Things ft. Mondo Loops.mp3</location>
         </track>
         <track>
             <title>Evenings</title>
@@ -1224,298 +1224,298 @@
             <album>Purple Skies</album>
             <duration>155820</duration>
             <trackNum>2</trackNum>
-            <location>U:\Shared\Music\Snug%20-%20(2021)%20Purple%20Skies%20-%20Evenings.mp3</location>
+            <location>U:\Shared\Music\Snug - (2021) Purple Skies - Evenings.mp3</location>
         </track>
         <track>
             <title>Mull Over (feat Eaup)</title>
             <creator>Kaspa.</creator>
             <album>The story</album>
             <duration>150909</duration>
-            <location>U:\Shared\Music\Kaspa%20-%20(2021)%20The%20story%20-%20Mull%20Over.mp3</location>
+            <location>U:\Shared\Music\Kaspa - (2021) The story - Mull Over.mp3</location>
         </track>
         <track>
             <title>Wondering</title>
             <creator>Casiio</creator>
             <album>Wondering</album>
             <duration>124776</duration>
-            <location>U:\Shared\Music\Casiio%20-%20(2020)%20Wondering%20-%20Wondering.mp3</location>
+            <location>U:\Shared\Music\Casiio - (2020) Wondering - Wondering.mp3</location>
         </track>
         <track>
             <title>Shadowed days (feat Towerz and edelwize)</title>
             <creator>hi jude</creator>
             <duration>168720</duration>
-            <location>U:\Shared\Music\hi%20jude%20-%20Shadowed%20days%20(feat%20Towerz%20and%20edelwize).mp3</location>
+            <location>U:\Shared\Music\hi jude - Shadowed days (feat Towerz and edelwize).mp3</location>
         </track>
         <track>
             <title>Atlantis (feat. Sleepermane)</title>
             <creator>Casiio</creator>
             <album>Underneath </album>
             <duration>122462</duration>
-            <location>U:\Shared\Music\Casiio%20-%20(2020)%20Underneath%20-%20Atlantis%20(feat.%20Sleepermane).mp3</location>
+            <location>U:\Shared\Music\Casiio - (2020) Underneath - Atlantis (feat. Sleepermane).mp3</location>
         </track>
         <track>
             <title>Butterfly Nebula (feat. Baen Mow)</title>
             <creator>BluntOne</creator>
             <album>A Day in the Life</album>
             <duration>115408</duration>
-            <location>U:\Shared\Music\BluntOne%20-%20(2022)%20A%20Day%20in%20the%20Life%20-%20Butterfly%20Nebula%20(feat.%20Baen%20Mow).mp3</location>
+            <location>U:\Shared\Music\BluntOne - (2022) A Day in the Life - Butterfly Nebula (feat. Baen Mow).mp3</location>
         </track>
         <track>
             <title>Motions</title>
             <creator>Tibeauthetraveler</creator>
             <album>Motions</album>
             <duration>121547</duration>
-            <location>U:\Shared\Music\Tibeauthetraveler%20-%20(2021)%20Motions%20-%20Motions.mp3</location>
+            <location>U:\Shared\Music\Tibeauthetraveler - (2021) Motions - Motions.mp3</location>
         </track>
         <track>
             <title>Invisible Medicine (feat Enluv)</title>
             <creator>Squeeda</creator>
             <album>Lost World</album>
             <duration>174602</duration>
-            <location>U:\Shared\Music\Squeeda%20-%20(2021)%20Lost%20World%20-%20Invisible%20Medicine%20(feat%20Enluv).mp3</location>
+            <location>U:\Shared\Music\Squeeda - (2021) Lost World - Invisible Medicine (feat Enluv).mp3</location>
         </track>
         <track>
             <title>Core</title>
             <creator>Neronus</creator>
             <album>Blassed Tapes</album>
             <duration>168202</duration>
-            <location>U:\Shared\Music\Neronus%20-%20(2020)%20Blassed%20Tapes%20-%20Core.mp3</location>
+            <location>U:\Shared\Music\Neronus - (2020) Blassed Tapes - Core.mp3</location>
         </track>
         <track>
             <title>Overdose</title>
             <creator>Neronus</creator>
             <album>Reason to Exist </album>
             <duration>168071</duration>
-            <location>U:\Shared\Music\Neronus%20-%20(2021)%20Reason%20to%20Exist%20-%20Overdose.mp3</location>
+            <location>U:\Shared\Music\Neronus - (2021) Reason to Exist - Overdose.mp3</location>
         </track>
         <track>
             <title>Quetzal</title>
             <creator>dryhope</creator>
             <album>Kenopsia</album>
             <duration>127817</duration>
-            <location>U:\Shared\Music\Dryhope%20-%20(2020)%20Kenopsia%20-%20Quetzal.mp3</location>
+            <location>U:\Shared\Music\Dryhope - (2020) Kenopsia - Quetzal.mp3</location>
         </track>
         <track>
             <title>Childhood Home</title>
             <creator>dryhope</creator>
             <album>Kenopsia</album>
             <duration>148271</duration>
-            <location>U:\Shared\Music\Dryhope%20-%20(2020)%20Kenopsia%20-%20Childhood%20Home.mp3</location>
+            <location>U:\Shared\Music\Dryhope - (2020) Kenopsia - Childhood Home.mp3</location>
         </track>
         <track>
             <title>Evoke (w_ Dontcry)</title>
             <creator>dryhope</creator>
             <album>Kenopsia</album>
             <duration>166217</duration>
-            <location>U:\Shared\Music\Dryhope%20-%20(2020)%20Kenopsia%20-%20Evoke%20(w_%20Dontcry).mp3</location>
+            <location>U:\Shared\Music\Dryhope - (2020) Kenopsia - Evoke (w_ Dontcry).mp3</location>
         </track>
         <track>
             <title>Gravity</title>
             <creator>dryhope</creator>
             <album>Kenopsia</album>
             <duration>108826</duration>
-            <location>U:\Shared\Music\Dryhope%20-%20(2020)%20Kenopsia%20-%20Gravity.mp3</location>
+            <location>U:\Shared\Music\Dryhope - (2020) Kenopsia - Gravity.mp3</location>
         </track>
         <track>
             <title>Higher State</title>
             <creator>dryhope</creator>
             <album>Kenopsia</album>
             <duration>145998</duration>
-            <location>U:\Shared\Music\Dryhope%20-%20(2020)%20Kenopsia%20-%20Higher%20State.mp3</location>
+            <location>U:\Shared\Music\Dryhope - (2020) Kenopsia - Higher State.mp3</location>
         </track>
         <track>
             <title>No Secrets</title>
             <creator>dryhope</creator>
             <album>Kenopsia</album>
             <duration>115226</duration>
-            <location>U:\Shared\Music\Dryhope%20-%20(2020)%20Kenopsia%20-%20No%20Secrets.mp3</location>
+            <location>U:\Shared\Music\Dryhope - (2020) Kenopsia - No Secrets.mp3</location>
         </track>
         <track>
             <title>4 Months</title>
             <creator>dryhope</creator>
             <album>Blissful Dreams</album>
             <duration>187376</duration>
-            <location>U:\Shared\Music\Kupla%20Master%20-%20(2023)%20Blissful%20Dreams%20-%20dryhope%20-%204%20Months.mp3</location>
+            <location>U:\Shared\Music\Kupla Master - (2023) Blissful Dreams - dryhope - 4 Months.mp3</location>
         </track>
         <track>
             <title>Delusions</title>
             <creator>eugenio izzi Kanisan</creator>
             <album>Blissful Dreams</album>
             <duration>178364</duration>
-            <location>U:\Shared\Music\Kupla%20Master%20-%20(2023)%20Blissful%20Dreams%20-%20eugenio%20izzi%20Kanisan%20-%20Delusions.mp3</location>
+            <location>U:\Shared\Music\Kupla Master - (2023) Blissful Dreams - eugenio izzi Kanisan - Delusions.mp3</location>
         </track>
         <track>
             <title>Goodnight</title>
             <creator>fnonose drrreems</creator>
             <album>Blissful Dreams</album>
             <duration>156055</duration>
-            <location>U:\Shared\Music\Kupla%20Master%20-%20(2023)%20Blissful%20Dreams%20-%20fnonose%20drrreems%20-%20Goodnight.mp3</location>
+            <location>U:\Shared\Music\Kupla Master - (2023) Blissful Dreams - fnonose drrreems - Goodnight.mp3</location>
         </track>
         <track>
             <title>Drøm</title>
             <creator>HM Surf 96 Zeus</creator>
             <album>Blissful Dreams</album>
             <duration>144117</duration>
-            <location>U:\Shared\Music\Kupla%20Master%20-%20(2023)%20Blissful%20Dreams%20-%20HM%20Surf%2096%20Zeus%20-%20Dr%C3%B8m.mp3</location>
+            <location>U:\Shared\Music\Kupla Master - (2023) Blissful Dreams - HM Surf 96 Zeus - Dr%C3%B8m.mp3</location>
         </track>
         <track>
             <title>Sunrise Echoes</title>
             <creator>Hoogway</creator>
             <album>Blissful Dreams</album>
             <duration>146076</duration>
-            <location>U:\Shared\Music\Kupla%20Master%20-%20(2023)%20Blissful%20Dreams%20-%20Hoogway%20-%20Sunrise%20Echoes.mp3</location>
+            <location>U:\Shared\Music\Kupla Master - (2023) Blissful Dreams - Hoogway - Sunrise Echoes.mp3</location>
         </track>
         <track>
             <title>Sweet Dreams</title>
             <creator>Iamcloud KioKo Banks</creator>
             <album>Blissful Dreams</album>
             <duration>139363</duration>
-            <location>U:\Shared\Music\Kupla%20Master%20-%20(2023)%20Blissful%20Dreams%20-%20Iamcloud%20KioKo%20Banks%20-%20Sweet%20Dreams.mp3</location>
+            <location>U:\Shared\Music\Kupla Master - (2023) Blissful Dreams - Iamcloud KioKo Banks - Sweet Dreams.mp3</location>
         </track>
         <track>
             <title>Dreamwisp</title>
             <creator>idylla Kainbeats</creator>
             <album>Blissful Dreams</album>
             <duration>168489</duration>
-            <location>U:\Shared\Music\Kupla%20Master%20-%20(2023)%20Blissful%20Dreams%20-%20idylla%20Kainbeats%20-%20Dreamwisp.mp3</location>
+            <location>U:\Shared\Music\Kupla Master - (2023) Blissful Dreams - idylla Kainbeats - Dreamwisp.mp3</location>
         </track>
         <track>
             <title>Remembering You</title>
             <creator>Krynoze Hoogway</creator>
             <album>Blissful Dreams</album>
             <duration>153756</duration>
-            <location>U:\Shared\Music\Kupla%20Master%20-%20(2023)%20Blissful%20Dreams%20-%20Krynoze%20Hoogway%20-%20Remembering%20You.mp3</location>
+            <location>U:\Shared\Music\Kupla Master - (2023) Blissful Dreams - Krynoze Hoogway - Remembering You.mp3</location>
         </track>
         <track>
             <title>A Thousand Years Behind My Eyes</title>
             <creator>Lenny Loops 96 Zeus</creator>
             <album>Blissful Dreams</album>
             <duration>139258</duration>
-            <location>U:\Shared\Music\Kupla%20Master%20-%20(2023)%20Blissful%20Dreams%20-%20Lenny%20Loops%2096%20Zeus%20-%20A%20Thousand%20Years%20Behind%20My%20Eyes.mp3</location>
+            <location>U:\Shared\Music\Kupla Master - (2023) Blissful Dreams - Lenny Loops 96 Zeus - A Thousand Years Behind My Eyes.mp3</location>
         </track>
         <track>
             <title>I Saw Stars</title>
             <creator>Lenny Loops Blocktane</creator>
             <album>Blissful Dreams</album>
             <duration>150073</duration>
-            <location>U:\Shared\Music\Kupla%20Master%20-%20(2023)%20Blissful%20Dreams%20-%20Lenny%20Loops%20Blocktane%20-%20I%20Saw%20Stars.mp3</location>
+            <location>U:\Shared\Music\Kupla Master - (2023) Blissful Dreams - Lenny Loops Blocktane - I Saw Stars.mp3</location>
         </track>
         <track>
             <title>Dozy</title>
             <creator>LUQET thatlofiguy</creator>
             <album>Blissful Dreams</album>
             <duration>128052</duration>
-            <location>U:\Shared\Music\Kupla%20Master%20-%20(2023)%20Blissful%20Dreams%20-%20LUQET%20thatlofiguy%20-%20Dozy.mp3</location>
+            <location>U:\Shared\Music\Kupla Master - (2023) Blissful Dreams - LUQET thatlofiguy - Dozy.mp3</location>
         </track>
         <track>
             <title>Message in a Dream</title>
             <creator>Mondo Loops</creator>
             <album>Blissful Dreams</album>
             <duration>128052</duration>
-            <location>U:\Shared\Music\Kupla%20Master%20-%20(2023)%20Blissful%20Dreams%20-%20Mondo%20Loops%20-%20Message%20in%20a%20Dream.mp3</location>
+            <location>U:\Shared\Music\Kupla Master - (2023) Blissful Dreams - Mondo Loops - Message in a Dream.mp3</location>
         </track>
         <track>
             <title>Fading Light</title>
             <creator>mtch. Blocktane</creator>
             <album>Blissful Dreams</album>
             <duration>138292</duration>
-            <location>U:\Shared\Music\Kupla%20Master%20-%20(2023)%20Blissful%20Dreams%20-%20mtch.%20Blocktane%20-%20Fading%20Light.mp3</location>
+            <location>U:\Shared\Music\Kupla Master - (2023) Blissful Dreams - mtch. Blocktane - Fading Light.mp3</location>
         </track>
         <track>
             <title>Cosy Bed</title>
             <creator>Nadav Cohen Pierson Booth</creator>
             <album>Blissful Dreams</album>
             <duration>192052</duration>
-            <location>U:\Shared\Music\Kupla%20Master%20-%20(2023)%20Blissful%20Dreams%20-%20Nadav%20Cohen%20Pierson%20Booth%20-%20Cosy%20Bed.mp3</location>
+            <location>U:\Shared\Music\Kupla Master - (2023) Blissful Dreams - Nadav Cohen Pierson Booth - Cosy Bed.mp3</location>
         </track>
         <track>
             <title>Shimmers of a Dream</title>
             <creator>No Spirit Kainbeats</creator>
             <album>Blissful Dreams</album>
             <duration>147487</duration>
-            <location>U:\Shared\Music\Kupla%20Master%20-%20(2023)%20Blissful%20Dreams%20-%20No%20Spirit%20Kainbeats%20-%20Shimmers%20of%20a%20Dream.mp3</location>
+            <location>U:\Shared\Music\Kupla Master - (2023) Blissful Dreams - No Spirit Kainbeats - Shimmers of a Dream.mp3</location>
         </track>
         <track>
             <title>Luminosity</title>
             <creator>No Spirit LUQET</creator>
             <album>Blissful Dreams</album>
             <duration>132858</duration>
-            <location>U:\Shared\Music\Kupla%20Master%20-%20(2023)%20Blissful%20Dreams%20-%20No%20Spirit%20LUQET%20-%20Luminosity.mp3</location>
+            <location>U:\Shared\Music\Kupla Master - (2023) Blissful Dreams - No Spirit LUQET - Luminosity.mp3</location>
         </track>
         <track>
             <title>Unknown Realms</title>
             <creator>Prithvi sftspkn</creator>
             <album>Blissful Dreams</album>
             <duration>147748</duration>
-            <location>U:\Shared\Music\Kupla%20Master%20-%20(2023)%20Blissful%20Dreams%20-%20Prithvi%20sftspkn%20-%20Unknown%20Realms.mp3</location>
+            <location>U:\Shared\Music\Kupla Master - (2023) Blissful Dreams - Prithvi sftspkn - Unknown Realms.mp3</location>
         </track>
         <track>
             <title>Dreamfield</title>
             <creator>slowburn</creator>
             <album>Blissful Dreams</album>
             <duration>123533</duration>
-            <location>U:\Shared\Music\Kupla%20Master%20-%20(2023)%20Blissful%20Dreams%20-%20slowburn%20-%20Dreamfield.mp3</location>
+            <location>U:\Shared\Music\Kupla Master - (2023) Blissful Dreams - slowburn - Dreamfield.mp3</location>
         </track>
         <track>
             <title>Nocturnal</title>
             <creator>steezy prime Just Steezy Things</creator>
             <album>Blissful Dreams</album>
             <duration>147748</duration>
-            <location>U:\Shared\Music\Kupla%20Master%20-%20(2023)%20Blissful%20Dreams%20-%20steezy%20prime%20Just%20Steezy%20Things%20-%20Nocturnal.mp3</location>
+            <location>U:\Shared\Music\Kupla Master - (2023) Blissful Dreams - steezy prime Just Steezy Things - Nocturnal.mp3</location>
         </track>
         <track>
             <title>Into the Reverie</title>
             <creator>Tenno </creator>
             <album>Blissful Dreams</album>
             <duration>156264</duration>
-            <location>U:\Shared\Music\Kupla%20Master%20-%20(2023)%20Blissful%20Dreams%20-%20Tenno%20-%20Into%20the%20Reverie.mp3</location>
+            <location>U:\Shared\Music\Kupla Master - (2023) Blissful Dreams - Tenno - Into the Reverie.mp3</location>
         </track>
         <track>
             <title>Recurring Dreams</title>
             <creator>trxxshed softy</creator>
             <album>Blissful Dreams</album>
             <duration>126380</duration>
-            <location>U:\Shared\Music\Kupla%20Master%20-%20(2023)%20Blissful%20Dreams%20-%20trxxshed%20softy%20-%20Recurring%20Dreams.mp3</location>
+            <location>U:\Shared\Music\Kupla Master - (2023) Blissful Dreams - trxxshed softy - Recurring Dreams.mp3</location>
         </track>
         <track>
             <title>See me in Your Dreams</title>
             <creator>xander PIerson Booth</creator>
             <album>Blissful Dreams</album>
             <duration>147069</duration>
-            <location>U:\Shared\Music\Kupla%20Master%20-%20(2023)%20Blissful%20Dreams%20-%20xander%20PIerson%20Booth%20-%20See%20me%20in%20Your%20Dreams.mp3</location>
+            <location>U:\Shared\Music\Kupla Master - (2023) Blissful Dreams - xander PIerson Booth - See me in Your Dreams.mp3</location>
         </track>
         <track>
             <title>The Woods Call me</title>
             <creator>Blocktane Ornithology Kairos KioKo</creator>
             <album>Blissful Dreams</album>
             <duration>160391</duration>
-            <location>U:\Shared\Music\Kupla%20Master%20-%20(2023)%20Blissful%20Dreams%20-%20Blocktane%20Ornithology%20Kairos%20KioKo%20-%20The%20Woods%20Call%20me.mp3</location>
+            <location>U:\Shared\Music\Kupla Master - (2023) Blissful Dreams - Blocktane Ornithology Kairos KioKo - The Woods Call me.mp3</location>
         </track>
         <track>
             <title>Last Light</title>
             <creator>cxlt.</creator>
             <album>Blissful Dreams</album>
             <duration>166217</duration>
-            <location>U:\Shared\Music\Kupla%20Master%20-%20(2023)%20Blissful%20Dreams%20-%20cxlt.%20-%20Last%20Light.mp3</location>
+            <location>U:\Shared\Music\Kupla Master - (2023) Blissful Dreams - cxlt. - Last Light.mp3</location>
         </track>
         <track>
             <title>Without You</title>
             <creator>cxlt.</creator>
             <album>Blissful Dreams</album>
             <duration>137221</duration>
-            <location>U:\Shared\Music\Kupla%20Master%20-%20(2023)%20Blissful%20Dreams%20-%20cxlt.%20-%20Without%20You.mp3</location>
+            <location>U:\Shared\Music\Kupla Master - (2023) Blissful Dreams - cxlt. - Without You.mp3</location>
         </track>
         <track>
             <title>Take me back</title>
             <creator>Kanisan</creator>
             <duration>149280</duration>
-            <location>U:\Shared\Music\Kanisan%20-%202023%20-%20Take%20me%20back.mp3</location>
+            <location>U:\Shared\Music\Kanisan - 2023 - Take me back.mp3</location>
         </track>
         <track>
             <title>Crash</title>
             <creator>DatZoeOfficial</creator>
             <duration>181472</duration>
-            <location>U:\Shared\Music\DatZoeOfficial%20-%20Crash.mp3</location>
+            <location>U:\Shared\Music\DatZoeOfficial - Crash.mp3</location>
         </track>
     </trackList>
 </playlist>

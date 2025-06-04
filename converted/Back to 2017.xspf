@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <playlist xmlns="http://xspf.org/ns/0/" version="1">
     <trackList>
         <track>
@@ -7,7 +7,7 @@
             <album>Time And Trauma</album>
             <duration>274782</duration>
             <trackNum>11</trackNum>
-            <location>U:\Shared\Music\36%20Crazyfists%20-%20(2015)%20Time%20And%20Trauma%20-%20gathering_bones.mp3</location>
+            <location>U:\Shared\Music\36 Crazyfists - (2015) Time And Trauma - gathering_bones.mp3</location>
         </track>
         <track>
             <title>3 Libras</title>
@@ -15,7 +15,7 @@
             <album>Mer de Noms</album>
             <duration>219742</duration>
             <trackNum>6</trackNum>
-            <location>U:\Shared\Music\A%20Perfect%20Circle%20-%20(2000)%20Mer%20De%20Noms%20-%203%20Libras.mp3</location>
+            <location>U:\Shared\Music\A Perfect Circle - (2000) Mer De Noms - 3 Libras.mp3</location>
         </track>
         <track>
             <title>Let Me Put My Love into You</title>
@@ -23,19 +23,19 @@
             <album>Back in Black</album>
             <duration>255686</duration>
             <trackNum>5</trackNum>
-            <location>U:\Shared\Music\AC-DC%20-%20(1980)%20Back%20in%20Black%20-%20Let%20me%20put%20my%20love%20into%20you.mp3</location>
+            <location>U:\Shared\Music\AC-DC - (1980) Back in Black - Let me put my love into you.mp3</location>
         </track>
         <track>
             <title>Mystery Light</title>
             <creator>Alice On The Roof</creator>
             <duration>188969</duration>
-            <location>U:\Shared\Music\Alice%20on%20the%20Roof%20-%20Mystery%20light.mp3</location>
+            <location>U:\Shared\Music\Alice on the Roof - Mystery light.mp3</location>
         </track>
         <track>
             <title>Deep house mix MARCH 2017</title>
             <creator>Anton Ishutin</creator>
             <duration>312032</duration>
-            <location>U:\Shared\Music\ANTON%20ISHUTIN%20in%20SESSION%20deep%20house%20mix%20MARCH%202017.mp3</location>
+            <location>U:\Shared\Music\ANTON ISHUTIN in SESSION deep house mix MARCH 2017.mp3</location>
         </track>
         <track>
             <title>Naysayer</title>
@@ -43,7 +43,7 @@
             <album>Lost Forever // Lost Together (Deluxe Edition)</album>
             <duration>208326</duration>
             <trackNum>2</trackNum>
-            <location>U:\Shared\Music\Architects%20-%20(2015)%20Lost%20Forever%20Lost%20Together%20-%20Naysayer.mp3</location>
+            <location>U:\Shared\Music\Architects - (2015) Lost Forever Lost Together - Naysayer.mp3</location>
         </track>
         <track>
             <title>A Match Made In Heaven</title>
@@ -51,7 +51,7 @@
             <album>All Our Gods Have Abandoned Us</album>
             <duration>228075</duration>
             <trackNum>7</trackNum>
-            <location>U:\Shared\Music\Architects%20-%20(2016)%20All%20Our%20Gods%20Have%20Abandoned%20Us%20-%20A%20Match%20Made%20In%20Heaven.mp3</location>
+            <location>U:\Shared\Music\Architects - (2016) All Our Gods Have Abandoned Us - A Match Made In Heaven.mp3</location>
         </track>
         <track>
             <title>Downfall</title>
@@ -59,7 +59,7 @@
             <album>All Our Gods Have Abandoned Us</album>
             <duration>245629</duration>
             <trackNum>4</trackNum>
-            <location>U:\Shared\Music\Architects%20-%20(2016)%20All%20Our%20Gods%20Have%20Abandoned%20Us%20-%20Downfall.mp3</location>
+            <location>U:\Shared\Music\Architects - (2016) All Our Gods Have Abandoned Us - Downfall.mp3</location>
         </track>
         <track>
             <title>Gravity</title>
@@ -67,7 +67,7 @@
             <album>All Our Gods Have Abandoned Us</album>
             <duration>198164</duration>
             <trackNum>8</trackNum>
-            <location>U:\Shared\Music\Architects%20-%20(2016)%20All%20Our%20Gods%20Have%20Abandoned%20Us%20-%20Gravity.mp3</location>
+            <location>U:\Shared\Music\Architects - (2016) All Our Gods Have Abandoned Us - Gravity.mp3</location>
         </track>
         <track>
             <title>The Empty Hourglass</title>
@@ -75,7 +75,7 @@
             <album>All Our Gods Have Abandoned Us</album>
             <duration>251951</duration>
             <trackNum>6</trackNum>
-            <location>U:\Shared\Music\Architects%20-%20(2016)%20All%20Our%20Gods%20Have%20Abandoned%20Us%20-%20The%20Empty%20Hourglass.mp3</location>
+            <location>U:\Shared\Music\Architects - (2016) All Our Gods Have Abandoned Us - The Empty Hourglass.mp3</location>
         </track>
         <track>
             <title>Doomsday</title>
@@ -83,19 +83,19 @@
             <album>Holy Hell</album>
             <duration>248946</duration>
             <trackNum>10</trackNum>
-            <location>U:\Shared\Music\Architects%20-%20(2018)%20Holy%20Hell%20-%20Doomsday.mp3</location>
+            <location>U:\Shared\Music\Architects - (2018) Holy Hell - Doomsday.mp3</location>
         </track>
         <track>
             <title>Chaos</title>
             <creator>Bazart</creator>
             <duration>199026</duration>
-            <location>U:\Shared\Music\Bazart%20-%20Chaos.mp3</location>
+            <location>U:\Shared\Music\Bazart - Chaos.mp3</location>
         </track>
         <track>
             <title>Flawless (ft. Chimamanda)</title>
             <creator>Beyoncé</creator>
             <duration>252212</duration>
-            <location>U:\Shared\Music\Beyonc%C3%A9%20-%20(2014)%20-%20Flawless%20(ft.%20Chimamanda%20Ngozi%20Adichie).mp3</location>
+            <location>U:\Shared\Music\Beyonc%C3%A9 - (2014) - Flawless (ft. Chimamanda Ngozi Adichie).mp3</location>
         </track>
         <track>
             <title>Collapse</title>
@@ -103,13 +103,13 @@
             <album>Tomorrow's Harvest</album>
             <duration>169874</duration>
             <trackNum>9</trackNum>
-            <location>U:\Shared\Music\Boards%20Of%20Canada%20-%20(2013)%20Tomorrows%20Harvest%20-%20Collapse.mp3</location>
+            <location>U:\Shared\Music\Boards Of Canada - (2013) Tomorrows Harvest - Collapse.mp3</location>
         </track>
         <track>
             <title>Algo Está Cambiando (Cover Audio)</title>
             <creator>Bomba Estéreo</creator>
             <duration>270759</duration>
-            <location>U:\Shared\Music\Bomba%20Est%C3%A9reo%20-%20Algo%20Est%C3%A1%20Cambiando%20(Cover%20Audio).mp3</location>
+            <location>U:\Shared\Music\Bomba Est%C3%A9reo - Algo Est%C3%A1 Cambiando (Cover Audio).mp3</location>
         </track>
         <track>
             <title>Kiara</title>
@@ -117,7 +117,7 @@
             <album>Black Sands</album>
             <duration>230373</duration>
             <trackNum>2</trackNum>
-            <location>U:\Shared\Music\Bonobo%20-%20(2010)%20Black%20Sands%20-%20Kiara.mp3</location>
+            <location>U:\Shared\Music\Bonobo - (2010) Black Sands - Kiara.mp3</location>
         </track>
         <track>
             <title>Stay The Same (feat. Andreya Triana)</title>
@@ -125,13 +125,13 @@
             <album>Black Sands</album>
             <duration>284891</duration>
             <trackNum>10</trackNum>
-            <location>U:\Shared\Music\Bonobo%20-%20(2010)%20Black%20Sands%20-%20Stay%20The%20Same%20(feat.%20Andreya%20Triana).mp3</location>
+            <location>U:\Shared\Music\Bonobo - (2010) Black Sands - Stay The Same (feat. Andreya Triana).mp3</location>
         </track>
         <track>
             <title>Caffeine (Feat. Maribelle)</title>
             <creator>MayaVanya</creator>
             <duration>209815</duration>
-            <location>U:\Shared\Music\Caffeine%20(Feat.%20Maribelle).mp3</location>
+            <location>U:\Shared\Music\Caffeine (Feat. Maribelle).mp3</location>
         </track>
         <track>
             <title>Gabriel</title>
@@ -139,19 +139,19 @@
             <album>Volumen Ocho</album>
             <duration>259448</duration>
             <trackNum>11</trackNum>
-            <location>U:\Shared\Music\Caf%C3%A9%20del%20mar%20-%20(2001)%20Volumen%20Ocho%20-%20Gabriel.mp3</location>
+            <location>U:\Shared\Music\Caf%C3%A9 del mar - (2001) Volumen Ocho - Gabriel.mp3</location>
         </track>
         <track>
             <title>This Is What You Came For (ft. Rihanna)</title>
             <creator>Calvin Harris</creator>
             <duration>235572</duration>
-            <location>U:\Shared\Music\Calvin%20Harris%20-%20This%20Is%20What%20You%20Came%20For%20(ft.%20Rihanna).mp3</location>
+            <location>U:\Shared\Music\Calvin Harris - This Is What You Came For (ft. Rihanna).mp3</location>
         </track>
         <track>
             <title>Document</title>
             <creator>Carla's Dreams</creator>
             <duration>258377</duration>
-            <location>U:\Shared\Music\CARLAS%20DREAMS%20-%20DOCUMENT.mp3</location>
+            <location>U:\Shared\Music\CARLAS DREAMS - DOCUMENT.mp3</location>
         </track>
         <track>
             <title>Me Encontra</title>
@@ -159,7 +159,7 @@
             <album>Camisa 10 Joga Bola Até Na Chuva</album>
             <duration>207986</duration>
             <trackNum>2</trackNum>
-            <location>U:\Shared\Music\Charlie%20Brown%20Jr.%20-%20(2009)%20Camisa%2010%20joga%20bola%20at%C3%A9%20na%20chuva%20-%20Me%20Encontra.mp3</location>
+            <location>U:\Shared\Music\Charlie Brown Jr. - (2009) Camisa 10 joga bola at%C3%A9 na chuva - Me Encontra.mp3</location>
         </track>
         <track>
             <title>Só Os Loucos Sabem</title>
@@ -167,13 +167,13 @@
             <album>Camisa 10 Joga Bola Até Na Chuva</album>
             <duration>210599</duration>
             <trackNum>3</trackNum>
-            <location>U:\Shared\Music\Charlie%20Brown%20Jr.%20-%20(2009)%20Camisa%2010%20joga%20bola%20at%C3%A9%20na%20chuva%20-%20S%C3%B3%20Os%20Loucos%20Sabem.mp3</location>
+            <location>U:\Shared\Music\Charlie Brown Jr. - (2009) Camisa 10 joga bola at%C3%A9 na chuva - S%C3%B3 Os Loucos Sabem.mp3</location>
         </track>
         <track>
             <title>Feels Like Summer</title>
             <creator>Childish Gambino</creator>
             <duration>285779</duration>
-            <location>U:\Shared\Music\Childish%20Gambino%20-%20Feels%20Like%20Summer%20(Official%20Music%20Video).mp3</location>
+            <location>U:\Shared\Music\Childish Gambino - Feels Like Summer (Official Music Video).mp3</location>
         </track>
         <track>
             <title>Fascination Street (The Cure cover)</title>
@@ -181,13 +181,13 @@
             <album>Reasoning The Impossible</album>
             <duration>292320</duration>
             <trackNum>3</trackNum>
-            <location>U:\Shared\Music\Chimaira%20-%20(2004)%20Reasoning%20The%20Impossible%20-%20Fascination%20Street.mp3</location>
+            <location>U:\Shared\Music\Chimaira - (2004) Reasoning The Impossible - Fascination Street.mp3</location>
         </track>
         <track>
             <title>Eyes Wide Shut</title>
             <creator>ConquerDivide</creator>
             <duration>229929</duration>
-            <location>U:\Shared\Music\Conquer%20Divide%20-%20Eyes%20Wide%20Shut_126294638_soundcloud.mp3</location>
+            <location>U:\Shared\Music\Conquer Divide - Eyes Wide Shut_126294638_soundcloud.mp3</location>
         </track>
         <track>
             <title>Are We All the Same Distance Apart</title>
@@ -195,7 +195,7 @@
             <album>Are We All the Same Distance Apart</album>
             <duration>215588</duration>
             <trackNum>7</trackNum>
-            <location>U:\Shared\Music\Crooks%20-%20(2015)%20Are%20We%20All%20The%20Same%20Distance%20Apart%20-%20Are%20We%20All%20the%20Same%20Distance%20Apart.mp3</location>
+            <location>U:\Shared\Music\Crooks - (2015) Are We All The Same Distance Apart - Are We All the Same Distance Apart.mp3</location>
         </track>
         <track>
             <title>Dear Reader</title>
@@ -203,7 +203,7 @@
             <album>Are We All the Same Distance Apart</album>
             <duration>221413</duration>
             <trackNum>6</trackNum>
-            <location>U:\Shared\Music\Crooks%20-%20(2015)%20Are%20We%20All%20The%20Same%20Distance%20Apart%20-%20Dear%20Reader.mp3</location>
+            <location>U:\Shared\Music\Crooks - (2015) Are We All The Same Distance Apart - Dear Reader.mp3</location>
         </track>
         <track>
             <title>Windy Little Town</title>
@@ -211,82 +211,82 @@
             <album>Are We All the Same Distance Apart</album>
             <duration>161724</duration>
             <trackNum>8</trackNum>
-            <location>U:\Shared\Music\Crooks%20-%20(2015)%20Are%20We%20All%20The%20Same%20Distance%20Apart%20-%20Windy%20Little%20Town.mp3</location>
+            <location>U:\Shared\Music\Crooks - (2015) Are We All The Same Distance Apart - Windy Little Town.mp3</location>
         </track>
         <track>
             <title>Digital Bath</title>
             <creator>Deftones</creator>
             <album>White Pony</album>
             <duration>255477</duration>
-            <location>U:\Shared\Music\Deftones%20-%20(2000)%20White%20Pony%20-%20Digital%20Bath.mp3</location>
+            <location>U:\Shared\Music\Deftones - (2000) White Pony - Digital Bath.mp3</location>
         </track>
         <track>
             <title>Light Your Fire</title>
             <creator>Dellé</creator>
             <duration>235964</duration>
-            <location>U:\Shared\Music\Dell%C3%A9%20(Seeed)%20-%20Light%20Your%20Fire.mp3</location>
+            <location>U:\Shared\Music\Dell%C3%A9 (Seeed) - Light Your Fire.mp3</location>
         </track>
         <track>
             <title>Power Of Love</title>
             <creator>Dellé</creator>
             <duration>240718</duration>
-            <location>U:\Shared\Music\Dell%C3%A9%20-%20Power%20Of%20Love.mp3</location>
+            <location>U:\Shared\Music\Dell%C3%A9 - Power Of Love.mp3</location>
         </track>
         <track>
             <title>Nightland</title>
             <creator>Droid Bishop</creator>
             <duration>356545</duration>
-            <location>U:\Shared\Music\Droid%20Bishop%20-%20Nightland.mp3</location>
+            <location>U:\Shared\Music\Droid Bishop - Nightland.mp3</location>
         </track>
         <track>
             <title>Shape Of You</title>
             <creator>Ed Sheeran</creator>
             <duration>235128</duration>
-            <location>U:\Shared\Music\Ed%20Sheeran%20-%20Shape%20Of%20You.mp3</location>
+            <location>U:\Shared\Music\Ed Sheeran - Shape Of You.mp3</location>
         </track>
         <track>
             <title>Sublimated</title>
             <creator>Ego Kill Talent</creator>
             <album>Still Here</album>
             <duration>203990</duration>
-            <location>U:\Shared\Music\Ego%20Kill%20Talent%20-%20(2015)%20Still%20Here%20-%20Sublimated.mp3</location>
+            <location>U:\Shared\Music\Ego Kill Talent - (2015) Still Here - Sublimated.mp3</location>
         </track>
         <track>
             <title>We All</title>
             <creator>Ego Kill Talent</creator>
             <album>Still Here</album>
             <duration>285387</duration>
-            <location>U:\Shared\Music\Ego%20Kill%20Talent%20-%20(2015)%20Still%20Here%20-%20We%20All.mp3</location>
+            <location>U:\Shared\Music\Ego Kill Talent - (2015) Still Here - We All.mp3</location>
         </track>
         <track>
             <title>BEN ÖLMEDEN ÖNCE</title>
             <creator>FATİH ERDEMCİ</creator>
             <duration>290873</duration>
-            <location>U:\Shared\Music\FAT%C4%B0H%20ERDEMC%C4%B0%20-%20BEN%20%C3%96LMEDEN%20%C3%96NCE.mp3</location>
+            <location>U:\Shared\Music\FAT%C4%B0H ERDEMC%C4%B0 - BEN %C3%96LMEDEN %C3%96NCE.mp3</location>
         </track>
         <track>
             <title>Esperanto feat. Deborah</title>
             <creator>Freundeskreis</creator>
             <duration>239830</duration>
-            <location>U:\Shared\Music\Freundeskreis%20-%20Esperanto%20feat.%20Deborah.mp3</location>
+            <location>U:\Shared\Music\Freundeskreis - Esperanto feat. Deborah.mp3</location>
         </track>
         <track>
             <title>Blueprint</title>
             <creator>Fugazi</creator>
             <duration>233142</duration>
-            <location>U:\Shared\Music\Fugazi%20-%20Blueprint.mp3</location>
+            <location>U:\Shared\Music\Fugazi - Blueprint.mp3</location>
         </track>
         <track>
             <title>Things are changin (Live)</title>
             <creator>Gary Clark Jr.</creator>
             <duration>270994</duration>
-            <location>U:\Shared\Music\Gary%20Clark%20Jr.-%20Things%20are%20changin.mp3</location>
+            <location>U:\Shared\Music\Gary Clark Jr.- Things are changin.mp3</location>
         </track>
         <track>
             <title>Mata Cobra (FUKK 2016)</title>
             <creator>Genetikk</creator>
             <duration>242599</duration>
-            <location>U:\Shared\Music\Genetikk%20-%20Mata%20Cobra.mp3</location>
+            <location>U:\Shared\Music\Genetikk - Mata Cobra.mp3</location>
         </track>
         <track>
             <title>The Cell</title>
@@ -294,13 +294,13 @@
             <album>Magma</album>
             <duration>197982</duration>
             <trackNum>3</trackNum>
-            <location>U:\Shared\Music\Gojira%20-%20(2016)%20Magma%20-%20The%20Cell.mp3</location>
+            <location>U:\Shared\Music\Gojira - (2016) Magma - The Cell.mp3</location>
         </track>
         <track>
             <title>Direction</title>
             <creator>Hugh</creator>
             <duration>400117</duration>
-            <location>U:\Shared\Music\Hugh%20-%20Direction.mp3</location>
+            <location>U:\Shared\Music\Hugh - Direction.mp3</location>
         </track>
         <track>
             <title>FEEL.</title>
@@ -308,7 +308,7 @@
             <album>DAMN.</album>
             <duration>214883</duration>
             <trackNum>5</trackNum>
-            <location>U:\Shared\Music\Kendrick%20Lamar%20-%20(2017)%20DAMN%20-%20FEEL..mp3</location>
+            <location>U:\Shared\Music\Kendrick Lamar - (2017) DAMN - FEEL..mp3</location>
         </track>
         <track>
             <title>Rotting In Vain</title>
@@ -316,25 +316,25 @@
             <album>The Serenity of Suffering</album>
             <duration>213054</duration>
             <trackNum>2</trackNum>
-            <location>U:\Shared\Music\Korn%20-%20(2016)%20The%20Serenity%20of%20Suffering%20-%20Rotting%20In%20Vain.mp3</location>
+            <location>U:\Shared\Music\Korn - (2016) The Serenity of Suffering - Rotting In Vain.mp3</location>
         </track>
         <track>
             <title>The Brightside</title>
             <creator>Lil Peep</creator>
             <duration>216267</duration>
-            <location>U:\Shared\Music\Lil%20Peep%20-%20The%20Brightside.mp3</location>
+            <location>U:\Shared\Music\Lil Peep - The Brightside.mp3</location>
         </track>
         <track>
             <title>Witchblades (ft. Lil Tracy)</title>
             <creator>Lil Peep</creator>
             <duration>162742</duration>
-            <location>U:\Shared\Music\Lil%20Peep%20-%20Witchblades%20(ft.%20Lil%20Tracy).mp3</location>
+            <location>U:\Shared\Music\Lil Peep - Witchblades (ft. Lil Tracy).mp3</location>
         </track>
         <track>
             <title>Betrayed</title>
             <creator>Lil Xan</creator>
             <duration>182648</duration>
-            <location>U:\Shared\Music\Lil%20Xan%20-%20Betrayed.mp3</location>
+            <location>U:\Shared\Music\Lil Xan - Betrayed.mp3</location>
         </track>
         <track>
             <title>Control</title>
@@ -342,7 +342,7 @@
             <album>Truth Is A Beautiful Thing (Deluxe Edition)</album>
             <duration>185312</duration>
             <trackNum>14</trackNum>
-            <location>U:\Shared\Music\London%20Grammar%20-%20(2017)%20Truth%20Is%20a%20Beautiful%20Thing%20(Deluxe)%20-%20Control.mp3</location>
+            <location>U:\Shared\Music\London Grammar - (2017) Truth Is a Beautiful Thing (Deluxe) - Control.mp3</location>
         </track>
         <track>
             <title>Everyone Else</title>
@@ -350,7 +350,7 @@
             <album>Truth Is A Beautiful Thing (Deluxe Edition)</album>
             <duration>245342</duration>
             <trackNum>6</trackNum>
-            <location>U:\Shared\Music\London%20Grammar%20-%20(2017)%20Truth%20Is%20a%20Beautiful%20Thing%20(Deluxe)%20-%20Everyone%20Else.mp3</location>
+            <location>U:\Shared\Music\London Grammar - (2017) Truth Is a Beautiful Thing (Deluxe) - Everyone Else.mp3</location>
         </track>
         <track>
             <title>Leave The War With Me</title>
@@ -358,7 +358,7 @@
             <album>Truth Is A Beautiful Thing (Deluxe Edition)</album>
             <duration>304561</duration>
             <trackNum>10</trackNum>
-            <location>U:\Shared\Music\London%20Grammar%20-%20(2017)%20Truth%20Is%20a%20Beautiful%20Thing%20(Deluxe)%20-%20Leave%20The%20War%20With%20Me.mp3</location>
+            <location>U:\Shared\Music\London Grammar - (2017) Truth Is a Beautiful Thing (Deluxe) - Leave The War With Me.mp3</location>
         </track>
         <track>
             <title>Non Believer</title>
@@ -366,7 +366,7 @@
             <album>Truth Is A Beautiful Thing (Deluxe Edition)</album>
             <duration>257828</duration>
             <trackNum>7</trackNum>
-            <location>U:\Shared\Music\London%20Grammar%20-%20(2017)%20Truth%20Is%20a%20Beautiful%20Thing%20(Deluxe)%20-%20Non%20Believer.mp3</location>
+            <location>U:\Shared\Music\London Grammar - (2017) Truth Is a Beautiful Thing (Deluxe) - Non Believer.mp3</location>
         </track>
         <track>
             <title>Wild Eyed</title>
@@ -374,97 +374,97 @@
             <album>Truth Is A Beautiful Thing (Deluxe Edition)</album>
             <duration>268564</duration>
             <trackNum>3</trackNum>
-            <location>U:\Shared\Music\London%20Grammar%20-%20(2017)%20Truth%20Is%20a%20Beautiful%20Thing%20(Deluxe)%20-%20Wild%20Eyed.mp3</location>
+            <location>U:\Shared\Music\London Grammar - (2017) Truth Is a Beautiful Thing (Deluxe) - Wild Eyed.mp3</location>
         </track>
         <track>
             <title>Dreams</title>
             <creator>Lovers Revenge</creator>
             <duration>172225</duration>
-            <location>U:\Shared\Music\Lovers%20Revenge%20-%20Dreams.mp3</location>
+            <location>U:\Shared\Music\Lovers Revenge - Dreams.mp3</location>
         </track>
         <track>
             <title>Scotty Doesnt Know</title>
             <creator>Lustra</creator>
             <duration>172460</duration>
-            <location>U:\Shared\Music\Lustra%20-%20Scotty%20Doesnt%20Know.mp3</location>
+            <location>U:\Shared\Music\Lustra - Scotty Doesnt Know.mp3</location>
         </track>
         <track>
             <title>3AM</title>
             <creator>Matchbox Twenty</creator>
             <duration>225933</duration>
-            <location>U:\Shared\Music\Matchbox%20Twenty%20-%203AM%20(Video).mp3</location>
+            <location>U:\Shared\Music\Matchbox Twenty - 3AM (Video).mp3</location>
         </track>
         <track>
             <title>Nonsense</title>
             <creator>Meko Supreme</creator>
             <duration>191503</duration>
-            <location>U:\Shared\Music\Meko%20Supreme%20-%20Nonsense.mp3</location>
+            <location>U:\Shared\Music\Meko Supreme - Nonsense.mp3</location>
         </track>
         <track>
             <title>Il Diario Degli Errori</title>
             <creator>Michele Bravi</creator>
             <duration>208483</duration>
-            <location>U:\Shared\Music\Michele%20Bravi%20-%20Il%20Diario%20Degli%20Errori.mp3</location>
+            <location>U:\Shared\Music\Michele Bravi - Il Diario Degli Errori.mp3</location>
         </track>
         <track>
             <title>Coffee</title>
             <creator>Miguel</creator>
             <duration>292284</duration>
-            <location>U:\Shared\Music\Miguel%20-%20Coffee.mp3</location>
+            <location>U:\Shared\Music\Miguel - Coffee.mp3</location>
         </track>
         <track>
             <title>Aloha (feat Merryn Jeann)</title>
             <creator>Møme</creator>
             <duration>218671</duration>
-            <location>U:\Shared\Music\MME%20-%20Aloha%20(feat%20Merryn-Jeann).mp3</location>
+            <location>U:\Shared\Music\MME - Aloha (feat Merryn-Jeann).mp3</location>
         </track>
         <track>
             <title>Karizma</title>
             <creator>Mustafa Sandal</creator>
             <duration>247771</duration>
-            <location>U:\Shared\Music\Mustafa%20Sandal%20-%20Karizma%202009%20HQ%20Yep%20Yeni%20Albmnden.mp3</location>
+            <location>U:\Shared\Music\Mustafa Sandal - Karizma 2009 HQ Yep Yeni Albmnden.mp3</location>
         </track>
         <track>
             <title>Black Beatles (ft. Gucci Mane)</title>
             <creator>Rae Sremmurd</creator>
             <duration>293067</duration>
-            <location>U:\Shared\Music\Rae%20Sremmurd%20-%20Black%20Beatles%20ft.%20Gucci%20Mane.mp3</location>
+            <location>U:\Shared\Music\Rae Sremmurd - Black Beatles ft. Gucci Mane.mp3</location>
         </track>
         <track>
             <title>Znáš ten pocit (ft. Olga Lounová)</title>
             <creator>Revolta</creator>
             <duration>213995</duration>
-            <location>U:\Shared\Music\Revolta%20ft.%20Olga%20Lounov%C3%A1%20-%20Zn%C3%A1%C5%A1%20ten%20pocit.mp3</location>
+            <location>U:\Shared\Music\Revolta ft. Olga Lounov%C3%A1 - Zn%C3%A1%C5%A1 ten pocit.mp3</location>
         </track>
         <track>
             <title>Closing Time</title>
             <creator>Semisonic</creator>
             <duration>240404</duration>
-            <location>U:\Shared\Music\Semisonic%20-%20Closing%20Time.mp3</location>
+            <location>U:\Shared\Music\Semisonic - Closing Time.mp3</location>
         </track>
         <track>
             <title>She Sells Sanctuary HQ (Remastered + Lyrics)</title>
             <creator>The Cult</creator>
             <duration>265665</duration>
-            <location>U:\Shared\Music\The%20Cult%20-%20She%20Sells%20Sanctuary.mp3</location>
+            <location>U:\Shared\Music\The Cult - She Sells Sanctuary.mp3</location>
         </track>
         <track>
             <title>Boys Dont Cry (1979)</title>
             <creator>The Cure</creator>
             <duration>157335</duration>
-            <location>U:\Shared\Music\The%20Cure%20-%20(1979)%20-%20Boys%20Dont%20Cry.mp3</location>
+            <location>U:\Shared\Music\The Cure - (1979) - Boys Dont Cry.mp3</location>
         </track>
         <track>
             <title>Shy (feat Brayton Bowman)</title>
             <creator>The Magician</creator>
             <duration>203990</duration>
-            <location>U:\Shared\Music\The%20Magician%20-%20Shy%20(feat%20Brayton%20Bowman).mp3</location>
+            <location>U:\Shared\Music\The Magician - Shy (feat Brayton Bowman).mp3</location>
         </track>
         <track>
             <title>Starboy (ft Daft Punk)</title>
             <creator>The Weeknd</creator>
             <duration>247536</duration>
-            <location>U:\Shared\Music\The%20Weeknd%20-%20Starboy%20(ft%20Daft%20Punk).mp3</location>
+            <location>U:\Shared\Music\The Weeknd - Starboy (ft Daft Punk).mp3</location>
         </track>
         <track>
             <title>Something New</title>
@@ -472,7 +472,7 @@
             <album>Dream Machine</album>
             <duration>321959</duration>
             <trackNum>1</trackNum>
-            <location>U:\Shared\Music\Tokio%20Hotel%20-%20(2017)%20Dream%20Machine%20-%20Something%20New.mp3</location>
+            <location>U:\Shared\Music\Tokio Hotel - (2017) Dream Machine - Something New.mp3</location>
         </track>
         <track>
             <title>What If</title>
@@ -480,26 +480,26 @@
             <album>Dream Machine</album>
             <duration>212140</duration>
             <trackNum>4</trackNum>
-            <location>U:\Shared\Music\Tokio%20Hotel%20-%20(2017)%20Dream%20Machine%20-%20What%20If.mp3</location>
+            <location>U:\Shared\Music\Tokio Hotel - (2017) Dream Machine - What If.mp3</location>
         </track>
         <track>
             <title>Where is Billy</title>
             <creator>Tom Kaulitz</creator>
             <duration>254589</duration>
-            <location>U:\Shared\Music\Tom%20Kaulitz%20-%20Where%20is%20Billy.mp3</location>
+            <location>U:\Shared\Music\Tom Kaulitz - Where is Billy.mp3</location>
         </track>
         <track>
             <title>One hand killing</title>
             <creator>Twelve Foot Ninja</creator>
             <duration>408163</duration>
-            <location>U:\Shared\Music\Twelve%20Foot%20Ninja%20-%202015%20-%20One%20hand%20killing.mp3</location>
+            <location>U:\Shared\Music\Twelve Foot Ninja - 2015 - One hand killing.mp3</location>
         </track>
         <track>
             <title>End Transmission</title>
             <creator>Fire From Gods</creator>
             <album>Narrative</album>
             <duration>220107</duration>
-            <location>U:\Shared\Music\Fire%20From%20Gods%20-%20(2016)%20Narrative%20-%20End%20Transmission.mp3</location>
+            <location>U:\Shared\Music\Fire From Gods - (2016) Narrative - End Transmission.mp3</location>
         </track>
         <track>
             <title>Summer Love</title>
@@ -507,47 +507,47 @@
             <album>Trevor Something Does Not Exist</album>
             <duration>222876</duration>
             <trackNum>4</trackNum>
-            <location>U:\Shared\Music\Trevor%20Something%20-%20(2014)%20Trevor%20Something%20Does%20Not%20Exist%20-%2004%20Summer%20Love.mp3</location>
+            <location>U:\Shared\Music\Trevor Something - (2014) Trevor Something Does Not Exist - 04 Summer Love.mp3</location>
         </track>
         <track>
             <title>Time</title>
             <creator>Bassti</creator>
             <album>Chillhop</album>
             <duration>95208</duration>
-            <location>U:\Shared\Music\Bassti%20-%20(2017)%20Chillhop%20-%20Time.mp3</location>
+            <location>U:\Shared\Music\Bassti - (2017) Chillhop - Time.mp3</location>
         </track>
         <track>
             <title>Error 404</title>
             <creator>Lofi Geek</creator>
             <duration>162720</duration>
-            <location>U:\Shared\Music\Lofi%20Greek%20-%20Error%20404.mp3</location>
+            <location>U:\Shared\Music\Lofi Greek - Error 404.mp3</location>
         </track>
         <track>
             <title>Gucci Gang</title>
             <creator>Lil Pump</creator>
             <duration>124080</duration>
-            <location>U:\Shared\Music\Lil%20Pump%20-%20(2017)%20Gucci%20Gang.mp3</location>
+            <location>U:\Shared\Music\Lil Pump - (2017) Gucci Gang.mp3</location>
         </track>
         <track>
             <title>Azul do Mar</title>
             <creator>SOW</creator>
             <album>O Selo</album>
             <duration>267546</duration>
-            <location>U:\Shared\Music\SOW%20-%20(2017)%20O%20Selo%20-%205.mp3</location>
+            <location>U:\Shared\Music\SOW - (2017) O Selo - 5.mp3</location>
         </track>
         <track>
             <title>Caçador</title>
             <creator>SOW</creator>
             <album>O Selo</album>
             <duration>260493</duration>
-            <location>U:\Shared\Music\SOW%20-%20(2017)%20O%20Selo%20-%201.mp3</location>
+            <location>U:\Shared\Music\SOW - (2017) O Selo - 1.mp3</location>
         </track>
         <track>
             <title>Dizes</title>
             <creator>SOW</creator>
             <album>O Selo</album>
             <duration>258272</duration>
-            <location>U:\Shared\Music\SOW%20-%20(2017)%20O%20Selo%20-%203.mp3</location>
+            <location>U:\Shared\Music\SOW - (2017) O Selo - 3.mp3</location>
         </track>
         <track>
             <title>Ken Tavr</title>
@@ -555,7 +555,7 @@
             <album>Confession</album>
             <duration>307957</duration>
             <trackNum>8</trackNum>
-            <location>U:\Shared\Music\Ishome%20-%20(2013)%20Confession%20-%2008%20Ken%20Tavr.mp3</location>
+            <location>U:\Shared\Music\Ishome - (2013) Confession - 08 Ken Tavr.mp3</location>
         </track>
     </trackList>
 </playlist>

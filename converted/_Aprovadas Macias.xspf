@@ -1,67 +1,67 @@
-<?xml version="1.0" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <playlist xmlns="http://xspf.org/ns/0/" version="1">
     <trackList>
         <track>
             <title>Base LoFi para a canção Cheia De Manias (JDutra)</title>
             <creator>Raça Negra</creator>
             <duration>173087</duration>
-            <location>U:\Shared\Music\Ra%C3%A7a%20Negra%20-%20Cheia%20de%20Manias%20(lofi%20remix%20by%20Jo%C3%A3o%20Dutra%20-%20jdutra%20-%20no%20voices).mp3</location>
+            <location>U:\Shared\Music\Ra%C3%A7a Negra - Cheia de Manias (lofi remix by Jo%C3%A3o Dutra - jdutra - no voices).mp3</location>
         </track>
         <track>
             <title>Iridescent</title>
             <creator>Forhill</creator>
             <album>2021</album>
             <duration>193697</duration>
-            <location>U:\Shared\Music\Forhill%20-%202021%20-%20Iridescent.mp3</location>
+            <location>U:\Shared\Music\Forhill - 2021 - Iridescent.mp3</location>
         </track>
         <track>
             <title>Going South</title>
             <creator>Blumen</creator>
             <album>La Hague EP</album>
             <duration>150230</duration>
-            <location>U:\Shared\Music\Blumen%20-%20(2020)%20La%20Hague%20-%20Going%20South.mp3</location>
+            <location>U:\Shared\Music\Blumen - (2020) La Hague - Going South.mp3</location>
         </track>
         <track>
             <title>Tides</title>
             <creator>Dontcry &amp; Nokiaa</creator>
             <album>Odyssey</album>
             <duration>128235</duration>
-            <location>U:\Shared\Music\Dontcry%20&amp;%20Nokiaa%20-%20(2020)%20odyssey%20-%20Tides.mp3</location>
+            <location>U:\Shared\Music\Dontcry &amp; Nokiaa - (2020) odyssey - Tides.mp3</location>
         </track>
         <track>
             <title>sing</title>
             <creator>Kudo</creator>
             <album>Staring Through</album>
             <duration>128496</duration>
-            <location>U:\Shared\Music\Kudo%20-%20(2020)%20Staring%20Through%20-%206-sing.mp3</location>
+            <location>U:\Shared\Music\Kudo - (2020) Staring Through - 6-sing.mp3</location>
         </track>
         <track>
             <title>station (master)</title>
             <creator>Kudo</creator>
             <album>Staring Through</album>
             <duration>135053</duration>
-            <location>U:\Shared\Music\Kudo%20-%20(2020)%20Staring%20Through%20-%204-station%20(master).mp3</location>
+            <location>U:\Shared\Music\Kudo - (2020) Staring Through - 4-station (master).mp3</location>
         </track>
         <track>
             <title>First Light</title>
             <creator>dryhope</creator>
             <album>Contrasts </album>
             <duration>123350</duration>
-            <location>U:\Shared\Music\dryhope%20-%20(2020)%20Contrasts%20-%20First_Light.mp3</location>
+            <location>U:\Shared\Music\dryhope - (2020) Contrasts - First_Light.mp3</location>
         </track>
         <track>
             <title>Contrasts</title>
             <creator>dryhope</creator>
             <album>Contrasts </album>
             <duration>161933</duration>
-            <location>U:\Shared\Music\dryhope%20-%20(2020)%20Contrasts%20-%20Contrasts.mp3</location>
+            <location>U:\Shared\Music\dryhope - (2020) Contrasts - Contrasts.mp3</location>
         </track>
         <track>
             <title>somewhere else (Kupla Master)</title>
             <creator>dryhope</creator>
             <album>3 AM Study Session</album>
             <duration>155898</duration>
-            <location>U:\Shared\Music\ChilledCow%20Records%20-%20(2020)%203%20am%20study%20session%20-%20dryhope%20-%20somewhere%20else%20(Kupla%20Master).mp3</location>
+            <location>U:\Shared\Music\ChilledCow Records - (2020) 3 am study session - dryhope - somewhere else (Kupla Master).mp3</location>
         </track>
         <track>
             <title>Homeland</title>
@@ -69,48 +69,48 @@
             <album>Homeland</album>
             <duration>127294</duration>
             <trackNum>6</trackNum>
-            <location>U:\Shared\Music\L'Outlander%20-%20(2021)%20Homeland%20-%206.Homeland.mp3</location>
+            <location>U:\Shared\Music\L'Outlander - (2021) Homeland - 6.Homeland.mp3</location>
         </track>
         <track>
             <title>Mull Over (feat Eaup)</title>
             <creator>Kaspa.</creator>
             <album>The story</album>
             <duration>150909</duration>
-            <location>U:\Shared\Music\Kaspa%20-%20(2021)%20The%20story%20-%20Mull%20Over.mp3</location>
+            <location>U:\Shared\Music\Kaspa - (2021) The story - Mull Over.mp3</location>
         </track>
         <track>
             <title>Shadowed days (feat Towerz and edelwize)</title>
             <creator>hi jude</creator>
             <duration>168720</duration>
-            <location>U:\Shared\Music\hi%20jude%20-%20Shadowed%20days%20(feat%20Towerz%20and%20edelwize).mp3</location>
+            <location>U:\Shared\Music\hi jude - Shadowed days (feat Towerz and edelwize).mp3</location>
         </track>
         <track>
             <title>Butterfly Nebula (feat. Baen Mow)</title>
             <creator>BluntOne</creator>
             <album>A Day in the Life</album>
             <duration>115408</duration>
-            <location>U:\Shared\Music\BluntOne%20-%20(2022)%20A%20Day%20in%20the%20Life%20-%20Butterfly%20Nebula%20(feat.%20Baen%20Mow).mp3</location>
+            <location>U:\Shared\Music\BluntOne - (2022) A Day in the Life - Butterfly Nebula (feat. Baen Mow).mp3</location>
         </track>
         <track>
             <title>Motions</title>
             <creator>Tibeauthetraveler</creator>
             <album>Motions</album>
             <duration>121547</duration>
-            <location>U:\Shared\Music\Tibeauthetraveler%20-%20(2021)%20Motions%20-%20Motions.mp3</location>
+            <location>U:\Shared\Music\Tibeauthetraveler - (2021) Motions - Motions.mp3</location>
         </track>
         <track>
             <title>Invisible Medicine (feat Enluv)</title>
             <creator>Squeeda</creator>
             <album>Lost World</album>
             <duration>174602</duration>
-            <location>U:\Shared\Music\Squeeda%20-%20(2021)%20Lost%20World%20-%20Invisible%20Medicine%20(feat%20Enluv).mp3</location>
+            <location>U:\Shared\Music\Squeeda - (2021) Lost World - Invisible Medicine (feat Enluv).mp3</location>
         </track>
         <track>
             <title>No Secrets</title>
             <creator>dryhope</creator>
             <album>Kenopsia</album>
             <duration>115226</duration>
-            <location>U:\Shared\Music\Dryhope%20-%20(2020)%20Kenopsia%20-%20No%20Secrets.mp3</location>
+            <location>U:\Shared\Music\Dryhope - (2020) Kenopsia - No Secrets.mp3</location>
         </track>
     </trackList>
 </playlist>
