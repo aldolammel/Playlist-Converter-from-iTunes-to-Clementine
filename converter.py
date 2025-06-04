@@ -10,23 +10,27 @@ import xml.dom.minidom as minidom
 import os
 import sys
 
-def validate_path(path, path_name):
-    """Validates if the path ends with separator"""
-    if path.endswith('/') or path.endswith('\\'):
-        print(f"Error: {path_name} cannot end with '/' or '\\'. Please remove the trailing separator.")
-        sys.exit(1)
-    return path
-
 # CUSTOMIZE YOUR PATH HERE:
 MY_WINDOWS_MUSIC_FOLDER = "U:\Shared\Music"  # The main folder where is all your music files.
 MY_LINUX_MUSIC_FOLDER = "/home/aldolammel/Music"  # same logic above but using "/" instead of "\".
 
+# DEFINE HERE:
+PATH_MUST_BE_USED_NOW = MY_WINDOWS_MUSIC_FOLDER  # Define which system path you wanna use!
+
+# App core below - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+def validate_path(path, path_name):
+    """Validates if the path ends with separator"""
+    if path.endswith('/') or path.endswith('\\'):
+        print(
+            f"Error: {path_name} cannot end with '/' or '\\'. Please remove the trailing separator."
+        )
+        sys.exit(1)
+    return path
+
 # Validate paths before using them
 MY_WINDOWS_MUSIC_FOLDER = validate_path(MY_WINDOWS_MUSIC_FOLDER, "MY_WINDOWS_MUSIC_FOLDER")
 MY_LINUX_MUSIC_FOLDER = validate_path(MY_LINUX_MUSIC_FOLDER, "MY_LINUX_MUSIC_FOLDER")
-
-# DEFINE HERE:
-PATH_MUST_BE_USED_NOW = MY_WINDOWS_MUSIC_FOLDER  # Define which system path you want to set!
 
 def read_itunes_xml(file_path):
     """Reads iTunes XML and returns tracks data"""
@@ -92,8 +96,13 @@ def create_xspf_playlist(tracks):
                     filename = os.path.basename(original_path)
                     # Create new path with custom prefix using os.path.join
                     new_path = os.path.join(PATH_MUST_BE_USED_NOW, filename)
-                    # Convert to forward slashes for XSPF format
-                    new_path = new_path.replace(os.path.sep, '/')
+                    
+                    # Use appropriate path separator based on the chosen path
+                    if PATH_MUST_BE_USED_NOW == MY_WINDOWS_MUSIC_FOLDER:
+                        new_path = new_path.replace('/', '\\')  # Ensure Windows backslashes
+                    else:
+                        new_path = new_path.replace('\\', '/')  # Ensure Unix forward slashes
+                        
                     elem.text = new_path
                 else:
                     elem.text = track_data[itunes_key]
