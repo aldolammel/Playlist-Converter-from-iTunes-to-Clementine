@@ -9,13 +9,14 @@ from pathlib import Path
 import xml.dom.minidom as minidom
 import os
 import sys
+import urllib.parse
 
 # CUSTOMIZE YOUR PATH HERE:
 MY_WINDOWS_MUSIC_FOLDER = "U:\Shared\Music"  # The main folder where is all your music files.
 MY_LINUX_MUSIC_FOLDER = "/home/aldolammel/Music"  # same logic above but using "/" instead of "\".
 
-# DEFINE HERE:
-PATH_MUST_BE_USED_NOW = MY_WINDOWS_MUSIC_FOLDER  # Define which system path you wanna use!
+# DEFINE YOUR CURRENT SYSTEM HERE:
+PATH_MUST_BE_USED_NOW = MY_WINDOWS_MUSIC_FOLDER  # Call which system (variables above) you wanna use!
 
 # App core below - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
@@ -94,8 +95,8 @@ def create_xspf_playlist(tracks):
                     # Extract just the filename from the full path
                     original_path = track_data[itunes_key].replace('file://localhost', '')
                     
-                    # Replace URL-encoded spaces with actual spaces
-                    original_path = original_path.replace('%20', ' ')
+                    # Decode URL-encoded characters (including %20 spaces and special characters)
+                    original_path = urllib.parse.unquote(original_path)
                     
                     filename = os.path.basename(original_path)
                     # Create new path with custom prefix using os.path.join
@@ -151,7 +152,7 @@ def main():
             with open(output_path, 'wb') as f:
                 f.write(formatted_xml.encode('utf-8'))
             
-            print(f"Converted {file} to {output_path}")
+            print(f"Converted {file} ....... Exported version here: {output_path}")
 
 if __name__ == "__main__":
     main()
