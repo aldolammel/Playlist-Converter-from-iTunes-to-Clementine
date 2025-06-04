@@ -13,11 +13,14 @@ import sys
 import urllib.parse
 
 # CUSTOMIZE YOUR PATH HERE:
-MY_WINDOWS_MUSIC_FOLDER = "U:\Shared\Music"  # The main folder where is all your music files.
-MY_LINUX_MUSIC_FOLDER = "/home/aldolammel/Music"  # same logic above but using "/" instead of "\".
+# The main folder where is all your music files (keep that "r" prefix):
+MY_WINDOWS_MUSIC_FOLDER = r"U:\Shared\Music"
+# For Linux: similar logic above but using "/" instead of "\" and with NO "r" in the beggining:
+MY_LINUX_MUSIC_FOLDER = "/home/aldolammel/Music"
 
 # DEFINE YOUR CURRENT SYSTEM HERE:
-PATH_MUST_BE_USED_NOW = MY_WINDOWS_MUSIC_FOLDER  # Call which system (variables above) you wanna use!
+# Call which system (variables above) you wanna use:
+PATH_MUST_BE_USED_NOW = MY_WINDOWS_MUSIC_FOLDER
 
 # App core below - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
@@ -25,7 +28,7 @@ def validate_path(path, path_name):
     """Validates if the path ends with separator"""
     if path.endswith('/') or path.endswith('\\'):
         print(
-            f"Error: {path_name} cannot end with '/' or '\\'. Please remove the trailing separator."
+            f">> ERROR: {path_name} cannot end with '/' or '\\'. Please remove the trailing separator."
         )
         sys.exit(1)
     return path
