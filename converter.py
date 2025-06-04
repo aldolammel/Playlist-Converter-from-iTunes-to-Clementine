@@ -11,8 +11,8 @@ import os
 import sys
 
 # CUSTOMIZE YOUR PATH HERE:
-MY_WINDOWS_MUSIC_FOLDER = "U:\Shared\Music"  # The main folder where is all your music files.
-MY_LINUX_MUSIC_FOLDER = "/home/aldolammel/Music"  # same logic above but using "/" instead of "\".
+MY_WINDOWS_MUSIC_FOLDER = r"U:\Shared\Music"  # Using raw string for Windows path
+MY_LINUX_MUSIC_FOLDER = "/home/aldolammel/Music"  # Linux path remains the same
 
 # DEFINE HERE:
 PATH_MUST_BE_USED_NOW = MY_WINDOWS_MUSIC_FOLDER  # Define which system path you wanna use!
@@ -110,17 +110,28 @@ def create_xspf_playlist(tracks):
     return root
 
 def format_xml(element):
-    """Format XML with proper indentation"""
-    # Use utf-8-sig encoding to handle BOM properly
-    rough_string = ET.tostring(element, encoding='utf-8-sig')
-    reparsed = minidom.parseString(rough_string)
-    formatted_xml = reparsed.toprettyxml(indent="    ", encoding='utf-8-sig')
+    """Format XML with proper indentation and encoding"""
+    # Convert to string with unicode encoding first
+    rough_string = ET.tostring(element, encoding='unicode', method='xml')
     
-    # Force XML declaration
-    xml_declaration = '<?xml version="1.0" encoding="UTF-8"?>\n'
-    formatted_xml = xml_declaration + formatted_xml.decode('utf-8-sig').split('\n', 1)[1]
-    
-    return formatted_xml
+    try:
+        # Parse and format with proper indentation
+        reparsed = minidom.parseString(rough_string)
+        formatted_xml = reparsed.toprettyxml(indent="    ")
+        
+        # Clean up empty lines and extra whitespace
+        lines = [line for line in formatted_xml.split('\n') if line.strip()]
+        formatted_xml = '\n'.join(lines)
+        
+        # Ensure proper XML declaration
+        if not formatted_xml.startswith('<?xml'):
+            formatted_xml = '<?xml version="1.0" encoding="UTF-8"?>\n' + formatted_xml
+            
+        return formatted_xml
+        
+    except Exception as e:
+        print(f"Error formatting XML: {e}")
+        return None
 
 def main():
     input_folder = "to_convert"
@@ -141,14 +152,16 @@ def main():
             
             # Format and write the output file
             formatted_xml = format_xml(playlist)
-            # Normalize line endings to LF and remove any extra whitespace
-            formatted_xml = formatted_xml.replace('\r\n', '\n').strip()
-            
-            # Write file in binary mode to preserve line endings
-            with open(output_path, 'wb') as f:
-                f.write(formatted_xml.encode('utf-8-sig'))
-            
-            print(f"Converted {file} to {output_path}")
+            if formatted_xml is not None:
+                try:
+                    # Write file in text mode with explicit UTF-8 encoding
+                    with open(output_path, 'w', encoding='utf-8', newline='\n') as f:
+                        f.write(formatted_xml)
+                    print(f"Converted {file} to {output_path}")
+                except Exception as e:
+                    print(f"Error writing file {output_path}: {e}")
+            else:
+                print(f"Failed to convert {file}")
 
 if __name__ == "__main__":
     main()
